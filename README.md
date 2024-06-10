@@ -39,8 +39,8 @@ Navigate inside the main repository directory and execute the following command:
    git pull
    ```
 ## For Students
-1. **Read the Course Materials**: Start with [Course_Syllabus.md](/Development-Training_Name/4-Implement/POI-Course_Name/Course_Syllabus.md).
-2. **Review the Course Schedule**: Familiarize yourself with the course schedule in [Course_Schedule.md](/Development-Training_Name/4-Implement/POI-Course_Name/Course_Schedule.md).
+1. **Read the Course Materials**: Start with [Course_Syllabus.md](/Development-Training_Name/4-Implement/TE-Counter_Malign_Information/Course_Syllabus.md).
+2. **Review the Course Schedule**: Familiarize yourself with the course schedule in [Course_Schedule.md](/Development-Training_Name/4-Implement/TE-Counter_Malign_Information/Course_Schedule.md).
 3. **Complete the Coursework**: Work through the course materials, including lesson plans, audio-visual content, and practical exercises.
 ## For Developers
 1. **Read the Developer Guide**: Start with [Developer Guide.md](/Development-Training_Name/Developer%20Guide.md).
@@ -54,12 +54,12 @@ Navigate inside the main repository directory and execute the following command:
 1. **Read the Developer Guide**: Start with [Developer Guide.md](/Development-Training_Name/Developer%20Guide.md) to understand the development process.
 2. **Review the Course Materials**:
    - Find the lesson plans and audio-visual content in the `4-Implement` directory.
-   - Set up the training area according to the provided instructions in [Environment_Setup.md](/Development-Training_Name/4-Implement/POI-Course_Name/Classroom_Setup/Environment_Setup.md).
+   - Set up the training area according to the provided instructions in [Environment_Setup.md](/Development-Training_Name/4-Implement/TE-Counter_Malign_Information/Classroom_Setup/Environment_Setup.md).
    - Use the course syllabus and evaluation materials to guide the training process.
    - Example starting points:
-     - [Course_Syllabus-POI-NAME.md](/Development-Training_Name/4-Implement/POI-Course_Name/Course_Syllabus-POI-NAME.md)
-     - [Instructor_Evaluation](/Development-Training_Name/4-Implement/POI-Course_Name/Evaluation/Instructor_Evaluation)
-     - [Training_Evaulation_and_Outlines_(TE&O).md](/Development-Training_Name/4-Implement/POI-Course_Name/Evaluation/Training_Evaulation_and_Outlines_(TE&O).md)
+     - [Course_Syllabus-POI-NAME.md](/Development-Training_Name/4-Implement/TE-Counter_Malign_Information/Course_Syllabus-POI-NAME.md)
+     - [Instructor_Evaluation](/Development-Training_Name/4-Implement/TE-Counter_Malign_Information/Evaluation/Instructor_Evaluation)
+     - [Training_Evaulation_and_Outlines_(TE&O).md](/Development-Training_Name/4-Implement/TE-Counter_Malign_Information/Evaluation/Training_Evaulation_and_Outlines_(TE&O).md)
 
 ### ELM
 Training is designed primarily based on the Experiential Learning Model (ELM), taught at SWCS Course Faculty Course, and is a private sector standard.
