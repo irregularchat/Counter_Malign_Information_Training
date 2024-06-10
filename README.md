@@ -1,6 +1,7 @@
-# Instructional Design Template
+# Instructional Design - Counter Malign Information Technical Exchange
 
-This template is designed to assist in the development of training materials for the United States Army. The structure is based on the Experiential Learning Model (ELM) and the TRADOC Pamphlets for Course Development.
+## Technical Exchange Description
+This repository contains the instructional design for the Counter Malign Information Technical Exchange. The technical exchange is designed to provide a forum for the exchange of information and ideas between a unit and partner nations. The technical exchange will focus on the development of identification of malign information strategies and tactics and the exchange of counter malign adversarial information. The technical exchange will include presentations, discussions, and practical exercises to develop the knowledge and skills of participants in countering malign information.
 
 To learn more about using git and markdown for unit training, see the [Enhancing Unit Training with Git and Markdown](Git-For_Unit_Training.md) document.
 
