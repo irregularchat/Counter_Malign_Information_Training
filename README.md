@@ -39,27 +39,27 @@ Navigate inside the main repository directory and execute the following command:
    git pull
    ```
 ## For Students
-1. **Read the Course Materials**: Start with [Course_Syllabus.md](/Development-Training_Name/4-Implement/TE-Counter_Malign_Information/Course_Syllabus.md).
-2. **Review the Course Schedule**: Familiarize yourself with the course schedule in [Course_Schedule.md](/Development-Training_Name/4-Implement/TE-Counter_Malign_Information/Course_Schedule.md).
+1. **Read the Course Materials**: Start with [Course_Syllabus.md](/Counter_Malign_Information/4-Implement/TE-Counter_Malign_Information/Course_Syllabus.md).
+2. **Review the Course Schedule**: Familiarize yourself with the course schedule in [Course_Schedule.md](/Counter_Malign_Information/4-Implement/TE-Counter_Malign_Information/Course_Schedule.md).
 3. **Complete the Coursework**: Work through the course materials, including lesson plans, audio-visual content, and practical exercises.
 ## For Developers
-1. **Read the Developer Guide**: Start with [Developer Guide.md](/Development-Training_Name/Developer%20Guide.md).
-2. **Review the Developer Workbook**: Familiarize yourself with [Developer_Workbook.xlsx](/Development-Training_Name/Developer_Workbook.xlsx).
-3. **Start with Analysis**: Begin by defining the problem statement in [1.Problem Statement.md](/Development-Training_Name/1-Analysis/1.ProblemStatement.md).
+1. **Read the Developer Guide**: Start with [Developer Guide.md](/Counter_Malign_Information/Developer%20Guide.md).
+2. **Review the Developer Workbook**: Familiarize yourself with [Developer_Workbook.xlsx](/Counter_Malign_Information/Developer_Workbook.xlsx).
+3. **Start with Analysis**: Begin by defining the problem statement in [1.Problem Statement.md](/Counter_Malign_Information/1-Analysis/1.ProblemStatement.md).
 4. **Follow the Development Process**:
-   - Complete the DOTMLPF analysis in [2.DOTMLPF.md](/Development-Training_Name/1-Analysis/2-Task_Analysis/2.DOTMLPF.md).
+   - Complete the DOTMLPF analysis in [2.DOTMLPF.md](/Counter_Malign_Information/1-Analysis/2-Task_Analysis/2.DOTMLPF.md).
    - Continue through task analysis, individual task analysis, DIF, ITA, SKM, performance measures, and TAP.
 
 ## For Instructors
-1. **Read the Developer Guide**: Start with [Developer Guide.md](/Development-Training_Name/Developer%20Guide.md) to understand the development process.
+1. **Read the Developer Guide**: Start with [Developer Guide.md](/Counter_Malign_Information/Developer%20Guide.md) to understand the development process.
 2. **Review the Course Materials**:
    - Find the lesson plans and audio-visual content in the `4-Implement` directory.
-   - Set up the training area according to the provided instructions in [Environment_Setup.md](/Development-Training_Name/4-Implement/TE-Counter_Malign_Information/Classroom_Setup/Environment_Setup.md).
+   - Set up the training area according to the provided instructions in [Environment_Setup.md](/Counter_Malign_Information/4-Implement/TE-Counter_Malign_Information/Classroom_Setup/Environment_Setup.md).
    - Use the course syllabus and evaluation materials to guide the training process.
    - Example starting points:
-     - [Course_Syllabus-POI-NAME.md](/Development-Training_Name/4-Implement/TE-Counter_Malign_Information/Course_Syllabus-POI-NAME.md)
-     - [Instructor_Evaluation](/Development-Training_Name/4-Implement/TE-Counter_Malign_Information/Evaluation/Instructor_Evaluation)
-     - [Training_Evaulation_and_Outlines_(TE&O).md](/Development-Training_Name/4-Implement/TE-Counter_Malign_Information/Evaluation/Training_Evaulation_and_Outlines_(TE&O).md)
+     - [Course_Syllabus-POI-NAME.md](/Counter_Malign_Information/4-Implement/TE-Counter_Malign_Information/Course_Syllabus-POI-NAME.md)
+     - [Instructor_Evaluation](/Counter_Malign_Information/4-Implement/TE-Counter_Malign_Information/Evaluation/Instructor_Evaluation)
+     - [Training_Evaulation_and_Outlines_(TE&O).md](/Counter_Malign_Information/4-Implement/TE-Counter_Malign_Information/Evaluation/Training_Evaulation_and_Outlines_(TE&O).md)
 
 ### ELM
 Training is designed primarily based on the Experiential Learning Model (ELM), taught at SWCS Course Faculty Course, and is a private sector standard.
@@ -87,9 +87,9 @@ NOTE is used when an instructor is supposed to perform an action or deliver inst
 
 ### Links
 Pages, Directories, and Files can be linked directly or using relative path formatting. Adding an "!" will embed the page when using obsidian.
-![Linked Item Name](/Development-Training_Name/)
+![Linked Item Name](/Counter_Malign_Information/)
 or 
-[Linked Item Name](/Development-Training_Name/)
+[Linked Item Name](/Counter_Malign_Information/)
 
 
 ### Paraphrasing
