@@ -16,7 +16,7 @@
 #### Day 1
 | Time         | Activity                                         |
 |--------------|--------------------------------------------------|
-| Start        | Course Start                                     |
+| Start        | Event Start                                     |
 | T+1          | Break                                            |
 | T+1:50       | Identify Misinformation and Disinformation (Part 1)|
 | T+2:40       | Break                                            |
