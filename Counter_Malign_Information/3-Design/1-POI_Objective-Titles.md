@@ -1,7 +1,7 @@
 | Ordered | Objective Title                   | EST Total Min | Mode of Delivery          | Day |
 | ------- | --------------------------------- | ------------- | ------------------------- | --- |
-| 0       | Course Start                      | 50            | Instruction (Resident)    | 1   |
-| 1       | Identifying Misinformation and Disinformation | 130           | Guest Instructor          | 1   |
+| 0       | Event Start                      | 50            | Instruction (Resident)    | 1   |
+| 1       | Identifying Misinformation and Disinformation | 130           | Instruction Instructor          | 1   |
 | 2       | Countering Misinformation and Disinformation | 180           | Exchange (Partner)    | 1   |
 | 3       | Identifying Rival Influence       | 130           | Instruction (Resident)    | 2   |
 | 4       | Mitigating Rival Influence        | 180           | Exchange (Partner)    | 2   |
