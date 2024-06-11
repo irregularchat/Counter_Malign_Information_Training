@@ -11,7 +11,7 @@
 | END     | Closing                           | 20            | -                         | 4   |
 | END     | TOTAL TIME                        | 750           | 15.0                      | -   |
 
-### Class Schedule
+###  Schedule
 
 #### Day 1
 | Time         | Activity                                         |
