@@ -61,7 +61,7 @@ Successfully counter identified misinformation and disinformation, ensuring the 
 | ---- | --------- | ----------------------------- |
 | 100  | Develop   | Strategies for Implementation |
 
-1. _Have students to develop a counter strategy for a given scenario._ (20 minutes)
+1. _Have students develop a counter strategy for a given scenario and present it to the class._ (20 minutes)
 2. _Have students present their developed counter strategy to the class._ (30 minutes)
 3. _Have students develop a counter strategy for a given scenario and present it to the class._ (20 minutes)
 4. _Have students present their developed counter strategy to the class._ (30 minutes)
