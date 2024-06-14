@@ -60,6 +60,11 @@ Navigate inside the main repository directory and execute the following command:
      - [Course_Syllabus-POI-NAME.md](/Counter_Malign_Information/4-Implement/TE-Counter_Malign_Information/Course_Syllabus-POI-NAME.md)
      - [Instructor_Evaluation](/Counter_Malign_Information/4-Implement/TE-Counter_Malign_Information/Evaluation/Instructor_Evaluation)
      - [Training_Evaulation_and_Outlines_(TE&O).md](/Counter_Malign_Information/4-Implement/TE-Counter_Malign_Information/Evaluation/Training_Evaulation_and_Outlines_(TE&O).md)
+     - Advanced Organizers
+	     - [Identify_misinformation-Advanced_Organizer](/Counter_Malign_Information/4-Implement/TE-Countner_Malign_Information/Lesson_Plans/Lesson_01-Identify_Misinformation/Lesson_Plan-Identify_Misinformation/Identify_misinformation-Advanced_Organizer.pdf)
+	     - [Counter-misinformation-disinformation-Advanced_Organizer](Counter_Malign_Information/4-Implement/TE-Countner_Malign_Information/Lesson_Plans/Lesson_02-Countering_Misinformation/Lesson_Plan-Counter-misinformation-disinformation/Counter-misinformation-disinformation-Advanced_Organizer.pdf)
+	     - [Identify_influence-Advanced_Organizer](Counter_Malign_Information/4-Implement/TE-Countner_Malign_Information/Lesson_Plans/Lesson_03-Identify_Influence/Lesson_Plan-Template/Identify_influence-Advanced_Organizer.pdf)
+	     - 
 
 ### ELM
 Training is designed primarily based on the Experiential Learning Model (ELM), taught at SWCS Course Faculty Course, and is a private sector standard.
