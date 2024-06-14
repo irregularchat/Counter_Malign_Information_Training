@@ -47,11 +47,11 @@
 
 | Time | ELM Phase                  | Comment                       |
 | ---- | -------------------------- | ----------------------------- |
-| 25   | Generalize New Information | Developing Counter Strategies |
+| 25   | Generalize New Information | Developing Counter Influence Strategies |
 
-1. Define the desired end state of the counter strategy. (5 minutes)
-2. Explain the importance of countering misinformation and disinformation. (5 minutes)
-3. _Discuss the techniques and strategies for countering misinformation and disinformation._ (15 minutes)
+1. Define the desired end state of the counter influence strategy. (5 minutes)
+2. Explain the importance of countering rival influence campaigns. (5 minutes)
+3. _Discuss the Goals of Influence Campaigns to counter._ (15 minutes)
 
 ################BREAK################
 
