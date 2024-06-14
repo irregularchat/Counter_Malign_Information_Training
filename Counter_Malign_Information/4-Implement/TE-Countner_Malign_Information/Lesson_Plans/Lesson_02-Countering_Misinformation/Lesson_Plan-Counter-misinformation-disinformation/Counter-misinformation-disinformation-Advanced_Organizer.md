@@ -51,32 +51,31 @@ Successfully counter identified misinformation and disinformation, ensuring the 
 
 | Time | ELM Phase            | Comment                       |
 | ---- | -------------------- | ----------------------------- |
-| 40   | Generalize New Information | Developing Counter Strategies |
+| 25   | Generalize New Information | Developing Counter Strategies |
 |      |                      |                               |
-1. _Go over the visual graphic on different counter strategy frameworks._ (10 minutes)
-2. _Compare and contrast the effectiveness of various counter strategies._ (10 minutes)
-3. _Introduce the strategic communication principles and their importance (Pherson and Heuer, 2021)._ (10 minutes)
-4. _Demonstrate how to develop and implement a counter strategy._ (10 minutes)
+1. Define the desired end state of the counter strategy. (5 minutes)
+2. Explain the importance of countering misinformation and disinformation. (5 minutes)
+3. _Discuss the techniques and strategies for countering misinformation and disinformation._ (15 minutes)
+| Time | ELM Phase            | Comment                       |
+| ---- | -------------------- | ----------------------------- |
+| 100   | Develop              | Strategies for Implementation |
+|      |                      |                               |
+1. _Have students to develop a counter strategy for a given scenario._ (20 minutes)
+2. _Have students present their developed counter strategy to the class._ (30 minutes)
+3. _Have students develop a counter strategy for a given scenario and present it to the class._ (20 minutes)
+4. _Have students present their developed counter strategy to the class._ (30 minutes)
 
 | Time | ELM Phase            | Comment                       |
 | ---- | -------------------- | ----------------------------- |
-| 30   | Develop              | Strategies for Implementation |
+| 10   | Apply                | Practical Exercise            |
 |      |                      |                               |
-1. _Ask students how they will apply these techniques in their roles._ (10 minutes)
-2. _Have students develop a counter strategy for a given scenario and present it to the class._ (20 minutes)
+1. _Ask students to implement their developed counter strategy using the techniques learned and present their findings to the class._ (15 minutes)
+2. _Rapdid fire questions to the students about their strategy and how they would react to different scenarios._ (5 minutes)
 
 | Time | ELM Phase            | Comment                       |
 | ---- | -------------------- | ----------------------------- |
-| 40   | Apply                | Practical Exercise            |
+| 10   | Check On Learning    | Summary and Feedback          |
 |      |                      |                               |
-1. _Ask students to implement their developed counter strategy using the techniques learned and present their findings to the class._ (20 minutes)
-2. _Use monitoring tools to evaluate the effectiveness of their counter strategies._ (20 minutes)
-
-| Time | ELM Phase            | Comment                       |
-| ---- | -------------------- | ----------------------------- |
-| 30   | Check On Learning    | Summary and Feedback          |
-|      |                      |                               |
-1. _Provide feedback on the practical exercise._ (10 minutes)
-2. _Summarize the key points of the lesson._ (10 minutes)
-3. _Answer any remaining questions from students._ (5 minutes)
-4. _Discuss any embedded assumptions or critical gaps exposed during the analysis._ (5 minutes)
+1. _Ask Check on Learning questions to the students._ (5 minutes)
+2. _Summarize the key points of the lesson._ (2 minutes)
+3. _Provide feedback on the practical exercise._ (3 minutes)
