@@ -10,11 +10,12 @@ Successfully counter identified misinformation and disinformation, ensuring the 
 ---
 
 ## Quick Information
-| Title                       | Comment                                     |
-| --------------------------- | ------------------------------------------- |
-| Intended Audience           | Officials working in the information environment |
-| Learning Domain             | Cognitive                                   |
+| Title                       | Comment                                                                                           |
+| --------------------------- | ------------------------------------------------------------------------------------------------- |
+| Intended Audience           | Officials working in the information environment                                                  |
+| Learning Domain             | Cognitive                                                                                         |
 | Training Resources Required | Computer, internet access, strategic planning tools, communication platforms, monitoring software |
+| Total Duration              | 180                                                                                               |
 
 ---
 # Performance Steps
@@ -30,9 +31,14 @@ Successfully counter identified misinformation and disinformation, ensuring the 
 | ---- | -------------------- | ----------------------------- |
 | 15   | Concrete Experience  | Countering Misinformation     |
 |      |                      |                               |
-1. _Present students with a simulated social media crisis scenario where misinformation is spreading rapidly._ (5 minutes)
-2. _Ask students to work in small groups to develop an immediate response plan to counter the misinformation._ (5 minutes)
-3. _After 5 minutes, have each group present their response plan and discuss the challenges they faced._ (5 minutes)
+1. _Present students with a simulated scenario where a rumor is spreading rapidly._ (10 minutes)
+2. Steps: 
+	1. Instruct 2 students to leave the room. Outside of the room the students will be given instruction to spread misinformation about a specific topic.
+	2. Instruct 1 student remaining in the room about the accurate information and ask them to remain in the room and not leave.
+	2. The remaining students will be asked about their day and other small talk to create a relaxed environment.
+	3. The 3 students will return to the room and begin spreading the misinformation they were given trying to get people to rush out of the room.
+	4. Students that leave the room will be caught by an assistant instructor and asked to return to the room to discuss what they experienced.
+3. _Ask students _ (5 minutes)
 
 | Time | ELM Phase           | Comment                          |
 | ---- | ------------------- | -------------------------------- |
