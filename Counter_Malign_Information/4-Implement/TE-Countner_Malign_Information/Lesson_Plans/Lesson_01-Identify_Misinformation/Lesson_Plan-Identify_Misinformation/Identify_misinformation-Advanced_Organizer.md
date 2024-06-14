@@ -15,7 +15,7 @@ Accurately identify misinformation and disinformation, ensuring that at least 95
 | Intended Audience           | Officials working in the information environment                                                                           |
 | Learning Domain             | Cognitive                                                                                                                  |
 | Training Resources Required | Computer, internet access, information databases, analytical software, reporting templates, deception detection checklists |
-| Total Duration              | 130 mins (45,break,45,break,40)                                                                                            |
+| Total Duration              | 130 mins (70,break,50,break,10)                                                                                            |
 
 ---
 # Performance Steps
@@ -45,7 +45,7 @@ Accurately identify misinformation and disinformation, ensuring that at least 95
 
 | Time | ELM Phase                  | Comment                      |
 | ---- | -------------------------- | ---------------------------- |
-| 45   | Generalize New Information | Identifying Reliable Sources |
+| 50   | Generalize New Information | Identifying Reliable Sources |
 |      |                            |                              |
 1. Terms covered: Misinformation, Disinformation, Reliable Sources, Unreliable Sources, Verification Tools, Deception Detection Techniques (5 minutes)
 2. _Go over the visual graphic on identifying reliable vs unreliable sources._ (10 minutes)
@@ -69,10 +69,10 @@ Accurately identify misinformation and disinformation, ensuring that at least 95
 2. _Use Deception Detection checklists to analyze a case study and identify potential misinformation._ (20 minutes)
 ################BREAK################
 
-| Time | ELM Phase            | Comment                       |
-| ---- | -------------------- | ----------------------------- |
-| 30   | Check On Learning    | Summary and Feedback          |
-|      |                      |                               |
+| Time | ELM Phase         | Comment              |
+| ---- | ----------------- | -------------------- |
+| 10   | Check On Learning | Summary and Feedback |
+|      |                   |                      |
 1. _Provide feedback on the practical exercise._ (10 minutes)
 2. _Summarize the key points of the lesson._ (10 minutes)
 3. _Answer any remaining questions from students._ (5 minutes)
