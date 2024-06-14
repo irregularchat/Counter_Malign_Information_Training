@@ -1,10 +1,11 @@
-# Learning Objective
-### **Action:** Identify misinformation and disinformation effectively.
+# Identify Misinformation
+## Learning Objective
+ **Action:** Identify misinformation and disinformation effectively.
 
-### **Conditions:** 
+ **Conditions:** 
 Given an environment that allows the students to engage one another and the cadre openly, handouts, research capabilities, and tools for deception detection analysis.
 
-### **Standards:** 
+ **Standards:** 
 Accurately identify misinformation and disinformation, ensuring that at least 95% of assessments are correct and report findings to the relevant authorities. Apply structured analytic techniques to detect potential deception.
 
 ---

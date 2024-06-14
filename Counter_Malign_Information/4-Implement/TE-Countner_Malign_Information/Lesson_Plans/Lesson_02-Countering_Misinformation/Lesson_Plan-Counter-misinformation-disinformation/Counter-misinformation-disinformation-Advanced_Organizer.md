@@ -1,11 +1,12 @@
-# Learning Objective
-### **Action:** Counter misinformation and disinformation effectively.
-This is an exchange and will divert from typical ELM steps and instruction to allow for students to exchange their experiences and expertise of their environment by developing and implementing counter strategies.
-### **Conditions:** 
-Given an environment that allows the students to engage one another and the cadre openly, handouts, research capabilities, and tools for strategic communication.
+# Counter Misinformation &  Disinformation
 
-### **Standards:** 
-Successfully counter identified misinformation and disinformation, ensuring the dissemination of accurate information and reducing the spread of false information by 80%.
+## Learning Objective
+**Action:** Counter misinformation and disinformation effectively.
+This is an exchange and will divert from typical ELM steps and instruction to allow for students to exchange their experiences and expertise of their environment by developing and implementing counter strategies.
+ 
+ **Conditions:**  Given an environment that allows the students to engage one another and the cadre openly, handouts, research capabilities, and tools for strategic communication.
+
+ **Standards:**  Successfully counter identified misinformation and disinformation, ensuring the dissemination of accurate information and reducing the spread of false information by 80%.
 
 ---
 
