@@ -15,7 +15,7 @@ Accurately identify misinformation and disinformation, ensuring that at least 95
 | Intended Audience           | Officials working in the information environment                                                                           |
 | Learning Domain             | Cognitive                                                                                                                  |
 | Training Resources Required | Computer, internet access, information databases, analytical software, reporting templates, deception detection checklists |
-| Total Duration              |                                                                                                                            |
+| Total Duration              | 130 mins (45,break,45,break,40)                                                                                            |
 
 ---
 # Performance Steps
@@ -52,6 +52,7 @@ Accurately identify misinformation and disinformation, ensuring that at least 95
 3. _Compare and contrast the characteristics of reliable information sources vs misinformation sources._ (10 minutes)
 4. _Introduce Deception Detection techniques and their importance (Beebe and Pherson, 2015)._ (10 minutes)
 5. _Demonstrate how to use verification tools to authenticate information._ (10 minutes)
+################BREAK################
 
 | Time | ELM Phase            | Comment                       |
 | ---- | -------------------- | ----------------------------- |
@@ -66,6 +67,7 @@ Accurately identify misinformation and disinformation, ensuring that at least 95
 |      |           |                    |
 1. _Ask students to verify a given piece of information using the techniques learned and present their findings to the class._ (20 minutes)
 2. _Use Deception Detection checklists to analyze a case study and identify potential misinformation._ (20 minutes)
+################BREAK################
 
 | Time | ELM Phase            | Comment                       |
 | ---- | -------------------- | ----------------------------- |
