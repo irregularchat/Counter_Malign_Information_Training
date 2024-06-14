@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Counter_Malign_Information/3-Design/1-POI_Objective-Titles.md",
+                "file": "Counter_Malign_Information/3-Design/1-Counter_Malign_Information-Learning_Objectives.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dfd865b040e48295",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Counter_Malign_Information/3-Design/2-Counter_Malign_Information-Schedule.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Counter_Malign_Information/3-Design/1-POI_Objective-Titles.md",
+                "file": "Counter_Malign_Information/3-Design/2-Counter_Malign_Information-Schedule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Counter_Malign_Information/3-Design/1-POI_Objective-Titles.md",
+                "file": "Counter_Malign_Information/3-Design/2-Counter_Malign_Information-Schedule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Counter_Malign_Information/3-Design/1-POI_Objective-Titles.md"
+                "file": "Counter_Malign_Information/3-Design/2-Counter_Malign_Information-Schedule.md"
               }
             }
           }
@@ -146,8 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9d6e6f8de77afefc",
+  "active": "dfd865b040e48295",
   "lastOpenFiles": [
+    "Counter_Malign_Information/3-Design/1-Counter_Malign_Information-Learning_Objectives.md",
+    "Counter_Malign_Information/3-Design/2-Counter_Malign_Information-Schedule.md",
+    "conflict-files-obsidian-git.md",
     "Git-For_Unit_Training.md"
   ]
 }
