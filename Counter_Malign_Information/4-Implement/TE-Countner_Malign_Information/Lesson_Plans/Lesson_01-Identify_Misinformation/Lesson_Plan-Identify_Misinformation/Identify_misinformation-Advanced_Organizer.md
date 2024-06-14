@@ -10,11 +10,12 @@ Accurately identify misinformation and disinformation, ensuring that at least 95
 ---
 
 ## Quick Information
-| Title                       | Comment                                     |
-| --------------------------- | ------------------------------------------- |
-| Intended Audience           | Officials working in the information environment |
-| Learning Domain             | Cognitive                                   |
+| Title                       | Comment                                                                                                                    |
+| --------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| Intended Audience           | Officials working in the information environment                                                                           |
+| Learning Domain             | Cognitive                                                                                                                  |
 | Training Resources Required | Computer, internet access, information databases, analytical software, reporting templates, deception detection checklists |
+| Total Duration              |                                                                                                                            |
 
 ---
 # Performance Steps
@@ -32,25 +33,25 @@ Accurately identify misinformation and disinformation, ensuring that at least 95
 | 15   | Concrete Experience  | Identifying Misinformation    |
 |      |                      |                               |
 1. _Write down two statements on the whiteboard, both of which are lies, but one is more egregious than the other._ (5 minutes)
-2. _Ask students to identify which statement they believe is true and explain why._ (10 minutes)
+2. _Ask students to identify which statement they believe is true and explain why._ _Ask students “What was challenging about determining if the statements on the whiteboard were true or false?”_ (10 minutes)
 
-| Time | ELM Phase            | Comment                       |
-| ---- | -------------------- | ----------------------------- |
-| 30   | Publish and Process  | Discussion on Information Sources |
-|      |                      |                               |
-1. _Ask students “What was challenging about determining if the statements on the whiteboard were true or false?”_ (10 minutes)
-2. _Introduce the learning objectives._ (10 minutes)
-3. _Discuss the importance of Deception Detection in identifying misinformation._ (5 minutes)
-4. _Ask students to share examples of misinformation from their countries._ (5 minutes)
+| Time | ELM Phase           | Comment                           |
+| ---- | ------------------- | --------------------------------- |
+| 5    | Publish and Process | Discussion on Information Sources |
+|      |                     |                                   |
+1.  Transition from Concrete Experience to Publish and Process(1 minute)
+2. _Introduce the learning objectives._ (3 minutes)
+3. Plainly let the student know "By the end of this lesson you will be able to identify misinformation and disinformation effectively." (1 minute)
 
-| Time | ELM Phase            | Comment                       |
-| ---- | -------------------- | ----------------------------- |
-| 40   | Generalize New Information | Identifying Reliable Sources |
-|      |                      |                               |
-1. _Go over the visual graphic on identifying reliable vs unreliable sources._ (10 minutes)
-2. _Compare and contrast the characteristics of reliable information sources vs misinformation sources._ (10 minutes)
-3. _Introduce Deception Detection techniques and their importance (Beebe and Pherson, 2015)._ (10 minutes)
-4. _Demonstrate how to use verification tools to authenticate information._ (10 minutes)
+| Time | ELM Phase                  | Comment                      |
+| ---- | -------------------------- | ---------------------------- |
+| 45   | Generalize New Information | Identifying Reliable Sources |
+|      |                            |                              |
+1. Terms covered: Misinformation, Disinformation, Reliable Sources, Unreliable Sources, Verification Tools, Deception Detection Techniques (5 minutes)
+2. _Go over the visual graphic on identifying reliable vs unreliable sources._ (10 minutes)
+3. _Compare and contrast the characteristics of reliable information sources vs misinformation sources._ (10 minutes)
+4. _Introduce Deception Detection techniques and their importance (Beebe and Pherson, 2015)._ (10 minutes)
+5. _Demonstrate how to use verification tools to authenticate information._ (10 minutes)
 
 | Time | ELM Phase            | Comment                       |
 | ---- | -------------------- | ----------------------------- |
@@ -59,10 +60,10 @@ Accurately identify misinformation and disinformation, ensuring that at least 95
 1. _Ask students how they will apply these techniques in their roles._ (10 minutes)
 2. _Have students survey sources of information in their country and assess their reliability._ (20 minutes)
 
-| Time | ELM Phase            | Comment                       |
-| ---- | -------------------- | ----------------------------- |
-| 40   | Apply                | Practical Exercise            |
-|      |                      |                               |
+| Time | ELM Phase | Comment            |
+| ---- | --------- | ------------------ |
+| 20   | Apply     | Practical Exercise |
+|      |           |                    |
 1. _Ask students to verify a given piece of information using the techniques learned and present their findings to the class._ (20 minutes)
 2. _Use Deception Detection checklists to analyze a case study and identify potential misinformation._ (20 minutes)
 

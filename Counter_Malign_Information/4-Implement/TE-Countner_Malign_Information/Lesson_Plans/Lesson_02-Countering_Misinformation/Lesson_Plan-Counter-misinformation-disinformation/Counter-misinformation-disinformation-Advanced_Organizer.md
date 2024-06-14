@@ -34,10 +34,10 @@ Successfully counter identified misinformation and disinformation, ensuring the 
 2. _Ask students to work in small groups to develop an immediate response plan to counter the misinformation._ (5 minutes)
 3. _After 5 minutes, have each group present their response plan and discuss the challenges they faced._ (5 minutes)
 
-| Time | ELM Phase            | Comment                       |
-| ---- | -------------------- | ----------------------------- |
-| 30   | Publish and Process  | Discussion on Counter Strategies |
-|      |                      |                               |
+| Time | ELM Phase           | Comment                          |
+| ---- | ------------------- | -------------------------------- |
+| 5    | Publish and Process | Discussion on Counter Strategies |
+|      |                     |                                  |
 1. _Ask students “What strategies did you consider most effective in countering the misinformation?”_ (10 minutes)
 2. _Introduce the learning objectives._ (10 minutes)
 3. _Discuss the importance of rapid and accurate responses to misinformation._ (5 minutes)
