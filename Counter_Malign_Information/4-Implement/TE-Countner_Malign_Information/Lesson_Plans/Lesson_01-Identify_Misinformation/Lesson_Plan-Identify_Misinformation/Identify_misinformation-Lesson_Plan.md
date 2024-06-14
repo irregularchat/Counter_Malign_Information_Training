@@ -25,7 +25,7 @@ Developer Point of Contact: first.last@email.tld
 ---
 ### SCOPE OF LESSON
  
-This 3-hour lesson is an introductory level orientation to identifying misinformation and disinformation. The **end state** of this lesson **is for officials working in the information environment to accurately identify misinformation and disinformation. The** author's intent **is that participants learn principles and procedures for identifying misinformation and apply structured analytic techniques to detect potential deception. This lesson reinforces the character attributes of accountability and responsibility.**
+This 3-hour lesson is an introductory level orientation to identifying misinformation and disinformation. The **end state** of this lesson **is for officials working in the information environment to accurately identify misinformation and disinformation. The** author's intent **is that participants learn principles and procedures for identifying misinformation and apply structured analytic techniques (SATs) to detect potential deception. This lesson reinforces the character attributes of accountability and responsibility.**
 
 ### Learning Objectives
 ### Terminal Learning Objective (TLO): 

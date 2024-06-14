@@ -48,10 +48,11 @@ Accurately identify misinformation and disinformation, ensuring that at least 95
 | 50   | Generalize New Information | Identifying Reliable Sources |
 |      |                            |                              |
 1. Terms covered: Misinformation, Disinformation, Reliable Sources, Unreliable Sources, Verification Tools, Deception Detection Techniques (5 minutes)
-2. _Go over the visual graphic on identifying reliable vs unreliable sources._ (10 minutes)
-3. _Compare and contrast the characteristics of reliable information sources vs misinformation sources._ (10 minutes)
-4. _Introduce Deception Detection techniques and their importance (Beebe and Pherson, 2015)._ (10 minutes)
-5. _Demonstrate how to use verification tools to authenticate information._ (10 minutes)
+3. _Compare and contrast the characteristics of reliable information sources vs misinformation sources._ (5 minutes)
+4. Discuss the process of cross-verify information with trusted sources (10 minutes)
+5. Introduce steps for discovering inconsistencies in information (10 minutes)
+6. _Introduce Deception Detection techniques and their importance (Beebe and Pherson, 2015)._ (10 minutes)
+7. _Demonstrate how to use verification tools to authenticate information._ (10 minutes)
 ################BREAK################
 
 | Time | ELM Phase            | Comment                       |
