@@ -1,4 +1,4 @@
-# Counter Rival Influence 
+# Mitigate Rival Influence 
 ## Learning Objective
 **Action:** Mitigate rival influence effectively.
  
