@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Counter_Malign_Information/4-Implement/TE-Countner_Malign_Information/Lesson_Plans/Lesson_02-Countering_Misinformation/Lesson_Plan-Counter-misinformation-disinformation/Counter-misinformation-disinformation-Advanced_Organizer.md",
+                "file": "Counter_Malign_Information/4-Implement/TE-Countner_Malign_Information/Lesson_Plans/Lesson_05-Creating_AI_Content/Lesson_Plan-Template/Generating_AI_Content-Advanced_Organizer.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Counter_Malign_Information/4-Implement/TE-Countner_Malign_Information/Lesson_Plans/Lesson_02-Countering_Misinformation/Lesson_Plan-Counter-misinformation-disinformation/Counter-misinformation-disinformation-Advanced_Organizer.md",
+                "file": "Counter_Malign_Information/4-Implement/TE-Countner_Malign_Information/Lesson_Plans/Lesson_05-Creating_AI_Content/Lesson_Plan-Template/Generating_AI_Content-Advanced_Organizer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Counter_Malign_Information/4-Implement/TE-Countner_Malign_Information/Lesson_Plans/Lesson_02-Countering_Misinformation/Lesson_Plan-Counter-misinformation-disinformation/Counter-misinformation-disinformation-Advanced_Organizer.md",
+                "file": "Counter_Malign_Information/4-Implement/TE-Countner_Malign_Information/Lesson_Plans/Lesson_05-Creating_AI_Content/Lesson_Plan-Template/Generating_AI_Content-Advanced_Organizer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Counter_Malign_Information/4-Implement/TE-Countner_Malign_Information/Lesson_Plans/Lesson_02-Countering_Misinformation/Lesson_Plan-Counter-misinformation-disinformation/Counter-misinformation-disinformation-Advanced_Organizer.md"
+                "file": "Counter_Malign_Information/4-Implement/TE-Countner_Malign_Information/Lesson_Plans/Lesson_05-Creating_AI_Content/Lesson_Plan-Template/Generating_AI_Content-Advanced_Organizer.md"
               }
             }
           }
@@ -162,6 +162,10 @@
   },
   "active": "dfd865b040e48295",
   "lastOpenFiles": [
+    "Counter_Malign_Information/4-Implement/TE-Countner_Malign_Information/Lesson_Plans/Lesson_05-Creating_AI_Content/Lesson_Plan-Template/Generating_AI_Content-Lesson_Plan.md",
+    "Counter_Malign_Information/4-Implement/TE-Countner_Malign_Information/Lesson_Plans/Lesson_05-Creating_AI_Content/Lesson_Plan-Template/Generating_AI_Content-Advanced_Organizer.md",
+    "Counter_Malign_Information/3-Design/2-Counter_Malign_Information-Schedule.md",
+    "Counter_Malign_Information/4-Implement/TE-Countner_Malign_Information/Lesson_Plans/Lesson_02-Countering_Misinformation/Lesson_Plan-Counter-misinformation-disinformation/Counter-misinformation-disinformation-Advanced_Organizer.md",
     "Counter_Malign_Information/4-Implement/TE-Countner_Malign_Information/Lesson_Plans/Lesson_02-Countering_Misinformation/Lesson_Plan-Counter-misinformation-disinformation/Counter-misinformation-disinformation-Advanced_Organizer.pdf",
     "Counter_Malign_Information/4-Implement/TE-Countner_Malign_Information/Lesson_Plans/Lesson_01-Identify_Misinformation/Lesson_Plan-Identify_Misinformation/Identify_misinformation-Advanced_Organizer.pdf",
     "Counter_Malign_Information/4-Implement/TE-Countner_Malign_Information/Lesson_Plans/Lesson_01-Identify_Misinformation/Lesson_Plan-Identify_Misinformation/Identify_misinformation-Advanced_Organizer.md",
@@ -169,12 +173,10 @@
     "Counter_Malign_Information/4-Implement/TE-Countner_Malign_Information/Lesson_Plans/Lesson_04-Mitigate_Influence/Lesson_Plan-Mitigate_Influence/Mitigate_Rival_Influence-Advanced_Organizer.pdf",
     "Counter_Malign_Information/4-Implement/TE-Countner_Malign_Information/Lesson_Plans/Lesson_04-Mitigate_Influence/Lesson_Plan-Mitigate_Influence/Mitigate_Rival_Influence-Lesson_Plan.md",
     "README.md",
-    "Counter_Malign_Information/3-Design/2-Counter_Malign_Information-Schedule.md",
     "Counter_Malign_Information/4-Implement/TE-Countner_Malign_Information/Lesson_Plans/Lesson_03-Identify_Influence/Lesson_Plan-Template/Identify_influence-Advanced_Organizer.md",
     "Counter_Malign_Information/4-Implement/TE-Countner_Malign_Information/Lesson_Plans/Lesson_03-Identify_Influence/Lesson_Plan-Template/Identify_influence-Advanced_Organizer.pdf",
     "Counter_Malign_Information/3-Design/1-Counter_Malign_Information-Learning_Objectives.md",
     "Counter_Malign_Information/4-Implement/TE-Countner_Malign_Information/Lesson_Plans/Lesson_01-Identify_Misinformation/Lesson_Plan-Identify_Misinformation/Identify_misinformation-Lesson_Plan.md",
-    "Counter_Malign_Information/4-Implement/TE-Countner_Malign_Information/Lesson_Plans/Lesson_02-Countering_Misinformation/Lesson_Plan-Counter-misinformation-disinformation/Counter-misinformation-disinformation-Advanced_Organizer.md",
     "Counter_Malign_Information/4-Implement/TE-Countner_Malign_Information/Lesson_Plans/Lesson_02-Countering_Misinformation/Lesson_Plan-Counter-misinformation-disinformation/Counter-misinformation-disinformation-Lesson_Plan.md",
     "conflict-files-obsidian-git.md",
     "Git-For_Unit_Training.md"

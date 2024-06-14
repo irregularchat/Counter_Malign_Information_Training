@@ -12,11 +12,13 @@ Successfully create AI-generated content that meets specified quality standards 
 ---
 
 ## Quick Information
-| Title                       | Comment                                     |
-| --------------------------- | ------------------------------------------- |
-| Intended Audience           | Government employees                        |
-| Learning Domain             | Cognitive                                   |
+| Title                       | Comment                                                                           |
+| --------------------------- | --------------------------------------------------------------------------------- |
+| Intended Audience           | Government employees                                                              |
+| Learning Domain             | Cognitive                                                                         |
 | Training Resources Required | Computer, internet access, AI content generation tools, example prompts, handouts |
+| Total Duration              | 40                                                                                |
+
 
 ---
 
@@ -35,17 +37,18 @@ Successfully create AI-generated content that meets specified quality standards 
 | ---- | -------------------- | ----------------------------- |
 | 4 min | Concrete Experience  | Generating AI Content         |
 |      |                      |                               |
-1. **Activity**: Have one student come to the front and receive a vague note from the class on what to generate using AI.
-2. **Challenge**: Student attempts to generate content based on the vague prompt, likely experiencing frustration due to lack of specificity.
+1. **Attention Grabber**. Start by introducing an exciting or intriguing idea related to AI content generation. The number of companies using AI for example or the amount of money in AI for marketing. 
+   
+   This attention grabber should make it clear how much marketing and business values the use of AI. 
 
 | Time | ELM Phase            | Comment                       |
 | ---- | -------------------- | ----------------------------- |
 | 4 min | Publish and Process  | Discussion on AI Content Generation |
 |      |                      |                               |
-1. **Question**: Ask the student, “What was challenging about generating content with the given instructions?”
-2. **Introduction**: Introduce the learning objectives.
-3. **Discussion**: Discuss the importance of clear and specific prompts when generating AI content.
-4. **Sharing**: Ask students to share their experiences with AI tools, if any.
+
+1. **Introduction**: Introduce the learning objectives.
+2. _Plainly let the student know "By the end of this lesson you will know where to keep up to date with the latest AI enabled content and be able to generate content using AI tools effectively."_
+
 
 | Time | ELM Phase            | Comment                       |
 | ---- | -------------------- | ----------------------------- |
