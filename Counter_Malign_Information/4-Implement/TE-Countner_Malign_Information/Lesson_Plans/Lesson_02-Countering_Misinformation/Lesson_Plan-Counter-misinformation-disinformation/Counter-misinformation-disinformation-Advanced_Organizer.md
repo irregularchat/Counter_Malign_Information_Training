@@ -1,6 +1,6 @@
 # Learning Objective
 ### **Action:** Counter misinformation and disinformation effectively.
-
+This is an exchange and will divert from typical ELM steps and instruction to allow for students to exchange their experiences and expertise of their environment by developing and implementing counter strategies.
 ### **Conditions:** 
 Given an environment that allows the students to engage one another and the cadre openly, handouts, research capabilities, and tools for strategic communication.
 
@@ -38,16 +38,16 @@ Successfully counter identified misinformation and disinformation, ensuring the 
 	2. The remaining students will be asked about their day and other small talk to create a relaxed environment.
 	3. The 3 students will return to the room and begin spreading the misinformation they were given trying to get people to rush out of the room.
 	4. Students that leave the room will be caught by an assistant instructor and asked to return to the room to discuss what they experienced.
-3. _Ask students _ (5 minutes)
+3. _Ask students "What did you observe in the scenario?"_ (5 minutes) 
 
 | Time | ELM Phase           | Comment                          |
 | ---- | ------------------- | -------------------------------- |
 | 5    | Publish and Process | Discussion on Counter Strategies |
 |      |                     |                                  |
-1. _Ask students “What strategies did you consider most effective in countering the misinformation?”_ (10 minutes)
-2. _Introduce the learning objectives._ (10 minutes)
-3. _Discuss the importance of rapid and accurate responses to misinformation._ (5 minutes)
-4. _Ask students to share examples of counter strategies used in their countries._ (5 minutes)
+
+1. _Introduce the learning objectives._ (3 minutes)
+2. Tell the students "By the end of this lesson you will have developed tactics to counter misinformation and disinformation effectively." (2 minutes)
+
 
 | Time | ELM Phase            | Comment                       |
 | ---- | -------------------- | ----------------------------- |
