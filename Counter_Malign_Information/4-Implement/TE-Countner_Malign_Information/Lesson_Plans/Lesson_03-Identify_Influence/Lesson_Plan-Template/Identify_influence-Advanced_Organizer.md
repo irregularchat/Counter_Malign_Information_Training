@@ -1,4 +1,5 @@
-# Learning Objective
+# Identify Rival Influence
+## Learning Objective
  **Action:** Identify rival influence effectively.
 
  **Conditions:** Given an environment that allows the students to engage one another and the cadre openly, handouts, research capabilities, and tools for analyzing rival influence activities.
