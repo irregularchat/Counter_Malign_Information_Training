@@ -59,10 +59,10 @@
 | ---- | --------- | ----------------------------- |
 | 100  | Develop   | Strategies for Implementation |
 
-1. _Have students develop a counter strategy for a given scenario and present it to the class._ (20 minutes)
+1. _Have students develop a counter influence strategy for a given scenario._ (20 minutes)
 2. _Have students present their developed counter strategy to the class._ (30 minutes)
 ################BREAK################
-3. _Have students develop a counter strategy for a given scenario and present it to the class._ (20 minutes)
+3. _Have students develop a counter influence strategy for a given scenario._ (20 minutes)
 4. _Have students present their developed counter strategy to the class._ (30 minutes)
 
 ################BREAK################
@@ -71,7 +71,7 @@
 | ---- | --------- | ------------------ |
 | 10   | Apply     | Practical Exercise |
 
-1. _Ask students to implement their developed counter strategy using the techniques learned and present their findings to the class._ (15 minutes)
+1. _Ask students to implement their developed counter influence strategy using the techniques learned and present their findings to the class._ (15 minutes)
 2. _Rapdid fire questions to the students about their strategy and how they would react to different scenarios._ (5 minutes)
 
 | Time | ELM Phase         | Comment              |
