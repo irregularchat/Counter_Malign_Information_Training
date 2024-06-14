@@ -29,36 +29,31 @@ This 3-hour lesson is an introductory level orientation to identifying misinform
 
 ### Learning Objectives
 ### Terminal Learning Objective (TLO): 
-```text
-Action: Identify misinformation and disinformation
-Condition: Given an environment that allows the students to engage one another and the cadre openly, handouts, research capabilities, and tools for deception detection analysis.
-Standard: Accurately identify misinformation and disinformation, ensuring that at least 95% of assessments are correct and report findings to the relevant authorities. Apply structured analytic techniques to detect potential deception.
-```
+> Action: Identify misinformation and disinformation
+> Condition: Given an environment that allows the students to engage one another and the cadre openly, handouts, research capabilities, and tools for deception detection analysis.
+> Standard: Accurately identify misinformation and disinformation, ensuring that at least 95% of assessments are correct and report findings to the relevant authorities. Apply structured analytic techniques to detect potential deception.
+
 ---
 ### Enabling Learning Objective (ELO) _or_ Learning Step Activity (LSA):
- ```text
-Action: Assess the source of information
-Condition: Given various information sources
-Standard: Verify authorship and publication credibility
-```
+ > Action: Assess the source of information
+> Condition: Given various information sources
+> Standard: Verify authorship and publication credibility
+
 ### Enabling Learning Objective (ELO) _or_ Learning Step Activity( LSA):
-```text
-Action: Analyze content for bias and inconsistencies
-Condition: Given various information sources
-Standard: Identify bias indicators and logical fallacies
-```
+> Action: Analyze content for bias and inconsistencies
+> Condition: Given various information sources
+> Standard: Identify bias indicators and logical fallacies
+
 ### Enabling Learning Objective (ELO) _or_ Learning Step Activity( LSA):
-```text
-Action: Cross-verify information with trusted sources
-Condition: Given various information sources
-Standard: Find corroborative evidence from multiple reliable sources
-```
+> Action: Cross-verify information with trusted sources
+> Condition: Given various information sources
+> Standard: Find corroborative evidence from multiple reliable sources
+
 ### Enabling Learning Objective (ELO) _or_ Learning Step Activity (LSA):
-```text
-Action: Apply deception detection techniques
-Condition: Given various information sources
-Standard: Use structured analytic techniques to detect potential deception
-```
+> Action: Apply deception detection techniques
+> Condition: Given various information sources
+> Standard: Use structured analytic techniques to detect potential deception
+
 ---
 
 ### References
@@ -109,8 +104,8 @@ An instructor must
 | Computer, Keyboard, Mouse        | 1:1           | 1:2              | 1 per student | no         |
 | Slides                           |               |                  | 1 set    | no         |
 | Projector                        |               |                  | 1        | no         |
-| Verification tools               | 1:1           | 1:2              | 1 per student | no         |
-| Handouts                         |               |                  | 1 set per student | yes        |
+| Printed SATs Handout               | 1:1           | 1:2              | 1 per student | no         |
+| Misinformation Handouts                         |               |                  | 1 set per student | yes        |
 
 ---
 ### Pre-Requisite Tasks
