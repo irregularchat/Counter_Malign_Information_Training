@@ -1,4 +1,3 @@
-
 | Ordered | Objective Title                               | EST Total Min | Mode of Delivery       | Day |
 | ------- | --------------------------------------------- | ------------- | ---------------------- | --- |
 | 0       | Event Start                                   | 50            | Instruction (Resident) | 1   |
@@ -13,55 +12,78 @@
 | END     | Closing                                       | 20            | -                      | 4   |
 |         | TOTAL                                         | 1020 (17)     |                        |     |
 
-###  Schedule
+### Schedule
 
 #### Day 1
-| Time         | Activity                                         |
-|--------------|--------------------------------------------------|
-| Start        | Event Start                                     |
-| T+1          | Break                                            |
-| T+1:50       | Identify Misinformation and Disinformation (Part 1)|
-| T+2:40       | Break                                            |
-| T+2:50       | Identify Misinformation and Disinformation (Part 2)|
-| T+3:40       | Lunch Break                                      |
-| T+4:30       | Counter Misinformation and Disinformation (Part 1)|
-| T+5:20       | Break                                            |
-| T+5:30       | Counter Misinformation and Disinformation (Part 2)|
+| Time   | Activity                                           |
+|--------|----------------------------------------------------|
+| 00:00  | Event Start (Total 50 min)                         |
+| 00:50  | Break                                              |
+| 01:05  | Identify Misinformation and Disinformation (Total 130 min, Part 1)|
+| 01:50  | Break                                              |
+| 02:05  | Identify Misinformation and Disinformation (Part 2)|
+| 02:50  | Break                                              |
+| 03:05  | Identify Misinformation and Disinformation (Part 3)|
+| 03:50  | Lunch Break                                        |
+| 04:50  | Counter Misinformation and Disinformation (Total 180 min, Part 1)|
+| 05:35  | Break                                              |
+| 05:50  | Counter Misinformation and Disinformation (Part 2) |
+| 06:35  | Break                                              |
+| 06:50  | Counter Misinformation and Disinformation (Part 3) |
+| 07:35  | End of Day                                         |
 
 #### Day 2
-| Time         | Activity                                         |
-|--------------|--------------------------------------------------|
-| Start        | Identify Rival Influence (Part 1)                |
-| T+1:30       | Break                                            |
-| T+1:40       | Identify Rival Influence (Part 2)                |
-| T+3:10       | Break                                            |
-| T+3:20       | Mitigate Rival Influence (Part 1)                |
-| T+4:10       | Lunch Break                                      |
-| T+5:00       | Mitigate Rival Influence (Part 2)                |
-| T+5:50       | Break                                            |
-| T+6:00       | Mitigate Rival Influence (Part 3)                |
+| Time   | Activity                                           |
+|--------|----------------------------------------------------|
+| 00:00  | Identify Rival Influence (Total 130 min, Part 1)   |
+| 00:45  | Break                                              |
+| 01:00  | Identify Rival Influence (Part 2)                  |
+| 01:45  | Break                                              |
+| 02:00  | Identify Rival Influence (Part 3)                  |
+| 02:45  | Break                                              |
+| 03:00  | Mitigate Rival Influence (Total 180 min, Part 1)   |
+| 03:45  | Lunch Break                                        |
+| 04:45  | Mitigate Rival Influence (Part 2)                  |
+| 05:30  | Break                                              |
+| 05:45  | Mitigate Rival Influence (Part 3)                  |
+| 06:30  | Break                                              |
+| 06:45  | Mitigate Rival Influence (Part 4)                  |
+| 07:30  | End of Day                                         |
 
 #### Day 3
-| Time   | Activity                                                           |
-| ------ | ------------------------------------------------------------------ |
-| Start  | Recognize AI Generated Content                                     |
-| T+1:10 | Break                                                              |
-| T+1:20 | Report Malign Influence                                            |
-| T+2:10 | Break                                                              |
-| T+2:20 | Case Studies and Practical Exercises (related to previous lessons) |
-| T+3:50 | Lunch Break                                                        |
-| T+4:50 | Continue Case Studies and Practical Exercises                      |
-| T+5:40 | Break                                                              |
-| T+5:50 | Group Discussions and Feedback                                     |
+| Time   | Activity                                                            |
+|--------|---------------------------------------------------------------------|
+| 00:00  | Creating AI Content (Total 40 min)                                  |
+| 00:40  | Break                                                               |
+| 00:55  | Recognize AI Generated Content (Total 120 min, Part 1)              |
+| 01:40  | Break                                                               |
+| 01:55  | Recognize AI Generated Content (Part 2)                             |
+| 02:40  | Break                                                               |
+| 02:55  | Case Studies and Practical Exercises (related to previous lessons)  |
+| 03:40  | Lunch Break                                                         |
+| 04:40  | Continue Case Studies and Practical Exercises                       |
+| 05:25  | Break                                                               |
+| 05:40  | Group Discussions and Feedback                                      |
+| 06:25  | Break                                                               |
+| 06:40  | Report Malign Influence (Total 120 min, Part 1)                     |
+| 07:25  | Break                                                               |
+| 07:40  | Report Malign Influence (Part 2)                                    |
+| 08:25  | End of Day                                                          |
 
 #### Day 4
-| Time         | Activity                                         |
-|--------------|--------------------------------------------------|
-| Start        | Capstone                                         |
-| T+1          | Break                                            |
-| T+1:50       | Closing                                          |
-| T+2:40       | Break                                            |
-| T+2:50       | Open Q&A Session and Additional Case Studies     |
-| T+4:50       | Lunch Break                                      |
-| T+5:50       | Individual Assessments and Feedback              |
-| T+7:50       | Course Review and Certificate Distribution       |
+| Time   | Activity                                           |
+|--------|----------------------------------------------------|
+| 00:00  | Capstone (Total 50 min)                            |
+| 00:45  | Break                                              |
+| 01:00  | Capstone (Continued)                               |
+| 01:45  | Break                                              |
+| 02:00  | Closing (Total 20 min)                             |
+| 02:45  | Break                                              |
+| 03:00  | Open Q&A Session and Additional Case Studies       |
+| 03:45  | Lunch Break                                        |
+| 04:45  | Individual Assessments and Feedback                |
+| 05:30  | Break                                              |
+| 05:45  | Individual Assessments and Feedback (Continued)    |
+| 06:30  | Break                                              |
+| 06:45  | Course Review and Certificate Distribution         |
+| 07:30  | End of Course                                      |
