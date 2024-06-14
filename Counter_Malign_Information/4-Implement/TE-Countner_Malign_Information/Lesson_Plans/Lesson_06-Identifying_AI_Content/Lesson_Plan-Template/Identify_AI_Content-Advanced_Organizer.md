@@ -1,22 +1,23 @@
 # Advanced Organizer: Recognizing AI-Generated Content
 
 ## Learning Objective
-### **Action:** Recognize AI-Generated Content.
+**Action:** Recognize AI-Generated Content.
 
-### **Conditions:** 
+**Conditions:** 
 Given an environment that allows the students to engage one another and the cadre openly, handouts, visual aids, research capabilities, and AI content detection tools.
 
-### **Standards:** 
+**Standards:** 
 Accurately identify AI-generated content by detecting inconsistencies and manipulation artifacts, ensuring that at least 90% of assessments are correct and report findings to the relevant authorities.
 
 ---
 
 ## Quick Information
-| Title                       | Comment                                     |
-| --------------------------- | ------------------------------------------- |
-| Intended Audience           | Government employees                        |
-| Learning Domain             | Cognitive                                   |
+| Title                       | Comment                                                                                      |
+| --------------------------- | -------------------------------------------------------------------------------------------- |
+| Intended Audience           | Government employees                                                                         |
+| Learning Domain             | Cognitive                                                                                    |
 | Training Resources Required | Computer, internet access, AI content detection tools, example images, handouts, visual aids |
+| Total Duration              | 120                                                                                          |
 
 ---
 
@@ -33,22 +34,25 @@ Accurately identify AI-generated content by detecting inconsistencies and manipu
 
 | Time  | ELM Phase            | Comment                                   |
 | ----- | -------------------- | ----------------------------------------- |
-| 10 min | Concrete Experience  | Spotting Differences                      |
+| 15 min | Concrete Experience  | Spotting Differences                      |
 |       |                      |                                           |
-1. **Activity**: Display two sets of images, one original and one altered, and ask students to identify differences.
-2. **Observation**: Students write down any differences they notice.
+
+Students write down any differences they notice
+1. Display two sets of images, one original and one altered, and ask students to identify differences. (Images A and B) (5 minutes)
+2. Display two sets of images, these are both real images but extrodinary in some way. Ask students to identify the fake image. (5 minutes)
+3. Students share their observations. (5 minutes)
+4. Reveal to the students which images were altered do NOT discuss the detection techniques used yet instead go to the publish and process phase. 
+
 
 | Time  | ELM Phase            | Comment                                   |
 | ----- | -------------------- | ----------------------------------------- |
-| 4 min | Publish and Process  | Discussion on Observations                |
+| 5 min | Publish and Process  | Discussion on Observations                |
 |       |                      |                                           |
-1. **Question**: Ask students to share the differences they observed.
-2. **Introduction**: Introduce the learning objectives.
-3. **Discussion**: Discuss the importance of detailed observation in detecting AI-generated content.
-
+1. Introduce the learning objectives.
+2. Tell the students "By the end of this lesson, you will be able to recognize AI-generated content effectively using specific detection techniques for images, text, and audio. 
 | Time  | ELM Phase                 | Comment                                   |
 | ----- | ------------------------- | ----------------------------------------- |
-| 20 min | Generalize New Information | Techniques for Detecting AI Content       |
+| 60 min | Generalize New Information | Techniques for Detecting AI Content       |
 |       |                           |                                           |
 1. **Visual Aid**: Use handouts and visual aids to illustrate common signs of AI-generated content.
 2. **Comparison**: Compare characteristics of authentic vs. AI-generated content.
