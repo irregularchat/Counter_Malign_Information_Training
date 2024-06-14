@@ -15,7 +15,7 @@ Accurately identify rival influence activities, ensuring that at least 90% of as
 | Intended Audience           | Officials working in the information environment                                          |
 | Learning Domain             | Cognitive                                                                                 |
 | Training Resources Required | Computer, internet access, intelligence reports, analytical software, reporting templates |
-| Total Duration              |    135                                                                                        |
+| Total Duration              | 135 (60, break, 60, break, 15)                                                            |
 
 ---
 # Performance Steps
@@ -49,8 +49,9 @@ Accurately identify rival influence activities, ensuring that at least 90% of as
 1. _Introduce the SCAME framework and explain its components._ (10 minutes)
 2. _Ask students to memorize the SCAME framework. Students should quiz each other_ (5 minutes)
 3. _Discuss each component of SCAME in detail, providing examples._ (25 minutes)
-4. _Demonstrate how to use the SCAME framework to analyze influence activities._ (10 minutes)
 ################BREAK################
+4. _Demonstrate how to use the SCAME framework to analyze influence activities._ (10 minutes)
+
 
 
 | Time | ELM Phase            | Comment                       |
