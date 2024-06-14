@@ -141,7 +141,7 @@ An instructor must
 | Instructor     | Instructor Rehearsal    | 5            | Preparation                    |
 | Instructor     | Classroom Setup         | 5            | Setup                          |
 | y              | Concrete Experience     | 15           | Identifying Misinformation     |
-| y              | Publish and Process     | 30           | Discussion on Information Sources |
+| y              | Publish and Process     | 4           | Discussion on Information Sources |
 | y              | Generalize New Information | 40       | Identifying Reliable Sources   |
 | y              | Develop                 | 30           | Strategies for Verification    |
 | y              | Apply                   | 40           | Practical Exercise             |
