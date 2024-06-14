@@ -10,10 +10,10 @@ Accurately identify rival influence activities, ensuring that at least 90% of as
 ---
 
 ## Quick Information
-| Title                       | Comment                                     |
-| --------------------------- | ------------------------------------------- |
-| Intended Audience           | Officials working in the information environment |
-| Learning Domain             | Cognitive                                   |
+| Title                       | Comment                                                                                   |
+| --------------------------- | ----------------------------------------------------------------------------------------- |
+| Intended Audience           | Officials working in the information environment                                          |
+| Learning Domain             | Cognitive                                                                                 |
 | Training Resources Required | Computer, internet access, intelligence reports, analytical software, reporting templates |
 
 ---
