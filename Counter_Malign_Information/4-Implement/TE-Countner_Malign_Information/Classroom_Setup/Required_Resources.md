@@ -15,7 +15,9 @@ Students will likely ask questions about the handouts, so it is important to be 
 - Key Assumptions Check Structured Analytic Techniques (SATs) handout. (Beebe and Pherson, 2015, p. 185)
 - Deception Detection Structured Analytic Techniques (SATs) handouts: Past Opposition Practices (POP), Manipulability of Sources (MOSES), Motive, Opportunity, and Means (MOM), Evaluation of Evidence (EVE) (Pherson and Heuer, 2021, p. 264) (Beebe and Pherson, 2015, p. 161)
 ### Lesson 02
+- Handout for Concrete Experience (CE) detailing the scenario for the students to experience. This handout should include the scenario and the instructions for the students to follow.
 ### Lesson 03
+- Source Content Audience Media Effect (SCAME) handout
 ### Lesson 04
 ### Lesson 05
 ### Lesson 06

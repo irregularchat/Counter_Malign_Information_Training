@@ -34,8 +34,9 @@ This is an exchange and will divert from typical ELM steps and instruction to al
 
 1. _Present students with a simulated scenario where a rumor is spreading rapidly._ (12 minutes)
 2. Steps: 
-	1. Instruct 2 students to leave the room. Outside of the room the students will be given instruction to spread misinformation about a specific topic.
-	2. Instruct 1 student remaining in the room about the accurate information and ask them to remain in the room and not leave.
+	1. Instruct 3 students to leave the room. Outside of the room the students will be given instruction to spread misinformation about a specific topic.
+		1. Instruct 1 student to return to the room and and to not leave the room until instructed to do so by the instructor.
+		2. Instruct 2 students to go to the common area and begin spreading the misinformation they were given.
 	2. The remaining students will be asked about their day and other small talk to create a relaxed environment.
 	3. The 3 students will return to the room and begin spreading the misinformation they were given trying to get people to rush out of the room.
 	4. Students that leave the room will be caught by an assistant instructor and asked to return to the room to discuss what they experienced.
