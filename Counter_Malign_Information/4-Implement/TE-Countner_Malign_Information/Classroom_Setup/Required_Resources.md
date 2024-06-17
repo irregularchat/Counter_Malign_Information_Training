@@ -12,6 +12,8 @@ Students will likely ask questions about the handouts, so it is important to be 
 ## Handouts Required 
 ### Opening
 ### Lesson 01
+- Key Assumptions Check Structured Analytic Techniques (SATs) handout. (Beebe and Pherson, 2015, p. 185)
+- Deception Detection Structured Analytic Techniques (SATs) handouts: Past Opposition Practices (POP), Manipulability of Sources (MOSES), Motive, Opportunity, and Means (MOM), Evaluation of Evidence (EVE) (Pherson and Heuer, 2021, p. 264) (Beebe and Pherson, 2015, p. 161)
 ### Lesson 02
 ### Lesson 03
 ### Lesson 04
@@ -20,5 +22,10 @@ Students will likely ask questions about the handouts, so it is important to be 
 ### CAPSTONE
 ### Closing
 
-# Required Instructor Handouts
+## Required Instructor Handouts
 - Advanced Organizer (AO) for each lesson
+
+
+## References
+Beebe, S. M., & Pherson, R. H. (2015). Cases in intelligence analysis: Structured analytic techniques in action (Second edition). Sage.
+Pherson, R. H., & Heuer, R. J. (2021). Structured analytic techniques for intelligence analysis (Third edition). SAGE, CQ Press.
