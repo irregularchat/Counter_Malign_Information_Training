@@ -33,10 +33,10 @@ Accurately identify misinformation and disinformation, ensuring that at least 95
 | ---- | -------------------- | ----------------------------- |
 | 15   | Concrete Experience  | Identifying Misinformation    |
 |      |                      |                               |
-1. _Write down two statements on the whiteboard, both of which are lies, but one is more egregious than the other._ (5 minutes)
+1. _Write down two statements on the whiteboard, both of which are lies, but one is more egregious than the other._ 
     - Statement 1: "The Earth is flat." (Instructor may create a more egregious lie)
     - Statement 2: "The Earth is a cube." (Instructor may create a less egregious lie)
-2. _Ask students to identify which statement they believe is true and explain why._ _Ask students “What was challenging about determining if the statements on the whiteboard were true or false?”_ (10 minutes)
+2. _Ask students to identify which statement they believe is true and explain why._ _Ask students “What was challenging about determining if the statements on the whiteboard were true or false?”_ (5 minutes)
 
 | Time | ELM Phase           | Comment                           |
 | ---- | ------------------- | --------------------------------- |
