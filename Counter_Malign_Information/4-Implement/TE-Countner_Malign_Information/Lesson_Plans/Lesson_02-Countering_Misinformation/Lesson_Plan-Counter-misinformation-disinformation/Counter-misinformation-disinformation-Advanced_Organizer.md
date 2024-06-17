@@ -79,6 +79,11 @@ This is an exchange and will divert from typical ELM steps and instruction to al
 
 1. _Ask students to implement their developed counter strategy using the techniques learned and present their findings to the class._ (15 minutes)
 2. _Rapdid fire questions to the students about their strategy and how they would react to different scenarios._ (5 minutes)
+- What would you do if the misinformation was being spread by a high ranking official?
+- What would you do if the misinformation was being spread by a foreign government?
+- What would you do if the misinformation was being spread by a foreign government and a high ranking official?
+- What would you do if your family was being targeted by the misinformation?
+- What would you do if the misinformation was being spread by a friend?
 
 | Time | ELM Phase         | Comment              |
 | ---- | ----------------- | -------------------- |
