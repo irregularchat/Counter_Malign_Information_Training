@@ -40,7 +40,7 @@ Navigate inside the main repository directory and execute the following command:
    ```
 ## For Students
 1. **Read the Course Materials**: Start with [Course_Syllabus.md](/Counter_Malign_Information/4-Implement/TE-Counter_Malign_Information/Course_Syllabus.md).
-2. **Review the Course Schedule**: Familiarize yourself with the course schedule in [Course_Schedule.md](/Counter_Malign_Information/4-Implement/TE-Counter_Malign_Information/Course_Schedule.md).
+2. **Review the Course Schedule**: Familiarize yourself with the course schedule in [Course_Schedule.md](/Counter_Malign_Information_Training/Counter_Malign_Information/3-Design/2-Counter_Malign_Information-Schedule.md).
 3. **Complete the Coursework**: Work through the course materials, including lesson plans, audio-visual content, and practical exercises.
 ## For Developers
 1. **Read the Developer Guide**: Start with [Developer Guide.md](/Counter_Malign_Information/Developer%20Guide.md).
