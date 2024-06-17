@@ -1,30 +1,30 @@
-# NAME OF LESSON
+# Reporting Identified Malign Influence Activities
+
 ## Learning Objective
- **Action:** __[Approved-Verb] [Object] [Qualifier].__
+**Action:** Report identified malign influence activities effectively.
 
- **Conditions:** 
-[ ex. Given an environment that allows the students to engage with one another and the cadre openly, handouts, and research capabilities. take into account what the students already know and what they need to know to be successful in the lesson and the learning environment requirements.]
+**Conditions:** 
+Given an environment that allows the students to engage one another and the cadre openly, handouts, research capabilities, and tools for reporting malign influence activities.
 
- **Standards:** 
-[Terminal Learning Objective (TLO) Standards]
+**Standards:** 
+Document and submit reports with a success rate of 95% within 12 hours of detection.
 
 ---
 
 ## Quick Information
-| Title                       | Comment                          |
-| --------------------------- | -------------------------------- |
-| Intended Audience           | [Describe the target audience]   |
-| Learning Domain             | [Cognitive, Affective, etc.]     |
-| Training Resources Required | [List resources required]        |
-| Total Duration              | [Total duration of the lesson] (xx min, break, xx min, break, xx min)   |
+| Title                       | Comment                                       |
+| --------------------------- | --------------------------------------------- |
+| Intended Audience           | Officials working in the information environment |
+| Learning Domain             | Cognitive                                     |
+| Training Resources Required | Computer, internet access, reporting templates, monitoring software |
+| Total Duration              | 120 minutes (30 min, break, 90 min)           |
 
 ---
 
 ## Performance Steps
-1. [Describe the first step]
-2. [Describe the second step]
-3. [Describe the third step]
-4. [Describe the fourth step]
+1. Detect malign influence activities.
+2. Document identified activities.
+3. Submit detailed reports within the specified timeframe.
 
 ---
 
@@ -33,99 +33,89 @@
 ### Concrete Experience
 | Time (min) | ELM Phase            | Comment                     |
 | ---------- | -------------------- | --------------------------- |
-| 15-20          | Concrete Experience  | [Topic_Goes_Here]           |
+| 15         | Concrete Experience  | Reporting Malign Influence  |
 
 #### Instructions:
-- **Tell an interesting anecdote** or recall a recent current event pertaining to the lesson topic to gain the students' attention and motivate them to learn the lesson material. This step does not need to be the exact skill being trained but bring students to the topic by piquing their interest, by identifying the problem of which the skill is the solution, or by showing the relevance of the skill to their lives.
-- **Make students aware of the Army's Contemporary Operational Environment** factors such as physical environment, military capabilities, technology, and information.
-
-##### Example Scenario for Concrete Experience (CE) Use Otheres and then delte this section
-1. Ask students to recall a recent news story related to misinformation or disinformation.
-2. Divide students into small groups and have them discuss the following:
-    1. What was the news story about?
-    2. What elements of the story seemed like misinformation or disinformation?
-    3. How could they verify the accuracy of the information in the story?
-3. Each group presents their discussion to the class.
-4. Write key points from each group’s presentation on the board.
-5. Facilitate a class discussion on the methods used to identify and verify information in news stories.
+1. **Scenario**: Present students with a hypothetical scenario where malign influence activities have been detected.
+2. **Task**: Divide students into small groups and provide them with initial intelligence reports that include evidence of malign influence.
+3. **Discussion**: Each group discusses the scenario and identifies the key malign influence activities.
+4. **Presentation**: Each group presents their findings to the class.
 
 ---
 
 ### Publish and Process
 | Time (min) | ELM Phase            | Comment                     |
 | ---------- | -------------------- | --------------------------- |
-| 05         | Publish and Process  | [Topic_Goes_Here]           |
+| 5          | Publish and Process  | Discussion on Reporting     |
 
 #### Instructions:
-- **Publish and Process (P&P) SC, Instructor Managed (facilitated):**
-    1. Ask students “what was difficult about identifying misinformation in the news story.”
-    2. Introduce the learning objectives.
-    3. **Transition to GNI**: For example, say, “That's a great point and ties in well with our focus today,” then introduce the learning objective by telling participants what they will be able to do when you finish.
+1. **Discussion**: Ask students, “What challenges did you encounter while identifying malign influence activities?”
+2. **Learning Objectives**: Introduce the learning objectives for the lesson.
+3. **Transition to GNI**: Tell students, “By the end of this lesson, you will be able to effectively report identified malign influence activities.”
 
 ---
 
 ### Generalize New Information
 | Time (min) | ELM Phase            | Comment                     |
 | ---------- | -------------------- | --------------------------- |
-| 45         | Generalize New Information | [Topic_Goes_Here] |
+| 20         | Generalize New Information | Techniques for Reporting |
 
 #### Instructions:
-- **Generalize New Information (GNI) Instructor Centered:**
-    1. Go over the visual graphic on the speed of cracking passwords.
-    2. Compare and contrast the previous guidance for creating complex passwords.
-    3. Demonstrate how secure and memorable passphrases are.
+1. **Explain the Importance**: Discuss why timely and accurate reporting of malign influence activities is crucial.
+2. **Reporting Techniques**: Go over the standard procedures and templates for reporting.
+3. **Best Practices**: Highlight best practices for documenting and reporting malign influence activities.
+4. **Interactive Demonstration**: Show how to use monitoring software and reporting templates.
 
 ################BREAK################
+
 ---
 
 ### Develop
 | Time (min) | ELM Phase            | Comment                     |
 | ---------- | -------------------- | --------------------------- |
-| 15         | Develop              | [Topic_Goes_Here]           |
+| 60         | Develop              | Reporting Strategies        |
 
 #### Instructions:
-- **Develop (Future Use) SC, Instructor Managed (facilitated):**
-    1. Ask students how they will use this technique.
+1. **Group Activity**: Have students develop a reporting strategy based on a new scenario.
+2. **Presentation**: Each group presents their strategy to the class.
 
 ---
 
 ### Apply
 | Time (min) | ELM Phase            | Comment                     |
 | ---------- | -------------------- | --------------------------- |
-| 25-30         | Apply                | [Topic_Goes_Here]           |
+| 15         | Apply                | Practical Exercise          |
 
 #### Instructions:
-- **Apply (example: practical exercises, exam, etc.) Student Centered:**
-    1. Ask students to write a strong passphrase on the board.
-    2. **Note**: After the Apply phase, you must provide feedback, and then you should have some closing or wrap-up of the lesson.
+1. **Individual Task**: Ask students to implement their reporting strategy using the techniques learned.
+2. **Rapid-Fire Questions**: Conduct a Q&A session where students must explain their reporting process and how they would handle different scenarios.
 
 ---
 
 ### Check On Learning
 | Time (min) | ELM Phase            | Comment                     |
 | ---------- | -------------------- | --------------------------- |
-| 10         | Check On Learning    | [Topic_Goes_Here]           |
+| 5          | Check On Learning    | Review and Feedback         |
 
 #### Instructions:
-1. Question: What are the key indicators of misinformation?
-    - **Answer**: [Expected answer]
-2. Question: How can you effectively counter misinformation?
-    - **Answer**: [Expected answer]
-3. Question: What signs indicate rival influence?
-    - **Answer**: [Expected answer]
-4. Question: What are some approaches to mitigate rival influence?
-    - **Answer**: [Expected answer]
+1. **Questions**:
+    1. What are the key indicators of malign influence activities?
+        - **Answer**: [Expected answer]
+    2. How can you ensure timely and accurate reporting?
+        - **Answer**: [Expected answer]
+    3. What are the critical elements to include in a report?
+        - **Answer**: [Expected answer]
+2. **Summary**: Summarize the key points of the lesson.
+3. **Feedback**: Provide feedback on the practical exercise.
 
 ---
 
 ### Lesson Summary
 | Time (min) | ELM Phase            | Comment                     |
 | ---------- | -------------------- | --------------------------- |
-| 03         | Summary              | [Topic_Goes_Here]           |
+| 5          | Summary              | Reporting Malign Influence  |
 
 #### Instructions:
 1. Review the key points from each Learning Step Activity (LSA).
 2. Emphasize the importance of the skills and knowledge gained.
 3. Questions?
-
----
