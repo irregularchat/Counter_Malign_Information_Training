@@ -4,14 +4,17 @@ All instructors are required to read and understand the following handouts. Thes
 Students will likely ask questions about the handouts, so it is important to be familiar with the content.
 ## Surveys
 ### Pre-Course Survey
+- Opening Student Survey [Here](/Counter_Malign_Information_Training/Counter_Malign_Information/4-Implement/TE-Countner_Malign_Information/Evaluation/Course_Start_Survey-PF.md) This survey captures a baseline of the students' knowledge and experience with malign influence while also capturing demographic information.
+
 ### Malign Influence Survey
 ### Synthetic Content Survey
 ### Post-Course Survey
+- Closing Survey [Here](/Counter_Malign_Information_Training/Counter_Malign_Information/4-Implement/TE-Countner_Malign_Information/Evaluation/Course_End_Survey-PF.md)
+
 
 
 ## Handouts Required (# of Copies: per # of Students)
 ### Opening
-- Opening Student Survey [Here](/Counter_Malign_Information_Training/Counter_Malign_Information/4-Implement/TE-Countner_Malign_Information/Evaluation/Course_Start_Survey-PF.md) This survey captures a baseline of the students' knowledge and experience with malign influence while also capturing demographic information.
 ### Lesson 01: Create Synthetic Content
 -  Generative AI Handout: Diagram with AI servies based on what the user wants to do. Text, Image, Video, Audio, and Text-to-Speech. (1:1)
 - Sample prompts for the students to use with the Generative AI handout. (1:1)
@@ -32,7 +35,6 @@ Students will likely ask questions about the handouts, so it is important to be 
 - Counter Mis/Disinformation Scenario 2 Handout. This handout should include the scenario that students will be developing a counter-strategy for.
 ### CAPSTONE
 ### Closing
-- Closing Survey [Here](/Counter_Malign_Information_Training/Counter_Malign_Information/4-Implement/TE-Countner_Malign_Information/Evaluation/Course_End_Survey-PF.md)
 
 ## Required Instructor Handouts
 - Advanced Organizer (AO) for each lesson
