@@ -41,6 +41,7 @@ Students will likely ask questions about the handouts, so it is important to be 
     - Reporting Lane Handout. This handout should include the scenario that students will be developing a counter-strategy for. Students will use the reporting techniques that they developed in the previous lessons to report the malign influence in this scenario.
 
 ### Closing
+- Closing Student Survey [Here](/Counter_Malign_Information_Training/Counter_Malign_Information/4-Implement/TE-Countner_Malign_Information/Evaluation/Course_End_Survey-PF.md) This survey captures the students' knowledge and experience with malign influence after the course.
 
 ## Required Instructor Handouts
 - Advanced Organizer (AO) for each lesson
