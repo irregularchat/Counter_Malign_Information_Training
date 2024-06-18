@@ -34,6 +34,12 @@ Students will likely ask questions about the handouts, so it is important to be 
 - Counter Mis/Disinformation Scenario 1 Handout. This handout should include the scenario that students will be developing a counter-strategy for.
 - Counter Mis/Disinformation Scenario 2 Handout. This handout should include the scenario that students will be developing a counter-strategy for.
 ### CAPSTONE
+- Capstone Scenario Handout. This handout should include the scenario that students will be developing a counter-strategy for including the four 4 lanes that make up the capstone scenario.
+    - SCAME Lane Handout. This handout should include the scenario that students will use with the SCAME to identify and analyze potential influence.
+    - Counter Influence Lane Handout. This handout should include the scenario that students will be developing a counter-strategy for. Students will use the counter-influence techniques that they developed in the previous lessons to counter the influence in this scenario.
+    - Counter Mis/Disinformation Lane Handout. This handout should include the scenario that students will identify and then counter mis/disinformation against. Students will use the counter-mis/disinformation techniques that they developed in the previous lessons to counter the mis/disinformation in this scenario.
+    - Reporting Lane Handout. This handout should include the scenario that students will be developing a counter-strategy for. Students will use the reporting techniques that they developed in the previous lessons to report the malign influence in this scenario.
+
 ### Closing
 
 ## Required Instructor Handouts
