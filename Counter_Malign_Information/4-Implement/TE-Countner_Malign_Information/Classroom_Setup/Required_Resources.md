@@ -9,12 +9,17 @@ Students will likely ask questions about the handouts, so it is important to be 
 ### Post-Course Survey
 
 
-## Handouts Required 
+## Handouts Required (# of Copies: per # of Students)
 ### Opening
-### Lesson 01
-### Lesson 02
+- Opening Student Survey [Here](/Counter_Malign_Information_Training/Counter_Malign_Information/4-Implement/TE-Countner_Malign_Information/Evaluation/Course_Start_Survey-PF.md) This survey captures a baseline of the students' knowledge and experience with malign influence while also capturing demographic information.
+### Lesson 01: Create Synthetic Content
+-  Generative AI Handout: Diagram with AI servies based on what the user wants to do. Text, Image, Video, Audio, and Text-to-Speech. (1:1)
+- Sample prompts for the students to use with the Generative AI handout. (1:1)
+### Lesson 02: Identify Synthetic Content
+- Synthetic Content Identification Handout. This handout will include workflows for identifying synthetic content. (1:1)
+- Concrete Experience (CE) handout with two images of a real person and a synthetic person. (1:2)
 ### Lesson 03
-- Source Content Audience Media Effect (SCAME) handout
+- Source Content Audience Media Effect (SCAME) handout (1:1)
 ### Lesson 04
 - Counter Rival Influence Scenario 1 Handout. This handout should include the scenario that students will be developing a counter-strategy for.
 - Counter Rival Influence Scenario 2 Handout. This handout should include the scenario that students will be developing a counter-strategy for.
@@ -27,6 +32,7 @@ Students will likely ask questions about the handouts, so it is important to be 
 - Counter Mis/Disinformation Scenario 2 Handout. This handout should include the scenario that students will be developing a counter-strategy for.
 ### CAPSTONE
 ### Closing
+- Closing Survey [Here](/Counter_Malign_Information_Training/Counter_Malign_Information/4-Implement/TE-Countner_Malign_Information/Evaluation/Course_End_Survey-PF.md)
 
 ## Required Instructor Handouts
 - Advanced Organizer (AO) for each lesson
