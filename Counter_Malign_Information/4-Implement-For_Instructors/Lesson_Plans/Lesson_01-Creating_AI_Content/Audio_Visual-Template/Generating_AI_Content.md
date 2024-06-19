@@ -10,7 +10,7 @@ When creating AI-generated content, it's essential to follow best practices to e
 1. **Be Specific**: Clearly define the content type, audience, and purpose when prompting the AI.
 2. **Iterate and Refine**: Use iterative prompts to refine the generated content. Start broad and narrow down specifics.
 3. **Provide Context**: Give the AI relevant context to generate more accurate and relevant content.
-4. **Use Multiple Services**: Use a combination of tools to leverage different strengths and capabilities, such as google searching for existing scripts or repositories, images, or prompts for AI to generate content.
+4. **Use Multiple Services**: Use a combination of tools to leverage different strengths and capabilities, such as google searching for existing scripts or repositories, images, or prompts for AI to generate content or using a text generating model to build a better prompt for image generating.
 5. **Remind AI of Constraints**: If there are specific requirements or constraints, remind the AI in the prompt. For example, word count limits, tone, or style guidelines. Ask it not to be lazy and take it step by step.
 6. **Check for Accuracy**: Always review AI-generated content for factual accuracy and relevance.
 
