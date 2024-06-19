@@ -7,7 +7,7 @@ This job aid provides guidance on generating AI content with minimal training. I
 
 ### Text Generation
 - **ChatGPT**
-  - **Website**: [ChatGPT](https://chatgpt.org/)
+  - **Website**: [ChatGPT](https://chatgpt.com/)
   - **Description**: An open-source chatbot platform for creating custom chatbot applications.
   - **Example Prompts**:
     - "Write a 500-word essay on the impact of AI on modern education."
@@ -63,15 +63,24 @@ This job aid provides guidance on generating AI content with minimal training. I
 ### General Tips
 1. **Be Specific**: Clearly define the content type, audience, and purpose when prompting the AI.
 2. **Iterate and Refine**: Use iterative prompts to refine the generated content. Start broad and narrow down specifics.
-3. **Check for Accuracy**: Always review AI-generated content for factual accuracy and relevance.
-4. **Ethical Considerations**: Ensure the generated content adheres to ethical guidelines and does not propagate misinformation.
+3. **Provide Context**: Give the AI relevant context to generate more accurate and relevant content.
+4. **Use Multiple Services**: Use a combination of tools to leverage different strengths and capabilities, such as google searching for existing scripts or repositories, images, or prompts for AI to generate content.
+5. **Remind AI of Constraints**: If there are specific requirements or constraints, remind the AI in the prompt. For example, word count limits, tone, or style guidelines. Ask it not to be lazy and take it step by step.
+6. **Check for Accuracy**: Always review AI-generated content for factual accuracy and relevance.
+
 
 ### Example Prompts
-- **Text Generation**: "Write a persuasive article about the importance of data privacy in the digital age."
-- **Visual Content**: "Design a minimalist logo for an environmental nonprofit."
-- **Code Generation**: "Generate a JavaScript function to validate email addresses."
-
-
+- **Text Generation**
+  - Bad: "Write an article about data privacy."
+  - Better: "You are an experty in cybersecurity, the audience is a new military soldier with minimal higher education, don't be lazy with your processing, take it step by step first considering the task, analyzing the result, then writing: Write a persuasive article about the importance of data privacy in the digital age. Include examples of data breaches and their impact on individuals."
+- **Visual Content**: 
+  - Bad: "Design a logo for a nonprofit organization."
+  - Better: "Don't be lazy, take it step by step. You are a graphic designer working for a nonprofit organization that focuses on environmental conservation. Create a logo that represents the organization's mission and values which are XYZ, match the color scheme to the organization's branding guidelines which is XYZ, and ensure the design is simple yet impactful. The logo should include elements that symbolize nature, sustainability, and community."
+- **Code Generation**: 
+  - Bad: "Write a function to download instagram images."
+  - Better: 
+    - 1. "Create an andvanced google search for a script or repo focused on downloading instagram content" [Search it manually or though GPT]
+    - 2. "Don't be lazy, take it step by step. output all in markdown codeblock. You are a software developer working on a social media analytics tool. Write a Python function that downloads images from Instagram based on one or more specific hashtags, users, or keywords. The function should take the hashtag as input from the user, scrape the images and store them in a local directory. Ensure the function handles errors gracefully and provides feedback to the user on the download progress."
 ### Tools and Repositories
 - **AI Master List Tool**: [AI Master List Tool](https://doc.clickup.com/25598832/d/h/rd6vg-14247/0b79ca1dc0f7429/rd6vg-12207)
 - **AI Catalog Repo**: [AI Catalog Repo](https://github.com/mehmetkahya0/ai-catalog)
