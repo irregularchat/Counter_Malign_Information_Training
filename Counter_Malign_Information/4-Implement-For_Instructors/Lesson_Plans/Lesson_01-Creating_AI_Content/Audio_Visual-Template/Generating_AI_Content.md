@@ -29,6 +29,10 @@ When creating AI-generated content, it's essential to follow best practices to e
     - 1. "Create an andvanced google search for a script or repo focused on downloading instagram content" [Search it manually or though GPT]
     - 2. "Don't be lazy, take it step by step. output all in markdown codeblock. You are a software developer working on a social media analytics tool. Write a Python function that downloads images from Instagram based on one or more specific hashtags, users, or keywords. The function should take the hashtag as input from the user, scrape the images and store them in a local directory. Ensure the function handles errors gracefully and provides feedback to the user on the download progress."
 ### Tools and Repositories
+- Find master lists of AI tools and repositories to explore different services and resources for generating AI content: 
+
+("AI tools" OR "GPT tools" OR "AI resources" OR "AI catalog" OR "AI list" OR "AI repository" OR "generative AI") ("list" OR "collection" OR "catalog" OR "repository" OR "guide") 
+
 - **AI Master List Tool**: [AI Master List Tool](https://doc.clickup.com/25598832/d/h/rd6vg-14247/0b79ca1dc0f7429/rd6vg-12207)
 - **AI Catalog Repo**: [AI Catalog Repo](https://github.com/mehmetkahya0/ai-catalog)
 - **Awesome Generative AI**: [Awesome Generative AI](https://github.com/amusi/awesome-ai-awesomeness)
