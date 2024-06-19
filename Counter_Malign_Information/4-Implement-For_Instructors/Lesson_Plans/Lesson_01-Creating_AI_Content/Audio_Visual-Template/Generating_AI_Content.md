@@ -7,21 +7,22 @@ This job aid provides guidance on generating AI content with minimal training. I
 When creating AI-generated content, it's essential to follow best practices to ensure the quality and relevance of the output. Here are some tips to improve the effectiveness of AI content generation:
 
 ### General Tips
+0. **Check for Accuracy**: Always review AI-generated content for factual accuracy and relevance.
 1. **Be Specific**: Clearly define the content type, audience, and purpose when prompting the AI.
 2. **Iterate and Refine**: Use iterative prompts to refine the generated content. Start broad and narrow down specifics.
 3. **Provide Context**: Give the AI relevant context to generate more accurate and relevant content.
 4. **Use Multiple Services**: Use a combination of tools to leverage different strengths and capabilities, such as google searching for existing scripts or repositories, images, or prompts for AI to generate content or using a text generating model to build a better prompt for image generating.
 5. **Remind AI of Constraints**: If there are specific requirements or constraints, remind the AI in the prompt. For example, word count limits, tone, or style guidelines. Ask it not to be lazy and take it step by step.
-6. **Check for Accuracy**: Always review AI-generated content for factual accuracy and relevance.
+6. **Make Templates**: Create templates with variables for common tasks to speed up the content generation process and maintain consistency. 
 
 
 ### Example Prompts
 - **Text Generation**
   - Bad: "Write an article about data privacy."
-  - Better: "You are an experty in cybersecurity, the audience is a new military soldier with minimal higher education, don't be lazy with your processing, take it step by step first considering the task, analyzing the result, then writing: Write a persuasive article about the importance of data privacy in the digital age. Include examples of data breaches and their impact on individuals."
+  - Better: "You are an experty in cybersecurity, the audience is a new military soldier with minimal higher education, don't be lazy with your processing, take it step by step first considering the task, analyzing the result, then writing: Write a persuasive article that is at between 500 and 650 words about the importance of data privacy in the digital age for military families. Include examples of data breaches and their impact on individuals."
 - **Visual Content**: 
   - Bad: "Design a logo for a nonprofit organization."
-  - Better: "Don't be lazy, take it step by step. You are a graphic designer working for a nonprofit organization that focuses on environmental conservation. Create a logo that represents the organization's mission and values which are XYZ, match the color scheme to the organization's branding guidelines which is XYZ, and ensure the design is simple yet impactful. The logo should include elements that symbolize nature, sustainability, and community."
+  - Better: "Don't be lazy, take it step by step. Imagine you are a seasoned graphic designer tasked with creating a logo for a nonprofit organization dedicated to environmental conservation. The logo must represent the organization’s core mission and values, which emphasize sustainability, community involvement, and nature preservation. Adhere strictly to the organization’s branding guidelines, using a color scheme of earthy greens and blues. Incorporate elements that symbolize nature (like leaves or the Earth), sustainability (such as a recycle symbol), and community (represented by interlinked hands or a network). The design should be simple but powerful, clearly conveying the organization’s commitment to environmental stewardship"
 - **Code Generation**: 
   - Bad: "Write a function to download instagram images."
   - Better: 
