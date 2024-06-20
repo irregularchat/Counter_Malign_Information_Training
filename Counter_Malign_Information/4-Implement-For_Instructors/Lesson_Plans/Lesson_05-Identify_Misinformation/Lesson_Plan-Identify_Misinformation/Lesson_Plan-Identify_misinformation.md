@@ -1,18 +1,22 @@
 ## SECTION 0: LESSON OVERVIEW
+
 ### Lesson Information
-Lesson Title: **Identify Misinformation and Disinformation**
 
-Program of Instruction (POI): **0001-Identify Misinformation and Disinformation / Version 1.0**
+**Lesson Title**: Identifying Misinformation and Disinformation
 
-Developer Point of Contact: first.last@email.tld
+**Program of Instruction (POI)**: Countering Malign Influence / Version 1.0
+
+**Developer Point of Contact**: john.doe@email.tld
 
 ---
-###  IMPORTANT
+
+### IMPORTANT
 
 #### Training Material Classification: UNCLASSIFIED
+
 ### Distribution Restriction:
 
- - A. Approved for public release; distribution is unlimited
+ - A. Approved for public release; distribution is unlimited.
 
 ### Destruction Notice: 
 
@@ -20,198 +24,350 @@ Developer Point of Contact: first.last@email.tld
 
 ### Foreign Disclosure:
 
-- FD1 - This training product has been reviewed by the training developer in coordination with the \<INSERT ORG\> foreign disclosure officer. This training product can be used to instruct international military students in all approved countries.
+ - FD1 - This training product has been reviewed by the training developer in coordination with the U.S. Army Training and Doctrine Command foreign disclosure officer. This training product can be used to instruct international military students in all approved countries.
 
 ---
+
 ### SCOPE OF LESSON
- 
-This 3-hour lesson is an introductory level orientation to identifying misinformation and disinformation. The **end state** of this lesson **is for officials working in the information environment to accurately identify misinformation and disinformation. The** author's intent **is that participants learn principles and procedures for identifying misinformation and apply structured analytic techniques (SATs) to detect potential deception. This lesson reinforces the character attributes of accountability and responsibility.**
+
+This 2-hour lesson is an advanced level orientation to identifying misinformation and disinformation. The **end state** of this lesson **is for students to accurately identify misinformation and disinformation with a success rate of 90% within 24 hours of detection. The** author's intent **is that students learn to apply structured analytic techniques to detect potential deception and validate information sources. By the end of the lesson, students should have a solid grasp of the methods used to discern true information from falsehoods. This lesson is critical for operational effectiveness in information operations and** links to other parts of the curriculum** by reinforcing information analysis and validation skills.
 
 ### Learning Objectives
-### Terminal Learning Objective (TLO): 
-> Action: Identify misinformation and disinformation
-> Condition: Given an environment that allows the students to engage one another and the cadre openly, handouts, research capabilities, and tools for deception detection analysis.
-> Standard: Accurately identify misinformation and disinformation, ensuring that at least 95% of assessments are correct and report findings to the relevant authorities. Apply structured analytic techniques to detect potential deception.
+
+#### Terminal Learning Objective (TLO): 
+
+> **Action**: Identify misinformation and disinformation
+> **Condition**: Given a variety of information sources and the presence of suspicious information.
+> **Standard**: Accurately identify misinformation and disinformation with a success rate of 90% within 24 hours.
 
 ---
-### Enabling Learning Objective (ELO) _or_ Learning Step Activity (LSA):
- > Action: Assess the source of information
-> Condition: Given various information sources
-> Standard: Verify authorship and publication credibility
 
-### Enabling Learning Objective (ELO) _or_ Learning Step Activity( LSA):
-> Action: Analyze content for bias and inconsistencies
-> Condition: Given various information sources
-> Standard: Identify bias indicators and logical fallacies
-
-### Enabling Learning Objective (ELO) _or_ Learning Step Activity( LSA):
-> Action: Cross-verify information with trusted sources
-> Condition: Given various information sources
-> Standard: Find corroborative evidence from multiple reliable sources
-
-### Enabling Learning Objective (ELO) _or_ Learning Step Activity (LSA):
-> Action: Apply deception detection techniques
-> Condition: Given various information sources
-> Standard: Use structured analytic techniques to detect potential deception
+#### Enabling Learning Objective (ELO) / Learning Step Activity (LSA):
+ 
+> **Action**: Apply structured analytic techniques to detect potential deception
+> **Condition**: Provided with information sources and verification tools.
+> **Standard**: Correctly apply structured analytic techniques to identify misinformation and disinformation in at least 90% of provided examples.
 
 ---
 
 ### References
-1. Guidelines on Source Verification
-2. Bias Detection Frameworks
-3. Cross-Verification Techniques
-4. Deception Detection Techniques (Beebe and Pherson, 2015)
 
-## SECTION 1: **ADMINISTRATIVE DATA** 
-## Instructional Guidance
-Conduct of Lesson |**NOTE:** Before presenting this lesson, instructors must thoroughly prepare by studying this lesson and identifying reference material.
-Ensure that the classroom is set up with necessary equipment, including a whiteboard, computer, internet access, and verification tools. 
+1. Beebe, S. M., & Pherson, R. H. (2015). *Cases in Intelligence Analysis: Structured Analytic Techniques in Action*.
+2. Pherson, R. H., & Heuer, R. J. (2021). *Structured Analytic Techniques for Intelligence Analysis*.
 
-### **1. The importance of this lesson: (Why)**
+---
 
-Identifying misinformation and disinformation is crucial for maintaining information integrity and making informed decisions. This skill is essential for government employees who must discern credible information from false or misleading content.
+## SECTION 1: ADMINISTRATIVE DATA 
 
-### **2. What we want our students to Achieve: (Outcomes/Standard)**
+### Instructional Guidance
 
-Students will be able to accurately identify and report misinformation and disinformation using structured analytic techniques.
+**Conduct of Lesson** | **NOTE:** Before presenting this lesson, instructors must thoroughly prepare by studying this lesson and identifying reference material.
+- Review the Deception Detection techniques and examples. Familiarize yourself with the verification tools and scenarios provided.
+- Set up computer and projection equipment. Ensure all required materials and equipment are available and functional.
+- Print handouts and visual aids for distribution to students.
+
+### 1. The importance of this lesson: (Why)
+
+Understanding how to identify and analyze misinformation and disinformation is essential for maintaining the integrity of information operations. This skill is crucial for detecting and countering false information, which is vital for effective decision-making and maintaining operational security.
+
+### 2. What we want our students to Achieve: (Outcomes/Standard)
+
+Students will be able to accurately identify misinformation and disinformation using structured analytic techniques. Their assessments must align with the principles and techniques taught in the lesson, achieving a success rate of at least 90%.
 
 ### 3. A Possible Technique to Achieve the Outcome
-1. Engage students in practical exercises and discussions.
-2. Provide real-world examples and case studies for analysis.
+
+1. Interactive exercises where students analyze and verify information using the Deception Detection framework.
+2. Group discussions and reviews to reinforce learning and share analytical strategies.
+3. Hands-on practice with verification tools to build confidence and proficiency.
 
 ### 4. AAR Guidance for this Lesson
-1. Conduct an After Action Review (AAR) to discuss the effectiveness of the lesson and identify areas for improvement.
+
+1. Conduct an After Action Review (AAR) immediately following the lesson to discuss what went well, what could be improved, and how the techniques learned can be applied in real-world scenarios.
+2. Encourage students to provide feedback on the lesson and the effectiveness of the analytical tools used.
 
 ---
-## Lesson Requirements
-### Instructor Requirements
-An instructor must 
-1. Review the entire lesson plan.
-2. Be familiar with the required material and equipment.
-3. Attend a TRADOC-approved faculty course.
-4. Participate in the AAR for this lesson.
 
-### Additional Support 
+### Lesson Requirements
 
-#### Required or Requested Support
+#### Instructor Requirements
 
-#### Guidance for Assistant Instructors
+An instructor must:
+1. Review the entire lesson plan for each lesson they will cover.  
+2. Be able to obtain, access, and be familiar with the required material and equipment.
+3. Read and understand the referenced material.
+
+An instructor must attend the following training:
+
+1. TRADOC-approved faculty course
+2. Intelligence Analysis Certification
+
+An instructor should:
+
+1. Have received this block of instruction as a student
+2. Participated in this instruction as an assistant instructor for this lesson
+3. Participated in the AAR for this lesson
+
+#### Additional Support 
+
+##### Required or Requested Support
+
+1. Technical support to ensure all equipment and tools are functioning correctly.
+2. Assistant instructors to facilitate group activities and provide individual support.
+
+##### Guidance for Assistant Instructors
+
+1. Assist with distributing materials and setting up exercises.
+2. Provide guidance and support to students during practical exercises.
+3. Monitor student progress and provide feedback.
 
 ---
+
 ### Equipment and Material Required for Instruction
+
+Lesson Material, Ammo, Expendable, etc.
+
 | Equipment                        | Student Ratio | Instructor Ratio | Quantity | Expendable |
 | -------------------------------- | ------------- | ---------------- | -------- | ---------- |
-| Computer, Keyboard, Mouse        | 1:1           | 1:2              | 1 per student | no         |
-| Slides                           |               |                  | 1 set    | no         |
-| Projector                        |               |                  | 1        | no         |
-| Printed SATs Handout               | 1:1           | 1:2              | 1 per student | no         |
-| Misinformation Handouts                         |               |                  | 1 set per student | yes        |
+| Computers with internet access   | 1:1           | 1:2              |          | no         |
+| Verification tools               | 1:1           | 1:2              |          | no         |
+| Example scenarios                |               |                  | Various  | no         |
+| Projector and screen             |               |                  | 1        | no         |
+| Handouts and visual aids         | 1:1           | 1:2              |          | no         |
 
 ---
+
 ### Pre-Requisite Tasks
-1. Basic understanding of information sources.
+
+1. Complete introductory training on information operations and deception detection.
+2. Review basic principles of information analysis and validation.
+
 ---
+
 ### Knowledge Required
-1. Understanding of credible sources.
-2. Knowledge of source verification techniques.
+
+1. Basic understanding of information operations and misinformation.
+2. Familiarity with the Deception Detection framework.
+
 ---
+
 ### Skills Required
-1. Analytical skills.
-2. Attention to detail.
+
+1. Ability to use verification tools for information analysis.
+2. Critical analysis and attention to detail.
+
 ---
+
 ## Supporting Tasks
 
 ### Tasks Taught
-1. Assessing information sources.
-2. Analyzing content for bias and inconsistencies.
-3. Cross-verifying information with trusted sources.
-4. Applying deception detection techniques.
+
+1. Identifying misinformation and disinformation.
+2. Using structured analytic techniques for information validation.
 
 ### Tasks Supported
-1. Effective research skills.
-2. Critical thinking and analysis.
+
+1. Analytical skills and critical thinking.
+2. Information security and integrity.
 
 ### Tasks Reinforced
-1. Accurate information reporting.
+
+1. Recognition and analysis of misinformation and disinformation.
+2. Reporting and documenting findings accurately.
 
 ---
+
 ## Lesson Timeline
-| Academic (y/n) | Broad Topic             | EST TIME Min | Methods                        |
-| -------------- | ----------------------- | ------------ | ------------------------------ |
-| Instructor     | Instructor Rehearsal    | 5            | Preparation                    |
-| Instructor     | Classroom Setup         | 5            | Setup                          |
-| y              | Concrete Experience     | 15           | Identifying Misinformation     |
-| y              | Publish and Process     | 4           | Discussion on Information Sources |
-| y              | Generalize New Information | 40       | Identifying Reliable Sources   |
-| y              | Develop                 | 30           | Strategies for Verification    |
-| y              | Apply                   | 40           | Practical Exercise             |
-| y              | Assessment / Check On Learning | 30   | Summary and Feedback           |
-| END            |                         | 195          | Total                          |
+
+| Academic (y/n) | Broad Topic | EST TIME Min | Methods                        |
+| -------------- | ----------- | ------------ | ------------------------------ |
+| Instructor     |             | 5            | Instructor Rehearsal           |
+| Instructor     |             | 0            | Classroom Setup                |
+| y              |             | 15           | Concrete Experience            |
+| y              |             | 5            | Publish and Process            |
+| y              |             | 50           | Generalize New Information     |
+| y              |             | 30           | Develop                        |
+| y              |             | 20           | Apply                          |
+| y              |             | 10           | Assessment / Check On Learning |
 
 ---
+
 ## SECTION 2: LESSON INTRODUCTION
 
-## **Concrete Experience / Motivator:** 
-Tell an interesting anecdote based on your experience, or recall a recent current event pertaining to the lesson unit topic to gain the student's attention and motivate them to learn the lesson material. 
+**Concrete Experience / Motivator:** 
+NOTE: Tell an interesting anecdote based on your experience, or recall a recent current event pertaining to the lesson unit topic to gain the student's attention and motivate them to learn the lesson material. The student should be made aware of the Army's Contemporary Operational Environment factors such as the physical environment, military capabilities, technology, and information.
 
-An example could be:
 > Example Paraphrase goes here.
 
-**Instructional Lead-in:** 
-"The learning objectives for this block are to identify misinformation and disinformation, ensuring that at least 95% of assessments are correct and report findings to the relevant authorities."
+NOTE: Go to Slide X
 
-**Scope Statement:** During this 3-hour block of instruction, the students will learn how to assess the source of information, analyze content for bias and inconsistencies, cross-verify information with trusted sources, and apply deception detection techniques.
+**Instructional Lead-in:** 
+"The learning objectives for this block are to identify misinformation and disinformation effectively using structured analytic techniques for information validation."
+
+NOTE: Go to Slide X
+
+**Scope Statement:** During this 2-hour block of instruction, the students will learn to detect and analyze misinformation and disinformation using structured analytic techniques. They will participate in practical exercises to apply these techniques and gain confidence in their ability to validate information sources.
 
 ## Publish and Process
+
+NOTE: for 
+
 ---
 
 ## SECTION 3: LESSON PRESENTATION
-Generalize New Information, Develop, and Apply
 
-### Learning Step Activity (LSA) 1: Assess the Source of Information
+### Learning Step Activity (LSA) 1: Introduction to Deception Detection Framework
 
 #### SLIDE 1
-Discuss the importance of assessing the source of information. Explain how to verify authorship and publication credibility.
 
-### Learning Step Activity (LSA) 2: Analyze Content for Bias and Inconsistencies
+**Learning Step Activity Text:**
 
-#### SLIDE 2
-Explain how to identify bias indicators and logical fallacies in content. Discuss common types of bias and how they affect information integrity.
+> 1. **Overview of Deception Detection Framework**: Present an overview of the Deception Detection framework.
+> 2. **Components of Deception Detection**: Explain each component - Motive, Opportunity, Means; Past Opposition Practices; Manipulability of Sources; Evaluation of Evidence.
+> 3. **Memorization Activity**: Have students memorize the components of the Deception Detection framework.
 
-### Learning Step Activity (LSA) 3: Cross-Verify Information with Trusted Sources
+**Activity**
 
-#### SLIDE 3
-Demonstrate how to find corroborative evidence from multiple reliable sources. Discuss the importance of cross-verification in ensuring information accuracy.
+1. Present an overview of the Deception Detection framework. (5 minutes)
+2. Explain each component in detail. (10 minutes)
+3. Have students quiz each other to memorize the components. (5 minutes)
 
-### Learning Step Activity (LSA) 4: Apply Deception Detection Techniques
+### Learning Step Activity (LSA) 2: Detailed Analysis of Deception Detection Components
 
-#### SLIDE 4
-Introduce structured analytic techniques for detecting potential deception. Discuss the application of these techniques in real-world scenarios.
+#### SLIDE 2: Motive, Opportunity, and Means (MOM)
 
-#### Activity
-Practical exercises using verification tools to authenticate information and analyze case studies to identify potential misinformation.
+**Learning Step Activity Text:**
+
+> Assess the goals, channels, risks, costs, and feedback mechanisms available to the potential deceiver.
+
+**Activity**
+
+1. Present examples of different motives, opportunities, and means in influence operations:
+    - Example: Political gains from spreading false election results.
+    - Example: Using social media channels to disseminate false information.
+2. Discuss how to assess these components in various scenarios:
+    - Identify the goals and motives behind the information.
+    - Evaluate the channels available for spreading misinformation.
+    - Assess the risks and costs involved in the deception.
+
+#### SLIDE 3: Past Opposition Practices (POP)
+
+**Learning Step Activity Text:**
+
+> Determine if the adversary has a history of engaging in deception.
+
+**Activity**
+
+1. Present examples of historical precedents of deception:
+    - Example: Historical use of propaganda during wartime.
+    - Example: Previous instances of misinformation campaigns by rival states.
+2. Discuss how to identify patterns of past opposition practices in various scenarios:
+    - Analyze past behavior and tactics used in deception.
+    - Compare current scenarios with historical examples.
+
+#### SLIDE 4: Manipulability of Sources (MOSES)
+
+**Learning Step Activity Text:**
+
+> Evaluate the vulnerability of the source to manipulation.
+
+**Activity**
+
+1. Present examples of sources that can be manipulated:
+    - Example: Social media influencers with questionable affiliations.
+    - Example: Anonymous sources with unverifiable information.
+2. Discuss how to assess the manipulability of sources in various scenarios:
+    - Determine the reliability and credibility of the source.
+    - Analyze the source's access to information and track record.
+
+#### SLIDE 5: Evaluation of Evidence (EVE)
+
+**Learning Step Activity Text:**
+
+> Assess the accuracy and consistency of the evidence.
+
+**Activity**
+
+1. Present examples of evaluating evidence in influence operations:
+    - Example: Cross-referencing information from multiple sources.
+    - Example: Checking for consistency in reports from different channels.
+2. Discuss how to evaluate evidence in various scenarios:
+    - Verify the accuracy of the information provided.
+    - Identify inconsistencies and corroborate evidence from multiple sources.
+
+### Learning Step Activity (LSA) 3: Practical Application of Deception Detection Framework
+
+#### SLIDE 6: Practical Exercise
+
+**Activity**
+
+1. Divide students into groups and provide each group with a scenario to analyze using the Deception Detection framework. (10 minutes)
+2. Have each group present their findings to the class. (10 minutes)
+3. Provide feedback and discuss the effectiveness of their analysis. (10 minutes)
+
+### Learning Step Activity (LSA) 4: Group Analysis Activity
+
+#### SLIDE 7: Group Exercise
+
+**Activity**
+
+1. Each group receives a specific component of Deception Detection to analyze in a given scenario. (10 minutes)
+2. Groups present their analysis focusing on their assigned component. (10 minutes)
+3. Class discussion on how each component contributes to understanding the overall influence operation. (10 minutes)
 
 ---
 
 ## SECTION 4: SUMMARY
-During this block of instruction, we discussed the principles and techniques for identifying misinformation and disinformation. The key points of the lesson included:
 
-1. Assessing the source of information to ensure credibility.
-2. Analyzing content for bias and inconsistencies.
-3. Cross-verifying information with trusted sources.
-4. Applying deception detection techniques to identify potential misinformation.
+During this block of instruction, we have learned how to detect and analyze misinformation and disinformation using structured analytic techniques. You now have the skills to validate information sources and understand the importance of maintaining the integrity of information operations.
 
-**MOI: Discussion (small or large group)**
+**MOI**: Discussion (small or large group)
 
-**Check on learning:** (Terminal Learning Objective (TLO) Check on learning)
+**Check on learning:** 
 
-**Question:** How can you accurately identify misinformation and disinformation?
+**Question:** Why is it important to be able to identify misinformation and disinformation?
+  **Answer:** To maintain operational security and effectively counter false information.
 
-**Answer:** By assessing the source of information, analyzing content for bias and inconsistencies, cross-verifying information with trusted sources, and applying deception detection techniques.
+**Review/Summary:** During this block of instruction, we covered the Deception Detection framework and its application in analyzing misinformation and disinformation, and participated in practical exercises to apply these techniques.
 
-**Review/Summary:** During this block of instruction, we discussed how to identify misinformation and disinformation and the importance of accurate information reporting.
+---
 
 ## SECTION 5: STUDENT EVALUATION
-### Testing Requirement
-Students must demonstrate their ability to identify misinformation and disinformation by completing a practical exercise where they assess, analyze, cross-verify, and apply deception detection techniques to given information sources. The evaluation will ensure that at least 95% of assessments are correct.
 
+### Testing Requirement
+
+Students must demonstrate their ability to identify misinformation and disinformation by completing a practical exercise and achieving a success rate of at least 90%.
+
+---
+
+### Student Feedback Requirement
+
+Feedback is essential to effective learning. Schedule and provide feedback on the evaluation and any information to help answer class questions about the test. Provide remedial training as needed.
+
+---
+
+## APPENDIX A - Audio Visual Masters
+
+### Required Audio-Visual Material and Handouts
+
+| Sequence | Media Name                       | Attachment or URL | Media Type |
+| -------- | -------------------------------- | ----------------- | ---------- |
+| -        | Master Slide Deck - Deception Detection Framework |                   | ZIP        | 
+|          |                                  | https://url.com   | PPT        |
+
+---
+
+## APPENDIX B - Assessment Statement and Assessment Plan
+
+### Assessment Statement: 
+Students will be assessed on their ability to identify and analyze misinformation and disinformation. The assessment will involve practical exercises where students must apply the Deception Detection framework and achieve a success rate of at least 90%.
+
+### Assessment Plan: 
+The assessment procedures will include practical exercises, performance checklists, and constructive feedback. Students will be required to demonstrate their proficiency in identifying misinformation and disinformation and report their findings accurately.
+
+---
+
+## APPENDIX C - Practical Exercises and Solutions
+
+The practical exercises will involve analyzing various scenarios to identify misinformation and disinformation using the Deception Detection framework. Students will apply the techniques and tools learned during the lesson to complete these exercises. Detailed instructions and solutions will be provided to ensure thorough understanding and application of the skills.
+
+---
