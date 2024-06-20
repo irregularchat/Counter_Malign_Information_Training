@@ -197,10 +197,11 @@ Lesson Material, Ammo, Expendable, etc.
 
 **Concrete Experience / Motivator:** 
 NOTE: This concrete experience is designed to engage students and introduce the topic of AI content detection.
+NOTE: In this lesson Synthetic content means AI-generated content
 NOTE: Go to Slide 0
 
 Students write down any differences they notice:
-1. Display two sets of images, one original and one altered, and ask students to identify differences. (Images A and B) (5 minutes)
+1. Display two sets of images, one original and one synthetic, and ask students to identify differences. (Images A and B) (5 minutes)
 2. Display two sets of images, these are both real images but extraordinary in some way. Ask students to identify the fake image. (5 minutes)
 3. Students share their observations. (5 minutes)
 4. Reveal to the students which images were altered. Do NOT discuss the detection techniques used yet; instead, go to the publish and process phase. 
