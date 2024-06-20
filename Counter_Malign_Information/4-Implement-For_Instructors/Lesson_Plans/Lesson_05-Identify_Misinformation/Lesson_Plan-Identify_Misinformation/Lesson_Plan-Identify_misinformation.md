@@ -257,7 +257,11 @@ NOTE: for
 
 **Activity**
 
-1. Present examples of historical precedents of deception:
+1. Ask students for examples of historical precedents of deception:
+Have examples ready to provide if students are unsure. Specific examples could include:
+    - Ancient Greek and Roman military tactics.
+    - Historical use of propaganda during wartime including World War I and World War II.
+    - Previous instances of misinformation campaigns by rival states. 
     - Example: Historical use of propaganda during wartime.
     - Example: Previous instances of misinformation campaigns by rival states.
 2. Discuss how to identify patterns of past opposition practices in various scenarios:
