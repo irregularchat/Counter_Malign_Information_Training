@@ -198,11 +198,12 @@ Lesson Material, Ammo, Expendable, etc.
 **Concrete Experience / Motivator:** 
 NOTE: This concrete experience is designed to engage students and introduce the topic of AI content detection.
 NOTE: Go to Slide 0
-Students write down any differences they notice
+
+Students write down any differences they notice:
 1. Display two sets of images, one original and one altered, and ask students to identify differences. (Images A and B) (5 minutes)
-2. Display two sets of images, these are both real images but extrodinary in some way. Ask students to identify the fake image. (5 minutes)
+2. Display two sets of images, these are both real images but extraordinary in some way. Ask students to identify the fake image. (5 minutes)
 3. Students share their observations. (5 minutes)
-4. Reveal to the students which images were altered do NOT discuss the detection techniques used yet instead go to the publish and process phase. 
+4. Reveal to the students which images were altered. Do NOT discuss the detection techniques used yet; instead, go to the publish and process phase. 
 
 NOTE: Go to Slide 1
 
@@ -224,7 +225,9 @@ NOTE: Go to Slide 2
 
 ### Learning Step Activity (LSA) 1: Introduction to AI Content Detection
 
-#### SLIDE 1
+NOTE: Go to Slide 3
+
+#### SLIDE 3
 
 **Learning Step Activity Text:**
 
@@ -240,7 +243,9 @@ NOTE: Go to Slide 2
 
 ### Learning Step Activity (LSA) 2: Detailed Analysis of AI Content Detection Components
 
-#### SLIDE 2: Visual Cues
+NOTE: Go to Slide 4
+
+#### SLIDE 4: Visual Cues
 
 **Learning Step Activity Text:**
 
@@ -255,7 +260,9 @@ NOTE: Go to Slide 2
     - Analyze hands and limbs for anomalies.
     - Evaluate facial features for unnatural smoothness or discrepancies.
 
-#### SLIDE 3: Structural Consistency
+NOTE: Go to Slide 5
+
+#### SLIDE 5: Structural Consistency
 
 **Learning Step Activity Text:**
 
@@ -270,7 +277,9 @@ NOTE: Go to Slide 2
     - Verify the consistency of structural elements.
     - Check for natural interaction of light with objects.
 
-#### SLIDE 4: Textual Analysis
+NOTE: Go to Slide 6
+
+#### SLIDE 6: Textual Analysis
 
 **Learning Step Activity Text:**
 
@@ -285,7 +294,9 @@ NOTE: Go to Slide 2
     - Detect unnatural phrasing or syntax.
     - Ensure the text remains relevant to the topic discussed.
 
-#### SLIDE 5: Audio Analysis
+NOTE: Go to Slide 7
+
+#### SLIDE 7: Audio Analysis
 
 **Learning Step Activity Text:**
 
@@ -302,7 +313,9 @@ NOTE: Go to Slide 2
 
 ### Learning Step Activity (LSA) 3: Practical Application of AI Content Detection Techniques
 
-#### SLIDE 6: Practical Exercise
+NOTE: Go to Slide 8
+
+#### SLIDE 8: Practical Exercise
 
 **Activity**
 
@@ -312,7 +325,9 @@ NOTE: Go to Slide 2
 
 ### Learning Step Activity (LSA) 4: Group Analysis Activity
 
-#### SLIDE 7: Group Exercise
+NOTE: Go to Slide 9
+
+#### SLIDE 9: Group Exercise
 
 **Activity**
 
