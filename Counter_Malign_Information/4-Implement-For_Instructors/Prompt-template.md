@@ -123,10 +123,11 @@ An instructor should:
 ### Equipment and Material Required for Instruction
 
 Lesson Material, Ammo, Expendable, etc.
+%%replaced all the equipment and material with what is required for instruction%%
 
 | Equipment                        | Student Ratio | Instructor Ratio | Quantity | Expendable |
 | -------------------------------- | ------------- | ---------------- | -------- | ---------- |
-| #MacOS-Computer, #MacOS-Keyboard, #MacOS-Touchpad | 1:1           | 1:2              |          | no         |
+| %%computerxyz%%, #MacOS-Touchpad | 1:1           | 1:2              |          | no         |
 | #Slides                          |               |                  | 1        | no         |
 | #Projector                       |               |                  | 1        | no         |
 | #Terminal_app                    | 1:1           | 1:2              |          |            |
@@ -243,16 +244,16 @@ NOTE: Note goes here
 **Development**
 
 **Question**: 
-> /Why is knowing about MacOS and the apple terms of use important for your mission?
+> %%Question goes here%%
 
 **Check on learning:** 
 
-**Question**: /Are you allowed to Virtualize or Copy MacOS legally?
-  **Answer:** /No, Apple prohibits Virtualization of MacOS if not on a MacOS Device.
-
-**Question**: /Can Government owned MacOS Whiteline computers be used for Operations? 
-  **Answer:** /Yes. They also have better battery life and are common devices used globally 
-
+%%Question goes here%%
+> %%Answer goes here%%
+%%Question goes here%%
+> %%Answer goes here%%
+**Review/Summary:**
+%%Review/Summary goes here%%
 ---
 
 ## SECTION 4: SUMMARY
@@ -321,6 +322,7 @@ NOTE: %%Feedback is essential to effective learning. Schedule and provide feedba
 # Course context:
 Course is : Countering Malign Influence
 
+%% Use the order and duration information below to fill in the lesson plan template.%%
 Ordered	Objective Title	EST Total Min	Mode of Delivery	Day
 0	Event Start	50	Instruction (Resident)	1
 1	Creating AI Content	40	Blended	
@@ -337,88 +339,82 @@ TOTAL	1020 (17)
 
 # Lesson Context
 ## References
-### Technique 2: Deception Detection
+### AI Content Detection
+#### Authenticity of Content: Humans
+1. **Pay attention to the hands and fingers**. Extra fingers? Shape or size anomalies? Color discrepancies can be indicative of AI manipulation.
+2. **Pay attention to the limbs**. Are there extra limbs or limbs that reach impossibly far? These can be signs of synthetic manipulation.
+3. **Pay attention to the face**. High-end DeepFake manipulations often target facial transformations.
+4. **Pay attention to the cheeks and forehead**. Check for unnatural smoothness or excessive wrinkling. Mismatches in age appearance between the skin, hair, and eyes can signal manipulation.
+5. **Pay attention to the eyes and eyebrows**. Look for shadows in unusual places, which can indicate a failure to fully replicate natural lighting.
+6. **Pay attention to the glasses**. Check for consistent glare and changes as the person moves.
+7. **Pay attention to facial hair**. Does the facial hair look natural? Inconsistencies here are common in DeepFakes.
+8. **Pay attention to facial moles**. Evaluate whether moles appear realistic.
+9. **Pay attention to blinking**. Does the blinking frequency look natural?
+10. **Pay attention to the lip movements**. Watch for discrepancies in lip-syncing that could indicate a deepfake.
+[source](https://www.media.mit.edu/projects/detect-fakes/overview/)
+Test yourself at spotting AI-generated content [here](https://detectfakes.kellogg.northwestern.edu/)
 
-_“Analysts should routinely consider the possibility that adversaries are attempting to mislead them or to hide important information. The possibility of deception cannot be rejected simply because there is no evidence of it; if deception is well done, one should not expect to see evidence of it.”_ _(Beebe and Pherson, 2015, p. 134)_
+#### Authenticity of Content: Buildings and Scenes
+1. **Structural Consistency**: Verify the consistency of structural elements like windows and doors.
+2. **Material Texture**: Look for sudden changes in texture, which AI often struggles with.
+3. **Lighting and Shadows**: Check for natural interaction of light with objects, noting any inconsistencies.
+4. **Perspective and Geometry**: Identify any distorted perspectives or geometries in the scene.
+5. **Repetition in Detail**: Be wary of unnaturally repeated elements, such as furniture or decorations.
+6. **Logic of the Scene**: Ensure all elements make logical sense within their contexts.
+7. **Missing Elements**: Notice absent details that should be present, like light bulbs or chimneys.
+8. **Nonsensical Object Placement**: Check for illogically placed objects.
+9. **Inconsistent Architectural Elements**: Evaluate the logic behind the placement and number of elements like appliance controls.
+10. **Distorted Patterns and Textures**: Check for continuity in patterns and textures across different surfaces.
+11. **Disrupted Continuity**: Look for misalignments in elements that should connect seamlessly.
+12. **Anomalies in Common Patterns**: AI may struggle with maintaining symmetry, especially in detailed patterns.
 
-*“Deception is an action intended by an adversary to influence the perceptions, decisions, or actions of another to the advantage of the deceiver. Deception Detection uses a set of checklists to help analysts determine when to look for deception, discover whether deception actually is present, and figure out what to do to avoid being deceived.” (Pherson and Heuer, 2021, p. 255)*
+#### Resources to Detect Synthetic Images
+- [Wasitai Detector](https://wasitai.com)
 
+#### Authenticity of Content: Animals
+#### Authenticity of Content: Text
+1. **Language Consistency**: Detect unnatural phrasing or syntax that may indicate AI-generated text.
+2. **Contextual Relevance**: Ensure the text remains relevant to the topic discussed, as AI can veer off-topic.
+3. **Repetition**: Note repetitive phrases or words, which are common in AI-generated content.
 
-**STEP 1**: Assess whether a good case can be made to employ Deception Detection techniques using Table 4.3 as your guide. If a case can be made that Cuba is motivated to deceive, state this as a hypothesis to be proved or disproved.” (Beebe and Pherson, 2015, p. 161)
-“Analysts should be concerned about the possibility of deception when the following occurs:
+#### Resources to Detect Synthetic Text
+- [Scribbr AI Detector](https://www.scribbr.com/ai-detector/)
 
-1. The analysis hinges on a single critical piece of information or reporting.
-2. Key information is received at a critical time—that is, when either the recipient or the potential deceiver has a great deal to gain or to lose.
-3. Accepting new information would cause the recipient to expend or divert significant resources.
-4. Accepting new information would require the analyst to alter a key assumption or key judgment.
-5. The potential deceiver may have a feedback channel that illuminates whether and how the deception information is being processed and to what effect.
-6. Information is received from a source whose bona fides are questionable.
-7. The potential deceiver has a history of conducting deception.” (Pherson and Heuer, 2021, p. 256)
+#### Authenticity of Content: Audio
+1. **Voice Consistency**: Check for consistency in the voice's timbre and pitch over time.
+2. **Background Noise**: Listen for inconsistencies or artificial sounding backgrounds.
+3. **Speech Patterns**: Notice any unnatural pauses or changes in speech rhythm.
 
-![](media/table-4.3.png)
+##### Source
+- [Media Lab at MIT on Detecting Fakes](https://www.media.mit.edu/projects/detect-fakes/overview/)
+- [Detect Fakes with Kellogg's online tool](https://detectfakes.kellogg.northwestern.edu/)
+- [CISA Contextualizing Deepfake Threats to Organizations](https://media.defense.gov/2023/Sep/12/2003298925/-1/-1/0/CSI-DEEPFAKE-THREATS.PDF)
+- [DARPA: Deepfake Defense Tech Ready for Commercialization, Transition](https://www.darpa.mil/news-events/2024-03-14#:~:text=Through%20the%20Semantic%20Forensics%20)
 
-
-**STEP 2**: Consider Motive, Opportunity, and Means; Past Opposition Practices; Manipulability of Sources; and Evaluation of Evidence for the potential deceiver. Use the templates and questions in Table 4.4 as your guide. (Beebe and Pherson, 2015, p. 135)
-#### Motive, Opportunity, and Means (MOM)
-
-1. Motive: What are the goals and motives of the potential deceiver?
-2. Channels: What means are available to the potential deceiver to feed information to us?
-3. Risks: What consequences would the adversary suffer if such a deception were revealed?
-4. Costs: Would the potential deceiver need to sacrifice sensitive information to establish the credibility of the deception channel?
-5. Feedback: Does the potential deceiver have a feedback mechanism to monitor the impact of the deception operation? (Pherson and Heuer, 2021, p. 261)
-#### Past Opposition Practices (POP)
-
-1. Does the adversary have a history of engaging in deception?
-2. Does the current circumstance fit the pattern of past deceptions?
-3. If not, are there other historical precedents?
-4. If not, are there changed circumstances that would explain using this form of deception at this time? (Pherson and Heuer, 2021, p. 262)
-#### Manipulability of Sources (MOSES)
-
-1. Is the source vulnerable to control or manipulation by the potential deceiver?
-2. What is the basis for judging the source to be reliable?
-3. Does the source have direct access or only indirect access to the information?
-4. How good is the source’s track record of reporting? (Pherson and Heuer, 2021, p. 263)
-
-#### Evaluation of Evidence (EVE)
-
-1. How accurate is the source’s reporting? Has the whole chain of evidence, including translations, been checked?
-2. Does the critical evidence check out? Remember, the subsource can be more critical than the source.
-3. Does evidence from one source of reporting (e.g., human intelligence) conflict with that coming from another source (e.g., signals intelligence or open-source reporting)?
-4. Do other sources of information provide corroborating evidence?
-5. Is the absence of evidence one would expect to see noteworthy? (Pherson and Heuer, 2021, p. 264)
-![](media/table-4.4.png)
-
-Analytic Value Added. Summarize the results of all four matrices in terms of whether they tend to prove or disprove the deception hypothesis. Did the technique expose any embedded assumptions or critical gaps that need to be examined more critically? (Beebe and Pherson, 2015, p. 136)
-
-Beebe, S. M., & Pherson, R. H. (2015). _Cases in intelligence analysis: Structured analytic techniques in action_ (Second edition). Sage.
-
-Pherson, R. H., & Heuer, R. J. (2021). _Structured analytic techniques for intelligence analysis_ (Third edition). SAGE, CQ Press.
-
-////
-///
 ## Objective Focuse
 THIS IS THE FOCUS OF THE OBJECTIVE
-## Objective #005
+## Objective #002
 ### Action:
-Identify misinformation and disinformation.
+Identify AI-generated content.
 
 ### Condition:
-Given a variety of information sources and the presence of suspicious information.
+Triggered by the presence of suspected AI-generated content.
 
 ### Associated Task or Educational Topic:
-Identifying Misinformation and Disinformation
+Recognize AI Generated Content
 
 ### Standard:
-Accurately identify misinformation and disinformation with a success rate of 90% within 24 hours.
+Identify AI-generated content with a success rate of 90% within 24 hours of detection.
 
 ### GLO Supported:
-Demonstrate proficiency in information analysis and validation.
+Improve skills in detecting and verifying digital content.
 
 ### Domain and Mastery Level:
-Cognitive - Application
+Cognitive - Evaluation
 
 ### Criticality Standard:
-Critical for operational effectiveness in information operations.
+Critical for maintaining the integrity of information.
+
 
 ---
 
@@ -428,86 +424,99 @@ Critical for operational effectiveness in information operations.
 here's what I got so far with a advanced organizer:
 ///
 ///
-# Identify Misinformation
+# Advanced Organizer: Recognizing AI-Generated Content
+
 ## Learning Objective
- **Action:** Identify misinformation and disinformation effectively.
+**Action:** Recognize AI-Generated Content.
 
- **Conditions:** 
-Given an environment that allows the students to engage one another and the cadre openly, handouts, research capabilities, and tools for deception detection analysis.
+**Conditions:** 
+Given an environment that allows the students to engage one another and the cadre openly, handouts, visual aids, research capabilities, and AI content detection tools.
 
- **Standards:** 
-Accurately identify misinformation and disinformation, ensuring that at least 95% of assessments are correct and report findings to the relevant authorities. Apply structured analytic techniques to detect potential deception.
+**Standards:** 
+Accurately identify AI-generated content by detecting inconsistencies and manipulation artifacts, ensuring that at least 90% of assessments are correct and report findings to the relevant authorities.
 
 ---
 
 ## Quick Information
-| Title                       | Comment                                                                                                                    |
-| --------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| Intended Audience           | Officials working in the information environment                                                                           |
-| Learning Domain             | Cognitive                                                                                                                  |
-| Training Resources Required | Computer, internet access, information databases, analytical software, reporting templates, deception detection checklists |
-| Total Duration              | 130 mins (70,break,50,break,10)                                                                                            |
+| Title                       | Comment                                                                                      |
+| --------------------------- | -------------------------------------------------------------------------------------------- |
+| Intended Audience           | Government employees                                                                         |
+| Learning Domain             | Cognitive                                                                                    |
+| Training Resources Required | Computer, internet access, AI content detection tools, example images, handouts, visual aids |
+| Total Duration              | 120                                                                                          |
 
 ---
+
 # Performance Steps
 
-1. Assess the source of information.
-2. Analyze the content for bias and inconsistencies.
-3. Cross-verify information with trusted sources.
-4. Apply Deception Detection techniques to identify potential misinformation.
+1. Pay attention to specific visual cues (e.g., hands, limbs, face).
+2. Analyze structural consistency in buildings and scenes.
+3. Verify textual content for unnatural language patterns.
+4. Check audio content for consistency and natural flow.
 
 ---
+
 # Lesson ELM Steps
 
-| Time | ELM Phase            | Comment                       |
-| ---- | -------------------- | ----------------------------- |
-| 15   | Concrete Experience  | Identifying Misinformation    |
-|      |                      |                               |
-1. _Write down two statements on the whiteboard, both of which are lies, but one is more egregious than the other._ 
-    - Statement 1: "The Earth is flat." (Instructor may create a more egregious lie)
-    - Statement 2: "The Earth is a cube." (Instructor may create a less egregious lie)
-2. _Ask students to identify which statement they believe is true and explain why._ _Ask students “What was challenging about determining if the statements on the whiteboard were true or false?”_ (5 minutes)
+| Time   | ELM Phase           | Comment              |
+| ------ | ------------------- | -------------------- |
+| 15 min | Concrete Experience | Spotting Differences |
 
-| Time | ELM Phase           | Comment                           |
-| ---- | ------------------- | --------------------------------- |
-| 5    | Publish and Process | Discussion on Information Sources |
-|      |                     |                                   |
-1.  Transition from Concrete Experience to Publish and Process(1 minute)
-2. _Introduce the learning objectives._ (3 minutes)
-3. Plainly let the student know "By the end of this lesson you will be able to identify misinformation and disinformation effectively." (1 minute)
 
-| Time | ELM Phase                  | Comment                      |
-| ---- | -------------------------- | ---------------------------- |
-| 50   | Generalize New Information | Identifying Reliable Sources |
-|      |                            |                              |
-1. Terms covered: Misinformation, Disinformation, Reliable Sources, Unreliable Sources, Verification Tools, Deception Detection Techniques (5 minutes) [Slides]
-3. _Compare and contrast the characteristics of reliable information sources vs misinformation sources._ (5 minutes)
-4. Discuss the process of cross-verify information with trusted sources (10 minutes)
-5. Introduce steps for discovering inconsistencies in information (10 minutes)
-6. _Introduce Deception Detection techniques and their importance (Beebe and Pherson, 2015)._ (10 minutes) [Past Opposition Practices (POP), Manipulability of Sources (MOSES) handouts]
-7. _Demonstrate how to use verification tools to authenticate information._ (10 minutes)
-################BREAK################
+Students write down any differences they notice
+1. Display two sets of images, one original and one altered, and ask students to identify differences. (Images A and B) (5 minutes)
+2. Display two sets of images, these are both real images but extrodinary in some way. Ask students to identify the fake image. (5 minutes)
+3. Students share their observations. (5 minutes)
+4. Reveal to the students which images were altered do NOT discuss the detection techniques used yet instead go to the publish and process phase. 
 
-| Time | ELM Phase            | Comment                       |
-| ---- | -------------------- | ----------------------------- |
-| 30   | Develop              | Strategies for Verification   |
-|      |                      |                               |
-1. _Ask students how they will apply these techniques in their roles._ (10 minutes)
-2. _Have students survey sources of information in their country and assess their reliability._ (20 minutes)
 
-| Time | ELM Phase | Comment            |
-| ---- | --------- | ------------------ |
-| 20   | Apply     | Practical Exercise |
-|      |           |                    |
-1. _Ask students to verify a given piece of information using the techniques learned and present their findings to the class._ (20 minutes)
-2. _Use Deception Detection checklists to analyze a case study and identify potential misinformation._ (20 minutes)
-################BREAK################
+| Time  | ELM Phase           | Comment                    |
+| ----- | ------------------- | -------------------------- |
+| 5 min | Publish and Process | Discussion on Observations |
 
-| Time | ELM Phase         | Comment              |
-| ---- | ----------------- | -------------------- |
-| 10   | Check On Learning | Summary and Feedback |
-|      |                   |                      |
-1. _Provide feedback on the practical exercise._ (10 minutes)
-2. _Summarize the key points of the lesson._ (10 minutes)
-3. _Answer any remaining questions from students._ (5 minutes)
-4. _Discuss any embedded assumptions or critical gaps exposed during the analysis._ (5 minutes)
+1. Introduce the learning objectives.
+2. Tell the students "By the end of this lesson, you will be able to recognize AI-generated content effectively using specific detection techniques for images, text, and audio. 
+
+| Time   | ELM Phase                  | Comment                             |
+| ------ | -------------------------- | ----------------------------------- |
+| 60 min | Generalize New Information | Techniques for Detecting AI Content |
+
+
+1. **Visual Aid**: Use handouts and visual aids to illustrate common signs of AI-generated content.
+2. **Comparison**: Compare characteristics of authentic vs. AI-generated content.
+3. **Techniques**: Introduce techniques for detecting AI manipulations (e.g., analyzing hands, facial features, and structural consistency).
+4. **Demonstration**: Demonstrate using an AI content detection tool to identify manipulated content.
+
+| Time  | ELM Phase            | Comment                                   |
+| ----- | -------------------- | ----------------------------------------- |
+| 20 min | Develop              | Applying Detection Techniques             |
+|       |                      |                                           |
+1. **Application**: Ask students how they will apply these techniques in their roles.
+2. **Practice**: Have students practice detecting AI-generated content using example images and tools.
+
+| Time   | ELM Phase | Comment            |
+| ------ | --------- | ------------------ |
+| 30 min | Apply     | Practical Exercise |
+
+1. **Exercise**: Provide students with various media types (images, text, audio) and ask them to identify AI-generated content.
+2. **Review**: Students present their findings and discuss the effectiveness of their detection methods.
+3. **Feedback**: Provide constructive feedback on their observations and analysis.
+
+| Time  | ELM Phase         | Comment              |
+| ----- | ----------------- | -------------------- |
+| 6 min | Check On Learning | Summary and Feedback |
+
+1. **Summary**: Recap the key points of the lesson.
+2. **Q&A**: Answer any remaining questions from students.
+3. **Reflection**: Discuss how the activity demonstrated the importance of attention to detail in recognizing AI-generated content.
+4. **Future Application**: Encourage students to apply these techniques in their professional tasks involving AI detection.
+
+---
+
+# Lesson References
+
+- [Media Lab at MIT on Detecting Fakes](https://www.media.mit.edu/projects/detect-fakes/overview/)
+- [Detect Fakes with Kellogg's online tool](https://detectfakes.kellogg.northwestern.edu/)
+- [CISA Contextualizing Deepfake Threats to Organizations](https://media.defense.gov/2023/Sep/12/2003298925/-1/-1/0/CSI-DEEPFAKE-THREATS.PDF)
+- [DARPA: Deepfake Defense Tech Ready for Commercialization, Transition](https://www.darpa.mil/news-events/2024-03-14#:~:text=Through%20the%20Semantic%20Forensics%20)
+- [Scribbr AI Detector](https://www.scribbr.com/ai-detector/)

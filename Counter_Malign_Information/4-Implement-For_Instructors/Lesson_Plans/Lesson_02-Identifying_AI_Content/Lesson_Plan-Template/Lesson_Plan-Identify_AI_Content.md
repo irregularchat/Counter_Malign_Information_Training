@@ -142,9 +142,9 @@ Lesson Material, Ammo, Expendable, etc.
 
 ### Knowledge Required
 
-1. Basic understanding of AI and machine learning.
+1. Basic understanding of AI as a user.
 2. Familiarity with digital content creation and manipulation techniques.
-
+3. Familiarity with social media platforms and digital communication.
 ---
 
 ### Skills Required
@@ -233,12 +233,10 @@ Share an anecdote about a recent case of AI-generated content being used to spre
 
 **Check on learning:** 
 
-**Question**: Are you allowed to virtualize or copy MacOS legally?
-  **Answer:** No, Apple prohibits virtualization of MacOS if not on a MacOS device.
+**Question:** What are some visual cues that can help you identify AI-generated images?
+**Answer:** Hands, limbs, facial features, etc.
 
-**Question**: Can government-owned MacOS computers be used for operations? 
-  **Answer:** Yes. They have better battery life and are common devices used globally.
-
+**Review/Summary:** During this activity, we practiced identifying inconsistencies in AI-generated images. We will now move on to the next activity to further develop our detection skills.
 ---
 
 ## SECTION 4: SUMMARY
