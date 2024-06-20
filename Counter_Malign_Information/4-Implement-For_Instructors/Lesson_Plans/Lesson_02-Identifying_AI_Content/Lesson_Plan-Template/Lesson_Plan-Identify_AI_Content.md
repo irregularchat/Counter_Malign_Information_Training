@@ -1,10 +1,11 @@
+# Lesson Plan Template
 ## SECTION 0: LESSON OVERVIEW
 
 ### Lesson Information
 
-**Lesson Title**: Recognizing and Verifying AI-Generated Content
+**Lesson Title**: Identifying AI-Generated Content
 
-**Program of Instruction (POI)**: Countering Malign Influence / Version 1.0
+**Program of Instruction (POI)**: 002-Countering Malign Influence / Version 1.0
 
 **Developer Point of Contact**: john.doe@email.tld
 
@@ -24,62 +25,62 @@
 
 ### Foreign Disclosure:
 
- - FD1 - This training product has been reviewed by the training developer in coordination with the Foreign Disclosure Officer (FDO) of the U.S. Army Training and Doctrine Command. This training product can be used to instruct international military students in all approved countries.
+ - FD1 - This training product has been reviewed by the training developer in coordination with the U.S. Army Training and Doctrine Command foreign disclosure officer. This training product can be used to instruct international military students in all approved countries.
 
 ---
 
 ### SCOPE OF LESSON
 
-This 2-hour lesson is an advanced level orientation to recognizing and verifying AI-generated content. The **end state** of this lesson **is for students to accurately identify AI-generated content by detecting inconsistencies and manipulation artifacts. The** author's intent **is that students learn AI content detection principles and techniques and choose appropriate actions during a series of practical exercises. By the end of the lesson, students should have a solid grasp of how to recognize and report AI-generated content. This lesson is crucial for maintaining the integrity of information and links to other parts of the curriculum** by reinforcing digital literacy and critical analysis skills.
+This 2-hour lesson is an advanced level orientation to identifying AI-generated content. The **end state** of this lesson **is for students to accurately identify AI-generated content with a success rate of 90% within 24 hours of detection. The author's intent is that students learn to apply structured analytic techniques to detect AI-generated content and validate information sources. By the end of the lesson, students should have a solid grasp of the methods used to discern true information from falsehoods. This lesson is critical for maintaining the integrity of information and** links to other parts of the curriculum** by reinforcing information analysis and validation skills.
 
 ### Learning Objectives
 
 #### Terminal Learning Objective (TLO): 
 
-> **Action**: Recognize and Verify AI-Generated Content
-> **Condition**: Given an environment that allows the students to engage one another and the cadre openly, handouts, visual aids, research capabilities, and AI content detection tools.
-> **Standard**: Identify AI-generated content with a success rate of 90% within 24 hours of detection and report findings to the relevant authorities.
+> **Action**: Identify AI-generated content
+> **Condition**: Given a variety of media types and the presence of suspected AI-generated content.
+> **Standard**: Accurately identify AI-generated content with a success rate of 90% within 24 hours.
 
 ---
 
 #### Enabling Learning Objective (ELO) / Learning Step Activity (LSA):
  
-> **Action**: Detect Inconsistencies in AI-Generated Content
-> **Condition**: Provided with examples of AI-generated content and detection tools.
-> **Standard**: Correctly identify inconsistencies and manipulation artifacts in at least 90% of provided examples.
+> **Action**: Apply structured analytic techniques to detect AI-generated content
+> **Condition**: Provided with media examples and detection tools.
+> **Standard**: Correctly apply structured analytic techniques to identify AI-generated content in at least 90% of provided examples.
 
 ---
 
 ### References
 
-1. Media Lab at MIT on Detecting Fakes - [Link](https://www.media.mit.edu/projects/detect-fakes/overview/)
-2. Detect Fakes with Kellogg's Online Tool - [Link](https://detectfakes.kellogg.northwestern.edu/)
-3. CISA Contextualizing Deepfake Threats to Organizations - [Link](https://media.defense.gov/2023/Sep/12/2003298925/-1/-1/0/CSI-DEEPFAKE-THREATS.PDF)
-4. DARPA: Deepfake Defense Tech Ready for Commercialization, Transition - [Link](https://www.darpa.mil/news-events/2024-03-14#:~:text=Through%20the%20Semantic%20Forensics%20)
-5. Scribbr AI Detector - [Link](https://www.scribbr.com/ai-detector/)
+1. [Media Lab at MIT on Detecting Fakes](https://www.media.mit.edu/projects/detect-fakes/overview/)
+2. [Detect Fakes with Kellogg's online tool](https://detectfakes.kellogg.northwestern.edu/)
+3. [CISA Contextualizing Deepfake Threats to Organizations](https://media.defense.gov/2023/Sep/12/2003298925/-1/-1/0/CSI-DEEPFAKE-THREATS.PDF)
+4. [DARPA: Deepfake Defense Tech Ready for Commercialization, Transition](https://www.darpa.mil/news-events/2024-03-14#:~:text=Through%20the%20Semantic%20Forensics%20)
+5. [Scribbr AI Detector](https://www.scribbr.com/ai-detector/)
 
 ## SECTION 1: ADMINISTRATIVE DATA 
 
 ### Instructional Guidance
 
 **Conduct of Lesson** | **NOTE:** Before presenting this lesson, instructors must thoroughly prepare by studying this lesson and identifying reference material.
-- Review AI-generated content detection tools and techniques. Familiarize yourself with example images, texts, and audio files.
-- Set up computer and projection equipment. Ensure AI content detection tools are installed and functional.
+- Review the AI content detection techniques and examples. Familiarize yourself with the verification tools and scenarios provided.
+- Set up computer and projection equipment. Ensure all required materials and equipment are available and functional.
 - Print handouts and visual aids for distribution to students.
 
 ### 1. The importance of this lesson: (Why)
 
-Understanding how to recognize and verify AI-generated content is essential for maintaining the integrity of information. This skill is crucial for identifying misinformation and protecting against digital manipulation, which is vital for operational security and effective decision-making.
+Understanding how to identify and analyze AI-generated content is essential for maintaining the integrity of information operations. This skill is crucial for detecting and countering false information, which is vital for effective decision-making and maintaining operational security.
 
 ### 2. What we want our students to Achieve: (Outcomes/Standard)
 
-Students will be able to accurately identify AI-generated content by detecting inconsistencies and manipulation artifacts. Their choices must align with the principles and techniques taught in the lesson, achieving a success rate of at least 90%.
+Students will be able to accurately identify AI-generated content using structured analytic techniques. Their assessments must align with the principles and techniques taught in the lesson, achieving a success rate of at least 90%.
 
 ### 3. A Possible Technique to Achieve the Outcome
 
-1. Interactive exercises where students analyze and identify AI-generated content using provided tools.
-2. Group discussions and reviews to reinforce learning and share detection strategies.
-3. Hands-on practice with AI content detection tools to build confidence and proficiency.
+1. Interactive exercises where students analyze and verify content using AI detection tools.
+2. Group discussions and reviews to reinforce learning and share analytical strategies.
+3. Hands-on practice with detection tools to build confidence and proficiency.
 
 ### 4. AAR Guidance for this Lesson
 
@@ -93,16 +94,20 @@ Students will be able to accurately identify AI-generated content by detecting i
 #### Instructor Requirements
 
 An instructor must:
+1. Review the entire lesson plan for each lesson they will cover.  
+2. Be able to obtain, access, and be familiar with the required material and equipment.
+3. Read and understand the referenced material.
 
-1. Review the entire lesson plan thoroughly.
-2. Be familiar with AI content detection tools and techniques.
-3. Read and understand the references provided.
+An instructor must attend the following training:
+
+1. TRADOC-approved faculty course
+2. Intelligence Analysis Certification
 
 An instructor should:
 
-1. Have experience with influence operations analysis.
-2. Have previously taught or assisted with this lesson.
-3. Have experience as an instructor in a military or academic setting.
+1. Have received this block of instruction as a student
+2. Participated in this instruction as an assistant instructor for this lesson
+3. Participated in the AAR for this lesson
 
 #### Additional Support 
 
@@ -123,33 +128,33 @@ An instructor should:
 
 Lesson Material, Ammo, Expendable, etc.
 
-| Equipment                        | Student Ratio | Instructor Ratio | Quantity | Expendable |
-| -------------------------------- | ------------- | ---------------- | -------- | ---------- |
-| Computers with internet access   | 1:1           | 1:2              |          | no         |
-| AI content detection tools       | 1:1           | 1:2              |          | no         |
-| Example images, texts, and audio |               |                  | Various  | no         |
-| Projector and screen             |               |                  | 1        | no         |
-| Handouts and visual aids         | 1:1           | 1:2              |          | no         |
+| Equipment                               | Student Ratio | Instructor Ratio | Quantity | Expendable |
+| --------------------------------------- | ------------- | ---------------- | -------- | ---------- |
+| Computers with internet access          | 1:1           | 1:2              |          | no         |
+| AI content detection tools              | 1:1           | 1:2              |          | no         |
+| Example scenarios and media files       |               |                  | Various  | no         |
+| Projector and screen                    |               |                  | 1        | no         |
+| Handouts and visual aids                | 1:1           | 1:2              |          | no         |
 
 ---
 
 ### Pre-Requisite Tasks
 
-1. Complete introductory training on AI and machine learning.
-2. Review basic principles of digital content creation and manipulation.
+1. Complete introductory training on AI and digital content.
+2. Review basic principles of information analysis and validation.
 
 ---
 
 ### Knowledge Required
 
-1. Basic understanding of AI as a user.
-2. Familiarity with digital content creation and manipulation techniques.
-3. Familiarity with social media platforms and digital communication.
+1. Basic understanding of AI and its applications.
+2. Familiarity with the techniques for detecting AI-generated content.
+
 ---
 
 ### Skills Required
 
-1. Ability to use AI content detection tools.
+1. Ability to use AI detection tools for content analysis.
 2. Critical analysis and attention to detail.
 
 ---
@@ -158,99 +163,177 @@ Lesson Material, Ammo, Expendable, etc.
 
 ### Tasks Taught
 
-1. Identifying AI-generated images, text, and audio.
-2. Using AI content detection tools effectively.
+1. Identifying AI-generated content.
+2. Using structured analytic techniques for information validation.
 
 ### Tasks Supported
 
-1. Digital literacy and critical analysis.
+1. Analytical skills and critical thinking.
 2. Information security and integrity.
 
 ### Tasks Reinforced
 
-1. Recognition and verification of digital content.
+1. Recognition and analysis of AI-generated content.
 2. Reporting and documenting findings accurately.
 
 ---
 
 ## Lesson Timeline
 
-| Academic (y/n) | Broad Topic | EST TIME Min | Methods                        |
-| -------------- | ----------- | ------------ | ------------------------------ |
-| Instructor     |             | 5            | Instructor Rehearsal           |
-| Instructor     |             | 0            | Classroom Setup                |
-| y              |             | 5            | Concrete Experience            |
-| y              |             | 5            | Publish and Process            |
-| y              |             | 60           | Generalize New Information     |
-| y              |             | 20           | Develop                        |
-| y              |             | 30           | Apply                          |
-| y              |             | 6            | Assessment / Check On Learning |
+| Academic (y/n) | Broad Topic                   | EST TIME Min | Methods                        |
+| -------------- | ----------------------------- | ------------ | ------------------------------ |
+| Instructor     |                               | 5            | Instructor Rehearsal           |
+| Instructor     |                               | 0            | Classroom Setup                |
+| y              | Concrete Experience           | 15           | Spotting Differences           |
+| y              | Publish and Process           | 5            | Discussion on Observations     |
+| y              | Generalize New Information    | 60           | Techniques for Detecting AI    |
+| y              | Develop                       | 20           | Applying Detection Techniques  |
+| y              | Apply                         | 30           | Practical Exercise             |
+| y              | Assessment / Check On Learning| 10           | Summary and Feedback           |
 
 ---
 
 ## SECTION 2: LESSON INTRODUCTION
 
 **Concrete Experience / Motivator:** 
-Share an anecdote about a recent case of AI-generated content being used to spread misinformation. Highlight the importance of being able to detect such content to maintain the integrity of information.
+NOTE: This concrete experience is designed to engage students and introduce the topic of AI content detection.
+NOTE: Go to Slide 0
+Students write down any differences they notice
+1. Display two sets of images, one original and one altered, and ask students to identify differences. (Images A and B) (5 minutes)
+2. Display two sets of images, these are both real images but extrodinary in some way. Ask students to identify the fake image. (5 minutes)
+3. Students share their observations. (5 minutes)
+4. Reveal to the students which images were altered do NOT discuss the detection techniques used yet instead go to the publish and process phase. 
 
-> Example: "In a recent incident, AI-generated images were used to spread false information about a natural disaster. The images were so convincing that many people believed them to be real, leading to widespread panic. This lesson will equip you with the skills to recognize and verify such content, preventing similar incidents in the future."
+NOTE: Go to Slide 1
 
 **Instructional Lead-in:** 
-"The learning objectives for this block are to recognize and verify AI-generated content effectively using specific detection techniques for images, text, and audio. By the end of this lesson, you will be able to accurately identify AI-generated content and report your findings."
+"The learning objectives for this block are to recognize AI-generated content effectively using specific detection techniques for images, text, and audio."
 
-**Scope Statement:** During this 2-hour block of instruction, the students will learn to detect inconsistencies in AI-generated content using various techniques and tools. They will participate in practical exercises to apply these techniques and gain confidence in their ability to recognize AI manipulations.
+NOTE: Go to Slide 2
+
+**Scope Statement:** During this 2-hour block of instruction, the students will learn to detect and analyze AI-generated content using structured analytic techniques. They will participate in practical exercises to apply these techniques and gain confidence in their ability to validate information sources.
 
 ## Publish and Process
 
 1. Introduce the learning objectives.
-2. Explain the significance of being able to detect AI-generated content in maintaining the integrity of information.
+2. Explain the significance of being able to detect and analyze AI-generated content.
 
 ---
 
 ## SECTION 3: LESSON PRESENTATION
 
-### Learning Step Activity (LSA) 1: Detecting Inconsistencies in AI-Generated Content
+### Learning Step Activity (LSA) 1: Introduction to AI Content Detection
 
 #### SLIDE 1
 
 **Learning Step Activity Text:**
 
-> 1. **Visual Cues**: Identify specific visual cues in AI-generated images, such as hands, limbs, and facial features.
-> 2. **Structural Consistency**: Verify the consistency of structural elements like buildings and scenes.
-> 3. **Textual Analysis**: Check textual content for unnatural language patterns.
-> 4. **Audio Analysis**: Evaluate audio content for consistency and natural flow.
+> 1. **Overview of AI Content Detection**: Present an overview of AI content detection techniques.
+> 2. **Components of AI Content Detection**: Explain each component - Visual Cues, Structural Consistency, Textual Analysis, Audio Analysis.
+> 3. **Memorization Activity**: Have students memorize the components of AI content detection.
 
 **Activity**
 
-1. Display two sets of images, one original and one altered, and ask students to identify differences. (5 minutes)
-2. Display two sets of images, both real but extraordinary in some way. Ask students to identify the fake image. (5 minutes)
-3. Students share their observations. (5 minutes)
-4. Reveal to the students which images were altered but do not discuss the detection techniques yet.
+1. Present an overview of AI content detection techniques. (5 minutes)
+2. Explain each component in detail. (10 minutes)
+3. Have students quiz each other to memorize the components. (5 minutes)
 
-#### SLIDE 2
+### Learning Step Activity (LSA) 2: Detailed Analysis of AI Content Detection Components
 
-**Question**: Why is knowing about AI content detection important for your mission?
+#### SLIDE 2: Visual Cues
 
-**Check on learning:** 
+**Learning Step Activity Text:**
 
-**Question:** What are some visual cues that can help you identify AI-generated images?
-**Answer:** Hands, limbs, facial features, etc.
+> Identify visual cues that indicate AI-generated content.
 
-**Review/Summary:** During this activity, we practiced identifying inconsistencies in AI-generated images. We will now move on to the next activity to further develop our detection skills.
+**Activity**
+
+1. Present examples of visual cues in AI-generated content:
+    - Example: Extra fingers or limbs.
+    - Example: Inconsistencies in facial features.
+2. Discuss how to identify these cues in various scenarios:
+    - Analyze hands and limbs for anomalies.
+    - Evaluate facial features for unnatural smoothness or discrepancies.
+
+#### SLIDE 3: Structural Consistency
+
+**Learning Step Activity Text:**
+
+> Analyze structural consistency in buildings and scenes.
+
+**Activity**
+
+1. Present examples of structural inconsistencies in AI-generated content:
+    - Example: Misaligned windows or doors.
+    - Example: Sudden changes in texture.
+2. Discuss how to identify structural inconsistencies in various scenarios:
+    - Verify the consistency of structural elements.
+    - Check for natural interaction of light with objects.
+
+#### SLIDE 4: Textual Analysis
+
+**Learning Step Activity Text:**
+
+> Verify textual content for unnatural language patterns.
+
+**Activity**
+
+1. Present examples of unnatural language patterns in AI-generated text:
+    - Example: Repetitive phrases or words.
+    - Example: Contextual irrelevance.
+2. Discuss how to identify these patterns in various scenarios:
+    - Detect unnatural phrasing or syntax.
+    - Ensure the text remains relevant to the topic discussed.
+
+#### SLIDE 5: Audio Analysis
+
+**Learning Step Activity Text:**
+
+> Check audio content for consistency and natural flow.
+
+**Activity**
+
+1. Present examples of inconsistencies in AI-generated audio:
+    - Example: Inconsistent voice timbre and pitch.
+    - Example: Artificial sounding backgrounds.
+2. Discuss how to identify these inconsistencies in various scenarios:
+    - Check for consistency in the voice's timbre and pitch.
+    - Listen for unnatural pauses or changes in speech rhythm.
+
+### Learning Step Activity (LSA) 3: Practical Application of AI Content Detection Techniques
+
+#### SLIDE 6: Practical Exercise
+
+**Activity**
+
+1. Divide students into groups and provide each group with various media types to analyze using the AI content detection techniques. (10 minutes)
+2. Have each group present their findings to the class. (10 minutes)
+3. Provide feedback and discuss the effectiveness of their detection methods. (10 minutes)
+
+### Learning Step Activity (LSA) 4: Group Analysis Activity
+
+#### SLIDE 7: Group Exercise
+
+**Activity**
+
+1. Each group receives a specific component of AI content detection to analyze in a given scenario. (10 minutes)
+2. Groups present their analysis focusing on their assigned component. (10 minutes)
+3. Class discussion on how each component contributes to understanding the overall content authenticity. (10 minutes)
+
 ---
 
 ## SECTION 4: SUMMARY
 
-During this block of instruction, we have learned how to detect AI-generated content by identifying inconsistencies and manipulation artifacts. You now have the skills to recognize and verify AI-generated content and understand the importance of maintaining the integrity of information.
+During this block of instruction, we have learned how to detect and analyze AI-generated content using structured analytic techniques. You now have the skills to validate information sources and understand the importance of maintaining the integrity of information operations.
 
 **MOI**: Discussion (small or large group)
 
-**Check on learning**: 
+**Check on learning:** 
 
-**Question:** Why is it important to be able to detect AI-generated content?
-  **Answer:** To maintain the integrity of information and protect against digital manipulation.
+**Question:** Why is it important to be able to identify AI-generated content?
+  **Answer:** To maintain operational security and effectively counter false information.
 
-**Review/Summary:** During this block of instruction, we covered the techniques and tools for detecting AI-generated content and participated in practical exercises to apply these techniques.
+**Review/Summary:** During this block of instruction, we covered the AI content detection techniques and their application in analyzing various media types, and participated in practical exercises to apply these techniques.
 
 ---
 
@@ -258,7 +341,7 @@ During this block of instruction, we have learned how to detect AI-generated con
 
 ### Testing Requirement
 
-Students must demonstrate their ability to recognize and verify AI-generated content by completing a practical exercise and achieving a success rate of at least 90%.
+Students must demonstrate their ability to identify AI-generated content by completing a practical exercise and achieving a success rate of at least 90%.
 
 ---
 
@@ -272,24 +355,25 @@ Feedback is essential to effective learning. Schedule and provide feedback on th
 
 ### Required Audio-Visual Material and Handouts
 
-| Sequence | Media Name              | Attachment or URL | Media Type |
-| -------- | ----------------------- | ----------------- | ---------- |
-| -        | Total Digital Media ZIP |                   | ZIP        | 
-|          |                         | https://url.com   | PPT        |
+| Sequence | Media Name                       | Attachment or URL | Media Type |
+| -------- | -------------------------------- | ----------------- | ---------- |
+| -        | Master Slide Deck - AI Detection Techniques |                   | ZIP        | 
+|          |                                  | https://url.com   | PPT        |
 
 ---
 
 ## APPENDIX B - Assessment Statement and Assessment Plan
 
 ### Assessment Statement: 
-Students will be assessed on their ability to recognize and verify AI-generated content. The assessment will involve practical exercises where students must identify AI-generated content with a success rate of at least 90%.
+Students will be assessed on their ability to identify and analyze AI-generated content. The assessment will involve practical exercises where students must apply the AI content detection techniques and achieve a success rate of at least 90%.
 
 ### Assessment Plan: 
-The assessment procedures will include practical exercises, performance checklists, and constructive feedback. Students will be required to demonstrate their proficiency in detecting AI-generated content and report their findings accurately.
+The assessment procedures will include practical exercises, performance checklists, and constructive feedback. Students will be required to demonstrate their proficiency in identifying AI-generated content and report their findings accurately.
 
 ---
 
 ## APPENDIX C - Practical Exercises and Solutions
 
-The practical exercises will involve analyzing various media types (images, text, audio) to identify AI-generated content. Students will apply the techniques and tools learned during the lesson to complete these exercises. Detailed instructions and solutions will be provided to ensure thorough understanding and application of the skills.
+The practical exercises will involve analyzing various media types to identify AI-generated content using the detection techniques. Students will apply the techniques and tools learned during the lesson to complete these exercises. Detailed instructions and solutions will be provided to ensure thorough understanding and application of the skills.
 
+---
