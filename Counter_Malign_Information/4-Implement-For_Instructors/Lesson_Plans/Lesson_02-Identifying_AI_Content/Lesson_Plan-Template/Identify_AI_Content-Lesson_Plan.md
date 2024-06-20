@@ -1,42 +1,22 @@
-
-
-## How To Use
-### Developing Unit Training (WRITING)
-1. Open markdown files and folders using Obsidian
-2. Use Git Repo to maintain version control, allow push, and create branches
-3. Use the Developers Workbook (Excel File) to guide analysis and develop objectives
-4. Copy and paste 
-
----
-### Instructing or Conducting Unit Training (READING)
-1. Use this lesson plan to rehearse, identify or plan requirements, and provide necessary onboarding to instructors
-	1. Printing the "Advanced Organizer" for each lesson and using it as needed during the lesson is the best approach rather than printing this lesson plan.
-
----
-
 ## SECTION 0: LESSON OVERVIEW
+
 ### Lesson Information
-Lesson Title: **Object_HERE Verb_HERE**
 
-Program of Instruction (POI): **NUMBER-TOPIC_NAME / Version 1.0**
+**Lesson Title**: Recognizing and Verifying AI-Generated Content
 
+**Program of Instruction (POI)**: Countering Malign Influence / Version 1.0
 
-Developer Point of Contact: first.last@email.tld
+**Developer Point of Contact**: john.doe@email.tld
 
 ---
-###  IMPORTANT
+
+### IMPORTANT
 
 #### Training Material Classification: UNCLASSIFIED
+
 ### Distribution Restriction:
 
-  %%Delete all but appropriate%%
-  
- - A. Approved for public release; distribution is unlimited
- - B. Distribution authorized to U.S. Government agencies only.
- - C. Distribution authorized to U.S. agencies and their contractors only \<INSERT REASON\>. This determination was made on \<INSERT DATE\>. 
- -  D. Distribution authorized to the DOD and DOD Contractors \<INSERT REASON\>. This determination was made on \<INSERT DATE\>
- - E. Distribution authorized to DOD component only \<INSERT REASON\>. This determination was made on \<INSERT DATE\>
- - F. Further determination only as directed by \<INSERT Office Symbol and Address\> or higher authority. This determination was made on \<INSERT DATE\>. 
+ - A. Approved for public release; distribution is unlimited.
 
 ### Destruction Notice: 
 
@@ -44,369 +24,277 @@ Developer Point of Contact: first.last@email.tld
 
 ### Foreign Disclosure:
 
- %%Delete all but appropriate%%
- 
-- FD1 - This training product has been reviewed by the training developer in coordination with the \<INSERT ORG\> foreign disclosure officer. This training product can be used to instruct international military students in all approved countries.
-- FD2 - This training product has been reviewed by the training developer in coordination with the \<INSERT ORG\> foreign disclosure officer. This training product can be used to instruct international military students when specific criteria are met.
-- FD3 - This training product has been reviewed by the developers in coordination with the \<INSERT ORGANIZATION\> foreign disclosure officer. This product CANNOT be used to instruct international military students.
+ - FD1 - This training product has been reviewed by the training developer in coordination with the Foreign Disclosure Officer (FDO) of the U.S. Army Training and Doctrine Command. This training product can be used to instruct international military students in all approved countries.
 
 ---
+
 ### SCOPE OF LESSON
 
- %%Example of a lesson scope. (TP 350-70-14, Par 3-9) %%
- 
-This 2-hour lesson is an introductory level orientation to Commissary anti-robbery procedures. The **end state** of this lesson **is for new Commissary employees to be able to recall the necessary steps to take in the event of a robbery at the store. The** author's intent **is that new employees learn anti-robbery principles and procedures and choose appropriate actions during a series of scenario-based exercises. By the end of the lesson, new employees should have a solid grasp of the actions to take if the store is being robbed. This lesson is common to all Commissary departments and** links to other parts of the curriculum** by reinforcing the character attributes of accountability and responsibility.
+This 2-hour lesson is an advanced level orientation to recognizing and verifying AI-generated content. The **end state** of this lesson **is for students to accurately identify AI-generated content by detecting inconsistencies and manipulation artifacts. The** author's intent **is that students learn AI content detection principles and techniques and choose appropriate actions during a series of practical exercises. By the end of the lesson, students should have a solid grasp of how to recognize and report AI-generated content. This lesson is crucial for maintaining the integrity of information and links to other parts of the curriculum** by reinforcing digital literacy and critical analysis skills.
 
 ### Learning Objectives
-### Terminal Learning Objective (TLO): 
-///text
-Action: Approved_Verb Object Qualifier
-Condition: 
-Standard: Approved_Verb Object Qualifier Level of Proficiency 
-///
+
+#### Terminal Learning Objective (TLO): 
+
+> **Action**: Recognize and Verify AI-Generated Content
+> **Condition**: Given an environment that allows the students to engage one another and the cadre openly, handouts, visual aids, research capabilities, and AI content detection tools.
+> **Standard**: Identify AI-generated content with a success rate of 90% within 24 hours of detection and report findings to the relevant authorities.
+
 ---
-### Enabling Learning Objective (ELO) _or_ Learning Step Activity (LSA):
- ///text
-Action: Approved_Verb Object Qualifier
-Condition: 
-Standard: Approved_Verb Object Qualifier Level of Proficiency 
-///
-### Enabling Learning Objective (ELO) _or_ Learning Step Activity( LSA):
-///text
-Action: Approved_Verb Object Qualifier
-Condition: 
-Standard: Approved_Verb Object Qualifier Level of Proficiency 
-///
+
+#### Enabling Learning Objective (ELO) / Learning Step Activity (LSA):
+ 
+> **Action**: Detect Inconsistencies in AI-Generated Content
+> **Condition**: Provided with examples of AI-generated content and detection tools.
+> **Standard**: Correctly identify inconsistencies and manipulation artifacts in at least 90% of provided examples.
+
 ---
 
 ### References
-1. Reference_1
-2. Reference_2
 
-## SECTION 1: **ADMINISTRATIVE DATA** 
-## Instructional Guidance
-Conduct of Lesson |**NOTE:** Before presenting this lesson, instructors must thoroughly prepare by studying this lesson and identifying reference material.
-Watch the robbery video until it bores you. This is important because, during the Concrete Experience, you should be observing the students.
-Before the lesson, set up one easel in each corner of the classroom. Place a marker set with each easel, and affix one scenario sheet (face down) to each easel.
-Before class, play the video completely through one time. This will reduce computer lag. 
+1. Media Lab at MIT on Detecting Fakes - [Link](https://www.media.mit.edu/projects/detect-fakes/overview/)
+2. Detect Fakes with Kellogg's Online Tool - [Link](https://detectfakes.kellogg.northwestern.edu/)
+3. CISA Contextualizing Deepfake Threats to Organizations - [Link](https://media.defense.gov/2023/Sep/12/2003298925/-1/-1/0/CSI-DEEPFAKE-THREATS.PDF)
+4. DARPA: Deepfake Defense Tech Ready for Commercialization, Transition - [Link](https://www.darpa.mil/news-events/2024-03-14#:~:text=Through%20the%20Semantic%20Forensics%20)
+5. Scribbr AI Detector - [Link](https://www.scribbr.com/ai-detector/)
 
-### **1. The importance of this lesson: (Why)**
+## SECTION 1: ADMINISTRATIVE DATA 
 
-Insert how this ties to the student's goals and mission, or how it makes their current operations easier, or more effective.
+### Instructional Guidance
 
-### **2. What we want our students to Achieve: (Outcomes/Standard)**
+**Conduct of Lesson** | **NOTE:** Before presenting this lesson, instructors must thoroughly prepare by studying this lesson and identifying reference material.
+- Review AI-generated content detection tools and techniques. Familiarize yourself with example images, texts, and audio files.
+- Set up computer and projection equipment. Ensure AI content detection tools are installed and functional.
+- Print handouts and visual aids for distribution to students.
 
-Choose anti-robbery measures that are appropriate to the scenario based on your interpretation of both the scenario itself and the job aid. Choices must align with the anti-robbery principles taught in the lesson.
+### 1. The importance of this lesson: (Why)
+
+Understanding how to recognize and verify AI-generated content is essential for maintaining the integrity of information. This skill is crucial for identifying misinformation and protecting against digital manipulation, which is vital for operational security and effective decision-making.
+
+### 2. What we want our students to Achieve: (Outcomes/Standard)
+
+Students will be able to accurately identify AI-generated content by detecting inconsistencies and manipulation artifacts. Their choices must align with the principles and techniques taught in the lesson, achieving a success rate of at least 90%.
+
 ### 3. A Possible Technique to Achieve the Outcome
-1. 
+
+1. Interactive exercises where students analyze and identify AI-generated content using provided tools.
+2. Group discussions and reviews to reinforce learning and share detection strategies.
+3. Hands-on practice with AI content detection tools to build confidence and proficiency.
+
 ### 4. AAR Guidance for this Lesson
-1. 
+
+1. Conduct an After Action Review (AAR) immediately following the lesson to discuss what went well, what could be improved, and how the techniques learned can be applied in real-world scenarios.
+2. Encourage students to provide feedback on the lesson and the effectiveness of the detection tools used.
+
 ---
-## Lesson Requirements
-### Instructor Requirements
-An instructor must 
-1. Review the entire lesson plan for each lesson they will cover.  
-2. Be able to obtain, access, and be familiar with the required material and equipment.
+
+### Lesson Requirements
+
+#### Instructor Requirements
+
+An instructor must:
+
+1. Review the entire lesson plan thoroughly.
+2. Be familiar with AI content detection tools and techniques.
 
 An instructor must attend the following training:
+
 1. TRADOC-approved faculty course
-2. {INSERT_Course}
+2. AI Content Detection Training Workshop
 
-An instructor should :
-1. Have received this block of instruction as a student
-2. Participated in this instruction as an assistant instructor for this lesson
-3. Participated in the AAR for this lesson
+An instructor should:
 
-### Additional Support 
+1. Have experience with AI content detection and verification.
+2. Have previously taught or assisted with this lesson.
 
-#### Required or Requested Support
+#### Additional Support 
 
-#### Guidance for Assistant Instructors
+##### Required or Requested Support
 
+1. Technical support to ensure all equipment and tools are functioning correctly.
+2. Assistant instructors to facilitate group activities and provide individual support.
+
+##### Guidance for Assistant Instructors
+
+1. Assist with distributing materials and setting up exercises.
+2. Provide guidance and support to students during practical exercises.
+3. Monitor student progress and provide feedback.
 
 ---
-### Equipment and Material Required for Instruction
-Lesson Material, Ammo, Expendable, etc.
 
 ### Equipment and Material Required for Instruction
+
 Lesson Material, Ammo, Expendable, etc.
+
 | Equipment                        | Student Ratio | Instructor Ratio | Quantity | Expendable |
 | -------------------------------- | ------------- | ---------------- | -------- | ---------- |
-| #MacOS-Computer, #MacOS-Keyboard, #MacOS-Touchpad | 1:1           | 1:2              |          | no         |
-| #Slides                          |               |                  | 1        | no         |
-| #Projector                       |               |                  | 1        | no         |          |
-| #Terminal_app                    | 1:1           | 1:2              |          |            |
-|                                  |               |                  |          |            |
-
+| Computers with internet access   | 1:1           | 1:2              |          | no         |
+| AI content detection tools       | 1:1           | 1:2              |          | no         |
+| Example images, texts, and audio |               |                  | Various  | no         |
+| Projector and screen             |               |                  | 1        | no         |
+| Handouts and visual aids         | 1:1           | 1:2              |          | no         |
 
 ---
+
 ### Pre-Requisite Tasks
-1. 
+
+1. Complete introductory training on AI and machine learning.
+2. Review basic principles of digital content creation and manipulation.
+
 ---
+
 ### Knowledge Required
-1. 
+
+1. Basic understanding of AI and machine learning.
+2. Familiarity with digital content creation and manipulation techniques.
+
 ---
+
 ### Skills Required
-1. 
+
+1. Ability to use AI content detection tools.
+2. Critical analysis and attention to detail.
+
 ---
+
 ## Supporting Tasks
 
 ### Tasks Taught
-1. 
-### Tasks Supported
-1. 
-### Tasks Reinforced
-1. 
 
+1. Identifying AI-generated images, text, and audio.
+2. Using AI content detection tools effectively.
+
+### Tasks Supported
+
+1. Digital literacy and critical analysis.
+2. Information security and integrity.
+
+### Tasks Reinforced
+
+1. Recognition and verification of digital content.
+2. Reporting and documenting findings accurately.
 
 ---
+
 ## Lesson Timeline
+
 | Academic (y/n) | Broad Topic | EST TIME Min | Methods                        |
 | -------------- | ----------- | ------------ | ------------------------------ |
 | Instructor     |             | 5            | Instructor Rehearsal           |
 | Instructor     |             | 0            | Classroom Setup                |
 | y              |             | 5            | Concrete Experience            |
-| y              |             | 3            | Publish and Process            |
-| y              |             | 10           | Generalize New Information     |
-| y              |             | 3            | Develop                        |
-| y              |             | 10           | Generalize New Information     |
-| y              |             | 3            | Develop                        |
-| y              |             | 5            | Apply                          |
-| y              |             | 3            | Assessment / Check On Learning |
-|                |             |              |                                |
+| y              |             | 5            | Publish and Process            |
+| y              |             | 60           | Generalize New Information     |
+| y              |             | 20           | Develop                        |
+| y              |             | 30           | Apply                          |
+| y              |             | 6            | Assessment / Check On Learning |
 
 ---
+
 ## SECTION 2: LESSON INTRODUCTION
 
-%%The concrete experience is supposed to be an exercise where students can tinker and fail safely and in a controlled manner. The CE allows students to stumble a little and to appreciate the lesson later even more%%
+**Concrete Experience / Motivator:** 
+Share an anecdote about a recent case of AI-generated content being used to spread misinformation. Highlight the importance of being able to detect such content to maintain the integrity of information.
 
-## **Concrete Experience / Motivator:** 
-NOTE: Tell an interesting anecdote based on your experience, or
-recall a recent current event pertaining to the lesson unit topic to
-gain the student's attention and motivate them to learn the lesson
-material. The student should be made aware of the Army's Contemporary
-Operational Environment factors such as the physical environment,
-military capabilities, technology, and information.
+> Example: "In a recent incident, AI-generated images were used to spread false information about a natural disaster. The images were so convincing that many people believed them to be real, leading to widespread panic. This lesson will equip you with the skills to recognize and verify such content, preventing similar incidents in the future."
 
-An example could be:
-> Example Paraphrase goes here.
-
-NOTE: Go to Slide X
 **Instructional Lead-in:** 
-"The learning objectives for this block are to..."
+"The learning objectives for this block are to recognize and verify AI-generated content effectively using specific detection techniques for images, text, and audio. By the end of this lesson, you will be able to accurately identify AI-generated content and report your findings."
 
-NOTE: Go to Slide X
-
-**Scope Statement:** During this ##.##-hour block of instruction, the
-students will...
+**Scope Statement:** During this 2-hour block of instruction, the students will learn to detect inconsistencies in AI-generated content using various techniques and tools. They will participate in practical exercises to apply these techniques and gain confidence in their ability to recognize AI manipulations.
 
 ## Publish and Process
 
-NOTE: for 
+1. Introduce the learning objectives.
+2. Explain the significance of being able to detect AI-generated content in maintaining the integrity of information.
+
+---
 
 ## SECTION 3: LESSON PRESENTATION
-Generalize New Information, Develop, and Apply
 
-### Learning Step Activity (LSA) X:  Learning Step Activity (LSA) Title.
+### Learning Step Activity (LSA) 1: Detecting Inconsistencies in AI-Generated Content
 
-##### SLIDE X
-NOTE: Note goes here
+#### SLIDE 1
 
+**Learning Step Activity Text:**
 
-#### Learning Step Activity Text:
->1. /MacOS is Proprietary, and one of their terms of use prohibits the virtualization of MacOS on non-MacOS devices. This is also the reason many tech courses and capabilities use MacOS.
->2. /Organic capabilities use MacOS as a Commercial off the Shelf (COTS) solution to control devices and allow user interaction. Being familiar with MacOS will enable Operations.
+> 1. **Visual Cues**: Identify specific visual cues in AI-generated images, such as hands, limbs, and facial features.
+> 2. **Structural Consistency**: Verify the consistency of structural elements like buildings and scenes.
+> 3. **Textual Analysis**: Check textual content for unnatural language patterns.
+> 4. **Audio Analysis**: Evaluate audio content for consistency and natural flow.
 
-##### SLIDE X
-NOTE: Note goes here
+**Activity**
 
-##### SLIDE X
-NOTE: Note goes here
+1. Display two sets of images, one original and one altered, and ask students to identify differences. (5 minutes)
+2. Display two sets of images, both real but extraordinary in some way. Ask students to identify the fake image. (5 minutes)
+3. Students share their observations. (5 minutes)
+4. Reveal to the students which images were altered but do not discuss the detection techniques yet.
 
-##### SLIDE X
-NOTE: Note goes here
+#### SLIDE 2
 
-#### Activity
+**Question**: Why is knowing about AI content detection important for your mission?
 
-##### SLIDE X
-NOTE: Note goes here
+**Check on learning:** 
 
-#### Development
-- Question:
-> /Why is knowing about MacOS and the apple terms of use important for your mission?
+**Question**: Are you allowed to virtualize or copy MacOS legally?
+  **Answer:** No, Apple prohibits virtualization of MacOS if not on a MacOS device.
 
-#### Check on learning: 
-
--  Question: /Are you allowed to Virtualize or Copy MacOS legally?
-
-	- **Answer:** /No, Apple prohibits Virtualization of MacOS if not on a MacOS Device.
-
--  Question: /Can Government owned MacOS Whiteline computers be used for Operations? 
-	- Answer: /Yes. They also have better battery life and are common devices used globally 
+**Question**: Can government-owned MacOS computers be used for operations? 
+  **Answer:** Yes. They have better battery life and are common devices used globally.
 
 ---
-
-
----
-
-
-### Learning Step Activity (LSA) X:  Learning Step Activity (LSA) Title.
-
-##### SLIDE X
-NOTE: Note goes here
-
-
-#### Learning Step Activity Text:
->1. /MacOS is Proprietary, and one of their terms of use prohibits the virtualization of MacOS on non-MacOS devices. This is also the reason many tech courses and capabilities use MacOS.
->2. /Organic capabilities use MacOS as a Commercial off the Shelf (COTS) solution to control devices and allow user interaction. Being familiar with MacOS will enable Operations.
-
-##### SLIDE X
-NOTE: Note goes here
-
-##### SLIDE X
-NOTE: Note goes here
-
-##### SLIDE X
-NOTE: Note goes here
-
-#### Activity
-
-##### SLIDE X
-NOTE: Note goes here
-
-#### Development
-- Question:
-> /Why is knowing about MacOS and the Apple terms of use important for your mission?
-
-#### Check on learning: 
-
--  Question: /Are you allowed to Virtualize or Copy MacOS legally?
-
-	- **Answer:** /No, apple prohibits Virtualization of MacOS if not on a MacOS Device.
-
--  Question: /Can Government owned MacOS Whiteline computers be used for Operations? 
-	- Answer: /Yes. They also have better battery life and are common devices used globally 
-
----
-
-### Learning Step Activity (LSA) X:  Learning Step Activity (LSA) Title.
-
-##### SLIDE X
-NOTE: Note goes here
-
-
-#### Learning Step Activity Text:
->1. /MacOS is Proprietary, and one of their terms of use prohibits the virtualization of MacOS on non-MacOS devices. This is also the reason many tech courses and capabilities use MacOS.
->2. /Organic capabilities use MacOS as a Commercial off the Shelf (COTS) solution to control devices and allow user interaction. Being familiar with MacOS will enable Operations.
-
-##### SLIDE X
-NOTE: Note goes here
-
-##### SLIDE X
-NOTE: Note goes here
-
-##### SLIDE X
-NOTE: Note goes here
-
-#### Activity
-
-##### SLIDE X
-NOTE: Note goes here
-
-#### Development
-- Question:
-> /Why is knowing about MacOS and Apple's terms of use important for your mission?
-
-#### Check on learning: 
-
--  Question: /Are you allowed to Virtualize or Copy MacOS legally?
-
-	- **Answer:** /No, Apple prohibits Virtualization of MacOS if not on a MacOS Device.
-
--  Question: /Can Government owned MacOS Whiteline computers be used for Operations? 
-	- Answer: /Yes. They also have better battery life and are common devices used globally 
-
----
-
-### Learning Step Activity (LSA) X:  Learning Step Activity (LSA) Title.
-
-##### SLIDE X
-NOTE: Note goes here
-
-
-#### Learning Step Activity Text:
->1. /MacOS is Proprietary, and one of their terms of use prohibits the virtualization of MacOS on non-MacOS devices. This is also the reason many tech courses and capabilities use MacOS.
->2. /Organic capabilities use MacOS as a Commercial off the Shelf (COTS) solution to control devices and allow user interaction. Being familiar with MacOS will enable Operations.
-
-##### SLIDE X
-NOTE: Note goes here
-
-##### SLIDE X
-NOTE: Note goes here
-
-##### SLIDE X
-NOTE: Note goes here
-
-#### Activity
-
-##### SLIDE X
-NOTE: Note goes here
-
-#### Development
-- Question:
-> /Why is knowing about MacOS and the apple terms of use important for your mission?
-
-#### Check on learning: 
-
--  Question: /Are you allowed to Virtualize or Copy MacOS legally?
-
-	- **Answer:** /No, Apple prohibits Virtualization of MacOS if not on a MacOS Device.
-
--  Question: /Can Government owned MacOS Whiteline computers are suitable for Operations, with appropriate permission? 
-	- Answer: /Yes. MacOS devices also have better battery life and are standard devices used globally 
-
----
-
 
 ## SECTION 4: SUMMARY
-During this block of instruction, we...
 
-**1.0-hour block**
+During this block of instruction, we have learned how to detect AI-generated content by identifying inconsistencies and manipulation artifacts. You now have the skills to recognize and verify AI-generated content and understand the importance of maintaining the integrity of information.
 
-**MOI: Discussion (small or large group)**
+**MOI**: Discussion (small or large group)
 
-**Check on learning**: (Terminal Learning Objective (TLO) Check on learning)
+**Check on learning**: 
 
-**Question:** Question?
+**Question:** Why is it important to be able to detect AI-generated content?
+  **Answer:** To maintain the integrity of information and protect against digital manipulation.
 
-**Answer:** Answer.
-
-**Review/Summary:** During this block of instruction, we...
-## SECTION 5: STUDENT EVALUATION
-### Testing Requirement
-NOTE: Describe how the student must demonstrate accomplishment of the TLO. Refer the class to the Individual Student Assessment Plan.
-
-_You may include specifics regarding how the TLO will be assessed here, or you can refer the instructor to Appendix B – Assessment Statement and Assessment Plan._
+**Review/Summary:** During this block of instruction, we covered the techniques and tools for detecting AI-generated content and participated in practical exercises to apply these techniques.
 
 ---
-### Student Feedback Requirement
-NOTE: Feedback is essential to effective learning. Schedule and provide feedback on the evaluation and any information to help answer class questions about the test. Provide remedial training as needed.
 
-_If not addressed elsewhere (like in a Test Administration Guide), you may include specific areas of feedback regarding student performance compared to the TLO standards here._
+## SECTION 5: STUDENT EVALUATION
+
+### Testing Requirement
+
+Students must demonstrate their ability to recognize and verify AI-generated content by completing a practical exercise and achieving a success rate of at least 90%.
+
+---
+
+### Student Feedback Requirement
+
+Feedback is essential to effective learning. Schedule and provide feedback on the evaluation and any information to help answer class questions about the test. Provide remedial training as needed.
+
+---
+
 ## APPENDIX A - Audio Visual Masters
+
 ### Required Audio-Visual Material and Handouts
+
 | Sequence | Media Name              | Attachment or URL | Media Type |
 | -------- | ----------------------- | ----------------- | ---------- |
 | -        | Total Digital Media ZIP |                   | ZIP        | 
 |          |                         | https://url.com   | PPT        |
-## APPENDIX B - Assessment Statement and Assessment Plan
-### **Assessment Statement:** 
-_An abbreviated statement that identifies how the lesson's TLO will be assessed as reflected in the Individual Student Assessment Plan (ISAP)_
 
 ---
-### **Assessment Plan:** 
-_If not covered in Section V (Student Evaluation), you may do a detailed write-up of the assessment procedures for the lesson in this appendix.  You can include or refer to Test Control SOPs, procedures for procuring and grading tests, or procedures for conducting performance assessments.  It is OK to include performance checklists here, but DO NOT include written test items or their answers in this appendix._
-## APPENDIX C - Practical Exercises and Solutions
-_If the lesson has a stand-alone PE requiring coordination and detailed explanations, it can be written here. The write-up should include basic lesson plan elements, including the PE objective(s), resources, the time required, safety and risk information, and general procedures.
 
-In TDCP, lessons using PE structure will have the PE included in this appendix.  If your lesson has a learning step/activity that uses PE as the method of instruction, do not use this appendix._
+## APPENDIX B - Assessment Statement and Assessment Plan
+
+### Assessment Statement: 
+Students will be assessed on their ability to recognize and verify AI-generated content. The assessment will involve practical exercises where students must identify AI-generated content with a success rate of at least 90%.
+
+### Assessment Plan: 
+The assessment procedures will include practical exercises, performance checklists, and constructive feedback. Students will be required to demonstrate their proficiency in detecting AI-generated content and report their findings accurately.
+
+---
+
+## APPENDIX C - Practical Exercises and Solutions
+
+The practical exercises will involve analyzing various media types (images, text, audio) to identify AI-generated content. Students will apply the techniques and tools learned during the lesson to complete these exercises. Detailed instructions and solutions will be provided to ensure thorough understanding and application of the skills.
+
