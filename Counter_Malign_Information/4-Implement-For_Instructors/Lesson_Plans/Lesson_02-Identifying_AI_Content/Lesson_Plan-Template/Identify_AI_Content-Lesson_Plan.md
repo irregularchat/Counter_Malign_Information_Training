@@ -96,11 +96,13 @@ An instructor must:
 
 1. Review the entire lesson plan thoroughly.
 2. Be familiar with AI content detection tools and techniques.
+3. Read and understand the references provided.
 
-An instructor must attend the following training:
+An instructor should:
 
-1. TRADOC-approved faculty course
-2. AI Content Detection Training Workshop
+1. Have experience with influence operations analysis.
+2. Have previously taught or assisted with this lesson.
+3. Have experience as an instructor in a military or academic setting.
 
 An instructor should:
 
