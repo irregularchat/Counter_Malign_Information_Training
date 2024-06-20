@@ -104,11 +104,6 @@ An instructor should:
 2. Have previously taught or assisted with this lesson.
 3. Have experience as an instructor in a military or academic setting.
 
-An instructor should:
-
-1. Have experience with AI content detection and verification.
-2. Have previously taught or assisted with this lesson.
-
 #### Additional Support 
 
 ##### Required or Requested Support
