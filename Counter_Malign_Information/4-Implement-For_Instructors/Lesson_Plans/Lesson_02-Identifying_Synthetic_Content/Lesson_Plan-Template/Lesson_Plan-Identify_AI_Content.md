@@ -65,6 +65,7 @@ This 2-hour lesson is an advanced level orientation to identifying AI-generated 
 10. Image of Man Hunting - https://www.reddit.com/r/aiArt/comments/1dkn336/most_realistic_image_ive_prompted/ (Image5-Real-Hunting_Bear.webp)
 11. How to Spot a Deepfake - https://time.com/6266606/how-to-spot-deepfake-pope/ (Image6-AI-Pope.png)
 12. X Post about Mob attacking Journalist - https://x.com/AbujomaaGaza/status/1798366219546071081 (Image7-Real-Mob_Journalist.jpg)
+13. Man Carrying Kids out of Gaza Fact Check - https://factcheck.afp.com/doc.afp.com.33ZJ8WU (Image8-AI-Man_Carrying_Kids.jpg) (Image8-AI-Man_Carrying_Kids.jpeg, Image9-AI-FACTHCHECK-Man_Carrying_Kids.jpeg)
 
 ## SECTION 1: ADMINISTRATIVE DATA 
 
