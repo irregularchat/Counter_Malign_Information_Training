@@ -1,5 +1,211 @@
 develop this lesson plan template , output in a markdown code block. DON't BE LAZY. Don't cut corners. Please fill in the lesson plan template
 
+
+/// 
+
+# Course context:
+Course is : Countering Malign Influence
+
+%% Use the order and duration information below to fill in the lesson plan template.%%
+Ordered	Objective Title	EST Total Min	Mode of Delivery	Day
+0	Event Start	50	Instruction (Resident)	1
+1	Creating Synthetic Content	40	Blended	
+2	Recognizing AI Generated Content	120	Instruction (Resident)	3
+3	Identifying Rival Influence (SCAME)	130	Instruction (Resident)	2
+4	Mitigating Rival Influence	180	Exchange (Partner)	2
+5	Identifying Misinformation and Disinformation	130	Instruction Instructor	1
+6	Countering Misinformation and Disinformation	180	Exchange (Partner)	1
+7	Reporting Malign Influence	120	Exchange (Partner)	3
+END	Capstone	50	Assessment	4
+END	Closing	20	-	4
+TOTAL	1020 (17)		
+//// Context and references to include
+
+# Lesson Context
+# Job Aid for Creating AI-Generated Content
+
+## Overview
+This job aid provides guidance on generating AI content with minimal training. It includes services categorized by content type, example prompts, and best practices.
+
+## Best Practices for Generating AI Content
+When creating AI-generated content, it's essential to follow best practices to ensure the quality and relevance of the output. Here are some tips to improve the effectiveness of AI content generation:
+
+### General Tips
+0. **Check for Accuracy**: Always review AI-generated content for factual accuracy and relevance.
+1. **Be Specific**: Clearly define the content type, audience, and purpose when prompting the AI.
+2. **Iterate and Refine**: Use iterative prompts to refine the generated content. Start broad and narrow down specifics.
+3. **Provide Context**: Give the AI relevant context to generate more accurate and relevant content.
+4. **Use Multiple Services**: Use a combination of tools to leverage different strengths and capabilities, such as google searching for existing scripts or repositories, images, or prompts for AI to generate content or using a text generating model to build a better prompt for image generating.
+5. **Remind AI of Constraints**: If there are specific requirements or constraints, remind the AI in the prompt. For example, word count limits, tone, or style guidelines. Ask it not to be lazy and take it step by step.
+6. **Make Templates**: Create templates with variables for common tasks to speed up the content generation process and maintain consistency. 
+
+
+### Example Prompts
+- **Text Generation**
+  - Bad: "Write an article about data privacy."
+  - Better: "You are an experty in cybersecurity, the audience is a new military soldier with minimal higher education, don't be lazy with your processing, take it step by step first considering the task, analyzing the result, then writing: Write a persuasive article that is at between 500 and 650 words about the importance of data privacy in the digital age for military families. Include examples of data breaches and their impact on individuals."
+- **Visual Content**: 
+  - Bad: "Design a logo for a nonprofit organization."
+  - Better: "Don't be lazy, take it step by step. Imagine you are a seasoned graphic designer tasked with creating a logo for a nonprofit organization dedicated to environmental conservation. The logo must represent the organization’s core mission and values, which emphasize sustainability, community involvement, and nature preservation. Adhere strictly to the organization’s branding guidelines, using a color scheme of earthy greens and blues. Incorporate elements that symbolize nature (like leaves or the Earth), sustainability (such as a recycle symbol), and community (represented by interlinked hands or a network). The design should be simple but powerful, clearly conveying the organization’s commitment to environmental stewardship"
+- **Code Generation**: 
+  - Bad: "Write a function to download instagram images."
+  - Better: 
+    - 1. "Create an andvanced google search for a script or repo focused on downloading instagram content" [Search it manually or though GPT]
+    - 2. "Don't be lazy, take it step by step. output all in markdown codeblock. You are a software developer working on a social media analytics tool. Write a Python function that downloads images from Instagram based on one or more specific hashtags, users, or keywords. The function should take the hashtag as input from the user, scrape the images and store them in a local directory. Ensure the function handles errors gracefully and provides feedback to the user on the download progress."
+### Tools and Repositories
+- Find master lists of AI tools and repositories to explore different services and resources for generating AI content: 
+
+("AI tools" OR "GPT tools" OR "AI resources" OR "AI catalog" OR "AI list" OR "AI repository" OR "generative AI") ("list" OR "collection" OR "catalog" OR "repository" OR "guide") 
+
+- **AI Master List Tool**: [AI Master List Tool](https://doc.clickup.com/25598832/d/h/rd6vg-14247/0b79ca1dc0f7429/rd6vg-12207)
+- **AI Catalog Repo**: [AI Catalog Repo](https://github.com/mehmetkahya0/ai-catalog)
+- **Awesome Generative AI**: [Awesome Generative AI](https://github.com/amusi/awesome-ai-awesomeness)
+- **FutureTools**: [FutureTools](https://futuretools.io)
+
+## Services for Generating Content
+
+### Text Generation
+- **ChatGPT**
+  - **Website**: [ChatGPT](https://chatgpt.com/)
+  - **Description**: An open-source chatbot platform for creating custom chatbot applications.
+  - **Example Prompts to Improve**:
+    - "Write an essay on the impact of AI on modern education."
+    - "Generate a summary of the latest AI research in healthcare."
+
+- **Bard**
+  - **Website**: [Bard](https://bard.google.com/)
+  - **Description**: Google's LLM chatbot for generating and refining text.
+  - **Example Prompts to Improve**:
+    - "Create a poem about the future of technology."
+    - "Draft a professional email requesting a meeting."
+
+- **Perplexity AI**
+  - **Website**: [Perplexity AI](https://labs.perplexity.ai/)
+  - **Description**: Meta's LLM project for generating complex text content.
+  - **Example Prompts to Improve**:
+    - "Explain quantum computing in simple terms."
+    - "Generate a fictional story about a space adventure."
+
+### Visual Content
+- **Dream Studio**
+  - **Website**: [Dream Studio](https://dreamstudio.ai/generate)
+  - **Description**: Tool for generating visual content, such as images and graphics.
+  - **Example Prompts to Improve**:
+    - "Create an AI-generated logo for a tech startup."
+    - "Generate an infographic about the benefits of renewable energy."
+
+- **Midjourney**
+  - **Website**: [Midjourney](https://midjourney.com/)
+  - **Description**: AI tool for enhancing and generating written and visual content.
+  - **Example Prompts to Improve**:
+    - "Enhance this paragraph to make it more engaging."
+    - "Generate a visual representation of a digital transformation roadmap."
+
+### Code Generation
+- **Github Co-Pilot**
+  - **Website**: [Github Co-Pilot](https://github.com/features/copilot)
+  - **Description**: AI-powered code completion tool for developers.
+  - **Example Prompts to Improve**:
+    - "Write a Python script to scrape data from a website."
+    - "Generate a function to calculate the Fibonacci sequence."
+
+### Creative Content
+- **Ideogram AI**
+  - **Website**: [Ideogram AI](https://ideogram.ai/)
+  - **Description**: Creative AI tools for generating innovative content.
+  - **Example Prompts to Improve**:
+    - "Generate a storyboard for a short film about climate change."
+    - "Create a marketing campaign concept for a new product launch."
+
+
+#  Generating Content Using AI
+
+## Learning Objective
+ **Action:** Generate Content Using AI.
+
+ **Conditions:** 
+Given an environment that allows the students to engage one another and the cadre openly, handouts, research capabilities, and Synthetic Content generation tools.
+
+ **Standards:** 
+Successfully create AI-generated content that meets specified quality standards and is relevant to the given prompts.
+
+---
+
+## Quick Information
+| Title                       | Comment                                                                           |
+| --------------------------- | --------------------------------------------------------------------------------- |
+| Intended Audience           | Government employees                                                              |
+| Learning Domain             | Cognitive                                                                         |
+| Training Resources Required | Computer, internet access, Synthetic Content generation tools, example prompts, handouts |
+| Total Duration              | 40                                                                                |
+
+
+---
+
+## Performance Steps
+
+1. Select appropriate AI tools.
+2. Input data and configure settings.
+3. Generate and review content.
+4. Refine and edit the generated content.
+
+---
+
+## Lesson ELM Steps
+
+| Time  | ELM Phase           | Comment               |
+| ----- | ------------------- | --------------------- |
+| 4 min | Concrete Experience | Generating Synthetic Content |
+
+1. **Attention Grabber**. Start by introducing an exciting or intriguing idea related to Synthetic Content generation. The number of companies using AI for example or the amount of money in AI for marketing. 
+   
+   This attention grabber should make it clear how much marketing and business values the use of AI. 
+
+| Time  | ELM Phase           | Comment                             |
+| ----- | ------------------- | ----------------------------------- |
+| 4 min | Publish and Process | Discussion on Synthetic Content Generation |
+
+
+1. **Introduction**: Introduce the learning objectives.
+2. _Plainly let the student know "By the end of this lesson you will know where to keep up to date with the latest AI enabled content and be able to generate content using AI tools effectively."_
+
+
+| Time   | ELM Phase                  | Comment                                  |
+| ------ | -------------------------- | ---------------------------------------- |
+| 12 min | Generalize New Information | Best Practices for Synthetic Content Generation |
+
+1. **Visual Aid**: Go over a handout on best practices for generating Synthetic Content.
+2. **Comparison**: Discuss the characteristics of good vs. poor prompts.
+3. **Techniques**: Introduce techniques for refining AI prompts and configuring settings.
+4. **Demonstration**: Demonstrate how to use an AI tool to generate content with a specific, well-crafted prompt.
+
+| Time  | ELM Phase | Comment                 |
+| ----- | --------- | ----------------------- |
+| 6 min | Develop   | Applying Best Practices |
+
+1. **Application**: Ask students how they will apply these best practices in their roles.
+2. **Practice**: Have students create their own prompts and generate content using AI tools, focusing on clarity and specificity.
+
+| Time   | ELM Phase | Comment            |
+| ------ | --------- | ------------------ |
+| 10 min | Apply     | Practical Exercise |
+
+1. **Exercise**: Ask students to generate a piece of content using the AI tools and prompts they created.
+2. **Review**: Have students present their generated content and discuss the effectiveness of their prompts and any challenges faced.
+3. **Feedback**: Provide constructive feedback on their prompts and generated content.
+
+| Time  | ELM Phase         | Comment              |
+| ----- | ----------------- | -------------------- |
+| 4 min | Check On Learning | Summary and Feedback |
+
+1. **Summary**: Recap the key points of the lesson.
+2. **Q&A**: Answer any remaining questions from students.
+3. **Reflection**: Discuss how the activity demonstrated the importance of specificity in Synthetic Content generation.
+4. **Future Application**: Encourage students to apply these techniques in their professional tasks involving AI tools.
+
+///
+///
+/// 
 /// template for lesson to fill in
 
 # Lesson Plan Template
@@ -9,7 +215,7 @@ develop this lesson plan template , output in a markdown code block. DON't BE LA
 
 **Lesson Title**: *Object_HERE Verb_HERE*
 
-**Program of Instruction (POI)**: *NUMBER-TOPIC_NAME / Version 1.0*
+**Program of Instruction (POI)**: Counter Malign Influence / Version 1.0*
 
 **Developer Point of Contact**: first.last@email.tld
 
@@ -318,207 +524,3 @@ NOTE: %%Feedback is essential to effective learning. Schedule and provide feedba
 %%In TDCP, lessons using PE structure will have the PE included in this appendix.  If your lesson has a learning step/activity that uses PE as the method of instruction, do not use this appendix.%%
 
 ///
-
-/// 
-
-# Course context:
-Course is : Countering Malign Influence
-
-%% Use the order and duration information below to fill in the lesson plan template.%%
-Ordered	Objective Title	EST Total Min	Mode of Delivery	Day
-0	Event Start	50	Instruction (Resident)	1
-1	Creating Synthetic Content	40	Blended	
-2	Recognizing AI Generated Content	120	Instruction (Resident)	3
-3	Identifying Rival Influence (SCAME)	130	Instruction (Resident)	2
-4	Mitigating Rival Influence	180	Exchange (Partner)	2
-5	Identifying Misinformation and Disinformation	130	Instruction Instructor	1
-6	Countering Misinformation and Disinformation	180	Exchange (Partner)	1
-7	Reporting Malign Influence	120	Exchange (Partner)	3
-END	Capstone	50	Assessment	4
-END	Closing	20	-	4
-TOTAL	1020 (17)		
-//// Context and references to include
-
-# Lesson Context
-## References
-### Synthetic Content Detection
-#### Authenticity of Content: Humans
-1. **Pay attention to the hands and fingers**. Extra fingers? Shape or size anomalies? Color discrepancies can be indicative of AI manipulation.
-2. **Pay attention to the limbs**. Are there extra limbs or limbs that reach impossibly far? These can be signs of synthetic manipulation.
-3. **Pay attention to the face**. High-end DeepFake manipulations often target facial transformations.
-4. **Pay attention to the cheeks and forehead**. Check for unnatural smoothness or excessive wrinkling. Mismatches in age appearance between the skin, hair, and eyes can signal manipulation.
-5. **Pay attention to the eyes and eyebrows**. Look for shadows in unusual places, which can indicate a failure to fully replicate natural lighting.
-6. **Pay attention to the glasses**. Check for consistent glare and changes as the person moves.
-7. **Pay attention to facial hair**. Does the facial hair look natural? Inconsistencies here are common in DeepFakes.
-8. **Pay attention to facial moles**. Evaluate whether moles appear realistic.
-9. **Pay attention to blinking**. Does the blinking frequency look natural?
-10. **Pay attention to the lip movements**. Watch for discrepancies in lip-syncing that could indicate a deepfake.
-[source](https://www.media.mit.edu/projects/detect-fakes/overview/)
-Test yourself at spotting AI-generated content [here](https://detectfakes.kellogg.northwestern.edu/)
-
-#### Authenticity of Content: Buildings and Scenes
-1. **Structural Consistency**: Verify the consistency of structural elements like windows and doors.
-2. **Material Texture**: Look for sudden changes in texture, which AI often struggles with.
-3. **Lighting and Shadows**: Check for natural interaction of light with objects, noting any inconsistencies.
-4. **Perspective and Geometry**: Identify any distorted perspectives or geometries in the scene.
-5. **Repetition in Detail**: Be wary of unnaturally repeated elements, such as furniture or decorations.
-6. **Logic of the Scene**: Ensure all elements make logical sense within their contexts.
-7. **Missing Elements**: Notice absent details that should be present, like light bulbs or chimneys.
-8. **Nonsensical Object Placement**: Check for illogically placed objects.
-9. **Inconsistent Architectural Elements**: Evaluate the logic behind the placement and number of elements like appliance controls.
-10. **Distorted Patterns and Textures**: Check for continuity in patterns and textures across different surfaces.
-11. **Disrupted Continuity**: Look for misalignments in elements that should connect seamlessly.
-12. **Anomalies in Common Patterns**: AI may struggle with maintaining symmetry, especially in detailed patterns.
-
-#### Resources to Detect Synthetic Images
-- [Wasitai Detector](https://wasitai.com)
-
-#### Authenticity of Content: Animals
-#### Authenticity of Content: Text
-1. **Language Consistency**: Detect unnatural phrasing or syntax that may indicate AI-generated text.
-2. **Contextual Relevance**: Ensure the text remains relevant to the topic discussed, as AI can veer off-topic.
-3. **Repetition**: Note repetitive phrases or words, which are common in AI-generated content.
-
-#### Resources to Detect Synthetic Text
-- [Scribbr AI Detector](https://www.scribbr.com/ai-detector/)
-
-#### Authenticity of Content: Audio
-1. **Voice Consistency**: Check for consistency in the voice's timbre and pitch over time.
-2. **Background Noise**: Listen for inconsistencies or artificial sounding backgrounds.
-3. **Speech Patterns**: Notice any unnatural pauses or changes in speech rhythm.
-
-##### Source
-- [Media Lab at MIT on Detecting Fakes](https://www.media.mit.edu/projects/detect-fakes/overview/)
-- [Detect Fakes with Kellogg's online tool](https://detectfakes.kellogg.northwestern.edu/)
-- [CISA Contextualizing Deepfake Threats to Organizations](https://media.defense.gov/2023/Sep/12/2003298925/-1/-1/0/CSI-DEEPFAKE-THREATS.PDF)
-- [DARPA: Deepfake Defense Tech Ready for Commercialization, Transition](https://www.darpa.mil/news-events/2024-03-14#:~:text=Through%20the%20Semantic%20Forensics%20)
-
-## Objective Focuse
-THIS IS THE FOCUS OF THE OBJECTIVE
-## Objective #002
-### Action:
-Identify AI-generated content.
-
-### Condition:
-Triggered by the presence of suspected AI-generated content.
-
-### Associated Task or Educational Topic:
-Recognize AI Generated Content
-
-### Standard:
-Identify AI-generated content with a success rate of 90% within 24 hours of detection.
-
-### GLO Supported:
-Improve skills in detecting and verifying digital content.
-
-### Domain and Mastery Level:
-Cognitive - Evaluation
-
-### Criticality Standard:
-Critical for maintaining the integrity of information.
-
-
----
-
----
----
-## Advanced Organizer
-here's what I got so far with a advanced organizer:
-///
-///
-# Advanced Organizer: Recognizing AI-Generated Content
-
-## Learning Objective
-**Action:** Recognize AI-Generated Content.
-
-**Conditions:** 
-Given an environment that allows the students to engage one another and the cadre openly, handouts, visual aids, research capabilities, and Synthetic Content detection tools.
-
-**Standards:** 
-Accurately identify AI-generated content by detecting inconsistencies and manipulation artifacts, ensuring that at least 90% of assessments are correct and report findings to the relevant authorities.
-
----
-
-## Quick Information
-| Title                       | Comment                                                                                      |
-| --------------------------- | -------------------------------------------------------------------------------------------- |
-| Intended Audience           | Government employees                                                                         |
-| Learning Domain             | Cognitive                                                                                    |
-| Training Resources Required | Computer, internet access, Synthetic Content detection tools, example images, handouts, visual aids |
-| Total Duration              | 120                                                                                          |
-
----
-
-# Performance Steps
-
-1. Pay attention to specific visual cues (e.g., hands, limbs, face).
-2. Analyze structural consistency in buildings and scenes.
-3. Verify textual content for unnatural language patterns.
-4. Check audio content for consistency and natural flow.
-
----
-
-# Lesson ELM Steps
-
-| Time   | ELM Phase           | Comment              |
-| ------ | ------------------- | -------------------- |
-| 15 min | Concrete Experience | Spotting Differences |
-
-
-Students write down any differences they notice
-1. Display two sets of images, one original and one altered, and ask students to identify differences. (Images A and B) (5 minutes)
-2. Display two sets of images, these are both real images but extrodinary in some way. Ask students to identify the fake image. (5 minutes)
-3. Students share their observations. (5 minutes)
-4. Reveal to the students which images were altered do NOT discuss the detection techniques used yet instead go to the publish and process phase. 
-
-
-| Time  | ELM Phase           | Comment                    |
-| ----- | ------------------- | -------------------------- |
-| 5 min | Publish and Process | Discussion on Observations |
-
-1. Introduce the learning objectives.
-2. Tell the students "By the end of this lesson, you will be able to recognize AI-generated content effectively using specific detection techniques for images, text, and audio. 
-
-| Time   | ELM Phase                  | Comment                             |
-| ------ | -------------------------- | ----------------------------------- |
-| 60 min | Generalize New Information | Techniques for Detecting Synthetic Content |
-
-
-1. **Visual Aid**: Use handouts and visual aids to illustrate common signs of AI-generated content.
-2. **Comparison**: Compare characteristics of authentic vs. AI-generated content.
-3. **Techniques**: Introduce techniques for detecting AI manipulations (e.g., analyzing hands, facial features, and structural consistency).
-4. **Demonstration**: Demonstrate using an Synthetic Content detection tool to identify manipulated content.
-
-| Time  | ELM Phase            | Comment                                   |
-| ----- | -------------------- | ----------------------------------------- |
-| 20 min | Develop              | Applying Detection Techniques             |
-|       |                      |                                           |
-1. **Application**: Ask students how they will apply these techniques in their roles.
-2. **Practice**: Have students practice detecting AI-generated content using example images and tools.
-
-| Time   | ELM Phase | Comment            |
-| ------ | --------- | ------------------ |
-| 30 min | Apply     | Practical Exercise |
-
-1. **Exercise**: Provide students with various media types (images, text, audio) and ask them to identify AI-generated content.
-2. **Review**: Students present their findings and discuss the effectiveness of their detection methods.
-3. **Feedback**: Provide constructive feedback on their observations and analysis.
-
-| Time  | ELM Phase         | Comment              |
-| ----- | ----------------- | -------------------- |
-| 6 min | Check On Learning | Summary and Feedback |
-
-1. **Summary**: Recap the key points of the lesson.
-2. **Q&A**: Answer any remaining questions from students.
-3. **Reflection**: Discuss how the activity demonstrated the importance of attention to detail in recognizing AI-generated content.
-4. **Future Application**: Encourage students to apply these techniques in their professional tasks involving AI detection.
-
----
-
-# Lesson References
-
-- [Media Lab at MIT on Detecting Fakes](https://www.media.mit.edu/projects/detect-fakes/overview/)
-- [Detect Fakes with Kellogg's online tool](https://detectfakes.kellogg.northwestern.edu/)
-- [CISA Contextualizing Deepfake Threats to Organizations](https://media.defense.gov/2023/Sep/12/2003298925/-1/-1/0/CSI-DEEPFAKE-THREATS.PDF)
-- [DARPA: Deepfake Defense Tech Ready for Commercialization, Transition](https://www.darpa.mil/news-events/2024-03-14#:~:text=Through%20the%20Semantic%20Forensics%20)
-- [Scribbr AI Detector](https://www.scribbr.com/ai-detector/)
