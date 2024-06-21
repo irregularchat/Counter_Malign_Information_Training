@@ -3,7 +3,7 @@
 
 ### Lesson Information
 
-**Lesson Title**: Identifying AI-Generated Content
+**Lesson Title**: Identifying Synthetic Media Content
 
 **Program of Instruction (POI)**: Countering Malign Influence / Version 1.0
 
@@ -71,7 +71,7 @@ This 2-hour lesson is an advanced level orientation to identifying AI-generated 
 ### Instructional Guidance
 
 **Conduct of Lesson** | **NOTE:** Before presenting this lesson, instructors must thoroughly prepare by studying this lesson and identifying reference material.
-- Review the AI content detection techniques and examples. Familiarize yourself with the verification tools and scenarios provided.
+- Review the Synthetic Content detection techniques and examples. Familiarize yourself with the verification tools and scenarios provided.
 - Set up computer and projection equipment. Ensure all required materials and equipment are available and functional.
 - Print handouts and visual aids for distribution to students.
 
@@ -138,7 +138,7 @@ Lesson Material, Ammo, Expendable, etc.
 | Equipment                               | Student Ratio | Instructor Ratio | Quantity | Expendable |
 | --------------------------------------- | ------------- | ---------------- | -------- | ---------- |
 | Computers with internet access          | 1:1           | 1:2              |          | no         |
-| AI content detection tools              | 1:1           | 1:2              |          | no         |
+| Synthetic Content detection tools              | 1:1           | 1:2              |          | no         |
 | Example scenarios and media files       |               |                  | Various  | no         |
 | Projector and screen                    |               |                  | 1        | no         |
 | Handouts and visual aids                | 1:1           | 1:2              |          | no         |
@@ -203,7 +203,7 @@ Lesson Material, Ammo, Expendable, etc.
 ## SECTION 2: LESSON INTRODUCTION
 
 **Concrete Experience / Motivator:** 
-NOTE: This concrete experience is designed to engage students and introduce the topic of AI content detection.
+NOTE: This concrete experience is designed to engage students and introduce the topic of Synthetic Content detection.
 NOTE: In this lesson Synthetic content means AI-generated content
 NOTE: Go to Slide 1
 
@@ -213,20 +213,18 @@ Students write down any differences they notice:
 NOTE: Go to Slide 2
 #### SLIDE 2
 2. Display two sets of images, these are both real images but extraordinary in some way. Ask students to identify which is synthetic. (Concrete_Experience-Image3-Real-Bird.webp and Image7-Real-Mob_Journalist.jpeg) (5 minutes)
+3. Students share their observations. (5 minutes)
 Go to Slide 3
 #### SLIDE 3
-(Concrete_Experience-Image2-AI-Car.webp and Concrete_Experience-Image1-AI-Aligators.jpeg)
-3. Students share their observations. (5 minutes)
-4. Reveal to the students which images were synthetic. Do NOT discuss the detection techniques used yet; instead, go to the publish and process phase. 
+4. Reveal to the students which images were synthetic (Marked with X). Do NOT discuss the detection techniques used yet; instead, go to the publish and process phase. 
 
 NOTE: Go to Slide 4
-#### SLIDE 4
-
+#### SLIDE 4: Lesson Title
+NOTE: Instructor transition while they have student's attention to the lesson title which is the answer to the challenge presented in the concrete experience.
+NOTE: Go to Slide 5
+#### SLIDE 5: Lesson Objectives
 **Instructional Lead-in:** 
 "The learning objectives for this block are to recognize AI-generated content effectively using specific detection techniques for images, text, and audio."
-
-NOTE: Go to Slide 4
-#### SLIDE 4
 
 **Scope Statement:** During this 2-hour block of instruction, the students will learn to detect and analyze AI-generated content using structured analytic techniques. They will participate in practical exercises to apply these techniques and gain confidence in their ability to validate information sources.
 
@@ -239,24 +237,25 @@ NOTE: Go to Slide 4
 
 ## SECTION 3: LESSON PRESENTATION
 
-### Learning Step Activity (LSA) 1: Introduction to AI Content Detection
+### Learning Step Activity (LSA) 1: Introduction to Synthetic Content Detection
 
-NOTE: Go to Slide 5 
-#### SLIDE 5
+NOTE: Go to Slide 6
+#### SLIDE 6: Synthetic Content Types and Terms
+
 
 **Learning Step Activity Text:**
 
-> 1. **Overview of AI Content Detection**: Present an overview of AI content detection techniques.
-> 2. **Components of AI Content Detection**: Explain each component - Visual Cues, Structural Consistency, Textual Analysis, Audio Analysis.
-> 3. **Memorization Activity**: Have students memorize the components of AI content detection.
+> 1. **Overview of Synthetic Content Detection**: Present an overview of Synthetic Content detection techniques.
+> 2. **Components of Synthetic Content Detection**: Explain each component - Visual Cues, Structural Consistency, Textual Analysis, Audio Analysis.
+> 3. **Memorization Activity**: Have students memorize the components of Synthetic Content detection.
 
 **Activity**
 
-1. Present an overview of AI content detection techniques. (5 minutes)
+1. Present an overview of Synthetic Content detection techniques. (5 minutes)
 2. Explain each component in detail. (10 minutes)
 3. Have students quiz each other to memorize the components. (5 minutes)
 
-### Learning Step Activity (LSA) 2: Detailed Analysis of AI Content Detection Components
+### Learning Step Activity (LSA) 2: Detailed Analysis of Synthetic Content Detection Components
 
 NOTE: Go to Slide 6
 
@@ -326,7 +325,7 @@ NOTE: Go to Slide 7
     - Check for consistency in the voice's timbre and pitch.
     - Listen for unnatural pauses or changes in speech rhythm.
 
-### Learning Step Activity (LSA) 3: Practical Application of AI Content Detection Techniques
+### Learning Step Activity (LSA) 3: Practical Application of Synthetic Content Detection Techniques
 
 NOTE: Go to Slide 8
 
@@ -334,7 +333,7 @@ NOTE: Go to Slide 8
 
 **Activity**
 
-1. Divide students into groups and provide each group with various media types to analyze using the AI content detection techniques. (10 minutes)
+1. Divide students into groups and provide each group with various media types to analyze using the Synthetic Content detection techniques. (10 minutes)
 2. Have each group present their findings to the class. (10 minutes)
 3. Provide feedback and discuss the effectiveness of their detection methods. (10 minutes)
 
@@ -346,7 +345,7 @@ NOTE: Go to Slide 9
 
 **Activity**
 
-1. Each group receives a specific component of AI content detection to analyze in a given scenario. (10 minutes)
+1. Each group receives a specific component of Synthetic Content detection to analyze in a given scenario. (10 minutes)
 2. Groups present their analysis focusing on their assigned component. (10 minutes)
 3. Class discussion on how each component contributes to understanding the overall content authenticity. (10 minutes)
 
@@ -363,7 +362,7 @@ During this block of instruction, we have learned how to detect and analyze AI-g
 **Question:** Why is it important to be able to identify AI-generated content?
   **Answer:** To maintain operational security and effectively counter false information.
 
-**Review/Summary:** During this block of instruction, we covered the AI content detection techniques and their application in analyzing various media types, and participated in practical exercises to apply these techniques.
+**Review/Summary:** During this block of instruction, we covered the Synthetic Content detection techniques and their application in analyzing various media types, and participated in practical exercises to apply these techniques.
 
 ---
 
@@ -395,7 +394,7 @@ Feedback is essential to effective learning. Schedule and provide feedback on th
 ## APPENDIX B - Assessment Statement and Assessment Plan
 
 ### Assessment Statement: 
-Students will be assessed on their ability to identify and analyze AI-generated content. The assessment will involve practical exercises where students must apply the AI content detection techniques and achieve a success rate of at least 90%.
+Students will be assessed on their ability to identify and analyze AI-generated content. The assessment will involve practical exercises where students must apply the Synthetic Content detection techniques and achieve a success rate of at least 90%.
 
 ### Assessment Plan: 
 The assessment procedures will include practical exercises, performance checklists, and constructive feedback. Students will be required to demonstrate their proficiency in identifying AI-generated content and report their findings accurately.

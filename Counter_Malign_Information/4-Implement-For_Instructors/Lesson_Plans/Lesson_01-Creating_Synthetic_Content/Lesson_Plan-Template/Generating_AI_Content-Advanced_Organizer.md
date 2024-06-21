@@ -4,7 +4,7 @@
  **Action:** Generate Content Using AI.
 
  **Conditions:** 
-Given an environment that allows the students to engage one another and the cadre openly, handouts, research capabilities, and AI content generation tools.
+Given an environment that allows the students to engage one another and the cadre openly, handouts, research capabilities, and Synthetic Content generation tools.
 
  **Standards:** 
 Successfully create AI-generated content that meets specified quality standards and is relevant to the given prompts.
@@ -16,7 +16,7 @@ Successfully create AI-generated content that meets specified quality standards 
 | --------------------------- | --------------------------------------------------------------------------------- |
 | Intended Audience           | Government employees                                                              |
 | Learning Domain             | Cognitive                                                                         |
-| Training Resources Required | Computer, internet access, AI content generation tools, example prompts, handouts |
+| Training Resources Required | Computer, internet access, Synthetic Content generation tools, example prompts, handouts |
 | Total Duration              | 40                                                                                |
 
 
@@ -35,15 +35,15 @@ Successfully create AI-generated content that meets specified quality standards 
 
 | Time  | ELM Phase           | Comment               |
 | ----- | ------------------- | --------------------- |
-| 4 min | Concrete Experience | Generating AI Content |
+| 4 min | Concrete Experience | Generating Synthetic Content |
 
-1. **Attention Grabber**. Start by introducing an exciting or intriguing idea related to AI content generation. The number of companies using AI for example or the amount of money in AI for marketing. 
+1. **Attention Grabber**. Start by introducing an exciting or intriguing idea related to Synthetic Content generation. The number of companies using AI for example or the amount of money in AI for marketing. 
    
    This attention grabber should make it clear how much marketing and business values the use of AI. 
 
 | Time  | ELM Phase           | Comment                             |
 | ----- | ------------------- | ----------------------------------- |
-| 4 min | Publish and Process | Discussion on AI Content Generation |
+| 4 min | Publish and Process | Discussion on Synthetic Content Generation |
 
 
 1. **Introduction**: Introduce the learning objectives.
@@ -52,9 +52,9 @@ Successfully create AI-generated content that meets specified quality standards 
 
 | Time   | ELM Phase                  | Comment                                  |
 | ------ | -------------------------- | ---------------------------------------- |
-| 12 min | Generalize New Information | Best Practices for AI Content Generation |
+| 12 min | Generalize New Information | Best Practices for Synthetic Content Generation |
 
-1. **Visual Aid**: Go over a handout on best practices for generating AI content.
+1. **Visual Aid**: Go over a handout on best practices for generating Synthetic Content.
 2. **Comparison**: Discuss the characteristics of good vs. poor prompts.
 3. **Techniques**: Introduce techniques for refining AI prompts and configuring settings.
 4. **Demonstration**: Demonstrate how to use an AI tool to generate content with a specific, well-crafted prompt.
@@ -80,5 +80,5 @@ Successfully create AI-generated content that meets specified quality standards 
 
 1. **Summary**: Recap the key points of the lesson.
 2. **Q&A**: Answer any remaining questions from students.
-3. **Reflection**: Discuss how the activity demonstrated the importance of specificity in AI content generation.
+3. **Reflection**: Discuss how the activity demonstrated the importance of specificity in Synthetic Content generation.
 4. **Future Application**: Encourage students to apply these techniques in their professional tasks involving AI tools.

@@ -1,10 +1,10 @@
 # Advanced Organizer: Recognizing AI-Generated Content
 
 ## Learning Objective
-**Action:** Recognize AI-Generated Content.
+**Action:** Identify Synthetic Media Content.
 
 **Conditions:** 
-Given an environment that allows the students to engage one another and the cadre openly, handouts, visual aids, research capabilities, and AI content detection tools.
+Given an environment that allows the students to engage one another and the cadre openly, handouts, visual aids, research capabilities, and Synthetic Content detection tools.
 
 **Standards:** 
 Accurately identify AI-generated content by detecting inconsistencies and manipulation artifacts, ensuring that at least 90% of assessments are correct and report findings to the relevant authorities.
@@ -16,7 +16,7 @@ Accurately identify AI-generated content by detecting inconsistencies and manipu
 | --------------------------- | -------------------------------------------------------------------------------------------- |
 | Intended Audience           | Government employees                                                                         |
 | Learning Domain             | Cognitive                                                                                    |
-| Training Resources Required | Computer, internet access, AI content detection tools, example images, handouts, visual aids |
+| Training Resources Required | Computer, internet access, Synthetic Content detection tools, example images, handouts, visual aids |
 | Total Duration              | 120                                                                                          |
 
 ---
@@ -53,13 +53,13 @@ Students write down any differences they notice
 
 | Time   | ELM Phase                  | Comment                             |
 | ------ | -------------------------- | ----------------------------------- |
-| 60 min | Generalize New Information | Techniques for Detecting AI Content |
+| 60 min | Generalize New Information | Techniques for Detecting Synthetic Content |
 
 
 1. **Visual Aid**: Use handouts and visual aids to illustrate common signs of AI-generated content.
 2. **Comparison**: Compare characteristics of authentic vs. AI-generated content.
 3. **Techniques**: Introduce techniques for detecting AI manipulations (e.g., analyzing hands, facial features, and structural consistency).
-4. **Demonstration**: Demonstrate using an AI content detection tool to identify manipulated content.
+4. **Demonstration**: Demonstrate using an Synthetic Content detection tool to identify manipulated content.
 
 | Time  | ELM Phase            | Comment                                   |
 | ----- | -------------------- | ----------------------------------------- |
