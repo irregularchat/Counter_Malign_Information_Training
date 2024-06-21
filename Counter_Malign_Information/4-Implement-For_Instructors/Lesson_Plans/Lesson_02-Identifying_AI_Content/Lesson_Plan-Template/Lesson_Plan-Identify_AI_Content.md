@@ -64,6 +64,7 @@ This 2-hour lesson is an advanced level orientation to identifying AI-generated 
 9. Journalist's Car - https://cpj.org/2023/11/photos-israel-hamas-war-takes-unprecedented-toll-on-journalists/ (Image4-Real-Car.jpg)
 10. Image of Man Hunting - https://www.reddit.com/r/aiArt/comments/1dkn336/most_realistic_image_ive_prompted/ (Image5-Real-Hunting_Bear.webp)
 11. How to Spot a Deepfake - https://time.com/6266606/how-to-spot-deepfake-pope/ (Image6-AI-Pope.png)
+12. X Post about Mob attacking Journalist - https://x.com/AbujomaaGaza/status/1798366219546071081 (Image7-Real-Mob_Journalist.jpg)
 
 ## SECTION 1: ADMINISTRATIVE DATA 
 
@@ -211,7 +212,7 @@ Students write down any differences they notice:
 1. Display two sets of images, one original and one synthetic, and ask students to identify which is synthetic. (Concrete_Experience-Image4-Real-Car.jpg and Concrete_Experience-Image2-AI-Car.webp) (5 minutes)
 NOTE: Go to Slide 2
 #### SLIDE 2
-2. Display two sets of images, these are both real images but extraordinary in some way. Ask students to identify which is synthetic. (Concrete_Experience-Image3-Real-Bird.webp and Concrete_Experience-Image1-AI-Aligators.jpeg) (5 minutes)
+2. Display two sets of images, these are both real images but extraordinary in some way. Ask students to identify which is synthetic. (Concrete_Experience-Image3-Real-Bird.webp and Image7-Real-Mob_Journalist.jpeg) (5 minutes)
 Go to Slide 3
 #### SLIDE 3
 (Concrete_Experience-Image2-AI-Car.webp and Concrete_Experience-Image1-AI-Aligators.jpeg)
