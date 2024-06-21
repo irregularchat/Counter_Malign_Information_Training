@@ -17,20 +17,20 @@
 | Total Duration              | 135 (60, break, 60, break, 15)                                                            |
 
 ---
-# Performance Steps
+## Performance Steps
 
 1. Monitor communication channels.
 2. Analyze influence activities.
 3. Report findings.
 
 ---
-# Lesson ELM Steps
+## Lesson ELM Steps
 
 | Time | ELM Phase           | Comment                     |
 | ---- | ------------------- | --------------------------- |
 | 15   | Concrete Experience | Identifying Rival Influence |
 
-1. _Ask students to recall and share an experience where they encountered suspected rival influence in their work._ (5 minutes)
+1. _Ask students to analyze an influence attempt ._ (5 minutes)
 2. _Ask students to work in pairs and on a sheet of paper to identify indicators of rival influence in a given scenario._ (5 minutes)
 3. _Ask students “What indicators did you find most useful in identifying rival influence?”_ (5 minutes)
 
@@ -74,3 +74,5 @@
 2. _Provide feedback on the practical exercise._ (5 minutes)
 2. _Summarize the key points of the lesson._ (2 minutes)
 3. _Answer any remaining questions from students._ (3 minutes)
+
+## Additional Resources and References
