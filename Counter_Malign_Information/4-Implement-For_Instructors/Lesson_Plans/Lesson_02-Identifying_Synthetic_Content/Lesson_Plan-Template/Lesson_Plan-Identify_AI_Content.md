@@ -108,8 +108,7 @@ An instructor must:
 
 An instructor must attend the following training:
 
-1. TRADOC-approved faculty course
-2. Intelligence Analysis Certification
+1. N/A
 
 An instructor should:
 
