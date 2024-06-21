@@ -58,6 +58,10 @@ This 2-hour lesson is an advanced level orientation to identifying AI-generated 
 3. [CISA Contextualizing Deepfake Threats to Organizations](https://media.defense.gov/2023/Sep/12/2003298925/-1/-1/0/CSI-DEEPFAKE-THREATS.PDF)
 4. [DARPA: Deepfake Defense Tech Ready for Commercialization, Transition](https://www.darpa.mil/news-events/2024-03-14#:~:text=Through%20the%20Semantic%20Forensics%20)
 5. [Scribbr AI Detector](https://www.scribbr.com/ai-detector/)
+6. [Real Bird Image Wins AI Contest](https://www.scientificamerican.com/article/how-this-real-image-won-an-ai-photo-competition/) (Concrete_Experience-Image3-Real-Bird.webp)
+7. [Facebook Post with AI-Generated Image of Aligators](https://www.facebook.com/story.php?story_fbid=10105216423848582&id=199109935&mibextid=NoJtEM&rdid=3RMz451RwYXWUi4R) (Concrete_Experience-Image1-AI-Aligators.jpeg)
+8. [Reddit Post Believe it or not this image is AI](https://www.reddit.com/r/ChatGPT/comments/1c8u924/believe_it_or_not_this_image_is_ai/) (Concrete_Experience-Image2-AI-Car.webp)
+9. [Journalist's Car](https://cpj.org/2023/11/photos-israel-hamas-war-takes-unprecedented-toll-on-journalists/) (Concrete_Experience-Image4-Real-Car.jpg)
 
 ## SECTION 1: ADMINISTRATIVE DATA 
 
@@ -198,20 +202,28 @@ Lesson Material, Ammo, Expendable, etc.
 **Concrete Experience / Motivator:** 
 NOTE: This concrete experience is designed to engage students and introduce the topic of AI content detection.
 NOTE: In this lesson Synthetic content means AI-generated content
-NOTE: Go to Slide 0
+NOTE: Go to Slide 1
 
 Students write down any differences they notice:
-1. Display two sets of images, one original and one synthetic, and ask students to identify differences. (Images A and B) (5 minutes)
-2. Display two sets of images, these are both real images but extraordinary in some way. Ask students to identify the fake image. (5 minutes)
+#### SLIDE 1
+1. Display two sets of images, one original and one synthetic, and ask students to identify which is synthetic. (Concrete_Experience-Image4-Real-Car.jpg and Concrete_Experience-Image2-AI-Car.webp) (5 minutes)
+NOTE: Go to Slide 2
+#### SLIDE 2
+2. Display two sets of images, these are both real images but extraordinary in some way. Ask students to identify which is synthetic. (Concrete_Experience-Image3-Real-Bird.webp and Concrete_Experience-Image1-AI-Aligators.jpeg) (5 minutes)
+Go to Slide 3
+#### SLIDE 3
+(Concrete_Experience-Image2-AI-Car.webp and Concrete_Experience-Image1-AI-Aligators.jpeg)
 3. Students share their observations. (5 minutes)
-4. Reveal to the students which images were altered. Do NOT discuss the detection techniques used yet; instead, go to the publish and process phase. 
+4. Reveal to the students which images were synthetic. Do NOT discuss the detection techniques used yet; instead, go to the publish and process phase. 
 
-NOTE: Go to Slide 1
+NOTE: Go to Slide 4
+#### SLIDE 4
 
 **Instructional Lead-in:** 
 "The learning objectives for this block are to recognize AI-generated content effectively using specific detection techniques for images, text, and audio."
 
-NOTE: Go to Slide 2
+NOTE: Go to Slide 4
+#### SLIDE 4
 
 **Scope Statement:** During this 2-hour block of instruction, the students will learn to detect and analyze AI-generated content using structured analytic techniques. They will participate in practical exercises to apply these techniques and gain confidence in their ability to validate information sources.
 
@@ -226,9 +238,8 @@ NOTE: Go to Slide 2
 
 ### Learning Step Activity (LSA) 1: Introduction to AI Content Detection
 
-NOTE: Go to Slide 3
-
-#### SLIDE 3
+NOTE: Go to Slide 5 
+#### SLIDE 5
 
 **Learning Step Activity Text:**
 
@@ -244,9 +255,9 @@ NOTE: Go to Slide 3
 
 ### Learning Step Activity (LSA) 2: Detailed Analysis of AI Content Detection Components
 
-NOTE: Go to Slide 4
+NOTE: Go to Slide 6
 
-#### SLIDE 4: Visual Cues
+#### SLIDE 6: Visual Cues
 
 **Learning Step Activity Text:**
 
