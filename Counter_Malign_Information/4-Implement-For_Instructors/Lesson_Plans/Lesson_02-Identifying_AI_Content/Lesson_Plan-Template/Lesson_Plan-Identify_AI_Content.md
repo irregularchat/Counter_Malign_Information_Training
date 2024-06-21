@@ -58,10 +58,12 @@ This 2-hour lesson is an advanced level orientation to identifying AI-generated 
 3. CISA Contextualizing Deepfake Threats to Organizations - https://media.defense.gov/2023/Sep/12/2003298925/-1/-1/0/CSI-DEEPFAKE-THREATS.PDF
 4. DARPA: Deepfake Defense Tech Ready for Commercialization, Transition - https://www.darpa.mil/news-events/2024-03-14#:~:text=Through%20the%20Semantic%20Forensics%20
 5. Scribbr AI Detector - https://www.scribbr.com/ai-detector/
-6. Real Bird Image Wins AI Contest - https://www.scientificamerican.com/article/how-this-real-image-won-an-ai-photo-competition/ (Concrete_Experience-Image3-Real-Bird.webp)
-7. Facebook Post with AI-Generated Image of Aligators - https://www.facebook.com/story.php?story_fbid=10105216423848582&id=199109935&mibextid=NoJtEM&rdid=3RMz451RwYXWUi4R (Concrete_Experience-Image1-AI-Aligators.jpeg)
-8. Reddit Post Believe it or not this image is AI - https://www.reddit.com/r/ChatGPT/comments/1c8u924/believe_it_or_not_this_image_is_ai/ (Concrete_Experience-Image2-AI-Car.webp)
-9. Journalist's Car - https://cpj.org/2023/11/photos-israel-hamas-war-takes-unprecedented-toll-on-journalists/ (Concrete_Experience-Image4-Real-Car.jpg)
+6. Real Bird Image Wins AI Contest - https://www.scientificamerican.com/article/how-this-real-image-won-an-ai-photo-competition/ (Image3-Real-Bird.webp)
+7. Facebook Post with AI-Generated Image of Aligators - https://www.facebook.com/story.php?story_fbid=10105216423848582&id=199109935&mibextid=NoJtEM&rdid=3RMz451RwYXWUi4R (Image1-AI-Aligators.jpeg)
+8. Reddit Post Believe it or not this image is AI - https://www.reddit.com/r/ChatGPT/comments/1c8u924/believe_it_or_not_this_image_is_ai/ (Image2-AI-Car.webp)
+9. Journalist's Car - https://cpj.org/2023/11/photos-israel-hamas-war-takes-unprecedented-toll-on-journalists/ (Image4-Real-Car.jpg)
+10. Image of Man Hunting - https://www.reddit.com/r/aiArt/comments/1dkn336/most_realistic_image_ive_prompted/ (Image5-Real-Hunting_Bear.webp)
+11. How to Spot a Deepfake - https://time.com/6266606/how-to-spot-deepfake-pope/ (Image6-AI-Pope.webp)
 
 ## SECTION 1: ADMINISTRATIVE DATA 
 
