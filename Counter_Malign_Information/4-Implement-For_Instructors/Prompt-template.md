@@ -61,8 +61,8 @@ This %%amount of time%% lesson is an %%level of training%% orientation %%to topi
 
 ### References
 
-1. Reference_1
-2. Reference_2
+1. Reference_1 - https://url.com (Label)
+2. Reference_2 - https://url.com (Label)
 
 ## SECTION 1: ADMINISTRATIVE DATA 
 
@@ -296,9 +296,11 @@ NOTE: %%Feedback is essential to effective learning. Schedule and provide feedba
 
 | Sequence | Media Name              | Attachment or URL | Media Type |
 | -------- | ----------------------- | ----------------- | ---------- |
-| -        | Master Slide Deck - Lesson Name  |                   | ZIP        | 
-|          |                         | https://url.com   | PPT        |
-
+| -        | Master Slide Deck - Lesson Name  |                   | PPTX        | 
+| -        | Slide Deck - Lesson Name        |                   | PPTX        |
+| -        | Handout - Topic 1        |                   | PDF        |
+| -        | Handout - Topic 2        |                   | PDF        |
+| -        | Video File - Topic 3        |                   | MP4        |
 ## APPENDIX B - Assessment Statement and Assessment Plan
 
 ### Assessment Statement: 
