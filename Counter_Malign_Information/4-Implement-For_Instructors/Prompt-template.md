@@ -39,7 +39,7 @@ develop this lesson plan template , output in a markdown code block. DON't BE LA
 
 ### SCOPE OF LESSON
 
-This %%amount of time%% lesson is an %%level of training%% orientation %%to Commissary anti-robbery procedures%%. The **end state** of this lesson **%%is for new Commissary employees to be able to recall the necessary steps to take in the event of a robbery at the store%%**. The author's intent **is that new employees learn anti-robbery principles and procedures and choose appropriate actions during a series of scenario-based exercises. By the end of the lesson, new employees should have a solid grasp of the actions to take if the store is being robbed. This lesson is common to all Commissary departments and** links to other parts of the curriculum** by reinforcing the character attributes of accountability and responsibility.
+This %%amount of time%% lesson is an %%level of training%% orientation %%to topic-specific procedures%%. The end state of this lesson is for students to be able to recall and apply the necessary steps to effectively handle %%specified scenarios%%. The author's intent is that students learn key principles and procedures through a series of scenario-based exercises. By the end of the lesson, students should have a solid grasp of the actions to take in the relevant scenarios. This lesson is common to all %%applicable departments%% and links to other parts of the curriculum by reinforcing the character attributes of accountability and responsibility.
 
 ### Learning Objectives
 
@@ -325,7 +325,7 @@ Course is : Countering Malign Influence
 %% Use the order and duration information below to fill in the lesson plan template.%%
 Ordered	Objective Title	EST Total Min	Mode of Delivery	Day
 0	Event Start	50	Instruction (Resident)	1
-1	Creating AI Content	40	Blended	
+1	Creating Synthetic Content	40	Blended	
 2	Recognizing AI Generated Content	120	Instruction (Resident)	3
 3	Identifying Rival Influence (SCAME)	130	Instruction (Resident)	2
 4	Mitigating Rival Influence	180	Exchange (Partner)	2
@@ -339,7 +339,7 @@ TOTAL	1020 (17)
 
 # Lesson Context
 ## References
-### AI Content Detection
+### Synthetic Content Detection
 #### Authenticity of Content: Humans
 1. **Pay attention to the hands and fingers**. Extra fingers? Shape or size anomalies? Color discrepancies can be indicative of AI manipulation.
 2. **Pay attention to the limbs**. Are there extra limbs or limbs that reach impossibly far? These can be signs of synthetic manipulation.
@@ -430,7 +430,7 @@ here's what I got so far with a advanced organizer:
 **Action:** Recognize AI-Generated Content.
 
 **Conditions:** 
-Given an environment that allows the students to engage one another and the cadre openly, handouts, visual aids, research capabilities, and AI content detection tools.
+Given an environment that allows the students to engage one another and the cadre openly, handouts, visual aids, research capabilities, and Synthetic Content detection tools.
 
 **Standards:** 
 Accurately identify AI-generated content by detecting inconsistencies and manipulation artifacts, ensuring that at least 90% of assessments are correct and report findings to the relevant authorities.
@@ -442,7 +442,7 @@ Accurately identify AI-generated content by detecting inconsistencies and manipu
 | --------------------------- | -------------------------------------------------------------------------------------------- |
 | Intended Audience           | Government employees                                                                         |
 | Learning Domain             | Cognitive                                                                                    |
-| Training Resources Required | Computer, internet access, AI content detection tools, example images, handouts, visual aids |
+| Training Resources Required | Computer, internet access, Synthetic Content detection tools, example images, handouts, visual aids |
 | Total Duration              | 120                                                                                          |
 
 ---
@@ -479,13 +479,13 @@ Students write down any differences they notice
 
 | Time   | ELM Phase                  | Comment                             |
 | ------ | -------------------------- | ----------------------------------- |
-| 60 min | Generalize New Information | Techniques for Detecting AI Content |
+| 60 min | Generalize New Information | Techniques for Detecting Synthetic Content |
 
 
 1. **Visual Aid**: Use handouts and visual aids to illustrate common signs of AI-generated content.
 2. **Comparison**: Compare characteristics of authentic vs. AI-generated content.
 3. **Techniques**: Introduce techniques for detecting AI manipulations (e.g., analyzing hands, facial features, and structural consistency).
-4. **Demonstration**: Demonstrate using an AI content detection tool to identify manipulated content.
+4. **Demonstration**: Demonstrate using an Synthetic Content detection tool to identify manipulated content.
 
 | Time  | ELM Phase            | Comment                                   |
 | ----- | -------------------- | ----------------------------------------- |
