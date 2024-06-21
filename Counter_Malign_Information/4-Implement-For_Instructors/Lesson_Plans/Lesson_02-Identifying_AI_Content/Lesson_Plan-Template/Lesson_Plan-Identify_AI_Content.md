@@ -63,7 +63,7 @@ This 2-hour lesson is an advanced level orientation to identifying AI-generated 
 8. Reddit Post Believe it or not this image is AI - https://www.reddit.com/r/ChatGPT/comments/1c8u924/believe_it_or_not_this_image_is_ai/ (Image2-AI-Car.webp)
 9. Journalist's Car - https://cpj.org/2023/11/photos-israel-hamas-war-takes-unprecedented-toll-on-journalists/ (Image4-Real-Car.jpg)
 10. Image of Man Hunting - https://www.reddit.com/r/aiArt/comments/1dkn336/most_realistic_image_ive_prompted/ (Image5-Real-Hunting_Bear.webp)
-11. How to Spot a Deepfake - https://time.com/6266606/how-to-spot-deepfake-pope/ (Image6-AI-Pope.webp)
+11. How to Spot a Deepfake - https://time.com/6266606/how-to-spot-deepfake-pope/ (Image6-AI-Pope.png)
 
 ## SECTION 1: ADMINISTRATIVE DATA 
 
