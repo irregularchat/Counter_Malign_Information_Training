@@ -21,7 +21,7 @@ Accurately identify AI-generated content by detecting inconsistencies and manipu
 
 ---
 
-# Performance Steps
+## Performance Steps
 
 1. Pay attention to specific visual cues (e.g., hands, limbs, face).
 2. Analyze structural consistency in buildings and scenes.
@@ -30,7 +30,7 @@ Accurately identify AI-generated content by detecting inconsistencies and manipu
 
 ---
 
-# Lesson ELM Steps
+## Lesson ELM Steps
 
 | Time   | ELM Phase           | Comment              |
 | ------ | ------------------- | -------------------- |
@@ -87,7 +87,7 @@ Students write down any differences they notice
 
 ---
 
-# Lesson References
+## Lesson References
 
 - [Media Lab at MIT on Detecting Fakes](https://www.media.mit.edu/projects/detect-fakes/overview/)
 - [Detect Fakes with Kellogg's online tool](https://detectfakes.kellogg.northwestern.edu/)

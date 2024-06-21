@@ -19,7 +19,7 @@ Accurately identify misinformation and disinformation, ensuring that at least 95
 | Total Duration              | 130 mins (70,break,50,break,10)                                                                                            |
 
 ---
-# Performance Steps
+## Performance Steps
 
 1. Assess the source of information.
 2. Analyze the content for bias and inconsistencies.
@@ -27,7 +27,7 @@ Accurately identify misinformation and disinformation, ensuring that at least 95
 4. Apply Deception Detection techniques to identify potential misinformation.
 
 ---
-# Lesson ELM Steps
+## Lesson ELM Steps
 
 | Time | ELM Phase            | Comment                       |
 | ---- | -------------------- | ----------------------------- |
@@ -81,3 +81,6 @@ Accurately identify misinformation and disinformation, ensuring that at least 95
 2. _Summarize the key points of the lesson._ (10 minutes)
 3. _Answer any remaining questions from students._ (5 minutes)
 4. _Discuss any embedded assumptions or critical gaps exposed during the analysis._ (5 minutes)
+
+## Additional Resources and References
+1. Disinformation campaign uses fake footage to claim attack on USS Eisenhower - https://www.cbsnews.com/news/yemen-houthi-attack-disinformation-uss-eisenhower/

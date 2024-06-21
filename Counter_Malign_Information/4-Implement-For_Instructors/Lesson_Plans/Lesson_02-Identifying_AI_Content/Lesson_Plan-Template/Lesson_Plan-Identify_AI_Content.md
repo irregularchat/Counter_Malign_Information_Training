@@ -5,7 +5,7 @@
 
 **Lesson Title**: Identifying AI-Generated Content
 
-**Program of Instruction (POI)**: 002-Countering Malign Influence / Version 1.0
+**Program of Instruction (POI)**: Countering Malign Influence / Version 1.0
 
 **Developer Point of Contact**: john.doe@email.tld
 
