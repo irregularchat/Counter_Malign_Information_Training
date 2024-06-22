@@ -194,20 +194,22 @@ Lesson Material, Ammo, Expendable, etc.
 ## SECTION 2: LESSON INTRODUCTION
 
 **Concrete Experience / Motivator:** 
-NOTE: Tell an interesting anecdote based on your experience, or recall a recent current event pertaining to the lesson unit topic to gain the student's attention and motivate them to learn the lesson material. The student should be made aware of the Army's Contemporary Operational Environment factors such as the physical environment, military capabilities, technology, and information.
+NOTE: Concrete experience will get buy in from students by presenting a challenge which does not have a clear answer but is generally covered by the lesson. 
 
-> Example Paraphrase goes here.
-
-NOTE: Go to Slide X
-
-**Instructional Lead-in:** 
-"The learning objectives for this block are to identify misinformation and disinformation effectively using structured analytic techniques for information validation."
+1. _Write down two statements on the whiteboard, both of which are lies, but one is more egregious than the other._ 
+    - Statement 1: "The Earth is flat." (Instructor may create a more egregious lie)
+    - Statement 2: "The Earth is a cube." (Instructor may create a less egregious lie)
+2. _Ask students to identify which statement they believe is true and explain why._ _Ask students “What was challenging about determining if the statements on the whiteboard were true or false?”_ (5 minutes)
 
 NOTE: Go to Slide X
-
-**Scope Statement:** During this 2-hour block of instruction, the students will learn to detect and analyze misinformation and disinformation using structured analytic techniques. They will participate in practical exercises to apply these techniques and gain confidence in their ability to validate information sources.
-
 ## Publish and Process
+**Instructional Lead-in:** 
+"The learning objectives for this block are to identify malign information, including misinformation and disinformation, effectively using structured analytic techniques for information validation."
+
+NOTE: Go to Slide X
+
+**Scope Statement:** During this 2-hour block of instruction, you will learn to detect and analyze misinformation and disinformation using structured analytic techniques. They will participate in practical exercises to apply these techniques and gain confidence in their ability to validate information sources.
+
 
 NOTE: for 
 
