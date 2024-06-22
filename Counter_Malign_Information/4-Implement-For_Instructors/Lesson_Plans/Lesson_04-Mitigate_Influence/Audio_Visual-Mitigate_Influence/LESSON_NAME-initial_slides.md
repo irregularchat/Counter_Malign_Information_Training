@@ -19,54 +19,16 @@ Slides should be color coded with Yellow being English with details or English w
 
 # Slide 2: Instructional Lead-in
 ## Instructional Lead-in
-- "The learning objectives for this block are to..."
-
----
-
-# Slide 3: Scope Statement
-## Scope of Lesson
 - During this ##.##-hour block of instruction, the students will...
 
 ---
 
-# Slide 4: Publish and Process
-## Publish and Process
-- Discuss the relevance and application of the lesson material in the context of students' experiences and expectations.
+# Slide 3: Objectives
+## Scope of Lesson
+- "The learning objectives for this block are to..."
+
 
 ---
-
-# Slide 5: Learning Step Activity (LSA) 1
-## Learning Step Activity (LSA) Title
-- **SLIDE X**: Note goes here
-  - Key points and subpoints for this learning step activity.
-
----
-
-# Slide 6: Activity for LSA 1
-## Activity
-- Describe the activity related to LSA 1.
-- Include instructions for group work or individual tasks.
-
----
-
-# Slide 7: Learning Step Activity (LSA) 2
-## Learning Step Activity (LSA) Title
-- **SLIDE X**: Note goes here
-  - Key points and subpoints for this learning step activity.
-
----
-
-# Slide 8: Activity for LSA 2
-## Activity
-- Describe the activity related to LSA 2.
-- Include instructions for group work or individual tasks.
-
----
-
-# Slide 9: Learning Step Activity (LSA) 3
-## Learning Step Activity (LSA) Title
-- **SLIDE X**: Note goes here
-  - Key points and subpoints for this learning step activity.
 
 ---
 

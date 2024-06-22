@@ -10,14 +10,12 @@ Slides should be color coded with Yellow being English with details or English w
 
 # Slide 1: Concrete Experience / Motivator
 ## Concrete Experience
-- Tell an interesting anecdote or recall a recent current event pertaining to the lesson topic to gain the students' attention and motivate them to learn the lesson material.
-- Make students aware of the Army's Contemporary Operational Environment factors such as physical environment, military capabilities, technology, and information.
-
-> Example Paraphrase goes here.
+    - Statement 1: "The Earth is flat." 
+    - Statement 2: "The Earth is a cube." 
 
 ---
 
-# Slide 2: Instructional Lead-in
+# Slide 2: Lesson Objectives
 ## Instructional Lead-in
 - "The learning objectives for this block are to..."
 
@@ -29,65 +27,41 @@ Slides should be color coded with Yellow being English with details or English w
 
 ---
 
-# Slide 4: Publish and Process
-## Publish and Process
-- Discuss the relevance and application of the lesson material in the context of students' experiences and expectations.
+# Slide 4: Deception Detection Framework
+## Deception Detection Framework Outline
 
 ---
 
-# Slide 5: Learning Step Activity (LSA) 1
-## Learning Step Activity (LSA) Title
+# Slide 5: Motive, Opportunity, and Means (MOM)
 - **SLIDE X**: Note goes here
   - Key points and subpoints for this learning step activity.
 
 ---
 
-# Slide 6: Activity for LSA 1
+# Slide 6: Past Opposition Practices (POP)
 ## Activity
 - Describe the activity related to LSA 1.
 - Include instructions for group work or individual tasks.
 
 ---
 
-# Slide 7: Learning Step Activity (LSA) 2
-## Learning Step Activity (LSA) Title
+# Slide 7: Manipulability of Sources (MOSES)
 - **SLIDE X**: Note goes here
   - Key points and subpoints for this learning step activity.
 
 ---
 
-# Slide 8: Activity for LSA 2
+# Slide 8: Evaluation of Evidence (EVE)
 ## Activity
 - Describe the activity related to LSA 2.
 - Include instructions for group work or individual tasks.
 
 ---
 
-# Slide 9: Learning Step Activity (LSA) 3
-## Learning Step Activity (LSA) Title
+# Slide 9: Deception Detection Check On Learning
 - **SLIDE X**: Note goes here
   - Key points and subpoints for this learning step activity.
 
----
-
-# Slide 10: Activity for LSA 3
-## Activity
-- Describe the activity related to LSA 3.
-- Include instructions for group work or individual tasks.
-
----
-
-# Slide 11: Learning Step Activity (LSA) 4
-## Learning Step Activity (LSA) Title
-- **SLIDE X**: Note goes here
-  - Key points and subpoints for this learning step activity.
-
----
-
-# Slide 12: Activity for LSA 4
-## Activity
-- Describe the activity related to LSA 4.
-- Include instructions for group work or individual tasks.
 
 ---
 
