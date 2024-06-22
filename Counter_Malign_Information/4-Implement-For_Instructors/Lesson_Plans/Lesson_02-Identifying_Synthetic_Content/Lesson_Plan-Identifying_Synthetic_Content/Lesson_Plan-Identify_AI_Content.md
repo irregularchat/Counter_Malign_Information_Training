@@ -227,6 +227,9 @@ NOTE: Go to Slide 5
 **Instructional Lead-in:** 
 "The learning objectives for this block are to recognize AI-generated content effectively using specific detection techniques for images, text, and audio."
 
+NOTE: Instructor must say the following to the students as AI Generated is often not detectable by the human eye: 
+"AI Generated Content is becoming increasingly sophisticated and harder to detect. There will be many situations where it is not possible to determine if content is AI-generated or not. More advanced technical tools and techniques are required to detect AI-generated content."
+
 **Scope Statement:** During this 2-hour block of instruction, the students will learn to detect and analyze AI-generated content using structured analytic techniques. They will participate in practical exercises to apply these techniques and gain confidence in their ability to validate information sources.
 
 ## Publish and Process
