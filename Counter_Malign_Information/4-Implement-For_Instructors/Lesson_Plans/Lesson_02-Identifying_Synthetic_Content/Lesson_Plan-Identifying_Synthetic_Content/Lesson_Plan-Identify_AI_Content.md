@@ -66,6 +66,7 @@ This 2-hour lesson is an advanced level orientation to identifying AI-generated 
 11. How to Spot a Deepfake - https://time.com/6266606/how-to-spot-deepfake-pope/ (Image6-AI-Pope.png)
 12. X Post about Mob attacking Journalist - https://x.com/AbujomaaGaza/status/1798366219546071081 (Image7-Real-Mob_Journalist.jpg)
 13. Man Carrying Kids out of Gaza Fact Check - https://factcheck.afp.com/doc.afp.com.33ZJ8WU (Image8-AI-Man_Carrying_Kids.jpg) (Image8-AI-Man_Carrying_Kids.jpeg, Image9-AI-FACTHCHECK-Man_Carrying_Kids.jpeg)
+14. Reddit community focused on AI Art - https://www.reddit.com/r/aiArt/
 
 ## SECTION 1: ADMINISTRATIVE DATA 
 
