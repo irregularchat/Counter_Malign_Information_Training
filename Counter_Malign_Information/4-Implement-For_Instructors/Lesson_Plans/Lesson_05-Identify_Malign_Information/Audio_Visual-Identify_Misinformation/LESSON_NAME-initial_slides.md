@@ -17,7 +17,7 @@ Slides should be color coded with Yellow being English with details or English w
 
 # Slide 2: Lesson Objectives
 ## Instructional Lead-in
-- "The learning objectives for this block are to..."
+- Identify misinformation and disinformation effectively using the Deception Detection Framework and Structured Analytic Techniques (SATs).
 
 ---
 
@@ -29,6 +29,10 @@ Slides should be color coded with Yellow being English with details or English w
 
 # Slide 4: Deception Detection Framework
 ## Deception Detection Framework Outline
+- Motive, Opportunity, and Means (MOM)
+- Past Opposition Practices (POP)
+- Manipulability of Sources (MOSES)
+- Evaluation of Evidence (EVE)
 
 ---
 
@@ -40,7 +44,6 @@ Slides should be color coded with Yellow being English with details or English w
 
 # Slide 6: Past Opposition Practices (POP)
 ## Activity
-- Describe the activity related to LSA 1.
 - Include instructions for group work or individual tasks.
 
 ---
