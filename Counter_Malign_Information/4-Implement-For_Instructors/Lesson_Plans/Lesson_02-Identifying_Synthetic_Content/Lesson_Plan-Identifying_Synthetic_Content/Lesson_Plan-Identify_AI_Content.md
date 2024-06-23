@@ -68,6 +68,7 @@ This 2-hour lesson is an advanced level orientation to identifying AI-generated 
 13. Man Carrying Kids out of Gaza Fact Check - https://factcheck.afp.com/doc.afp.com.33ZJ8WU (Image8-AI-Man_Carrying_Kids.jpg) (Image8-AI-Man_Carrying_Kids.jpeg, Image9-AI-FACTHCHECK-Man_Carrying_Kids.jpeg)
 14. Reddit community focused on AI Art - https://www.reddit.com/r/aiArt/
 15. In China, AI transformed Ukrainian YouTuber into a Russian - https://www.reuters.com/technology/artificial-intelligence/china-ai-transformed-ukrainian-youtuber-into-russian-2024-06-21/;  https://www.threads.net/@reuters/post/C8di0dli_iQ/?xmt=AQGzv6X0VtSp4e0P2Ejo6X-v0Zwm5I4Th7WRWGlMR97rWQ
+16. EU report on AI-generated content - https://www.europarl.europa.eu/RegData/etudes/STUD/2021/690039/EPRS_STU(2021)690039_EN.pdf
 
 ## SECTION 1: ADMINISTRATIVE DATA 
 
