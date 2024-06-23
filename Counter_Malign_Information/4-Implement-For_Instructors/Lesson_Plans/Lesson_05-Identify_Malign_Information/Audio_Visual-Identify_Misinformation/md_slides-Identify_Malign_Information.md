@@ -5,18 +5,22 @@
 
 ---
 
-# Slide 2: Lesson Objectives
+# Slide 2: Title
+
+---
+
+# Slide 3: Lesson Objectives
 ## Instructional Lead-in
 - Identify misinformation and disinformation effectively using the Deception Detection Framework and Structured Analytic Techniques (SATs).
 
 ---
 
-# Slide 3: Scope Statement
+# Slide 4: Scope Statement
 ## Scope of Lesson
 - During this 130-minute block of instruction, the students will learn to identify misinformation and disinformation using the skills and frameworks previously covered.
 
 ---
-# Slide 4: Covering the Frameworks being used and why
+# Slide 5: Covering the Frameworks being used and why
 ## Terms
 - Misinformation: is false or inaccurate information. Examples include rumors, insults and pranks.
 - Disinformation: is deliberate and includes malicious content such as hoaxes, spear phishing and
@@ -35,7 +39,7 @@ References:
 
 ---
 
-# Slide 5: Motive, Opportunity, and Means (MOM)
+# Slide 6: Motive, Opportunity, and Means (MOM)
 ## Memorization: MOM Framework
 - **MOM Framework**: Motive, Opportunity, and Means
 - **When to use it**: Use when evaluating the likelihood of a source having the motive and means to produce misinformation.
@@ -44,7 +48,7 @@ References:
 
 ---
 
-# Slide 6: Past Opposition Practices (POP)
+# Slide 7: Past Opposition Practices (POP)
 ## Memorization: POP Framework
 - **POP Framework**: Past Opposition Practices
 - **When to use it**: Use when historical context of misinformation from an adversary is available.
@@ -53,7 +57,7 @@ References:
 
 ---
 
-# Slide 7: Manipulability of Sources (MOSES)
+# Slide 8: Manipulability of Sources (MOSES)
 ## Memorization: MOSES Framework
 - **MOSES Framework**: Manipulability of Sources
 - **When to use it**: Use when assessing the reliability and susceptibility of sources to manipulation.
@@ -62,7 +66,7 @@ References:
 
 ---
 
-# Slide 8: Evaluation of Evidence (EVE)
+# Slide 9: Evaluation of Evidence (EVE)
 ## Memorization: EVE Framework
 - **EVE Framework**: Evaluation of Evidence
 - **When to use it**: Use when analyzing the validity and reliability of evidence presented.
@@ -71,7 +75,7 @@ References:
 
 ---
 
-# Slide 9: Memorization Check: Frameworks
+# Slide 10: Memorization Check: Frameworks
 ## Activity
 - Quick check on learning to gauge memorization of the frameworks.
 - Have students write down or verbally list the frameworks and the components of each framework.
@@ -87,7 +91,7 @@ References:
 
 ---
 
-# Slide 10: Memorization Check: Frameworks (Answers)
+# Slide 11: Memorization Check: Frameworks (Answers)
 ## Activity
 - Reveal the answers to the students, discussing each framework in detail.
 - MOM Framework: Motive, Opportunity, and Means
@@ -96,14 +100,14 @@ References:
 - EVE Framework: Evaluation of Evidence
 ---
 
-# Slide 10: Detailed Analysis: Motive, Opportunity, and Means (MOM)
+# Slide 12: Detailed Analysis: Motive, Opportunity, and Means (MOM)
 ## Activity
 - Discuss each component in detail.
 - The provided historical and contemporary example: China's disinformation campaign during the COVID-19 pandemic.
 - Have students analyze a given scenario using the MOM framework.
 
 ---
-# Slide 11: MOM Framework Example
+# Slide 13: MOM Framework Example
 Text: "China's disinformation campaign during the COVID-19 pandemic."
 The COVID-19 pandemic has had a significant impact on the world, including strained diplomatic ties and blurred perceptions of who or what is responsible for its origins. In response to allegations, China crafted an intricate social media campaign to clear its name. This campaign gained notoriety in June 2020 when Twitter removed 150,000 malicious Chinese accounts.1 The accretion of fictitious accounts suggests that China has emboldened its efforts to spread propaganda on Twitter in favor of Chinese Communist Party (CCP) objectives. Although previous Chinese propaganda campaigns had focused on demeaning the protests in Hong Kong, a massive wave of social media rhetoric promoting the Chinese government’s response to the coronavirus outbreak as a form of Great Power competition—initially downplaying the pandemic’s severity while seeking praise for the government’s draconian efforts to contain its spread—is a narrative that underscores the changing character of war.
 
@@ -111,7 +115,7 @@ References:
 Misleading a Pandemic: The Viral Effects of Chinese Propaganda and the Coronavirus - https://ndupress.ndu.edu/Media/News/News-Article-View/Article/2884217 misleading-a-pandemic-the-viral-effects-of-chinese-propaganda-and-the-coronavir/
 
 ---
-# Slide 12: Detailed Analysis: Past Opposition Practices (POP)
+# Slide 14: Detailed Analysis: Past Opposition Practices (POP)
 ## Activity
 - Discuss each component in detail.
 - Provide historical and contemporary examples such as Tiananmen Square protests and the Hong Kong protests.
@@ -123,7 +127,7 @@ A disinformation and propaganda campaign “that denies and downplays the severi
 - https://hongkongfp.com/2021/06/04/taiwan-group-launches-website-to-counter-tiananmen-massacre-trolls-and-denialism/
 
 ---
-# Slide 13: POP Framework Example
+# Slide 15: POP Framework Example
 Text: "Tiananmen Square protests, Hong Kong protests, the Cultural Revolution."
 Have students find other examples of past opposition practices and analyze them using the POP framework to determine potential future misinformation strategies from this actor. 
 
@@ -132,7 +136,7 @@ A disinformation and propaganda campaign “that denies and downplays the severi
 - https://hongkongfp.com/2021/06/04/taiwan-group-launches-website-to-counter-tiananmen-massacre-trolls-and-denialism/
 
 
-# Slide 14: Detailed Analysis: Manipulability of Sources (MOSES)
+# Slide 16: Detailed Analysis: Manipulability of Sources (MOSES)
 ## Activity
 - Discuss each component in detail.
 - Ask students to provide examples of credible vs. manipulable sources.
@@ -145,7 +149,7 @@ A disinformation and propaganda campaign “that denies and downplays the severi
 
 ---
 
-# Slide 15: Detailed Analysis: Evaluation of Evidence (EVE)
+# Slide 17: Detailed Analysis: Evaluation of Evidence (EVE)
 ## Activity
 - Discuss each component in detail.
 - Examples of strong vs. weak evidence.
@@ -155,14 +159,14 @@ A disinformation and propaganda campaign “that denies and downplays the severi
 
 ---
 
-# Slide 16: EVE Framework Example
+# Slide 18: EVE Framework Example
 "The Earth is flat." vs. "The Earth is a sphere."
 - Strong evidence: Scientific consensus, satellite imagery, mathematical calculations.
   - Such as the Earth's circumference, the curvature of the Earth, and the observations of celestial bodies. Time zones, seasons, and the shape of the Earth's shadow during a lunar eclipse.
 - Weak evidence: Personal belief, lack of scientific data, anecdotal accounts.
   - Such as the belief that the Earth looks flat from the ground, the absence of a visible curve, and the idea that water always finds its level.
 
-# Slide 17: Practical Exercise: Identify Misinformation and Disinformation
+# Slide 19: Practical Exercise: Identify Misinformation and Disinformation
 ## Activity
 1. Divide students into groups numbering 1 & 2 as many as possible.
 2. Provide each group with a news story to analyze for misinformation or disinformation.
@@ -171,14 +175,14 @@ A disinformation and propaganda campaign “that denies and downplays the severi
 5. Discuss and provide feedback on their analyses.
 
 ---
-# Slide 18: Summary of Learning Activities
+# Slide 20: Summary of Learning Activities
 ## Summary
 - Review the key points from each framework.
 - Emphasize the importance of the skills and knowledge gained.
 
 ---
 
-# Slide 19: Check on Learning
+# Slide 21: Check on Learning
 ## Assessment / Check On Learning
 - Question: What is the MOM framework?
   - **Answer**: Motive, Opportunity, and Means.
@@ -191,7 +195,7 @@ A disinformation and propaganda campaign “that denies and downplays the severi
 
 ---
 
-# Slide 20: Check on Learning (Revealed)
+# Slide 22: Check on Learning (Revealed)
 ## Assessment / Check On Learning
 - ~~Question: What is the MOM framework?~~
   - **~~Answer~~**: ~~Motive, Opportunity, and Means.~~
@@ -203,10 +207,10 @@ A disinformation and propaganda campaign “that denies and downplays the severi
   - **~~Answer~~**: ~~Evaluation of Evidence.~~
 
 ---
-# Slide 21: Why is it Important?
+# Slide 23: Why is it Important?
 Ask students to reflect on the importance of identifying misinformation and disinformation in their professional and personal lives.
 
-# Slide 22: Lesson Summary
+# Slide 24: Lesson Summary
 ## Review and Summary
 - During this block of instruction, we covered:
   - Key learning step activity 1: MOM framework.
@@ -217,7 +221,7 @@ Ask students to reflect on the importance of identifying misinformation and disi
 
 ---
 
-# Slide 19: Closing
+# Slide 25: Closing
 ## Closing Remarks and References
 - Recap the importance of identifying misinformation and disinformation.
 - Encourage students to apply these skills in their professional and personal lives.
@@ -233,7 +237,7 @@ Ask students to reflect on the importance of identifying misinformation and disi
 8. Factsheet 4: Types of Misinformation and Disinformation - https://www.unhcr.org/innovation/wp-content/uploads/2022/02/Factsheet-4.pdf
 
 --- 
-# Slide 20: Take a Break
+# Slide 26: Take a Break
 ## Break Time
 
 ---
