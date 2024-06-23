@@ -105,9 +105,9 @@ Students will be able to accurately identify AI-generated content using structur
 #### Instructor Requirements
 
 An instructor must:
-1. Review the entire lesson plan for each lesson they will cover.  
+1. Review the entire lesson plan for each lesson they will cover.  This includes the slide notes.
 2. Be able to obtain, access, and be familiar with the required material and equipment.
-3. Read and understand the referenced material.
+3. Read and understand the references provided in the lesson plan.
 
 An instructor must attend the following training:
 
