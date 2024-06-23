@@ -58,7 +58,8 @@ This 180-minute lesson is an intermediate orientation to developing counter-narr
 
 ### References
 
-1. N/A - This lesson is based on past lessons and fictional scenarios for educational purposes. No external references are required. This is a student-led exercise.
+1. N/A for the lesson - This lesson is based on past lessons and fictional scenarios for educational purposes. No external references are required. This is a student-led exercise.
+2. Misinformation & Fake News CWU Library - https://libguides.lib.cwu.edu/c.php?g=625394&p=4391900
 
 ---
 
@@ -180,10 +181,10 @@ Assist with classroom setup, help facilitate group discussions, and provide one-
 | Instructor     | Setup                   | 0            | Classroom Setup                |             |
 | y              | Concrete Experience     | 20           | Scenario-based activity        | 1           |
 | y              | Publish and Process     | 5            | Group discussion               | 2           |
-| y              | Generalize New Information | 25         | Lecture and discussion         | 3, 4        |
-| y              | Develop                 | 100          | Group work and presentations   | 5, 6, 7, 8  |
-| y              | Apply                   | 30           | Practical exercise             | 9, 10       |
-| y              | Check On Learning       | 10           | Summary and feedback           | 11, 12      |
+| y              | Generalize New Information | 25         | Lecture and discussion         | 3 - 4        |
+| y              | Develop                 | 100          | Group work and presentations   | 5 - 8, and Handouts  |
+| y              | Apply                   | 30           | Practical exercise             | 9 - 10       |
+| y              | Check On Learning       | 10           | Summary and feedback           | 11 - 12      |
 
 ---
 
