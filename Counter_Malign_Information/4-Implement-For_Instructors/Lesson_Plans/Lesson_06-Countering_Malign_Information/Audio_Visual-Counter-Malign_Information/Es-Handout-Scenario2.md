@@ -1,19 +1,19 @@
-# Scenario 2: Malign Information Campaign by CountryX
-## Context:
-CountryA has recently discovered significant natural gas reserves, which could boost its economy and reduce its dependence on foreign energy. However, CountryX, seeing this as a potential threat to its own economic interests, has launched a disinformation campaign to undermine CountryA’s credibility and stability.
+# Escenario 2: Campaña de información maligna por parte de CountryX
+## Contexto:
+El país A ha descubierto recientemente importantes reservas de gas natural, que podrían impulsar su economía y reducir su dependencia de la energía extranjera. Sin embargo, CountryX, al ver esto como una amenaza potencial a sus propios intereses económicos, ha lanzado una campaña de desinformación para socavar la credibilidad y la estabilidad de CountryA.
 
-## Details:
-- CountryX’s state-sponsored media outlets are publishing false reports claiming that the natural gas reserves in CountryA are actually a cover-up for a secret nuclear weapons program.
-- These reports include fabricated evidence and expert testimonies from paid analysts to lend credibility to the false claims.
-- The disinformation campaign is coordinated across multiple channels, including social media, where bots and fake accounts amplify the message.
-- International stakeholders and allies of CountryA are growing concerned and demanding explanations.
+## Detalles:
+- Los medios de comunicación patrocinados por el estado del PaísX están publicando informes falsos que afirman que las reservas de gas natural en el PaísA son en realidad un encubrimiento de un programa secreto de armas nucleares.
+- Estos informes incluyen pruebas fabricadas y testimonios de expertos de analistas pagados para dar credibilidad a las afirmaciones falsas.
+- La campaña de desinformación se coordina a través de múltiples canales, incluidas las redes sociales, donde los bots y las cuentas falsas amplifican el mensaje.
+- Las partes interesadas internacionales y los aliados del País A están cada vez más preocupados y exigen explicaciones.
 
-## Objective for Students:
-Develop a counter-strategy to expose and neutralize the disinformation campaign by CountryX. Ensure the strategy includes:
-- Collecting and presenting evidence to refute the false claims.
-- Engaging with international media and stakeholders to provide accurate information.
-- Coordinating with social media platforms to identify and remove fake accounts and bots.
-- Leveraging diplomatic channels to address the disinformation at the international level.
+## Objetivo para estudiantes:
+Desarrollar una contraestrategia para exponer y neutralizar la campaña de desinformación de CountryX. Asegúrese de que la estrategia incluya:
+- Recopilar y presentar pruebas para refutar las afirmaciones falsas.
+- Interactuar con los medios de comunicación internacionales y las partes interesadas para proporcionar información precisa.
+- Coordinación con plataformas de redes sociales para identificar y eliminar cuentas falsas y bots.
+- Aprovechar los canales diplomáticos para abordar la desinformación a nivel internacional.
 
-### NOTE: 
-This scenario is fictional and for educational purposes only. It does not reflect real-world events or entities. Researching or obtaining information about the event is not required. The focus is on developing a strategic response to the scenario presented - developing the HOW rather than the WHAT. Detailed steps that someone else from your unit could follow without needing further explanation is the goal.
+### NOTA:
+Este escenario es ficticio y sólo tiene fines educativos. No refleja eventos o entidades del mundo real. No es necesario investigar u obtener información sobre el evento. La atención se centra en desarrollar una respuesta estratégica al escenario presentado: desarrollar el CÓMO en lugar del QUÉ. El objetivo es seguir pasos detallados que otra persona de su unidad pueda seguir sin necesidad de más explicaciones.
