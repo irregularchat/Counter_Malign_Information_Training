@@ -30,7 +30,7 @@
 
 ### SCOPE OF LESSON
 
-This 2-hour lesson is an advanced level orientation to identifying misinformation and disinformation. The **end state** of this lesson **is for students to accurately identify misinformation and disinformation with a success rate of 90% within 24 hours of detection. The** author's intent **is that students learn to apply structured analytic techniques to detect potential deception and validate information sources. By the end of the lesson, students should have a solid grasp of the methods used to discern true information from falsehoods. This lesson is critical for operational effectiveness in information operations and** links to other parts of the curriculum** by reinforcing information analysis and validation skills.
+This 2-hour lesson is an advanced level orientation to identifying misinformation and disinformation. The end state of this lesson is for students to accurately identify misinformation and disinformation with a success rate of 90% within 24 hours of detection. The author's intent is that students learn to apply structured analytic techniques to detect potential deception and validate information sources. By the end of the lesson, students should have a solid grasp of the methods used to discern true information from falsehoods. This lesson is critical for operational effectiveness in information operations and links to other parts of the curriculum** by reinforcing information analysis and validation skills.
 
 ### Learning Objectives
 
@@ -44,7 +44,7 @@ This 2-hour lesson is an advanced level orientation to identifying misinformatio
 
 #### Enabling Learning Objective (ELO) / Learning Step Activity (LSA):
  
-> **Action**: Apply structured analytic techniques to detect potential deception
+> **Action**: Apply structured analytic techniques (SATs) to detect potential deception
 > **Condition**: Provided with information sources and verification tools.
 > **Standard**: Correctly apply structured analytic techniques to identify misinformation and disinformation in at least 90% of provided examples.
 
@@ -105,8 +105,7 @@ An instructor must:
 
 An instructor must attend the following training:
 
-1. TRADOC-approved faculty course
-2. Intelligence Analysis Certification
+1. Unit Technical Exhcange training or TRADOC-approved faculty course
 
 An instructor should:
 
@@ -124,7 +123,7 @@ An instructor should:
 ##### Guidance for Assistant Instructors
 
 1. Assist with distributing materials and setting up exercises.
-2. Provide guidance and support to students during practical exercises.
+2. Provide guidance and support to students during practical exercises, including technical assistance with verification tools.
 3. Monitor student progress and provide feedback.
 
 ---
@@ -136,10 +135,8 @@ Lesson Material, Ammo, Expendable, etc.
 | Equipment                        | Student Ratio | Instructor Ratio | Quantity | Expendable |
 | -------------------------------- | ------------- | ---------------- | -------- | ---------- |
 | Computers with internet access   | 1:1           | 1:2              |          | no         |
-| Verification tools               | 1:1           | 1:2              |          | no         |
 | Example scenarios                |               |                  | Various  | no         |
 | Projector and screen             |               |                  | 1        | no         |
-| Handouts and visual aids         | 1:1           | 1:2              |          | no         |
 
 ---
 

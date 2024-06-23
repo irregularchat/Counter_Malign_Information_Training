@@ -233,3 +233,7 @@ Ask students to reflect on the importance of identifying misinformation and disi
 8. Factsheet 4: Types of Misinformation and Disinformation - https://www.unhcr.org/innovation/wp-content/uploads/2022/02/Factsheet-4.pdf
 
 --- 
+# Slide 20: Take a Break
+## Break Time
+
+---
