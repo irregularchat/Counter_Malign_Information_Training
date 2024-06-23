@@ -81,7 +81,10 @@ Use these frameworks to analyze and identify misinformation and disinformation e
 # Slide 10: Memorization Check: Frameworks (Answers)
 ## Activity
 - Reveal the answers to the students, discussing each framework in detail.
-
+- MOM Framework: Motive, Opportunity, and Means
+- POP Framework: Past Opposition Practices
+- MOSES Framework: Manipulability of Sources
+- EVE Framework: Evaluation of Evidence
 ---
 
 # Slide 10: Detailed Analysis: Motive, Opportunity, and Means (MOM)
