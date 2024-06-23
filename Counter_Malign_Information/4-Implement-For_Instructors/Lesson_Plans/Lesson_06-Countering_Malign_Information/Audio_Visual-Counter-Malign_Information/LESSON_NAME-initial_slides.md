@@ -1,121 +1,106 @@
-# CONTEXT
-This template is for general outline of the slides for a lesson plan. The slides are designed to be used in a classroom setting to guide the instructor through the lesson. The slides are designed to be used in conjunction with the lesson plan document.
-
-Slide Templates for PowerPoint, KeyNote, and LibreOffice Impress are available in this same directory `Audio_Visual-Template`.
-
-Developer should review the lesson plan document and create slides for each section of the lesson plan. Slides should be developed in a MASTER SLIDE DECK first which may contain much more detail than appropriate for presentation purposes. The MASTER SLIDE DECK is also where translated versions of the slides should be created. 
-
-Slides should be color coded with Yellow being English with details or English when presenting in a foreign language. When the MASTER SLIDE DECK is complete, the developer should create a copy of the MASTER SLIDE DECK and remove all slides that are not for presentation. Maintain the MASTER SLIDE DECK for future use and updates.
----
-
-# Slide 1: Concrete Experience / Motivator
+# Slide 1: Concrete Experience / Motivator (Hand Out)
 ## Concrete Experience
-- Tell an interesting anecdote or recall a recent current event pertaining to the lesson topic to gain the students' attention and motivate them to learn the lesson material.
-- Make students aware of the Army's Contemporary Operational Environment factors such as physical environment, military capabilities, technology, and information.
 
-> Example Paraphrase goes here.
+> Students selected report to your designated areas. 
 
 ---
 
-# Slide 2: Instructional Lead-in
-## Instructional Lead-in
-- "The learning objectives for this block are to..."
+# Slide 2: Title
+## Countering Misinformation and Disinformation
 
 ---
 
-# Slide 3: Scope Statement
-## Scope of Lesson
-- During this ##.##-hour block of instruction, the students will...
+# Slide 3: Learning Objective
+## What You Will Learn Today
+**Goal:** Learn how to counter misinformation and disinformation effectively.
+- **How We'll Do It:** By sharing your experiences and expertise, we'll develop and implement counter strategies.
+- **What You'll Have:** The skills to counter misinformation and disinformation, ensuring accurate information is spread and false information is reduced by 80%.
 
 ---
 
 # Slide 4: Publish and Process
-## Publish and Process
-- Discuss the relevance and application of the lesson material in the context of students' experiences and expectations.
+## Discussion on Observations
+- What did you observe in the scenario?
+- How did the misinformation spread?
+- What were the immediate reactions?
 
 ---
 
-# Slide 5: Learning Step Activity (LSA) 1
-## Learning Step Activity (LSA) Title
-- **SLIDE X**: Note goes here
-  - Key points and subpoints for this learning step activity.
+# Slide 5: Identifying Malign Information
+## Setting Your Goals
+- Define what malign information looks like in your context.
+- Identify your goals when countering this information.
+- Discuss the importance of these goals in maintaining accurate information flow.
 
 ---
 
-# Slide 6: Activity for LSA 1
-## Activity
-- Describe the activity related to LSA 1.
-- Include instructions for group work or individual tasks.
+# Slide 6: Develop
+## Creating Your TTPs (Tactics, Techniques, and Procedures)
+- Develop a counter strategy for a given scenario.
+- Work in groups to brainstorm and outline your TTPs.
 
 ---
 
-# Slide 7: Learning Step Activity (LSA) 2
-## Learning Step Activity (LSA) Title
-- **SLIDE X**: Note goes here
-  - Key points and subpoints for this learning step activity.
+# Slide 7: Develop
+## Presenting Strategies
+- Present your developed counter strategy to the class.
+- Discuss the strengths and weaknesses of each strategy.
 
 ---
 
-# Slide 8: Activity for LSA 2
-## Activity
-- Describe the activity related to LSA 2.
-- Include instructions for group work or individual tasks.
+# Slide 8: Develop
+## Refining Strategies
+- Refine your strategies based on feedback received.
+- Make necessary adjustments and improvements.
 
 ---
 
-# Slide 9: Learning Step Activity (LSA) 3
-## Learning Step Activity (LSA) Title
-- **SLIDE X**: Note goes here
-  - Key points and subpoints for this learning step activity.
+# Slide 9: Apply
+## Practical Exercise
+- Implement your developed counter strategy using the techniques learned.
+- Follow the provided instructions for the exercise.
 
 ---
 
-# Slide 10: Activity for LSA 3
-## Activity
-- Describe the activity related to LSA 3.
-- Include instructions for group work or individual tasks.
+# Slide 10: Apply
+## Review and Feedback
+- Present your findings from the practical exercise.
+- Discuss the effectiveness of your methods and provide feedback.
+- Rapid-fire questions to test your understanding and adaptability:
+  - What would you do if the misinformation was being spread by a high-ranking official?
+  - What would you do if the misinformation was being spread by a foreign government?
+  - What would you do if the misinformation was being spread by both a foreign government and a high-ranking official?
+  - What would you do if your family was being targeted by the misinformation?
+  - What would you do if the misinformation was being spread by a friend?
 
 ---
 
-# Slide 11: Learning Step Activity (LSA) 4
-## Learning Step Activity (LSA) Title
-- **SLIDE X**: Note goes here
-  - Key points and subpoints for this learning step activity.
+# Slide 11: Check On Learning
+## Assessment / Check On Learning
+- What are the key components of an effective counter strategy?
+- Why is it important to counter misinformation quickly?
+- What techniques can be used to counter misinformation?
 
 ---
 
-# Slide 12: Activity for LSA 4
-## Activity
-- Describe the activity related to LSA 4.
-- Include instructions for group work or individual tasks.
-
----
-
-# Slide 13: Summary of Learning Activities
+# Slide 12: Summary of Learning Activities
 ## Summary
-- Review the key points from each Learning Step Activity (LSA).
+- Recap the key points from each phase of the lesson.
 - Emphasize the importance of the skills and knowledge gained.
 
 ---
 
-# Slide 14: Check on Learning
-## Assessment / Check On Learning
-- Question: [Insert question related to key concept]
-  - **Answer**: [Expected answer]
-- Question: [Insert question related to key concept]
-  - **Answer**: [Expected answer]
-- Question: [Insert question related to key concept]
-  - **Answer**: [Expected answer]
+# Slide 13: References
+## References
+- [Insert reference 1]
+- [Insert reference 2]
+- [Insert reference 3]
 
 ---
 
-# Slide 15: Lesson Summary
-## Review and Summary
-- During this block of instruction, we covered...
-  - Key learning step activity 1
-  - Key learning step activity 2
-  - Key learning step activity 3
-  - Key learning step activity 4
-- Questions?
+# Slide 14: Take a Break
+## Break Time
+- Announce a break.
+- Provide details on break duration and any instructions for after the break.
 
 ---
