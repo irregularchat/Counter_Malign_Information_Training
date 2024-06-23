@@ -17,6 +17,10 @@
 
 ---
 # Slide 4: Covering the Frameworks being used and why
+## Terms
+- Misinformation: is false or inaccurate information. Examples include rumors, insults and pranks.
+- Disinformation: is deliberate and includes malicious content such as hoaxes, spear phishing and
+propaganda.
 ## Deception Detection Frameworks
 - **MOM Framework**: Motive, Opportunity, and Means
 - **POP Framework**: Past Opposition Practices
@@ -24,6 +28,11 @@
 - **EVE Framework**: Evaluation of Evidence
 
 Use these frameworks to analyze and identify misinformation and disinformation effectively in a replicable and structured manner.
+References: 
+1. Beebe, S. M., & Pherson, R. H. (2015). *Cases in Intelligence Analysis: Structured Analytic Techniques in Action*.
+2. Pherson, R. H., & Heuer, R. J. (2021). *Structured Analytic Techniques for Intelligence Analysis*.
+8. Factsheet 4: Types of Misinformation and Disinformation - https://www.unhcr.org/innovation/wp-content/uploads/2022/02/Factsheet-4.pdf
+
 ---
 
 # Slide 5: Motive, Opportunity, and Means (MOM)
@@ -98,7 +107,8 @@ Use these frameworks to analyze and identify misinformation and disinformation e
 Text: "China's disinformation campaign during the COVID-19 pandemic."
 The COVID-19 pandemic has had a significant impact on the world, including strained diplomatic ties and blurred perceptions of who or what is responsible for its origins. In response to allegations, China crafted an intricate social media campaign to clear its name. This campaign gained notoriety in June 2020 when Twitter removed 150,000 malicious Chinese accounts.1 The accretion of fictitious accounts suggests that China has emboldened its efforts to spread propaganda on Twitter in favor of Chinese Communist Party (CCP) objectives. Although previous Chinese propaganda campaigns had focused on demeaning the protests in Hong Kong, a massive wave of social media rhetoric promoting the Chinese government’s response to the coronavirus outbreak as a form of Great Power competition—initially downplaying the pandemic’s severity while seeking praise for the government’s draconian efforts to contain its spread—is a narrative that underscores the changing character of war.
 
-- Misleading a Pandemic: The Viral Effects of Chinese Propaganda and the Coronavirus - https://ndupress.ndu.edu/Media/News/News-Article-View/Article/2884217 misleading-a-pandemic-the-viral-effects-of-chinese-propaganda-and-the-coronavir/
+References:
+Misleading a Pandemic: The Viral Effects of Chinese Propaganda and the Coronavirus - https://ndupress.ndu.edu/Media/News/News-Article-View/Article/2884217 misleading-a-pandemic-the-viral-effects-of-chinese-propaganda-and-the-coronavir/
 
 ---
 # Slide 12: Detailed Analysis: Past Opposition Practices (POP)
@@ -107,14 +117,19 @@ The COVID-19 pandemic has had a significant impact on the world, including strai
 - Provide historical and contemporary examples such as Tiananmen Square protests and the Hong Kong protests.
 - Have students analyze a given scenario using the POP framework.
 
-- A disinformation and propaganda campaign “that denies and downplays the severity of the incident is growing,” - https://hongkongfp.com/2021/06/04/taiwan-group-launches-website-to-counter-tiananmen-massacre-trolls-and-denialism/
+
+References:
+A disinformation and propaganda campaign “that denies and downplays the severity of the incident is growing,” 
+- https://hongkongfp.com/2021/06/04/taiwan-group-launches-website-to-counter-tiananmen-massacre-trolls-and-denialism/
 
 ---
 # Slide 13: POP Framework Example
 Text: "Tiananmen Square protests, Hong Kong protests, the Cultural Revolution."
 Have students find other examples of past opposition practices and analyze them using the POP framework to determine potential future misinformation strategies from this actor. 
 
-- A disinformation and propaganda campaign “that denies and downplays the severity of the incident is growing,” - https://hongkongfp.com/2021/06/04/taiwan-group-launches-website-to-counter-tiananmen-massacre-trolls-and-denialism/
+References:
+A disinformation and propaganda campaign “that denies and downplays the severity of the incident is growing,” 
+- https://hongkongfp.com/2021/06/04/taiwan-group-launches-website-to-counter-tiananmen-massacre-trolls-and-denialism/
 
 
 # Slide 14: Detailed Analysis: Manipulability of Sources (MOSES)
@@ -203,9 +218,18 @@ Ask students to reflect on the importance of identifying misinformation and disi
 ---
 
 # Slide 19: Closing
-## Closing Remarks
+## Closing Remarks and References
 - Recap the importance of identifying misinformation and disinformation.
 - Encourage students to apply these skills in their professional and personal lives.
 - End of the lesson.
+
+1. Beebe, S. M., & Pherson, R. H. (2015). *Cases in Intelligence Analysis: Structured Analytic Techniques in Action*.
+2. Pherson, R. H., & Heuer, R. J. (2021). *Structured Analytic Techniques for Intelligence Analysis*.
+3. China Diplomatic X account - https://x.com/China_Panama
+4.  BEIJING'S GLOBAL MEDIA INFLUENCE 2022 - https://freedomhouse.org/country/panama/beijings-global-media-influence/2022#footnote3_a2zuib0
+5. China y Panamá: pro mutuo beneficio (Translated: China and Panama: for mutual benefit) - https://www.laestrella.com.pa/opinion/columnistas/pro-china-mutuo-panama-EJLE2547
+6. Misleading a Pandemic: The Viral Effects of Chinese Propaganda and the Coronavirus - https://ndupress.ndu.edu/Media/News/News-Article-View/Article/2884217/misleading-a-pandemic-the-viral-effects-of-chinese-propaganda-and-the-coronavir/
+7. A disinformation and propaganda campaign “that denies and downplays the severity of the incident is growing,” - https://hongkongfp.com/2021/06/04/taiwan-group-launches-website-to-counter-tiananmen-massacre-trolls-and-denialism/
+8. Factsheet 4: Types of Misinformation and Disinformation - https://www.unhcr.org/innovation/wp-content/uploads/2022/02/Factsheet-4.pdf
 
 --- 
