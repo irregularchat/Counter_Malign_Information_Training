@@ -137,14 +137,13 @@ Assist with classroom setup, help facilitate group discussions, and provide one-
 
 ### Pre-Requisite Tasks
 
-1. Review basic concepts of AI and machine learning.
-2. Complete the lesson on identifying malign information.
+1. Complete the lesson on identifying malign information.
 
 ---
 
 ### Knowledge Required
 
-1. Basic understanding of AI and machine learning principles.
+1. Basic understanding of identifying malign information.
 2. Familiarity with strategic communication tools and techniques.
 
 ---
@@ -160,8 +159,7 @@ Assist with classroom setup, help facilitate group discussions, and provide one-
 
 ### Tasks Taught
 
-1. Identifying misinformation and disinformation.
-2. Developing counter-narratives to misinformation and disinformation.
+1. Developing counter-narratives to misinformation and disinformation.
 
 ### Tasks Supported
 
@@ -170,6 +168,7 @@ Assist with classroom setup, help facilitate group discussions, and provide one-
 ### Tasks Reinforced
 
 1. Critical analysis and attention to detail.
+2. Identifying Malign Information.
 
 ---
 
