@@ -207,15 +207,14 @@ Successfully create AI-generated content that meets specified quality standards 
 ///
 /// 
 /// template for lesson to fill in
-
-# Lesson Plan Template
+# Lesson Plan: Lesson Name Here
 ## SECTION 0: LESSON OVERVIEW
 
 ### Lesson Information
 
 **Lesson Title**: *Object_HERE Verb_HERE*
 
-**Program of Instruction (POI)**: Counter Malign Influence / Version 1.0*
+**Program of Instruction (POI)**: *NUMBER-TOPIC_NAME / Version 1.0*
 
 **Developer Point of Contact**: first.last@email.tld
 
@@ -240,7 +239,6 @@ Successfully create AI-generated content that meets specified quality standards 
  %%Delete all but appropriate%%
  
 - FD1 - This training product has been reviewed by the training developer in coordination with the \<INSERT ORG\> foreign disclosure officer. This training product can be used to instruct international military students in all approved countries.
-
 ---
 
 ### SCOPE OF LESSON
@@ -329,11 +327,10 @@ An instructor should:
 ### Equipment and Material Required for Instruction
 
 Lesson Material, Ammo, Expendable, etc.
-%%replaced all the equipment and material with what is required for instruction%%
 
 | Equipment                        | Student Ratio | Instructor Ratio | Quantity | Expendable |
 | -------------------------------- | ------------- | ---------------- | -------- | ---------- |
-| %%computerxyz%%, #MacOS-Touchpad | 1:1           | 1:2              |          | no         |
+| #MacOS-Computer, #MacOS-Keyboard, #MacOS-Touchpad | 1:1           | 1:2              |          | no         |
 | #Slides                          |               |                  | 1        | no         |
 | #Projector                       |               |                  | 1        | no         |
 | #Terminal_app                    | 1:1           | 1:2              |          |            |
@@ -376,48 +373,87 @@ Lesson Material, Ammo, Expendable, etc.
 
 ## Lesson Timeline
 
-| Academic (y/n) | Broad Topic | EST TIME Min | Methods                        |Slide Range |
-| -------------- | ----------- | ------------ | ------------------------------ | ---------- |
-| Instructor     |             | 5            | Instructor Rehearsal           |    -       |
-| Instructor     |             | 0            | Classroom Setup                |    -       |
-| y              |             | 5            | Concrete Experience            |#-#   |
-| y              |             | 3            | Publish and Process            |#-#   |
-| y              |             | 10           | Generalize New Information     |#-#   |
-| y              |             | 3            | Develop                        |#-#   |
-| y              |             | 10           | Generalize New Information     |#-#   |
-| y              |             | 3            | Develop                        |#-#   |
-| y              |             | 5            | Apply                          |#-#   |
-| y              |             | 3            | Assessment / Check On Learning |#-#   |
+| Academic (y/n) | Broad Topic | EST TIME Min | Methods                        |
+| -------------- | ----------- | ------------ | ------------------------------ |
+| Instructor     |             | 5            | Instructor Rehearsal           |
+| Instructor     |             | 0            | Classroom Setup                |
+| y              |             | 5            | Concrete Experience            |
+| y              |             | 3            | Publish and Process            |
+| y              |             | 10           | Generalize New Information     |
+| y              |             | 3            | Develop                        |
+| y              |             | 10           | Generalize New Information     |
+| y              |             | 3            | Develop                        |
+| y              |             | 5            | Apply                          |
+| y              |             | 3            | Assessment / Check On Learning |
 
 ---
 
 ## SECTION 2: LESSON INTRODUCTION
-
-**Concrete Experience / Motivator:** 
+NOTE: Go to Slide #
+### LESSON Phase: Concrete Experience / Motivator:
 NOTE: Tell an interesting anecdote based on your experience, or recall a recent current event pertaining to the lesson unit topic to gain the student's attention and motivate them to learn the lesson material. The student should be made aware of the Army's Contemporary Operational Environment factors such as the physical environment, military capabilities, technology, and information.
 
 > Example Paraphrase goes here.
 
-NOTE: Go to Slide X
+```markdown
+# Slide 1
+## Title: Lesson Title
+This is a example paragraph that goes here as a placeholder. This is a anchor linkback to [slide 1](#slide-1).
+    - Statement 1: "Something In Here." 
+    - Statement 2: "Something In Here." 
+
+Image or Video goes here:
+![Image](https://url.com)
+
+Table goes here:
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Data 1   | Data 2   | Data 3   |
+
+---
+
+```
+
+NOTE: Go to Slide #
+### LESSON Phase: Publish and Process
 
 **Instructional Lead-in:** 
 "The learning objectives for this block are to..."
 
-NOTE: Go to Slide X
 
 **Scope Statement:** During this ##.##-hour block of instruction, the students will...
 
-## Publish and Process
 
 NOTE: for 
 
 ---
 
 ## SECTION 3: LESSON PRESENTATION
+### LESSON Phase: Generalize New Information
 
 ### Learning Step Activity (LSA) X:  Learning Step Activity (LSA) Title.
 
-#### SLIDE X
+```markdown
+# Slide 1
+## Title: Lesson Title
+This is a example paragraph that goes here as a placeholder. This is a anchor linkback to [slide 1](#slide-1).
+    - Statement 1: "Something In Here." 
+    - Statement 2: "Something In Here." 
+
+Image or Video goes here:
+![Image](https://url.com)
+
+Table goes here:
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Data 1   | Data 2   | Data 3   |
+
+---
+
+```
+
+NOTE: Go to Slide #
+#### Slide #
 
 NOTE: Note goes here
 
@@ -425,30 +461,106 @@ NOTE: Note goes here
 
 > 1. %%Instructional step 1%%
 > 2. %%Instructional step 2%%
-> 3. %%Instructional step 3%%
 
-%%Consider the flow of the lesson and when slides need to be shown.%%
+```markdown
+# Slide 1
+## Title: Lesson Title
+This is a example paragraph that goes here as a placeholder. This is a anchor linkback to [slide 1](#slide-1).
+    - Statement 1: "Something In Here." 
+    - Statement 2: "Something In Here." 
 
-#### SLIDE X
+Image or Video goes here:
+![Image](https://url.com)
+
+Table goes here:
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Data 1   | Data 2   | Data 3   |
+
+---
+
+```
+
+NOTE: Go to Slide #
+#### SLIDE #
 
 NOTE: Note goes here
 
-#### SLIDE X
+```markdown
+# Slide 1
+## Title: Lesson Title
+This is a example paragraph that goes here as a placeholder. This is a anchor linkback to [slide 1](#slide-1).
+    - Statement 1: "Something In Here." 
+    - Statement 2: "Something In Here." 
 
+Image or Video goes here:
+![Image](https://url.com)
+
+Table goes here:
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Data 1   | Data 2   | Data 3   |
+
+---
+
+```
+
+NOTE: Go to Slide #
+#### SLIDE #
 NOTE: Note goes here
 
-#### SLIDE X
+```markdown
+# Slide 1
+## Title: Lesson Title
+This is a example paragraph that goes here as a placeholder. This is a anchor linkback to [slide 1](#slide-1).
+    - Statement 1: "Something In Here." 
+    - Statement 2: "Something In Here." 
 
+Image or Video goes here:
+![Image](https://url.com)
+
+Table goes here:
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Data 1   | Data 2   | Data 3   |
+
+---
+
+```
+
+NOTE: Go to Slide #
+
+### Lesson Phase: Apply
+#### SLIDE #
 NOTE: Note goes here
 
 **Activity**
 
-#### SLIDE X
+```markdown
+# Slide 1
+## Title: Lesson Title
+This is a example paragraph that goes here as a placeholder. This is a anchor linkback to [slide 1](#slide-1).
+    - Statement 1: "Something In Here." 
+    - Statement 2: "Something In Here." 
 
+Image or Video goes here:
+![Image](https://url.com)
+
+Table goes here:
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Data 1   | Data 2   | Data 3   |
+
+---
+
+```
+
+### LESSON Phase: Assessment / Check On Learning
+NOTE: Go to Slide #
+#### SLIDE #
 NOTE: Note goes here
 
-**Development**
-
+### LESSON Phase: Develop
 **Question**: 
 > %%Question goes here%%
 
@@ -460,6 +572,8 @@ NOTE: Note goes here
 > %%Answer goes here%%
 **Review/Summary:**
 %%Review/Summary goes here%%
+
+
 ---
 
 ## SECTION 4: SUMMARY
@@ -502,11 +616,12 @@ NOTE: %%Feedback is essential to effective learning. Schedule and provide feedba
 
 | Sequence | Media Name              | Attachment or URL | Media Type |
 | -------- | ----------------------- | ----------------- | ---------- |
-| -        | Master Slide Deck - Lesson Name  |                   | PPTX        | 
-| -        | Slide Deck - Lesson Name        |                   | PPTX        |
-| -        | Handout - Topic 1        |                   | PDF        |
-| -        | Handout - Topic 2        |                   | PDF        |
-| -        | Video File - Topic 3        |                   | MP4        |
+| -        | Master Slide Deck - PLACEHOLDER  |                   | PPTX        | 
+| -        | Slide Deck - PLACEHOLDER        |                   | PPTX        |
+| -        | Handout - PLACEHOLDER        |                   | PDF        |
+| -        | Handout - PLACEHOLDER        |                   | PDF        |
+| -        | Video File - PLACEHOLDER        |                   | MP4        |
+
 ## APPENDIX B - Assessment Statement and Assessment Plan
 
 ### Assessment Statement: 
@@ -522,5 +637,3 @@ NOTE: %%Feedback is essential to effective learning. Schedule and provide feedba
 %%If the lesson has a stand-alone PE requiring coordination and detailed explanations, it can be written here. The write-up should include basic lesson plan elements, including the PE objective(s), resources, the time required, safety and risk information, and general procedures.%%
 
 %%In TDCP, lessons using PE structure will have the PE included in this appendix.  If your lesson has a learning step/activity that uses PE as the method of instruction, do not use this appendix.%%
-
-///
