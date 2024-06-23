@@ -1,3 +1,7 @@
+Certainly! Below is the markdown version of the slides for the lesson on "Identifying Misinformation and Disinformation" with detailed sections for each framework and the requested assessment format.
+
+---
+
 # CONTEXT
 This template is for a general outline of the slides for a lesson plan. The slides are designed to be used in a classroom setting to guide the instructor through the lesson. The slides are designed to be used in conjunction with the lesson plan document.
 
@@ -24,123 +28,151 @@ Slides should be color-coded with Yellow being English with details or English w
 
 # Slide 3: Scope Statement
 ## Scope of Lesson
-- During this ##.##-hour block of instruction, the students will...
+- During this 130-minute block of instruction, the students will learn to identify misinformation and disinformation using the skills and frameworks previously covered.
 
 ---
 
-# Slide 4: Deception Detection Framework
-## Deception Detection Framework Outline
-- Motive, Opportunity, and Means (MOM)
-- Past Opposition Practices (POP)
-- Manipulability of Sources (MOSES)
-- Evaluation of Evidence (EVE)
+# Slide 4: Motive, Opportunity, and Means (MOM)
+## Memorization: MOM Framework
+- **MOM Framework**: Motive, Opportunity, and Means
+- **When to use it**: Use when evaluating the likelihood of a source having the motive and means to produce misinformation.
+- **Where to use it**: Applicable in scenarios where identifying the intent behind information is crucial.
+- **Why to use it**: Helps in understanding the potential reasons and capabilities behind the creation of misinformation.
 
 ---
 
-# Slide 5: Motive, Opportunity, and Means (MOM)
-- **Slide 5 Notes**:
-  - Present examples of different motives, opportunities, and means in influence operations.
-    - Example: Political gains from spreading false allegations about a rival.
-    - Example: Using social media channels to disseminate false information.
-  - Discuss how to assess these components in various scenarios.
-    - Identify the goals and motives behind the information.
-    - Evaluate the channels available for spreading misinformation.
-    - Assess the risks and costs involved in the deception.
+# Slide 5: Past Opposition Practices (POP)
+## Memorization: POP Framework
+- **POP Framework**: Past Opposition Practices
+- **When to use it**: Use when historical context of misinformation from an adversary is available.
+- **Where to use it**: Useful in intelligence and strategic analysis settings.
+- **Why to use it**: Helps predict future misinformation strategies based on past behavior.
 
 ---
 
-# Slide 6: Past Opposition Practices (POP)
+# Slide 6: Manipulability of Sources (MOSES)
+## Memorization: MOSES Framework
+- **MOSES Framework**: Manipulability of Sources
+- **When to use it**: Use when assessing the reliability and susceptibility of sources to manipulation.
+- **Where to use it**: Relevant in journalistic and intelligence analysis.
+- **Why to use it**: Ensures the credibility of the information and reduces the risk of accepting manipulated data.
+
+---
+
+# Slide 7: Evaluation of Evidence (EVE)
+## Memorization: EVE Framework
+- **EVE Framework**: Evaluation of Evidence
+- **When to use it**: Use when analyzing the validity and reliability of evidence presented.
+- **Where to use it**: Applicable in any analytical context requiring evidence validation.
+- **Why to use it**: Ensures the integrity and accuracy of the conclusions drawn from the evidence.
+
+---
+
+# Slide 8: Memorization Check: Frameworks
 ## Activity
-- Ask students for examples of historical precedents of deception.
-  - Ancient Greek and Roman military tactics.
-  - Historical use of propaganda during wartime, including World War I and World War II.
-  - Previous instances of misinformation campaigns by rival states.
-- Discuss how to identify patterns of past opposition practices in various scenarios.
-  - Analyze past behavior and tactics used in deception.
-  - Compare current scenarios with historical examples.
+- Quick check on learning to gauge memorization of the frameworks.
+- Have students write down or verbally list the components of each framework.
 
 ---
 
-# Slide 7: Manipulability of Sources (MOSES)
-- **Slide 7 Notes**:
-  - Present examples of sources that can be manipulated.
-    - Social media influencers with questionable affiliations.
-    - Anonymous sources with unverifiable information.
-  - Discuss how to assess the manipulability of sources in various scenarios.
-    - Determine the reliability and credibility of the source.
-    - Analyze the source's access to information and track record.
-
----
-
-# Slide 8: Evaluation of Evidence (EVE)
+# Slide 9: Memorization Check: Frameworks (Answers)
 ## Activity
-- Present examples of evaluating evidence in influence operations.
-  - Cross-referencing information from multiple sources.
-  - Checking for consistency in reports from different channels.
-- Discuss how to evaluate evidence in various scenarios.
-  - Verify the accuracy of the information provided.
-  - Identify inconsistencies and corroborate evidence from multiple sources.
+- Reveal the answers to the students, discussing each framework in detail.
 
 ---
 
-# Slide 9: Deception Detection Check On Learning
-- **Slide 9 Notes**:
-  - Review key concepts and frameworks with students.
-  - Ensure understanding before moving on to practical applications.
-
----
-
-# Slide 12: Practical Application of Deception Detection Framework
+# Slide 10: Detailed Analysis: Motive, Opportunity, and Means (MOM)
 ## Activity
-1. Divide students into groups and provide each group with a scenario to analyze using the Deception Detection framework. (10 minutes)
-2. Have each group present their findings to the class. (10 minutes)
-3. Provide feedback and discuss the effectiveness of their analysis. (10 minutes)
+- Discuss each component in detail.
+- Provide real-world examples.
+- Have students analyze a given scenario using the MOM framework.
 
 ---
 
-# Slide 14: Why Does It Matter To You?
-- Discuss the real-world implications of detecting and understanding malign information.
-- Emphasize the importance for personal and professional scenarios.
+# Slide 11: Detailed Analysis: Past Opposition Practices (POP)
+## Activity
+- Discuss each component in detail.
+- Provide historical and contemporary examples.
+- Have students analyze a given scenario using the POP framework.
 
 ---
 
-# Slide 15: ¿Por Qué Te Importa? (Spanish Version)
+# Slide 12: Detailed Analysis: Manipulability of Sources (MOSES)
+## Activity
+- Discuss each component in detail.
+- Provide examples of credible vs. manipulable sources.
+- Have students analyze a given scenario using the MOSES framework.
 
 ---
 
-# Slide 16: TAKE A BREAK
-- Break slide with return time indicated.
+# Slide 13: Detailed Analysis: Evaluation of Evidence (EVE)
+## Activity
+- Discuss each component in detail.
+- Provide examples of strong vs. weak evidence.
+- Have students analyze a given scenario using the EVE framework.
 
 ---
 
-# Slide 17: TOMAR UN DESCANSO (Spanish Version)
-- Break slide with return time indicated.
+# Slide 14: Practical Exercise: Identify Misinformation and Disinformation
+## Activity
+1. Divide students into groups.
+2. Provide each group with a news story to analyze for misinformation or disinformation.
+3. Have each group apply the frameworks to their analysis.
+4. Each group presents their findings to the class.
+5. Discuss and provide feedback on their analyses.
 
 ---
 
-# Slide 18: Summary of Learning Activities
+# Slide 15: Summary of Learning Activities
 ## Summary
-- Review the key points from each Learning Step Activity (LSA).
+- Review the key points from each framework.
 - Emphasize the importance of the skills and knowledge gained.
 
 ---
 
-# Slide 19: Check on Learning
+# Slide 16: Check on Learning
 ## Assessment / Check On Learning
-- Question: [Insert question related to key concept]
-  - **Answer**: [Expected answer]
-- Question: [Insert question related to key concept]
-  - **Answer**: [Expected answer]
-- Question: [Insert question related to key concept]
-  - **Answer**: [Expected answer]
+- Question: What is the MOM framework?
+  - **Answer**: Motive, Opportunity, and Means.
+- Question: What is the POP framework?
+  - **Answer**: Past Opposition Practices.
+- Question: What is the MOSES framework?
+  - **Answer**: Manipulability of Sources.
+- Question: What is the EVE framework?
+  - **Answer**: Evaluation of Evidence.
 
 ---
 
-# Slide 20: Lesson Summary
+# Slide 17: Check on Learning (Revealed)
+## Assessment / Check On Learning
+- ~~Question: What is the MOM framework?~~
+  - **~~Answer~~**: ~~Motive, Opportunity, and Means.~~
+- ~~Question: What is the POP framework?~~
+  - **~~Answer~~**: ~~Past Opposition Practices.~~
+- ~~Question: What is the MOSES framework?~~
+  - **~~Answer~~**: ~~Manipulability of Sources.~~
+- ~~Question: What is the EVE framework?~~
+  - **~~Answer~~**: ~~Evaluation of Evidence.~~
+
+---
+
+# Slide 18: Lesson Summary
 ## Review and Summary
-- During this block of instruction, we covered...
-  - Key learning step activity 1
-  - Key learning step activity 2
-  - Key learning step activity 3
-  - Key learning step activity 4
+- During this block of instruction, we covered:
+  - Key learning step activity 1: MOM framework.
+  - Key learning step activity 2: POP framework.
+  - Key learning step activity 3: MOSES framework.
+  - Key learning step activity 4: EVE framework.
 - Questions?
+
+---
+
+# Slide 19: Closing
+## Closing Remarks
+- Recap the importance of identifying misinformation and disinformation.
+- Encourage students to apply these skills in their professional and personal lives.
+- End of the lesson.
+
+---
+
+This markdown format provides a structured outline for the slides that can be used in a lesson plan for identifying misinformation and disinformation. Each slide includes the key points and activities to be covered, ensuring that the lesson is comprehensive and interactive.
