@@ -58,9 +58,7 @@ This 180-minute lesson is an intermediate orientation to developing counter-narr
 
 ### References
 
-1. [Reference 1](#)
-2. [Reference 2](#)
-3. [Reference 3](#)
+1. N/A - This lesson is based on past lessons and fictional scenarios for educational purposes. No external references are required. This is a student-led exercise.
 
 ---
 
