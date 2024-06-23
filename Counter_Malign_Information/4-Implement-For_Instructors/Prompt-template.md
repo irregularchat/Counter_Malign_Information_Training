@@ -376,18 +376,18 @@ Lesson Material, Ammo, Expendable, etc.
 
 ## Lesson Timeline
 
-| Academic (y/n) | Broad Topic | EST TIME Min | Methods                        |
-| -------------- | ----------- | ------------ | ------------------------------ |
-| Instructor     |             | 5            | Instructor Rehearsal           |
-| Instructor     |             | 0            | Classroom Setup                |
-| y              |             | 5            | Concrete Experience            |
-| y              |             | 3            | Publish and Process            |
-| y              |             | 10           | Generalize New Information     |
-| y              |             | 3            | Develop                        |
-| y              |             | 10           | Generalize New Information     |
-| y              |             | 3            | Develop                        |
-| y              |             | 5            | Apply                          |
-| y              |             | 3            | Assessment / Check On Learning |
+| Academic (y/n) | Broad Topic | EST TIME Min | Methods                        |Slide Range |
+| -------------- | ----------- | ------------ | ------------------------------ | ---------- |
+| Instructor     |             | 5            | Instructor Rehearsal           |    -       |
+| Instructor     |             | 0            | Classroom Setup                |    -       |
+| y              |             | 5            | Concrete Experience            |#-#   |
+| y              |             | 3            | Publish and Process            |#-#   |
+| y              |             | 10           | Generalize New Information     |#-#   |
+| y              |             | 3            | Develop                        |#-#   |
+| y              |             | 10           | Generalize New Information     |#-#   |
+| y              |             | 3            | Develop                        |#-#   |
+| y              |             | 5            | Apply                          |#-#   |
+| y              |             | 3            | Assessment / Check On Learning |#-#   |
 
 ---
 

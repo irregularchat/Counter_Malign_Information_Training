@@ -1,3 +1,184 @@
+# Identifying Synthetic Content 
+
+## SECTION 0: LESSON OVERVIEW
+
+### Lesson Information
+
+**Lesson Title**: Identify Synthetic Media Content
+
+**Program of Instruction (POI)**: Counter Malign Influence / Version 1.0
+
+**Developer Point of Contact**: first.last@email.tld
+
+---
+
+### IMPORTANT
+
+#### Training Material Classification: UNCLASSIFIED
+
+### Distribution Restriction:
+
+- A. Approved for public release; distribution is unlimited.
+
+### Destruction Notice:
+
+- N/A for the project: automatically rendered based on Distribution Restriction
+
+### Foreign Disclosure:
+
+- FD1 - This training product has been reviewed by the training developer in coordination with the TRADOC foreign disclosure officer. This training product can be used to instruct international military students in all approved countries.
+
+---
+
+### SCOPE OF LESSON
+
+This 120-minute lesson is an intermediate orientation to recognizing AI-generated content. The end state of this lesson is for students to be able to recall and apply the necessary steps to effectively identify synthetic media content. The author's intent is that students learn key principles and procedures through a series of scenario-based exercises. By the end of the lesson, students should have a solid grasp of the actions to take in the relevant scenarios. This lesson is common to all government employees and links to other parts of the curriculum by reinforcing the character attributes of accountability and responsibility.
+
+### Learning Objectives
+
+#### Terminal Learning Objective (TLO):
+
+> **Action**: Identify Synthetic Media Content
+> **Condition**: Given an environment that allows the students to engage one another and the cadre openly, handouts, visual aids, research capabilities, and Synthetic Content detection tools.
+> **Standard**: Accurately identify AI-generated content by detecting inconsistencies and manipulation artifacts, ensuring that at least 90% of assessments are correct and report findings to the relevant authorities.
+
+---
+
+#### Enabling Learning Objective (ELO) / Learning Step Activity (LSA):
+
+> **Action**: Detect inconsistencies in images
+> **Condition**: Given example images, detection tools, and visual aids.
+> **Standard**: Correctly identify at least 90% of AI-generated images.
+
+> **Action**: Identify manipulation artifacts in text
+> **Condition**: Given example text passages and analysis tools.
+> **Standard**: Correctly identify at least 90% of manipulated text passages.
+
+> **Action**: Analyze audio content for consistency
+> **Condition**: Given audio samples and analysis tools.
+> **Standard**: Correctly identify at least 90% of AI-generated audio samples.
+
+---
+
+### References
+
+1. [Media Lab at MIT on Detecting Fakes](https://www.media.mit.edu/projects/detect-fakes/overview/)
+2. [Detect Fakes with Kellogg's online tool](https://detectfakes.kellogg.northwestern.edu/)
+3. [CISA Contextualizing Deepfake Threats to Organizations](https://media.defense.gov/2023/Sep/12/2003298925/-1/-1/0/CSI-DEEPFAKE-THREATS.PDF)
+4. [DARPA: Deepfake Defense Tech Ready for Commercialization, Transition](https://www.darpa.mil/news-events/2024-03-14#:~:text=Through%20the%20Semantic%20Forensics%20)
+5. [Scribbr AI Detector](https://www.scribbr.com/ai-detector/)
+
+## SECTION 1: ADMINISTRATIVE DATA
+
+### Instructional Guidance
+
+**Conduct of Lesson**: 
+
+**NOTE:** Before presenting this lesson, instructors must thoroughly prepare by studying this lesson and identifying reference material.
+
+- Review the lesson plan and all related materials.
+- Set up the classroom with the necessary equipment and materials.
+- Familiarize yourself with the detection tools and example media content.
+
+### 1. The importance of this lesson:
+
+Understanding and identifying synthetic media content is critical to maintaining operational security and countering misinformation.
+
+### 2. What we want our students to Achieve:
+
+Students should be able to accurately detect AI-generated content and report their findings.
+
+### 3. A Possible Technique to Achieve the Outcome
+
+1. Use a combination of visual, textual, and audio analysis tools to detect inconsistencies.
+
+### 4. AAR Guidance for this Lesson
+
+1. Conduct After-Action Reviews (AAR) after each major activity to capture lessons learned and reinforce key points.
+
+---
+
+### Lesson Requirements
+
+#### Instructor Requirements
+
+An instructor must:
+
+1. Review the entire lesson plan for each lesson they will cover.
+2. Be able to obtain, access, and be familiar with the required material and equipment.
+3. Read and understand the referenced material.
+
+An instructor must attend the following training:
+
+1. TRADOC certified instructor course.
+2. Course on AI and synthetic media.
+
+An instructor should:
+
+1. Have received this block of instruction as a student.
+2. Participated in this instruction as an assistant instructor for this lesson.
+3. Participated in the AAR for this lesson.
+
+#### Additional Support
+
+##### Required or Requested Support
+
+N/A
+
+##### Guidance for Assistant Instructors
+
+Assist with classroom setup, help facilitate group discussions, and provide one-on-one support to students as needed.
+
+---
+
+### Equipment and Material Required for Instruction
+
+| Equipment                        | Student Ratio | Instructor Ratio | Quantity | Expendable |
+| -------------------------------- | ------------- | ---------------- | -------- | ---------- |
+| Computer                         | 1:1           | 1:2              |          | no         |
+| Slides                           |               |                  | 1        | no         |
+| Projector                        |               |                  | 1        | no         |
+| Synthetic Content detection tools| 1:1           | 1:2              |          | no         |
+| Example images, text, audio      |               |                  |          | no         |
+
+---
+
+### Pre-Requisite Tasks
+
+1. Review basic concepts of AI and machine learning.
+
+---
+
+### Knowledge Required
+
+1. Basic understanding of AI and machine learning principles.
+
+---
+
+### Skills Required
+
+1. Ability to use computer and analysis tools.
+
+---
+
+## Supporting Tasks
+
+### Tasks Taught
+
+1. Identifying visual inconsistencies in images.
+2. Detecting manipulation artifacts in text.
+3. Analyzing audio content for consistency.
+
+### Tasks Supported
+
+1. Reporting synthetic media content.
+
+### Tasks Reinforced
+
+1. Critical analysis and attention to detail.
+
+---
+
 ## Lesson Timeline
 
 | Academic (y/n) | Broad Topic                   | EST TIME Min | Methods                        | Slide Range |
