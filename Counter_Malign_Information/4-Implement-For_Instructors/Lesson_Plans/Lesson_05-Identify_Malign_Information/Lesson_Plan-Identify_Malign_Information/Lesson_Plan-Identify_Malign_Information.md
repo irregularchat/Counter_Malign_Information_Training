@@ -54,6 +54,12 @@ This 2-hour lesson is an advanced level orientation to identifying misinformatio
 
 1. Beebe, S. M., & Pherson, R. H. (2015). *Cases in Intelligence Analysis: Structured Analytic Techniques in Action*.
 2. Pherson, R. H., & Heuer, R. J. (2021). *Structured Analytic Techniques for Intelligence Analysis*.
+3. China Diplomatic X account - https://x.com/China_Panama
+4.  BEIJING'S GLOBAL MEDIA INFLUENCE 2022 - https://freedomhouse.org/country/panama/beijings-global-media-influence/2022#footnote3_a2zuib0
+5. China y Panamá: pro mutuo beneficio (Translated: China and Panama: for mutual benefit) - https://www.laestrella.com.pa/opinion/columnistas/pro-china-mutuo-panama-EJLE2547
+6. Misleading a Pandemic: The Viral Effects of Chinese Propaganda and the Coronavirus - https://ndupress.ndu.edu/Media/News/News-Article-View/Article/2884217/misleading-a-pandemic-the-viral-effects-of-chinese-propaganda-and-the-coronavir/
+7. A disinformation and propaganda campaign “that denies and downplays the severity of the incident is growing,” - https://hongkongfp.com/2021/06/04/taiwan-group-launches-website-to-counter-tiananmen-massacre-trolls-and-denialism/
+
 
 ---
 
