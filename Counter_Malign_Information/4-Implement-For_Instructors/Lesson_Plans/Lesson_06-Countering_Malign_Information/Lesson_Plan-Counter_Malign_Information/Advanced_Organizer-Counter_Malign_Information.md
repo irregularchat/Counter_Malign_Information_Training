@@ -101,8 +101,8 @@ An instructor must:
 
 An instructor must attend the following training:
 
-1. TRADOC certified instructor course.
-2. Course on AI and synthetic media.
+1. Unit level Trechnical Exchange Training or TRADOC certified instructor course.
+2. Previous Lesson on Identifying Malign Information.
 
 An instructor should:
 
