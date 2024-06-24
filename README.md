@@ -163,8 +163,8 @@ This assumes you have the following installed:
 Location to execute this is: `/Counter_Malign_Information_Training/Counter_Malign_Information/4-Implement-For_Instructors/Lesson_Plans/Instructor_Copy/`
 
 ```BASH
-find .. -type f -name 'Instructor-Lesson_Slide*.pptx' -exec /Applications/LibreOffice.app/Contents/MacOS/soffice --headless --convert-to pdf {} \;
-find .. -type f -name 'Instructor-Lesson_Slide*.pdf' -exec cp {} ./ \;
+find .. -type f -name 'Instructor-*.pptx' -exec /Applications/LibreOffice.app/Contents/MacOS/soffice --headless --convert-to pdf {} \;
+find .. -type f -name 'Instructor-*.pdf' -exec mv {} ./ \;
 find .. -type f -name 'Lesson_Plan*.md' -exec pandoc {} --pdf-engine=wkhtmltopdf -o "{}.pdf" \;
 find .. -type f -name 'Lesson_Plan*.pdf' -exec mv {} ./ \;
 find .. -type f -name 'Advanced_Organizer*.md' -exec pandoc {} --pdf-engine=wkhtmltopdf -o "{}.pdf" \;
