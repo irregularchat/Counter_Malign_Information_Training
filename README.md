@@ -154,3 +154,21 @@ To expand or collapse sections/headers in a note Top Menu > Insert > {"Fold" or 
    find . -name .git -print -execdir git pull \;
    ```
 
+### Create a copy of instructor files and convert
+This assumes you have the following installed:
+- LibreOffice
+- pandoc
+
+Location to execute this is: `/Counter_Malign_Information_Training/Counter_Malign_Information/4-Implement-For_Instructors/Lesson_Plans/`
+
+```BASH
+find . -type f -name 'Instructor-Lesson_Slide*.pptx' -exec /Applications/LibreOffice.app/Contents/MacOS/soffice --headless --convert-to pdf {} \;
+find . -type f -name 'Instructor-Lesson_Slide*.pdf' -exec cp {} Instructor_Copy/ \;
+find . -type f -name 'Lesson_Plan*.md' -exec cp {} Instructor_Copy/ \;
+cd Instructor_Copy/
+for file in *.md; do
+    # Use Pandoc to convert the markdown file to PDF
+    pandoc "$file" --pdf-engine=wkhtmltopdf -o "${file%.md}.pdf"
+done
+```
+
