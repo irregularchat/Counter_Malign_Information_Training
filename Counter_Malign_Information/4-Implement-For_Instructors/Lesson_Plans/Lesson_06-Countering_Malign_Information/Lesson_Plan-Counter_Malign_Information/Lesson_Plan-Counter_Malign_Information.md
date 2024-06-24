@@ -325,6 +325,10 @@ NOTE: Feedback is essential to effective learning. Schedule and provide feedback
 | -        | Slide Deck - Countering Misinformation and Disinformation |                   | PPTX        |
 | -        | Handout - Scenario 1    |                   | PDF        |
 | -        | Handout - Scenario 2    |                   | PDF        |
+| -		| Handout - Practical Exercise |                   | PDF        |
+| -     | Image - Case Study 2.1 - California Globe |                   | PNG        |
+| -     | Image - Case Study 2.2 - The Federalist |                   | PNG        |
+| -     | Image - Case Study 2.3 - CDC Tweet |                   | PNG        |
 
 ---
 
@@ -382,6 +386,24 @@ CountryA has recently discovered significant natural gas reserves, which could b
 - The disinformation campaign is coordinated across multiple channels, including social media, where bots and fake accounts amplify the message.
 - International stakeholders and allies of CountryA are growing concerned and demanding explanations.
 
+### Handout 3: Practical Exercise - Counter Malign Information
+# Practical Exercise - Counter Malign Information
+
+## Instructions:
+You will use only the counter-malign inforamtion strategies developed by the class to address the following scenarios.
+
+
+
+
+
+## Scenario:
+[](../Audio_Visual-Counter-Malign_Information/Image-Case_Study2.1-California_Globe.png)
+![Califoria Globe](../Audio_Visual-Counter-Malign_Information/Image-Case_Study2.1-California_Globe.png)
+![The Federalist](../Audio_Visual-Counter-Malign_Information/Image-Case_Study2.2-The_Federalist.png)
+
+In October 2020, posts on social media and articles were published claiming that a new CDC study found the Majority of those infected with COVID-19 ‘always’ wore Masks (examples of the articles below). This claim was further elevated on October 15, 2020, a town hall broadcast by NBC, interviewed U.S. President Donald Trump. During this interview Trump stated, " But just the other day, they came out with a statement that 85% of the people that wear masks catch it." Trump's source for this claim was the new study published by the CDC. Full transcription of this interview can be found here. This information was ultimately, misinterpreted. Below is the CDC's tweet addressing the misinformation.
+
+![CDC Tweet](../Audio_Visual-Counter-Malign_Information/Image-Case_Study2.3-CDC.png)
 #### Objective for Students:
 Develop a counter-strategy to expose and neutralize the disinformation campaign by CountryX. Ensure the strategy includes:
 - Collecting and presenting evidence to refute the false claims.
