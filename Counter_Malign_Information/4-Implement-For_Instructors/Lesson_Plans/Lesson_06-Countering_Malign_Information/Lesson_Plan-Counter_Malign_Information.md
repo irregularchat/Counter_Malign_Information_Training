@@ -1,5 +1,3 @@
-Here is the revised lesson plan for "Countering Misinformation and Disinformation," including slide references and detailed instructions for each phase of the lesson:
-
 # Lesson Plan: Countering Misinformation and Disinformation
 
 ## SECTION 0: LESSON OVERVIEW
