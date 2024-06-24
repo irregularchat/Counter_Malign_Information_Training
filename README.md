@@ -166,9 +166,9 @@ Location to execute this is: `/Counter_Malign_Information_Training/Counter_Malig
 find .. -type f -name 'Instructor-Lesson_Slide*.pptx' -exec /Applications/LibreOffice.app/Contents/MacOS/soffice --headless --convert-to pdf {} \;
 find .. -type f -name 'Instructor-Lesson_Slide*.pdf' -exec cp {} ./ \;
 find .. -type f -name 'Lesson_Plan*.md' -exec pandoc {} --pdf-engine=wkhtmltopdf -o "{}.pdf" \;
-find .. -type f -name 'Lesson_Plan*.pdf' -exec cp {} ./ \;
+find .. -type f -name 'Lesson_Plan*.pdf' -exec mv {} ./ \;
 find .. -type f -name 'Advanced_Organizer*.md' -exec pandoc {} --pdf-engine=wkhtmltopdf -o "{}.pdf" \;
-find .. -type f -name 'Advanced_Organizer*.md' -exec cp {} ./ \;
+find .. -type f -name 'Advanced_Organizer*.pdf' -exec mv {} ./ \;
 cp ../../3-Design/2-Counter_Malign_Information-Schedule.md ./
 cp ../Course_Syllabus-Counter_Malign_Information.md ./
 cd ./
