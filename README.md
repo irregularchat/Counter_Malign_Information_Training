@@ -151,7 +151,7 @@ To expand or collapse sections/headers in a note Top Menu > Insert > {"Fold" or 
 ### Run Git Commands on Multiple Directories
 - **Solution**:
    ```BASH
-   find . -name .git -print -execdir git pull \;
+   find .. -name .git -print -execdir git pull \;
    ```
 
 ### Create a copy of instructor files and convert
@@ -160,17 +160,23 @@ This assumes you have the following installed:
 - pandoc
 - wkhtmltopdf may also be needed for some conversions
 
-Location to execute this is: `/Counter_Malign_Information_Training/Counter_Malign_Information/4-Implement-For_Instructors/Lesson_Plans/`
+Location to execute this is: `/Counter_Malign_Information_Training/Counter_Malign_Information/4-Implement-For_Instructors/Lesson_Plans/Instructor_Copy/`
 
 ```BASH
-find . -type f -name 'Instructor-Lesson_Slide*.pptx' -exec /Applications/LibreOffice.app/Contents/MacOS/soffice --headless --convert-to pdf {} \;
-find . -type f -name 'Instructor-Lesson_Slide*.pdf' -exec cp {} Instructor_Copy/ \;
-find . -type f -name 'Lesson_Plan*.md' -exec cp {} Instructor_Copy/ \;
-find . -type f -name 'Advanced_Organizer*.md' -exec cp {} Instructor_Copy/ \;
-cd Instructor_Copy/
+find .. -type f -name 'Instructor-Lesson_Slide*.pptx' -exec /Applications/LibreOffice.app/Contents/MacOS/soffice --headless --convert-to pdf {} \;
+find .. -type f -name 'Instructor-Lesson_Slide*.pdf' -exec cp {} ./ \;
+find .. -type f -name 'Lesson_Plan*.md' -exec pandoc {} --pdf-engine=wkhtmltopdf -o "{}.pdf" \;
+find .. -type f -name 'Lesson_Plan*.pdf' -exec cp {} ./ \;
+find .. -type f -name 'Advanced_Organizer*.md' -exec pandoc {} --pdf-engine=wkhtmltopdf -o "{}.pdf" \;
+find .. -type f -name 'Advanced_Organizer*.md' -exec cp {} ./ \;
+cp /PATH/Counter_Malign_Information_Training/Counter_Malign_Information/3-Design/2-Counter_Malign_Information-Schedule.md ./
+cp /Counter_Malign_Information_Training/Counter_Malign_Information/4-Implement-For_Instructors/Course_Syllabus-Counter_Malign_Information.md ./
+cd ./
 # Use Pandoc to convert markdown files to PDF
 for file in *.md; do
     pandoc "$file" --pdf-engine=wkhtmltopdf -o "${file%.md}.pdf"
 done
 ```
 
+cp /Users/sac/Documents/Git/Counter_Malign_Information_Training/Counter_Malign_Information/3-Design/2-Counter_Malign_Information-Schedule.md ./
+cp /Users/sac/Documents/Git/Counter_Malign_Information_Training/Counter_Malign_Information/4-Implement-For_Instructors/Course_Syllabus-Counter_Malign_Information.md ./

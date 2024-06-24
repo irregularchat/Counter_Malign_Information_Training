@@ -27,8 +27,7 @@ Accounts with:
 ---
 
 ## Instructor Information
-- **Point of Contact**: John Doe, jdoe@example.com
-- **Office Hours**: Mondays and Wednesdays from 3 PM to 5 PM
+- **Point of Contact**: ________________, ________________
 
 ---
 
@@ -41,7 +40,6 @@ Accounts with:
 ---
 
 ## Technical Exchange Outline
-### Week 1
 - **Day 1**: Introduction to Information Integrity, Creating AI Content, Recognizing AI Generated Content
 - **Day 2**: Identifying Rival Influence (SCAME), Identifying Misinformation and Disinformation
 - **Day 3**: Countering Misinformation and Disinformation, Technical Exchange Review, Q&A Session, Closing
@@ -54,6 +52,9 @@ Accounts with:
 	- Detect Fakes with Kellogg's online tool - https://detectfakes.kellogg.northwestern.edu/ 
 	- Beebe, S. M., & Pherson, R. H. (2015). *Cases in Intelligence Analysis: Structured Analytic Techniques in Action*.
 	- Pherson, R. H., & Heuer, R. J. (2021). *Structured Analytic Techniques for Intelligence Analysis*.
+- Surveys:
+    Technical Exchange Pre-Survey - ________________________________
+    Technical Exchange Post-Survey - ________________________________
 - **Other Materials**: 	
 	- AI Master List Tool - https://doc.clickup.com/25598832/d/h/rd6vg-14247/0b79ca1dc0f7429/rd6vg-12207
 
@@ -80,7 +81,7 @@ Guest speakers will be invited to share insights and real-world experiences duri
 
 ## Contact Information
 For any questions or additional information, please contact:
-- **Instructor Name**: John Doe
-- **Email**: jdoe@example.com
-- **Phone**: +1-234-567-8901
+- **Instructor Name**: ________________
+- **Email**: ________________
+- **Phone**: ________________
 
