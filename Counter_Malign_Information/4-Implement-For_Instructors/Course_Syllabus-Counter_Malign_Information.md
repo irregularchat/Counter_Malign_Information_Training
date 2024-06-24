@@ -1,4 +1,4 @@
-# Course Syllabus
+# Technical Exchange Syllabus
 
 ## Classification Level
 **Unclassified**
@@ -14,12 +14,12 @@ Accounts with:
 ## Instruction Hours
 17 hours
 
-## Course Days
+## Technical Exchange Days
 3 days
 
-## Course Description
-- **Description**: This course is designed to equip participants with the skills necessary to identify, analyze, and counteract malign information efforts. It covers the detection of AI-generated content, techniques for identifying misinformation and disinformation, and strategies for countering these threats effectively. The curriculum combines theoretical knowledge with practical exercises, enhancing the learners' ability to apply these skills in real-world scenarios.
-- **Target Audience**: This course is intended for military personnel, intelligence analysts, and government officials who operate in environments where information integrity is crucial. It is also suitable for civilians working in related fields of security, media, and information technology.
+## Technical Exchange Description
+- **Description**: This Technical Exchange is designed to equip participants with the skills necessary to identify, analyze, and counteract malign information efforts. It covers the detection of AI-generated content, techniques for identifying misinformation and disinformation, and strategies for countering these threats effectively. The curriculum combines theoretical knowledge with practical exercises, enhancing the learners' ability to apply these skills in real-world scenarios.
+- **Target Audience**: This Technical Exchange is intended for military personnel, intelligence analysts, and government officials who operate in environments where information integrity is crucial. It is also suitable for civilians working in related fields of security, media, and information technology.
 
 ## Effective Date
 **20240624-V1#**
@@ -32,7 +32,7 @@ Accounts with:
 
 ---
 
-## Course Objectives
+## Technical Exchange Objectives
 1. Understand the fundamentals of AI-generated content and its implications.
 2. Develop skills to recognize patterns indicative of misinformation and disinformation.
 3. Apply structured analytic techniques to evaluate the credibility of information.
@@ -40,15 +40,15 @@ Accounts with:
 
 ---
 
-## Course Outline
+## Technical Exchange Outline
 ### Week 1
 - **Day 1**: Introduction to Information Integrity, Creating AI Content, Recognizing AI Generated Content
 - **Day 2**: Identifying Rival Influence (SCAME), Identifying Misinformation and Disinformation
-- **Day 3**: Countering Misinformation and Disinformation, Course Review, Q&A Session, Closing
+- **Day 3**: Countering Misinformation and Disinformation, Technical Exchange Review, Q&A Session, Closing
 
 ---
 
-## Course Materials
+## Technical Exchange Materials
 - **Required Texts**: N/A
 - **Recommended Readings**: 
 	- Detect Fakes with Kellogg's online tool - https://detectfakes.kellogg.northwestern.edu/ 
@@ -60,21 +60,21 @@ Accounts with:
 ---
 
 ## Grading and Evaluation
-- **Participation**: The course will emphasize participation and practical application. Formal grading may not apply.
+- **Participation**: The Technical Exchange will emphasize participation and practical application. Formal grading may not apply.
 
 ---
 
 ## Policies
 ### Attendance Policy
-Participants are expected to attend all scheduled sessions due to the intensive nature of the course and the progression of content coverage. Absences must be justified and communicated to the instructor in advance.
+Participants are expected to attend all scheduled sessions due to the intensive nature of the Technical Exchange and the progression of content coverage. Absences must be justified and communicated to the instructor in advance.
 
 ### Accommodations
-Participants requiring special accommodations should contact the instructor at the beginning of the course to make necessary arrangements. Every effort will be made to ensure all course materials and activities are accessible.
+Participants requiring special accommodations should contact the instructor at the beginning of the Technical Exchange to make necessary arrangements. Every effort will be made to ensure all Technical Exchange materials and activities are accessible.
 
 ---
 
 ## Additional Information
-Guest speakers will be invited to share insights and real-world experiences during the course.
+Guest speakers will be invited to share insights and real-world experiences during the Technical Exchange.
 
 ---
 
@@ -83,5 +83,4 @@ For any questions or additional information, please contact:
 - **Instructor Name**: John Doe
 - **Email**: jdoe@example.com
 - **Phone**: +1-234-567-8901
-- **Office Location**: Building 12, Room 101, National Defense University
 
