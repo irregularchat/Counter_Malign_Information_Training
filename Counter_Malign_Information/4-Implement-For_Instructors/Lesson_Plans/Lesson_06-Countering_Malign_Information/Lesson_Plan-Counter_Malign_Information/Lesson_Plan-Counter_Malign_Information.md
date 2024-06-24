@@ -60,9 +60,8 @@ This 180-minute lesson is an intermediate orientation to developing counter-narr
 
 ### References
 
-1. [Reference 1](#)
-2. [Reference 2](#)
-3. [Reference 3](#)
+1. CWU Disinformation Case Studies - https://libguides.lib.cwu.edu/c.php?g=625394&p=4391900
+2. N/A for fictional scenarios. 
 
 ---
 

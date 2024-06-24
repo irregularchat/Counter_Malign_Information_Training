@@ -136,7 +136,8 @@ Lesson Material, Ammo, Expendable, etc.
 | Computers with internet access   | 1:1           | 1:2              |          | no         |
 | Example scenarios                |               |                  | Various  | no         |
 | Projector and screen             |               |                  | 1        | no         |
-
+| Handout - Practical Exercise: Counter Malign Information            | 1:1           |                  |          | yes        |
+| Handout - Practical Exercise: Counter Malign Information (Answers)   | 1:3           |                  |          | yes        |
 ---
 
 ### Pre-Requisite Tasks
@@ -248,6 +249,7 @@ References:
 1. Beebe, S. M., & Pherson, R. H. (2015). *Cases in Intelligence Analysis: Structured Analytic Techniques in Action*.
 2. Pherson, R. H., & Heuer, R. J. (2021). *Structured Analytic Techniques for Intelligence Analysis*.
 3. Factsheet 4: Types of Misinformation and Disinformation - https://www.unhcr.org/innovation/wp-content/uploads/2022/02/Factsheet-4.pdf
+4. CWU Disinformation Case Studies - https://libguides.lib.cwu.edu/c.php?g=625394&p=4391900
 
 ---
 
@@ -387,10 +389,11 @@ A disinformation and propaganda campaign “that denies and downplays the severi
 # Slide 19: Practical Exercise: Identify Misinformation and Disinformation
 ## Activity
 1. Divide students into groups numbering 1 & 2 as many as possible.
-2. Provide each group with a news story to analyze for misinformation or disinformation.
+2. Provide each group with Handout - Practical Exercise: Counter Malign Information.
 3. Have each group apply the frameworks to their analysis.
 4. Each group presents their findings to the class.
 5. Discuss and provide feedback on their analyses.
+6. Provide the Handout - Practical Exercise: Counter Malign Information (Answers) for review in groups. 
 
 ---
 
