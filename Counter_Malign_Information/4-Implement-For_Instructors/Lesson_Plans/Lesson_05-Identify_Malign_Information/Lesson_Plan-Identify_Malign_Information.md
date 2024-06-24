@@ -8,7 +8,7 @@
 
 **Program of Instruction (POI)**: Countering Malign Influence / Version 1.0
 
-**Developer Point of Contact**: john.doe@email.tld
+**Developer Point of Contact**: issac.alfaro@socom.mil
 
 ---
 
