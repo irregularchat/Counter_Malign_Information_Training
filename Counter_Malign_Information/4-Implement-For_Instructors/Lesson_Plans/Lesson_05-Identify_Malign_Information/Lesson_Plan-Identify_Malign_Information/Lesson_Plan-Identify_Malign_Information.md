@@ -315,74 +315,156 @@ References:
 
 ---
 
-# Slide 12: Detailed Analysis: Motive, Opportunity, and Means (MOM)
-## Activity
-- Discuss each component in detail.
-- The provided historical and contemporary example: China's disinformation campaign during the COVID-19 pandemic.
-- Have students analyze a given scenario using the MOM framework.
+### Slide 12: Detailed Analysis: Motive, Opportunity, and Means (MOM)
+#### Instructor Activity
+**Objective:** To provide students with a comprehensive understanding of the MOM framework and its application in identifying misinformation and disinformation.
+
+**Discussion Points:**
+
+1. **Introduction to the MOM Framework:**
+   - **Motive:** Explain that motive refers to the reasons why a source would create and disseminate misinformation or disinformation. Discuss common motives such as political gain, financial profit, or social influence.
+   - **Opportunity:** Describe opportunity as the circumstances that allow a source to spread false information. Highlight factors like access to large audiences, timing, and platform availability.
+   - **Means:** Clarify that means involve the tools and resources the source has at their disposal to create and distribute misinformation. This can include social media platforms, bot networks, and funding.
+
+2. **Historical and Contemporary Example:**
+   - Use China’s disinformation campaign during the COVID-19 pandemic as an example.
+   - Discuss in detail:
+     - **Motive:** China's motive was to deflect blame and manage its global image.
+     - **Opportunity:** The global pandemic created a chaotic information environment, providing an opportunity to influence narratives.
+     - **Means:** Utilization of social media, state-run media outlets, and bot networks to disseminate propaganda.
+
+3. **Interactive Scenario Analysis:**
+   - Present a real or hypothetical scenario where students must identify the motive, opportunity, and means of a disinformation campaign.
+   - Example Scenario: A fabricated news story about a political candidate.
+     - **Motive:** Undermine the candidate’s credibility.
+     - **Opportunity:** Election season, high media coverage.
+     - **Means:** Anonymous social media accounts, viral memes, and fake news websites.
+
+**Activity Instructions:**
+   - Divide the students into small groups.
+   - Assign each group a different scenario to analyze using the MOM framework.
+   - Each group should identify the possible motives, opportunities, and means involved in their scenario.
+   - Groups will present their analysis to the class, highlighting how they applied the MOM framework to dissect the disinformation campaign.
 
 ---
 
-# Slide 13: MOM Framework Example
-**Text:** "China's disinformation campaign during the COVID-19 pandemic."  
-The COVID-19 pandemic has had a significant impact on the world, including strained diplomatic ties and blurred perceptions of who or what is responsible for its origins. In response to allegations, China crafted an intricate social media campaign to clear its name. This campaign gained notoriety in June 2020 when Twitter removed 150,000 malicious Chinese accounts. The accretion of fictitious accounts suggests that China has emboldened its efforts to spread propaganda on Twitter in favor of Chinese Communist Party (CCP) objectives. Although previous Chinese propaganda campaigns had focused on demeaning the protests in Hong Kong, a massive wave of social media rhetoric promoting the Chinese government’s response to the coronavirus outbreak as a form of Great Power competition—initially downplaying the pandemic’s severity while seeking praise for the government’s draconian efforts to contain its spread—is a narrative that underscores the changing character of war.
+### Slide 13: MOM Framework Example
+#### Instructor Narrative
+**Text:** "China's disinformation campaign during the COVID-19 pandemic."
 
-References:
-Misleading a Pandemic: The Viral Effects of Chinese Propaganda and the Coronavirus - https://ndupress.ndu.edu/Media/News/News-Article-View/Article/2884217/misleading-a-pandemic-the-viral-effects-of-chinese-propaganda-and-the-coronavir/
+**Detailed Discussion:**
+   - **Impact on Global Perceptions:**
+     - Describe how the campaign aimed to shift blame away from China regarding the origins of COVID-19.
+     - Discuss the broader implications for international relations and trust in global health information.
 
----
+   - **Social Media Strategy:**
+     - Explain the role of social media in amplifying disinformation.
+     - Detail how the removal of 150,000 malicious Chinese accounts by Twitter highlighted the scale of the campaign.
+     - Discuss the creation and spread of false narratives praising China’s pandemic response and downplaying the virus’s severity.
 
-# Slide 14: Detailed Analysis: Past Opposition Practices (POP)
-## Activity
-- Discuss each component in detail.
-- Provide historical and contemporary examples such as Tiananmen Square protests and the Hong Kong protests.
-- Have students analyze a given scenario using the POP framework.
+   - **Analyzing the Campaign:**
+     - Use the MOM framework to break down the campaign:
+       - **Motive:** Political and economic stability, positive international image.
+       - **Opportunity:** The global crisis and information vacuum.
+       - **Means:** Extensive state resources, coordinated social media efforts, and influence over domestic and international media.
 
-References:
-A disinformation and propaganda campaign “that denies and downplays the severity of the incident is growing,” - https://hongkongfp.com/2021/06/04/taiwan-group-launches-website-to-counter-tiananmen-massacre-trolls-and-denialism/
+**Interactive Discussion:**
+   - Encourage students to consider how different motives might alter the nature of disinformation campaigns.
+   - Discuss the effectiveness of various means used in disinformation and how they can be countered.
 
----
-
-# Slide 15: POP Framework Example
-**Text:** "Tiananmen Square protests, Hong Kong protests, the Cultural Revolution."  
-Have students find other examples of past opposition practices and analyze them using the POP framework to determine potential future misinformation strategies from this actor.
-
-References:
-A disinformation and propaganda campaign “that denies and downplays the severity of the incident is growing,” - https://hongkongfp.com/2021/06/04/taiwan-group-launches-website-to-counter-tiananmen-massacre-trolls-and-denialism/
-
----
-
-# Slide 16: Detailed Analysis: Manipulability of Sources (MOSES)
-## Activity
-- Discuss each component in detail.
-- Ask students to provide examples of credible vs. manipulable sources.
-- Have students analyze a given scenario using the MOSES framework.
-- Questions to consider:
-  - How reliable is the source in other stories?
-  - What are the potential biases?
-  - Is the source susceptible to manipulation?
-  - What is the source's track record for accuracy?
+**References:**
+   - Misleading a Pandemic: The Viral Effects of Chinese Propaganda and the Coronavirus - [NDUPress Article](https://ndupress.ndu.edu/Media/News/News-Article-View/Article/2884217/misleading-a-pandemic-the-viral-effects-of-chinese-propaganda-and-the-coronavir/)
 
 ---
 
-# Slide 17: Detailed Analysis: Evaluation of Evidence (EVE)
-## Activity
--
+### Slide 14: Detailed Analysis: Past Opposition Practices (POP)
+#### Instructor Activity
+**Objective:** To guide students in understanding the historical context of disinformation and how past practices inform current strategies.
 
- Discuss each component in detail.
-- Examples of strong vs. weak evidence.
-  - Strong evidence: Multiple corroborating sources, verifiable data, expert analysis.
-  - Weak evidence: Single unverified source, lack of context, emotional appeal, opinion-based.
-- Have students analyze a given scenario using the EVE framework.
+**Discussion Points:**
+1. **Introduction to the POP Framework:**
+   - Explain that POP involves analyzing historical disinformation practices to predict future strategies.
+   - Highlight the importance of recognizing patterns and strategies used by adversaries.
+
+2. **Historical Examples:**
+   - Discuss the Tiananmen Square protests and Hong Kong protests.
+   - Detail how disinformation was used to control narratives and suppress dissent.
+
+**Activity Instructions:**
+   - Present scenarios based on historical events.
+   - Have students analyze these scenarios using the POP framework to identify likely future disinformation strategies.
+
+**References:**
+   - Taiwan group launches website to counter Tiananmen Massacre trolls and denialism - [Hong Kong Free Press](https://hongkongfp.com/2021/06/04/taiwan-group-launches-website-to-counter-tiananmen-massacre-trolls-and-denialism/)
 
 ---
 
-# Slide 18: EVE Framework Example
-**Text:** "The Earth is flat." vs. "The Earth is a sphere."  
-- Strong evidence: Scientific consensus, satellite imagery, mathematical calculations.
-  - Such as the Earth's circumference, the curvature of the Earth, and the observations of celestial bodies. Time zones, seasons, and the shape of the Earth's shadow during a lunar eclipse.
-- Weak evidence: Personal belief, lack of scientific data, anecdotal accounts.
-  - Such as the belief that the Earth looks flat from the ground, the absence of a visible curve, and the idea that water always finds its level.
+### Slide 15: POP Framework Example
+#### Instructor Narrative
+**Text:** "Tiananmen Square protests, Hong Kong protests, the Cultural Revolution."
+
+**Detailed Discussion:**
+   - Provide a detailed historical context for each event.
+   - Analyze how disinformation was employed to shape public perception and suppress opposition.
+   - Discuss the evolution of disinformation tactics from these events to present-day strategies.
+
+**Interactive Discussion:**
+   - Have students find other historical examples and analyze them using the POP framework.
+   - Discuss how understanding past practices can inform current counter-disinformation strategies.
+
+**References:**
+   - Taiwan group launches website to counter Tiananmen Massacre trolls and denialism - [Hong Kong Free Press](https://hongkongfp.com/2021/06/04/taiwan-group-launches-website-to-counter-tiananmen-massacre-trolls-and-denialism/)
+
+---
+
+### Slide 16: Detailed Analysis: Manipulability of Sources (MOSES)
+#### Instructor Activity
+**Objective:** To teach students how to assess the credibility and susceptibility of sources to manipulation.
+
+**Discussion Points:**
+1. **Introduction to the MOSES Framework:**
+   - Explain that MOSES helps assess the reliability and manipulability of sources.
+   - Discuss factors such as source credibility, potential biases, and historical accuracy.
+
+2. **Interactive Scenario Analysis:**
+   - Present scenarios where students must evaluate sources using the MOSES framework.
+   - Example Scenario: An anonymous whistleblower’s claim about government corruption.
+
+**Activity Instructions:**
+   - Have students identify credible vs. manipulable sources within the scenario.
+   - Discuss the impact of source credibility on the acceptance of information.
+
+---
+
+### Slide 17: Detailed Analysis: Evaluation of Evidence (EVE)
+#### Instructor Activity
+**Objective:** To provide students with the skills to critically evaluate the validity and reliability of evidence.
+
+**Discussion Points:**
+1. **Introduction to the EVE Framework:**
+   - Explain that EVE is used to analyze the strength of evidence.
+   - Discuss criteria for strong vs. weak evidence.
+
+2. **Examples of Evidence:**
+   - Provide examples of strong evidence (multiple corroborating sources, verifiable data) and weak evidence (single unverified source, emotional appeal).
+
+**Activity Instructions:**
+   - Have students analyze a given scenario using the EVE framework.
+   - Discuss the differences between strong and weak evidence.
+
+---
+
+### Slide 18: EVE Framework Example
+#### Instructor Narrative
+**Text:** "The Earth is flat." vs. "The Earth is a sphere."
+
+**Detailed Discussion:**
+   - Present the arguments for both statements.
+   - Analyze the evidence supporting each statement using the EVE framework.
+
+**Interactive Discussion:**
+   - Encourage students to critically evaluate the evidence presented.
+   - Discuss how to distinguish between strong and weak evidence in various contexts.
 
 ---
 
