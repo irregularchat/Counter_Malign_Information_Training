@@ -136,6 +136,7 @@ Assist with classroom setup, help facilitate group discussions, and provide one-
 | Strategic communication tools    | 1:3           | 1:2              |          | no         |
 | Handout - Scenario 1             | 1:3           |                  |          | yes        |
 | Handout - Scenario 2             | 1:3           |                  |          | yes        |
+| Handout - Practical Exercise: Counter Malign Information            | 1:1           |                  |          | yes        |
 
 ---
 
@@ -267,6 +268,7 @@ NOTE: Go to Slide 8
 > 1. Implement your developed counter strategy using the techniques learned.
 > 2. Follow the provided instructions for the exercise.
 
+NOTE: Pass out the Practical Exercise handouts to the students.
 ---
 
 NOTE: Go to Slide 9
