@@ -1,42 +1,26 @@
+Here is the revised lesson plan for "Countering Misinformation and Disinformation," including slide references and detailed instructions for each phase of the lesson:
 
-
-## How To Use
-### Developing Unit Training (WRITING)
-1. Open markdown files and folders using Obsidian
-2. Use Git Repo to maintain version control, allow push, and create branches
-3. Use the Developers Workbook (Excel File) to guide analysis and develop objectives
-4. Copy and paste 
-
----
-### Instructing or Conducting Unit Training (READING)
-1. Use this lesson plan to rehearse, identify or plan requirements, and provide necessary onboarding to instructors
-	1. Printing the "Advanced Organizer" for each lesson and using it as needed during the lesson is the best approach rather than printing this lesson plan.
-
----
+# Lesson Plan: Countering Misinformation and Disinformation
 
 ## SECTION 0: LESSON OVERVIEW
+
 ### Lesson Information
-Lesson Title: **Object_HERE Verb_HERE**
 
-Program of Instruction (POI): **NUMBER-TOPIC_NAME / Version 1.0**
+**Lesson Title**: Countering Misinformation and Disinformation
 
+**Program of Instruction (POI)**: Countering Malign Information / Version 1.0
 
-Developer Point of Contact: first.last@email.tld
+**Developer Point of Contact**: first.last@email.tld
 
 ---
-###  IMPORTANT
+
+### IMPORTANT
 
 #### Training Material Classification: UNCLASSIFIED
+
 ### Distribution Restriction:
 
-  %%Delete all but appropriate%%
-  
- - A. Approved for public release; distribution is unlimited
- - B. Distribution authorized to U.S. Government agencies only.
- - C. Distribution authorized to U.S. agencies and their contractors only \<INSERT REASON\>. This determination was made on \<INSERT DATE\>. 
- -  D. Distribution authorized to the DOD and DOD Contractors \<INSERT REASON\>. This determination was made on \<INSERT DATE\>
- - E. Distribution authorized to DOD component only \<INSERT REASON\>. This determination was made on \<INSERT DATE\>
- - F. Further determination only as directed by \<INSERT Office Symbol and Address\> or higher authority. This determination was made on \<INSERT DATE\>. 
+ - A. Approved for public release; distribution is unlimited.
 
 ### Destruction Notice: 
 
@@ -44,369 +28,370 @@ Developer Point of Contact: first.last@email.tld
 
 ### Foreign Disclosure:
 
- %%Delete all but appropriate%%
- 
-- FD1 - This training product has been reviewed by the training developer in coordination with the \<INSERT ORG\> foreign disclosure officer. This training product can be used to instruct international military students in all approved countries.
-- FD2 - This training product has been reviewed by the training developer in coordination with the \<INSERT ORG\> foreign disclosure officer. This training product can be used to instruct international military students when specific criteria are met.
-- FD3 - This training product has been reviewed by the developers in coordination with the \<INSERT ORGANIZATION\> foreign disclosure officer. This product CANNOT be used to instruct international military students.
+- FD1 - This training product has been reviewed by the training developer in coordination with the TRADOC foreign disclosure officer. This training product can be used to instruct international military students in all approved countries.
 
 ---
+
 ### SCOPE OF LESSON
 
- %%Example of a lesson scope. (TP 350-70-14, Par 3-9) %%
- 
-This 2-hour lesson is an introductory level orientation to Commissary anti-robbery procedures. The **end state** of this lesson **is for new Commissary employees to be able to recall the necessary steps to take in the event of a robbery at the store. The** author's intent **is that new employees learn anti-robbery principles and procedures and choose appropriate actions during a series of scenario-based exercises. By the end of the lesson, new employees should have a solid grasp of the actions to take if the store is being robbed. This lesson is common to all Commissary departments and** links to other parts of the curriculum** by reinforcing the character attributes of accountability and responsibility.
+This 180-minute lesson is an intermediate orientation to developing counter-narratives to misinformation and disinformation. The end state of this lesson is for students to be able to recall and apply the necessary steps to effectively handle scenarios involving misinformation and disinformation. The author's intent is that students learn key principles and procedures through a series of scenario-based exercises. By the end of the lesson, students should have a solid grasp of the actions to take in the relevant scenarios. This lesson is common to all government officials working in the information environment and links to other parts of the curriculum by reinforcing the character attributes of accountability and responsibility.
 
 ### Learning Objectives
-### Terminal Learning Objective (TLO): 
-///text
-Action: Approved_Verb Object Qualifier
-Condition: 
-Standard: Approved_Verb Object Qualifier Level of Proficiency 
-///
+
+#### Terminal Learning Objective (TLO): 
+
+> **Action**: Develop counter-narratives to misinformation.
+> **Condition**: Triggered by the detection of misinformation or disinformation.
+> **Standard**: Create effective counter-narratives that address and refute misinformation with a success rate of 85% within 48 hours.
+
 ---
-### Enabling Learning Objective (ELO) _or_ Learning Step Activity (LSA):
- ///text
-Action: Approved_Verb Object Qualifier
-Condition: 
-Standard: Approved_Verb Object Qualifier Level of Proficiency 
-///
-### Enabling Learning Objective (ELO) _or_ Learning Step Activity( LSA):
-///text
-Action: Approved_Verb Object Qualifier
-Condition: 
-Standard: Approved_Verb Object Qualifier Level of Proficiency 
-///
+
+#### Enabling Learning Objective (ELO) / Learning Step Activity (LSA):
+ 
+> **Action**: Identify misinformation and disinformation.
+> **Condition**: Given example scenarios and research tools.
+> **Standard**: Accurately identify misinformation and disinformation in 90% of cases.
+
+> **Action**: Develop counter-narratives.
+> **Condition**: Given identified misinformation and disinformation examples.
+> **Standard**: Create effective counter-narratives that successfully refute misinformation in 85% of cases within 48 hours.
+
 ---
 
 ### References
-1. Reference_1
-2. Reference_2
 
-## SECTION 1: **ADMINISTRATIVE DATA** 
-## Instructional Guidance
-Conduct of Lesson |**NOTE:** Before presenting this lesson, instructors must thoroughly prepare by studying this lesson and identifying reference material.
-Watch the robbery video until it bores you. This is important because, during the Concrete Experience, you should be observing the students.
-Before the lesson, set up one easel in each corner of the classroom. Place a marker set with each easel, and affix one scenario sheet (face down) to each easel.
-Before class, play the video completely through one time. This will reduce computer lag. 
+1. [Reference 1](#)
+2. [Reference 2](#)
+3. [Reference 3](#)
 
-### **1. The importance of this lesson: (Why)**
-
-Insert how this ties to the student's goals and mission, or how it makes their current operations easier, or more effective.
-
-### **2. What we want our students to Achieve: (Outcomes/Standard)**
-
-Choose anti-robbery measures that are appropriate to the scenario based on your interpretation of both the scenario itself and the job aid. Choices must align with the anti-robbery principles taught in the lesson.
-### 3. A Possible Technique to Achieve the Outcome
-1. 
-### 4. AAR Guidance for this Lesson
-1. 
 ---
-## Lesson Requirements
-### Instructor Requirements
-An instructor must 
+
+## SECTION 1: ADMINISTRATIVE DATA 
+
+### Instructional Guidance
+
+**Conduct of Lesson** | **NOTE:** Before presenting this lesson, instructors must thoroughly prepare by studying this lesson and identifying reference material.
+
+- Review the lesson plan and all related materials.
+- Set up the classroom with the necessary equipment and materials.
+- Familiarize yourself with the detection tools and example media content.
+
+### 1. The importance of this lesson: (Why)
+
+Understanding and identifying misinformation and disinformation is critical to maintaining operational security and countering adversarial influence. This lesson ties directly to the students' goals of protecting the integrity of information within their operations.
+
+### 2. What we want our students to Achieve: (Outcomes/Standard)
+
+Students should be able to accurately identify misinformation and disinformation and develop effective counter-narratives that refute false information and ensure the dissemination of accurate information.
+
+### 3. A Possible Technique to Achieve the Outcome
+
+1. Use a combination of visual, textual, and audio analysis tools to detect inconsistencies and develop counter-narratives.
+
+### 4. AAR Guidance for this Lesson
+
+1. Conduct After-Action Reviews (AAR) after each major activity to capture lessons learned and reinforce key points.
+
+---
+
+### Lesson Requirements
+
+#### Instructor Requirements
+
+An instructor must:
 1. Review the entire lesson plan for each lesson they will cover.  
 2. Be able to obtain, access, and be familiar with the required material and equipment.
+3. Read and understand the referenced material.
 
 An instructor must attend the following training:
-1. TRADOC-approved faculty course
-2. {INSERT_Course}
 
-An instructor should :
-1. Have received this block of instruction as a student
-2. Participated in this instruction as an assistant instructor for this lesson
-3. Participated in the AAR for this lesson
+1. TRADOC certified instructor course.
+2. Course on AI and synthetic media.
 
-### Additional Support 
+An instructor should:
 
-#### Required or Requested Support
+1. Have received this block of instruction as a student.
+2. Participated in this instruction as an assistant instructor for this lesson.
+3. Participated in the AAR for this lesson.
 
-#### Guidance for Assistant Instructors
+#### Additional Support 
 
+##### Required or Requested Support
+
+N/A
+
+##### Guidance for Assistant Instructors
+
+Assist with classroom setup, help facilitate group discussions, and provide one-on-one support to students as needed.
 
 ---
-### Equipment and Material Required for Instruction
-Lesson Material, Ammo, Expendable, etc.
 
 ### Equipment and Material Required for Instruction
-Lesson Material, Ammo, Expendable, etc.
+
 | Equipment                        | Student Ratio | Instructor Ratio | Quantity | Expendable |
 | -------------------------------- | ------------- | ---------------- | -------- | ---------- |
-| #MacOS-Computer, #MacOS-Keyboard, #MacOS-Touchpad | 1:1           | 1:2              |          | no         |
-| #Slides                          |               |                  | 1        | no         |
-| #Projector                       |               |                  | 1        | no         |          |
-| #Terminal_app                    | 1:1           | 1:2              |          |            |
-|                                  |               |                  |          |            |
-
+| Computer                         | 1:1           | 1:2              |          | no         |
+| Slides                           |               |                  | 1        | no         |
+| Projector                        |               |                  | 1        | no         |
+| Strategic communication tools    | 1:3           | 1:2              |          | no         |
+| Handout - Scenario 1             | 1:3           |                  |          | yes        |
+| Handout - Scenario 2             | 1:3           |                  |          | yes        |
 
 ---
+
 ### Pre-Requisite Tasks
-1. 
+
+1. Review basic concepts of AI and machine learning.
+2. Complete the lesson on identifying malign information.
+
 ---
+
 ### Knowledge Required
-1. 
+
+1. Basic understanding of AI and machine learning principles.
+2. Familiarity with strategic communication tools and techniques.
+
 ---
+
 ### Skills Required
-1. 
+
+1. Ability to use computer and analysis tools.
+2. Effective communication and teamwork skills.
+
 ---
+
 ## Supporting Tasks
 
 ### Tasks Taught
-1. 
+
+1. Identifying misinformation and disinformation.
+2. Developing counter-narratives to misinformation and disinformation.
+
 ### Tasks Supported
-1. 
+
+1. Reporting and mitigating malign influence.
+
 ### Tasks Reinforced
-1. 
 
+1. Critical analysis and attention to detail.
 
 ---
+
 ## Lesson Timeline
-| Academic (y/n) | Broad Topic | EST TIME Min | Methods                        |
-| -------------- | ----------- | ------------ | ------------------------------ |
-| Instructor     |             | 5            | Instructor Rehearsal           |
-| Instructor     |             | 0            | Classroom Setup                |
-| y              |             | 5            | Concrete Experience            |
-| y              |             | 3            | Publish and Process            |
-| y              |             | 10           | Generalize New Information     |
-| y              |             | 3            | Develop                        |
-| y              |             | 10           | Generalize New Information     |
-| y              |             | 3            | Develop                        |
-| y              |             | 5            | Apply                          |
-| y              |             | 3            | Assessment / Check On Learning |
-|                |             |              |                                |
+
+| Academic (y/n) | Broad Topic             | EST TIME Min | Methods                        | Slide Range |
+| -------------- | ----------------------- | ------------ | ------------------------------ | ----------- |
+| Instructor     | Rehearsal               | 5            | Instructor Rehearsal           |             |
+| Instructor     | Setup                   | 0            | Classroom Setup                |             |
+| y              | Concrete Experience     | 20           | Scenario-based activity        | 1           |
+| y              | Publish and Process     | 5            | Group discussion               | 2           |
+| y              | Generalize New Information | 25         | Lecture and discussion         | 3, 4        |
+| y              | Develop                 | 100          | Group work and presentations   | 5, 6, 7, 8  |
+| y              | Apply                   | 30           | Practical exercise             | 9, 10       |
+| y              | Check On Learning       | 10           | Summary and feedback           | 11, 12      |
 
 ---
+
 ## SECTION 2: LESSON INTRODUCTION
+NOTE: Go to Slide 1
+### LESSON Phase: Concrete Experience / Motivator:
+NOTE: Tell an interesting anecdote based on your experience, or recall a recent current event pertaining to the lesson unit topic to gain the student's attention and motivate them to learn the lesson material. The student should be made aware of the Army's Contemporary Operational Environment factors such as the physical environment, military capabilities, technology, and information.
 
-%%The concrete experience is supposed to be an exercise where students can tinker and fail safely and in a controlled manner. The CE allows students to stumble a little and to appreciate the lesson later even more%%
+> Students selected report to your designated areas.
 
-## **Concrete Experience / Motivator:** 
-NOTE: Tell an interesting anecdote based on your experience, or
-recall a recent current event pertaining to the lesson unit topic to
-gain the student's attention and motivate them to learn the lesson
-material. The student should be made aware of the Army's Contemporary
-Operational Environment factors such as the physical environment,
-military capabilities, technology, and information.
+---
 
-An example could be:
-> Example Paraphrase goes here.
+NOTE: Go to Slide 2
+### LESSON Phase: Publish and Process
 
-NOTE: Go to Slide X
 **Instructional Lead-in:** 
-"The learning objectives for this block are to..."
+"The learning objectives for this block are to develop counter-narratives to misinformation and disinformation by leveraging your experiences and expertise."
 
-NOTE: Go to Slide X
+**Scope Statement:** During this 180-minute block of instruction, you will learn to counter misinformation and disinformation through scenario-based exercises. By the end of the lesson, you should have the skills to develop and implement effective counter-strategies.
 
-**Scope Statement:** During this ##.##-hour block of instruction, the
-students will...
-
-## Publish and Process
-
-NOTE: for 
+---
 
 ## SECTION 3: LESSON PRESENTATION
-Generalize New Information, Develop, and Apply
 
-### Learning Step Activity (LSA) X:  Learning Step Activity (LSA) Title.
+NOTE: Go to Slide 3
+### LESSON Phase: Generalize New Information
 
-##### SLIDE X
-NOTE: Note goes here
+### Learning Step Activity (LSA) 1: Developing Counter Strategies
 
+> 1. Define the desired end state of the counter strategy.
+> 2. Explain the importance of countering misinformation and disinformation.
+> 3. Discuss techniques and strategies for countering misinformation and disinformation.
 
-#### Learning Step Activity Text:
->1. /MacOS is Proprietary, and one of their terms of use prohibits the virtualization of MacOS on non-MacOS devices. This is also the reason many tech courses and capabilities use MacOS.
->2. /Organic capabilities use MacOS as a Commercial off the Shelf (COTS) solution to control devices and allow user interaction. Being familiar with MacOS will enable Operations.
+NOTE: Go to Slide 4
+### Learning Step Activity (LSA) 2: Setting Goals for Identifying Malign Information
 
-##### SLIDE X
-NOTE: Note goes here
-
-##### SLIDE X
-NOTE: Note goes here
-
-##### SLIDE X
-NOTE: Note goes here
-
-#### Activity
-
-##### SLIDE X
-NOTE: Note goes here
-
-#### Development
-- Question:
-> /Why is knowing about MacOS and the apple terms of use important for your mission?
-
-#### Check on learning: 
-
--  Question: /Are you allowed to Virtualize or Copy MacOS legally?
-
-	- **Answer:** /No, Apple prohibits Virtualization of MacOS if not on a MacOS Device.
-
--  Question: /Can Government owned MacOS Whiteline computers be used for Operations? 
-	- Answer: /Yes. They also have better battery life and are common devices used globally 
+> 1. Define what malign information looks like in your context.
+> 2. Identify your goals when countering this information.
+> 3. Discuss the importance of these goals in maintaining accurate information flow.
 
 ---
 
+NOTE: Go to Slide 5
+### LESSON Phase: Developing TTPs
+
+### Learning Step Activity (LSA) 3: Creating Tactics, Techniques, and Procedures (TTPs)
+
+> 1. Develop a counter strategy for a given scenario.
+> 2. Work in groups to brainstorm and outline your TTPs.
+
+NOTE: Go to Slide 6
+### Learning Step Activity (LSA) 4: Presenting Developed Strategies
+
+> 1. Have students present their developed counter strategy to the class.
+> 2. Discuss the strengths and weaknesses of each strategy.
 
 ---
 
+NOTE: Go to Slide 7
+### LESSON Phase: Refining Strategies
 
-### Learning Step Activity (LSA) X:  Learning Step Activity (LSA) Title.
+### Learning Step Activity (LSA) 5: Refining Counter Strategies
 
-##### SLIDE X
-NOTE: Note goes here
-
-
-#### Learning Step Activity Text:
->1. /MacOS is Proprietary, and one of their terms of use prohibits the virtualization of MacOS on non-MacOS devices. This is also the reason many tech courses and capabilities use MacOS.
->2. /Organic capabilities use MacOS as a Commercial off the Shelf (COTS) solution to control devices and allow user interaction. Being familiar with MacOS will enable Operations.
-
-##### SLIDE X
-NOTE: Note goes here
-
-##### SLIDE X
-NOTE: Note goes here
-
-##### SLIDE X
-NOTE: Note goes here
-
-#### Activity
-
-##### SLIDE X
-NOTE: Note goes here
-
-#### Development
-- Question:
-> /Why is knowing about MacOS and the Apple terms of use important for your mission?
-
-#### Check on learning: 
-
--  Question: /Are you allowed to Virtualize or Copy MacOS legally?
-
-	- **Answer:** /No, apple prohibits Virtualization of MacOS if not on a MacOS Device.
-
--  Question: /Can Government owned MacOS Whiteline computers be used for Operations? 
-	- Answer: /Yes. They also have better battery life and are common devices used globally 
+> 1. Refine strategies based on feedback received.
+> 2. Make necessary adjustments and improvements.
 
 ---
 
-### Learning Step Activity (LSA) X:  Learning Step Activity (LSA) Title.
+NOTE: Go to Slide 8
+### LESSON Phase: Apply
 
-##### SLIDE X
-NOTE: Note goes here
+### Learning Step
 
+ Activity (LSA) 6: Practical Exercise
 
-#### Learning Step Activity Text:
->1. /MacOS is Proprietary, and one of their terms of use prohibits the virtualization of MacOS on non-MacOS devices. This is also the reason many tech courses and capabilities use MacOS.
->2. /Organic capabilities use MacOS as a Commercial off the Shelf (COTS) solution to control devices and allow user interaction. Being familiar with MacOS will enable Operations.
-
-##### SLIDE X
-NOTE: Note goes here
-
-##### SLIDE X
-NOTE: Note goes here
-
-##### SLIDE X
-NOTE: Note goes here
-
-#### Activity
-
-##### SLIDE X
-NOTE: Note goes here
-
-#### Development
-- Question:
-> /Why is knowing about MacOS and Apple's terms of use important for your mission?
-
-#### Check on learning: 
-
--  Question: /Are you allowed to Virtualize or Copy MacOS legally?
-
-	- **Answer:** /No, Apple prohibits Virtualization of MacOS if not on a MacOS Device.
-
--  Question: /Can Government owned MacOS Whiteline computers be used for Operations? 
-	- Answer: /Yes. They also have better battery life and are common devices used globally 
+> 1. Implement your developed counter strategy using the techniques learned.
+> 2. Follow the provided instructions for the exercise.
 
 ---
 
-### Learning Step Activity (LSA) X:  Learning Step Activity (LSA) Title.
+NOTE: Go to Slide 9
+### LESSON Phase: Review and Feedback
 
-##### SLIDE X
-NOTE: Note goes here
+### Learning Step Activity (LSA) 7: Review and Feedback
 
-
-#### Learning Step Activity Text:
->1. /MacOS is Proprietary, and one of their terms of use prohibits the virtualization of MacOS on non-MacOS devices. This is also the reason many tech courses and capabilities use MacOS.
->2. /Organic capabilities use MacOS as a Commercial off the Shelf (COTS) solution to control devices and allow user interaction. Being familiar with MacOS will enable Operations.
-
-##### SLIDE X
-NOTE: Note goes here
-
-##### SLIDE X
-NOTE: Note goes here
-
-##### SLIDE X
-NOTE: Note goes here
-
-#### Activity
-
-##### SLIDE X
-NOTE: Note goes here
-
-#### Development
-- Question:
-> /Why is knowing about MacOS and the apple terms of use important for your mission?
-
-#### Check on learning: 
-
--  Question: /Are you allowed to Virtualize or Copy MacOS legally?
-
-	- **Answer:** /No, Apple prohibits Virtualization of MacOS if not on a MacOS Device.
-
--  Question: /Can Government owned MacOS Whiteline computers are suitable for Operations, with appropriate permission? 
-	- Answer: /Yes. MacOS devices also have better battery life and are standard devices used globally 
+> 1. Present your findings from the practical exercise.
+> 2. Discuss the effectiveness of your methods and provide feedback.
+> 3. Rapid-fire questions to test your understanding and adaptability:
+>     - What would you do if the misinformation was being spread by a high-ranking official?
+>     - What would you do if the misinformation was being spread by a foreign government?
+>     - What would you do if the misinformation was being spread by both a foreign government and a high-ranking official?
+>     - What would you do if your family was being targeted by the misinformation?
+>     - What would you do if the misinformation was being spread by a friend?
 
 ---
 
-
+NOTE: Go to Slide 10
 ## SECTION 4: SUMMARY
-During this block of instruction, we...
+
+During this block of instruction, we covered how to develop counter-narratives to misinformation and disinformation. You now have the skills to identify false information and create effective strategies to counter it, ensuring the accurate flow of information.
 
 **1.0-hour block**
 
-**MOI: Discussion (small or large group)**
+**MOI**: Discussion (small or large group)
 
-**Check on learning**: (Terminal Learning Objective (TLO) Check on learning)
+**Check on learning:** 
 
-**Question:** Question?
+**Question:** What are the key components of an effective counter strategy?
+  **Answer:** Identifying misinformation, developing a response, implementing the strategy, and monitoring outcomes.
 
-**Answer:** Answer.
+**Review/Summary:** During this block of instruction, we covered the techniques and strategies for countering misinformation and disinformation, and participated in practical exercises to apply these techniques.
 
-**Review/Summary:** During this block of instruction, we...
+---
+
 ## SECTION 5: STUDENT EVALUATION
+
 ### Testing Requirement
+
 NOTE: Describe how the student must demonstrate accomplishment of the TLO. Refer the class to the Individual Student Assessment Plan.
 
-_You may include specifics regarding how the TLO will be assessed here, or you can refer the instructor to Appendix B – Assessment Statement and Assessment Plan._
-
----
 ### Student Feedback Requirement
+
 NOTE: Feedback is essential to effective learning. Schedule and provide feedback on the evaluation and any information to help answer class questions about the test. Provide remedial training as needed.
 
-_If not addressed elsewhere (like in a Test Administration Guide), you may include specific areas of feedback regarding student performance compared to the TLO standards here._
+---
+
 ## APPENDIX A - Audio Visual Masters
+
 ### Required Audio-Visual Material and Handouts
+
 | Sequence | Media Name              | Attachment or URL | Media Type |
 | -------- | ----------------------- | ----------------- | ---------- |
-| -        | Total Digital Media ZIP |                   | ZIP        | 
-|          |                         | https://url.com   | PPT        |
-## APPENDIX B - Assessment Statement and Assessment Plan
-### **Assessment Statement:** 
-_An abbreviated statement that identifies how the lesson's TLO will be assessed as reflected in the Individual Student Assessment Plan (ISAP)_
+| -        | Master Slide Deck - Countering Misinformation and Disinformation |                   | PPTX        | 
+| -        | Slide Deck - Countering Misinformation and Disinformation |                   | PPTX        |
+| -        | Handout - Scenario 1    |                   | PDF        |
+| -        | Handout - Scenario 2    |                   | PDF        |
 
 ---
-### **Assessment Plan:** 
-_If not covered in Section V (Student Evaluation), you may do a detailed write-up of the assessment procedures for the lesson in this appendix.  You can include or refer to Test Control SOPs, procedures for procuring and grading tests, or procedures for conducting performance assessments.  It is OK to include performance checklists here, but DO NOT include written test items or their answers in this appendix._
-## APPENDIX C - Practical Exercises and Solutions
-_If the lesson has a stand-alone PE requiring coordination and detailed explanations, it can be written here. The write-up should include basic lesson plan elements, including the PE objective(s), resources, the time required, safety and risk information, and general procedures.
 
-In TDCP, lessons using PE structure will have the PE included in this appendix.  If your lesson has a learning step/activity that uses PE as the method of instruction, do not use this appendix._
+## APPENDIX B - Assessment Statement and Assessment Plan
+
+### Assessment Statement: 
+An abbreviated statement that identifies how the lesson's TLO will be assessed as reflected in the Individual Student Assessment Plan (ISAP).
+
+---
+
+### Assessment Plan: 
+If not covered in Section V (Student Evaluation), you may do a detailed write-up of the assessment procedures for the lesson in this appendix. You can include or refer to Test Control SOPs, procedures for procuring and grading tests, or procedures for conducting performance assessments. It is OK to include performance checklists here, but DO NOT include written test items or their answers in this appendix.
+
+---
+
+## APPENDIX C - Practical Exercises and Solutions
+
+If the lesson has a stand-alone PE requiring coordination and detailed explanations, it can be written here. The write-up should include basic lesson plan elements, including the PE objective(s), resources, the time required, safety and risk information, and general procedures.
+
+In TDCP, lessons using PE structure will have the PE included in this appendix. If your lesson has a learning step/activity that uses PE as the method of instruction, do not use this appendix.
+
+---
+
+## Handouts
+
+### Handout 1: Scenario 1 - Malign Information Spread by CountryX
+
+#### Context:
+CountryA is a small nation with a growing tourism industry, known for its vibrant culture and beautiful landscapes. Recently, CountryX, a foreign country with strong economic ties to CountryA, has been spreading misinformation about the safety of visiting CountryA. This misinformation has been disseminated through social media platforms, blogs, and some news outlets.
+
+#### Details:
+- A viral post on social media claims that a major tourist attraction in CountryA has been closed due to unsafe conditions and recent natural disasters.
+- Multiple blogs have echoed these claims, citing anonymous sources and unverified reports.
+- Some news outlets have picked up the story without fact-checking, causing panic among potential tourists and leading to a significant drop in tourism bookings.
+
+#### Objective for Students:
+Develop a counter-strategy to address and refute the misinformation being spread by CountryX. Ensure the strategy includes:
+- Identifying and verifying the false claims.
+- Creating and disseminating accurate information to reassure potential tourists.
+- Engaging with social media platforms, blogs, and news outlets to correct the misinformation.
+
+### NOTE: 
+This scenario is fictional and for educational purposes only. It does not reflect real-world events or entities. Researching or obtaining information about the event is not required. The focus is on developing a strategic response to the scenario presented - developing the HOW rather than the WHAT. Detailed steps that someone else from your unit could follow without needing further explanation is the goal.
+
+---
+
+### Handout 2: Scenario 2 - Malign Information Campaign by CountryX
+
+#### Context:
+CountryA has recently discovered significant natural gas reserves, which could boost its economy and reduce its dependence on foreign energy. However, CountryX, seeing this as a potential threat to its own economic interests, has launched a disinformation campaign to undermine CountryA’s credibility and stability.
+
+#### Details:
+- CountryX’s state-sponsored media outlets are publishing false reports claiming that the natural gas reserves in CountryA are actually a cover-up for a secret nuclear weapons program.
+- These reports include fabricated evidence and expert testimonies from paid analysts to lend credibility to the false claims.
+- The disinformation campaign is coordinated across multiple channels, including social media, where bots and fake accounts amplify the message.
+- International stakeholders and allies of CountryA are growing concerned and demanding explanations.
+
+#### Objective for Students:
+Develop a counter-strategy to expose and neutralize the disinformation campaign by CountryX. Ensure the strategy includes:
+- Collecting and presenting evidence to refute the false claims.
+- Engaging with international media and stakeholders to provide accurate information.
+- Coordinating with social media platforms to identify and remove fake accounts and bots.
+- Leveraging diplomatic channels to address the disinformation at the international level.
+
+### NOTE: 
+This scenario is fictional and for educational purposes only. It does not reflect real-world events or entities. Researching or obtaining information about the event is not required. The focus is on developing a strategic response to the scenario presented - developing the HOW rather than the WHAT. Detailed steps that someone else from your unit could follow without needing further explanation is the goal.
+
+---
+
+This completes the revised lesson plan and handouts for the "Countering Misinformation and Disinformation" lesson.
