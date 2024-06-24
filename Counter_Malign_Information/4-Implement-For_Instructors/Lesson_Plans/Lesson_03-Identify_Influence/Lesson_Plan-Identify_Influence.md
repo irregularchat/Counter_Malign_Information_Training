@@ -8,7 +8,6 @@
 
 **Developer Point of Contact**: issac.alfaro@socom.mil
 
----
 
 ### IMPORTANT
 
@@ -26,7 +25,6 @@
 
  - FD1 - This training product has been reviewed by the training developer in coordination with the U.S. Army Training and Doctrine Command foreign disclosure officer. This training product can be used to instruct international military students in all approved countries.
 
----
 
 ### SCOPE OF LESSON
 
@@ -40,7 +38,6 @@ This 2-hour lesson is an advanced level training module on identifying and analy
 > **Condition**: Given an environment that allows the students to engage one another and the cadre openly, handouts, research capabilities, and tools for analyzing rival influence activities.
 > **Standard**: Accurately analyze rival influence activities, ensuring that at least 90% of assessments are correct and report findings to the relevant authorities.
 
----
 
 #### Enabling Learning Objective (ELO) / Learning Step Activity (LSA):
  
@@ -48,14 +45,12 @@ This 2-hour lesson is an advanced level training module on identifying and analy
 > **Condition**: Provided with scenarios and analytical tools.
 > **Standard**: Correctly apply the SCAME framework in at least 90% of provided scenarios.
 
----
 
 ### References
 
 1. [SCAME Analysis of Information Warfare](https://www.superessestraps.com/blogs/news/scame-analysis-of-information-warfare-source-enemy)
 2. [Media Lab at MIT on Detecting Fakes](https://www.media.mit.edu/projects/detect-fakes/overview/)
 
----
 
 ## SECTION 1: ADMINISTRATIVE DATA 
 
@@ -85,7 +80,6 @@ Students will be able to accurately identify and analyze rival influence operati
 1. Conduct an After Action Review (AAR) immediately following the lesson to discuss what went well, what could be improved, and how the techniques learned can be applied in real-world scenarios.
 2. Encourage students to provide feedback on the lesson and the effectiveness of the analytical tools used.
 
----
 
 ### Lesson Requirements
 
@@ -119,7 +113,6 @@ An instructor should:
 2. Provide guidance and support to students during practical exercises.
 3. Monitor student progress and provide feedback.
 
----
 
 ### Equipment and Material Required for Instruction
 
@@ -133,28 +126,24 @@ Lesson Material, Ammo, Expendable, etc.
 | Projector and screen             |               |                  | 1        | no         |
 | Handouts and visual aids         | 1:1           | 1:2              |          | no         |
 
----
 
 ### Pre-Requisite Tasks
 
 1. Complete introductory training on influence operations and propaganda.
 2. Review basic principles of information warfare.
 
----
 
 ### Knowledge Required
 
 1. Basic understanding of influence operations and propaganda.
 2. Familiarity with the SCAME framework.
 
----
 
 ### Skills Required
 
 1. Ability to use analytical tools for influence operations analysis.
 2. Critical analysis and attention to detail.
 
----
 
 ## Supporting Tasks
 
@@ -173,7 +162,6 @@ Lesson Material, Ammo, Expendable, etc.
 1. Recognition and analysis of influence operations.
 2. Reporting and documenting findings accurately.
 
----
 
 ## Lesson Timeline
 
@@ -188,7 +176,6 @@ Lesson Material, Ammo, Expendable, etc.
 | y              |             | 40           | Apply                          |
 | y              |             | 15           | Assessment / Check On Learning |
 
----
 
 ## SECTION 2: LESSON INTRODUCTION
 
@@ -207,7 +194,6 @@ Share an anecdote about a recent case of influence operations impacting a missio
 1. Introduce the learning objectives.
 2. Explain the significance of being able to detect and analyze influence operations.
 
----
 
 ## SECTION 3: LESSON PRESENTATION
 
@@ -326,7 +312,6 @@ Share an anecdote about a recent case of influence operations impacting a missio
 2. Groups present their analysis focusing on their assigned component. (10 minutes)
 3. Class discussion on how each component contributes to understanding the overall influence operation. (10 minutes)
 
----
 
 ## SECTION 4: SUMMARY
 
@@ -341,7 +326,6 @@ During this block of instruction, we have learned how to detect and analyze riva
 
 **Review/Summary:** During this block of instruction, we covered the SCAME framework and its application in analyzing influence operations, and participated in practical exercises to apply these techniques.
 
----
 
 ## SECTION 5: STUDENT EVALUATION
 
@@ -349,13 +333,11 @@ During this block of instruction, we have learned how to detect and analyze riva
 
 Students must demonstrate their ability to analyze rival influence operations by completing a practical exercise and achieving a success rate of at least 90%.
 
----
 
 ### Student Feedback Requirement
 
 Feedback is essential to effective learning. Schedule and provide feedback on the evaluation and any information to help answer class questions about the test. Provide remedial training as needed.
 
----
 
 ## APPENDIX A - Audio Visual Masters
 
@@ -366,7 +348,6 @@ Feedback is essential to effective learning. Schedule and provide feedback on th
 | -        | Total Digital Media ZIP |                   | ZIP        | 
 |          |                         | https://url.com   | PPT        |
 
----
 
 ## APPENDIX B - Assessment Statement and Assessment Plan
 
@@ -376,10 +357,8 @@ Students will be assessed on their ability to identify and analyze rival influen
 ### Assessment Plan: 
 The assessment procedures will include practical exercises, performance checklists, and constructive feedback. Students will be required to demonstrate their proficiency in analyzing influence operations and report their findings accurately.
 
----
 
 ## APPENDIX C - Practical Exercises and Solutions
 
 The practical exercises will involve analyzing various scenarios to identify rival influence operations using the SCAME framework. Students will apply the techniques and tools learned during the lesson to complete these exercises. Detailed instructions and solutions will be provided to ensure thorough understanding and application of the skills.
 
----

@@ -9,7 +9,6 @@
 
 **Developer Point of Contact**: first.last@email.tld
 
----
 
 ### IMPORTANT
 
@@ -27,7 +26,6 @@
 
 - FD1 - This training product has been reviewed by the training developer in coordination with the \<INSERT ORG\> foreign disclosure officer. This training product can be used to instruct international military students in all approved countries.
 
----
 
 ### SCOPE OF LESSON
 
@@ -41,7 +39,6 @@ This 40-minute lesson is an introductory orientation to AI-generated content cre
 > **Condition**: Given access to AI tools and example prompts
 > **Standard**: Successfully create AI-generated content that meets specified quality standards and is relevant to the given prompts
 
----
 
 #### Enabling Learning Objective (ELO) / Learning Step Activity (LSA):
  
@@ -49,7 +46,6 @@ This 40-minute lesson is an introductory orientation to AI-generated content cre
 > **Condition**: Given a set of AI tools and example data
 > **Standard**: Configure the tools and generate content with minimal errors
 
----
 
 ### References
 
@@ -81,7 +77,6 @@ Students should be able to generate AI content that is accurate, engaging, and a
 
 1. Conduct an After Action Review (AAR) to discuss what went well and what could be improved.
 
----
 
 ### Lesson Requirements
 
@@ -114,7 +109,6 @@ An instructor should:
 - Assist in setting up and troubleshooting AI tools.
 - Monitor student progress and provide guidance during exercises.
 
----
 
 ### Equipment and Material Required for Instruction
 
@@ -127,27 +121,23 @@ Lesson Material, Ammo, Expendable, etc.
 | Projector                        |               |                  | 1        | no         |
 | Terminal app                     | 1:1           | 1:2              |          |            |
 
----
 
 ### Pre-Requisite Tasks
 
 1. Complete basic training on AI content generation tools.
 
----
 
 ### Knowledge Required
 
 1. Understanding of basic AI concepts.
 2. Familiarity with AI content generation tools.
 
----
 
 ### Skills Required
 
 1. Ability to navigate and use AI tools.
 2. Basic data input and configuration skills.
 
----
 
 ## Supporting Tasks
 
@@ -165,7 +155,6 @@ Lesson Material, Ammo, Expendable, etc.
 
 1. Applying best practices in AI content generation.
 
----
 
 ## Lesson Timeline
 
@@ -180,7 +169,6 @@ Lesson Material, Ammo, Expendable, etc.
 | y              | Apply                         | 10           | Practical Exercise             |
 | y              | Assessment / Check On Learning| 4            | Summary and Feedback           |
 
----
 
 ## SECTION 2: LESSON INTRODUCTION
 
@@ -205,7 +193,6 @@ NOTE: Go to Slide 2
 
 NOTE: Go to Slide 3
 
----
 
 ## SECTION 3: LESSON PRESENTATION
 
@@ -283,7 +270,6 @@ NOTE: Go to Slide 5
 
 NOTE: Go to Slide 6
 
----
 
 ## SECTION 4: SUMMARY
 
@@ -303,7 +289,6 @@ During this block of instruction, we covered the following:
 
 **Review/Summary:** During this block of instruction, we learned how to generate AI content effectively using various tools and best practices.
 
----
 
 ## SECTION 5: STUDENT EVALUATION
 
@@ -313,7 +298,6 @@ NOTE: Describe how the student must demonstrate accomplishment of the TLO. Refer
 
 The student must demonstrate the ability to generate AI content that meets specified quality standards and is relevant to the given prompts.
 
----
 
 ### Student Feedback Requirement
 
