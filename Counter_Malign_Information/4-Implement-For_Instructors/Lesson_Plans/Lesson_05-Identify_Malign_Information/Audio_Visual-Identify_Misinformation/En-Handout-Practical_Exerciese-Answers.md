@@ -20,4 +20,4 @@ For more insights on debunking COVID-19 myths using Michael Caufield's **Four Mo
 
 
 Reference:
-https://libguides.lib.cwu.edu/c.php?g=625394&p=4391900 
+CWU Disinformation Case Studies - https://libguides.lib.cwu.edu/c.php?g=625394&p=4391900 

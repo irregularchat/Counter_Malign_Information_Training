@@ -94,5 +94,6 @@ Accurately identify misinformation and disinformation, ensuring that at least 95
 7. Misleading a Pandemic: The Viral Effects of Chinese Propaganda and the Coronavirus - https://ndupress.ndu.edu/Media/News/News-Article-View/Article/2884217/misleading-a-pandemic-the-viral-effects-of-chinese-propaganda-and-the-coronavir/
 8. A disinformation and propaganda campaign “that denies and downplays the severity of the incident is growing” - https://hongkongfp.com/2021/06/04/taiwan-group-launches-website-to-counter-tiananmen-massacre-trolls-and-denialism/
 9. Factsheet 4: Types of Misinformation and Disinformation - https://www.unhcr.org/innovation/wp-content/uploads/2022/02/Factsheet-4.pdf
+10. CWU Disinformation Case Studies - https://libguides.lib.cwu.edu/c.php?g=625394&p=4391900 
 
 ---
