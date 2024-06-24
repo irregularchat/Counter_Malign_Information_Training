@@ -23,8 +23,7 @@
 # Slide 5: Covering the Frameworks being used and why
 ## Terms
 - Misinformation: is false or inaccurate information. Examples include rumors, insults and pranks.
-- Disinformation: is deliberate and includes malicious content such as hoaxes, spear phishing and
-propaganda.
+- Disinformation: is deliberate and includes malicious content such as hoaxes, spear phishing and propaganda.
 ## Deception Detection Frameworks
 - **MOM Framework**: Motive, Opportunity, and Means
 - **POP Framework**: Past Opposition Practices
