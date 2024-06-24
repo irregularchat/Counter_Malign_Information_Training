@@ -192,11 +192,11 @@ NOTE: Go to Slide 1
 Students write down any differences they notice:
 
 #### SLIDE 1
-1. Display two sets of images, one original and one synthetic, and ask students to identify which is synthetic. (Concrete_Experience-Image4-Real-Car.jpg and Concrete_Experience-Image2-AI-Car.webp) (5 minutes)
+1. Display two sets of images, one original and one synthetic, and ask students to identify which is synthetic. (Concrete_Experience-Image4-Real-Car.jpg and Concrete_Experience-Image2-AI-Car.jpg) (5 minutes)
 NOTE: Go to Slide 2
 
 #### SLIDE 2
-2. Display two sets of images, these are both real images but extraordinary in some way. Ask students to identify which is synthetic. (Concrete_Experience-Image3-Real-Bird.webp and Image7-Real-Mob_Journalist.jpeg) (5 minutes)
+2. Display two sets of images, these are both real images but extraordinary in some way. Ask students to identify which is synthetic. (Concrete_Experience-Image3-Real-Bird.jpg and Image7-Real-Mob_Journalist.jpeg) (5 minutes)
 3. Students share their observations. (5 minutes)
 NOTE: Go to Slide 3
 
@@ -656,13 +656,14 @@ The practical exercises will involve analyzing various media types to identify A
 
 ### AI Images used in the lesson
 ![Image1-AI-Aligators.jpeg](Audio_Visual-Identifying_Synthetic_Content/Image1-AI-Aligators.jpeg)
-![Image2-AI-Car.webp](Audio_Visual-Identifying_Synthetic_Content/Image2-AI-Car.webp)
-![Image5-AI-Hunting_Bear.webp](Audio_Visual-Identifying_Synthetic_Content/Image5-AI-Hunting_Bear.webp)
+![Image2-AI-Car.jpg](Audio_Visual-Identifying_Synthetic_Content/Image2-AI-Car.jpg)
+![Image5-AI-Hunting_Bear.jpg](Audio_Visual-Identifying_Synthetic_Content/Image5-AI-Hunting_Bear.jpg)
 ![Image6-AI-Pope.png](Audio_Visual-Identifying_Synthetic_Content/Image6-AI-Pope.png)
 ![Image8-AI-Man_Carrying_Kids.jpeg](Audio_Visual-Identifying_Synthetic_Content/Image8-AI-Man_Carrying_Kids.jpeg)
 ![Image9-AI-FACTHCHECK-Man_Carrying_Kids.jpeg](Audio_Visual-Identifying_Synthetic_Content/Image9-AI-FACTHCHECK-Man_Carrying_Kids.jpeg)
 
 ### Real Images used in the lesson
-![Image3-Real-Bird.webp](Audio_Visual-Identifying_Synthetic_Content/Image3-Real-Bird.webp)
-![Image4-Real-Car.webp](Audio_Visual-Identifying_Synthetic_Content/Image4-Real-Car.webp)
-![Image7-Real-Mob_Journalist.jpeg](Audio_Visual-Identifying_Synthetic_Content/Image7-Real-Mob_Journalist)
+
+![Image3-Real-Bird.jpg](Audio_Visual-Identifying_Synthetic_Content/Image3-Real-Bird.jpg)
+![Image4-Real-Car.jpg](Audio_Visual-Identifying_Synthetic_Content/Image4-Real-Car.jpg)
+![Image7-Real-Mob_Journalist.jpeg](Audio_Visual-Identifying_Synthetic_Content/Image7-Real-Mob_Journalist.jpeg)
