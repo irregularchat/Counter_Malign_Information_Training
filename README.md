@@ -158,6 +158,7 @@ To expand or collapse sections/headers in a note Top Menu > Insert > {"Fold" or 
 This assumes you have the following installed:
 - LibreOffice
 - pandoc
+- wkhtmltopdf may also be needed for some conversions
 
 Location to execute this is: `/Counter_Malign_Information_Training/Counter_Malign_Information/4-Implement-For_Instructors/Lesson_Plans/`
 
@@ -165,9 +166,10 @@ Location to execute this is: `/Counter_Malign_Information_Training/Counter_Malig
 find . -type f -name 'Instructor-Lesson_Slide*.pptx' -exec /Applications/LibreOffice.app/Contents/MacOS/soffice --headless --convert-to pdf {} \;
 find . -type f -name 'Instructor-Lesson_Slide*.pdf' -exec cp {} Instructor_Copy/ \;
 find . -type f -name 'Lesson_Plan*.md' -exec cp {} Instructor_Copy/ \;
+find . -type f -name 'Advanced_Organizer*.md' -exec cp {} Instructor_Copy/ \;
 cd Instructor_Copy/
+# Use Pandoc to convert markdown files to PDF
 for file in *.md; do
-    # Use Pandoc to convert the markdown file to PDF
     pandoc "$file" --pdf-engine=wkhtmltopdf -o "${file%.md}.pdf"
 done
 ```
