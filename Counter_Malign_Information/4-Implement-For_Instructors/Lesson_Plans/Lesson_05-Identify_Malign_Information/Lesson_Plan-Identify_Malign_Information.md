@@ -10,7 +10,6 @@
 
 **Developer Point of Contact**: issac.alfaro@socom.mil
 
----
 
 ### IMPORTANT
 
@@ -28,7 +27,6 @@
 
 - FD1 - This training product has been reviewed by the training developer in coordination with the U.S. Army Training and Doctrine Command foreign disclosure officer. This training product can be used to instruct international military students in all approved countries.
 
----
 
 ### SCOPE OF LESSON
 
@@ -48,7 +46,6 @@ This 2-hour lesson is an advanced level orientation to identifying misinformatio
 > **Condition**: Provided with information sources and verification tools.  
 > **Standard**: Correctly apply structured analytic techniques to identify misinformation and disinformation in at least 90% of provided examples.
 
----
 
 ### References
 
@@ -62,7 +59,6 @@ This 2-hour lesson is an advanced level orientation to identifying misinformatio
 8. Factsheet 4: Types of Misinformation and Disinformation - https://www.unhcr.org/innovation/wp-content/uploads/2022/02/Factsheet-4.pdf
 9. CWU Disinformation Case Studies - https://libguides.lib.cwu.edu/c.php?g=625394&p=4391900 
 
----
 
 ## SECTION 1: ADMINISTRATIVE DATA
 
@@ -93,7 +89,6 @@ Students will be able to accurately identify misinformation and disinformation u
 1. Conduct an After Action Review (AAR) immediately following the lesson to discuss what went well, what could be improved, and how the techniques learned can be applied in real-world scenarios.
 2. Encourage students to provide feedback on the lesson and the effectiveness of the analytical tools used.
 
----
 
 ### Lesson Requirements
 
@@ -127,7 +122,6 @@ An instructor should:
 2. Provide guidance and support to students during practical exercises, including technical assistance with verification tools.
 3. Monitor student progress and provide feedback.
 
----
 
 ### Equipment and Material Required for Instruction
 
@@ -140,28 +134,24 @@ Lesson Material, Ammo, Expendable, etc.
 | Projector and screen             |               |                  | 1        | no         |
 | Handout - Practical Exercise: Counter Malign Information            | 1:1           |                  |          | yes        |
 | Handout - Practical Exercise: Counter Malign Information (Answers)   | 1:3           |                  |          | yes        |
----
 
 ### Pre-Requisite Tasks
 
 1. Complete introductory training on information operations and deception detection.
 2. Review basic principles of information analysis and validation.
 
----
 
 ### Knowledge Required
 
 1. Basic understanding of information operations and misinformation.
 2. Familiarity with the Deception Detection framework.
 
----
 
 ### Skills Required
 
 1. Ability to use verification tools for information analysis.
 2. Critical analysis and attention to detail.
 
----
 
 ## Supporting Tasks
 
@@ -180,7 +170,6 @@ Lesson Material, Ammo, Expendable, etc.
 1. Recognition and analysis of misinformation and disinformation.
 2. Reporting and documenting findings accurately.
 
----
 ## Lesson Timeline
 
 | Academic (y/n) | Broad Topic                   | EST TIME Min | Methods                        | Slide Range |
@@ -196,7 +185,6 @@ Lesson Material, Ammo, Expendable, etc.
 | y              | Closing                       | 10           | Final Summary and Closure      | 23-25       |
 | y              | Break                         | 5            | Break                          | 26          |
 
----
 
 ## SECTION 2: LESSON INTRODUCTION
 
@@ -210,30 +198,25 @@ NOTE: Concrete experience will get buy-in from students by presenting a challeng
 
 NOTE: Go to Slide 1
 
----
 
 # Slide 1: Concrete Experience / Motivator
 ## Concrete Experience
 - Statement 1: "The Earth is flat." 
 - Statement 2: "The Earth is a cube." 
 
----
 
 # Slide 2: Title
 
----
 
 # Slide 3: Lesson Objectives
 ## Instructional Lead-in
 - Identify misinformation and disinformation effectively using the Deception Detection Framework and Structured Analytic Techniques (SATs).
 
----
 
 # Slide 4: Scope Statement
 ## Scope of Lesson
 - During this 130-minute block of instruction, the students will learn to identify misinformation and disinformation using the skills and frameworks previously covered.
 
----
 
 # Slide 5: Covering the Frameworks being used and why
 ## Terms
@@ -253,7 +236,6 @@ References:
 3. Factsheet 4: Types of Misinformation and Disinformation - https://www.unhcr.org/innovation/wp-content/uploads/2022/02/Factsheet-4.pdf
 4. CWU Disinformation Case Studies - https://libguides.lib.cwu.edu/c.php?g=625394&p=4391900
 
----
 
 # Slide 6: Motive, Opportunity, and Means (MOM)
 ## Memorization: MOM Framework
@@ -262,7 +244,6 @@ References:
 - **Where to use it**: Applicable in scenarios where identifying the intent behind information is crucial.
 - **Why to use it**: Helps in understanding the potential reasons and capabilities behind the creation of misinformation.
 
----
 
 # Slide 7: Past Opposition Practices (POP)
 ## Memorization: POP Framework
@@ -271,7 +252,6 @@ References:
 - **Where to use it**: Useful in intelligence and strategic analysis settings.
 - **Why to use it**: Helps predict future misinformation strategies based on past behavior.
 
----
 
 # Slide 8: Manipulability of Sources (MOSES)
 ## Memorization: MOSES Framework
@@ -280,7 +260,6 @@ References:
 - **Where to use it**: Relevant in journalistic and intelligence analysis.
 - **Why to use it**: Ensures the credibility of the information and reduces the risk of accepting manipulated data.
 
----
 
 # Slide 9: Evaluation of Evidence (EVE)
 ## Memorization: EVE Framework
@@ -289,7 +268,6 @@ References:
 - **Where to use it**: Applicable in any analytical context requiring evidence validation.
 - **Why to use it**: Ensures the integrity and accuracy of the conclusions drawn from the evidence.
 
----
 
 # Slide 10: Memorization Check: Frameworks
 ## Activity
@@ -305,7 +283,6 @@ References:
 - ~~EVE Framework~~
   - ~~Evaluation of Evidence~~
 
----
 
 # Slide 11: Memorization Check: Frameworks (Answers)
 ## Activity
@@ -315,7 +292,6 @@ References:
 - MOSES Framework: Manipulability of Sources
 - EVE Framework: Evaluation of Evidence
 
----
 
 ### Slide 12: Detailed Analysis: Motive, Opportunity, and Means (MOM)
 #### Instructor Activity
@@ -348,7 +324,6 @@ References:
    - Each group should identify the possible motives, opportunities, and means involved in their scenario.
    - Groups will present their analysis to the class, highlighting how they applied the MOM framework to dissect the disinformation campaign.
 
----
 
 ### Slide 13: MOM Framework Example
 #### Instructor Narrative
@@ -377,7 +352,6 @@ References:
 **References:**
    - Misleading a Pandemic: The Viral Effects of Chinese Propaganda and the Coronavirus - [NDUPress Article](https://ndupress.ndu.edu/Media/News/News-Article-View/Article/2884217/misleading-a-pandemic-the-viral-effects-of-chinese-propaganda-and-the-coronavir/)
 
----
 
 ### Slide 14: Detailed Analysis: Past Opposition Practices (POP)
 #### Instructor Activity
@@ -399,7 +373,6 @@ References:
 **References:**
    - Taiwan group launches website to counter Tiananmen Massacre trolls and denialism - [Hong Kong Free Press](https://hongkongfp.com/2021/06/04/taiwan-group-launches-website-to-counter-tiananmen-massacre-trolls-and-denialism/)
 
----
 
 ### Slide 15: POP Framework Example
 #### Instructor Narrative
@@ -417,7 +390,6 @@ References:
 **References:**
    - Taiwan group launches website to counter Tiananmen Massacre trolls and denialism - [Hong Kong Free Press](https://hongkongfp.com/2021/06/04/taiwan-group-launches-website-to-counter-tiananmen-massacre-trolls-and-denialism/)
 
----
 
 ### Slide 16: Detailed Analysis: Manipulability of Sources (MOSES)
 #### Instructor Activity
@@ -436,7 +408,6 @@ References:
    - Have students identify credible vs. manipulable sources within the scenario.
    - Discuss the impact of source credibility on the acceptance of information.
 
----
 
 ### Slide 17: Detailed Analysis: Evaluation of Evidence (EVE)
 #### Instructor Activity
@@ -454,7 +425,6 @@ References:
    - Have students analyze a given scenario using the EVE framework.
    - Discuss the differences between strong and weak evidence.
 
----
 
 ### Slide 18: EVE Framework Example
 #### Instructor Narrative
@@ -468,7 +438,6 @@ References:
    - Encourage students to critically evaluate the evidence presented.
    - Discuss how to distinguish between strong and weak evidence in various contexts.
 
----
 
 # Slide 19: Practical Exercise: Identify Misinformation and Disinformation
 ## Activity
@@ -479,14 +448,12 @@ References:
 5. Discuss and provide feedback on their analyses.
 6. Provide the Handout - Practical Exercise: Counter Malign Information (Answers) for review in groups. 
 
----
 
 # Slide 20: Summary of Learning Activities
 ## Summary
 - Review the key points from each framework.
 - Emphasize the importance of the skills and knowledge gained.
 
----
 
 # Slide 21: Check on Learning
 ## Assessment / Check On Learning
@@ -499,7 +466,6 @@ References:
 - Question: What is the EVE framework?
   - **Answer**: Evaluation of Evidence.
 
----
 
 # Slide 22: Check on Learning (Revealed)
 ## Assessment / Check On Learning
@@ -512,12 +478,10 @@ References:
 - ~~Question: What is the EVE framework?~~
   - **~~Answer~~**: ~~Evaluation of Evidence.~~
 
----
 
 # Slide 23: Why is it Important?
 Ask students to reflect on the importance of identifying misinformation and disinformation in their professional and personal lives.
 
----
 
 # Slide 24: Lesson Summary
 ## Review and Summary
@@ -528,7 +492,6 @@ Ask students to reflect on the importance of identifying misinformation and disi
   - Key learning step activity 4: EVE framework.
 - Questions?
 
----
 
 # Slide 25: Closing
 ## Closing Remarks and References
@@ -545,12 +508,10 @@ Ask students to reflect on the importance of identifying misinformation and disi
 7. A disinformation and propaganda campaign “that denies and downplays the severity of the incident is growing,” - https://hongkongfp.com/2021/06/04/taiwan-group-launches-website-to-counter-tiananmen-massacre-trolls-and-denialism/
 8. Factsheet 4: Types of Misinformation and Disinformation - https://www.unhcr.org/innovation/wp-content/uploads/2022/02/Factsheet-4.pdf
 
----
 
 # Slide 26: Take a Break
 ## Break Time
 
----
 
 ## SECTION 4: SUMMARY
 
@@ -567,7 +528,6 @@ During this block of instruction, we have learned how to detect and analyze misi
 
 During this block of instruction, we covered the Deception Detection framework and its application in analyzing misinformation and disinformation, and participated in practical exercises to apply these techniques.
 
----
 
 ## SECTION 5: STUDENT EVALUATION
 
@@ -575,13 +535,11 @@ During this block of instruction, we covered the Deception Detection framework a
 
 Students must demonstrate their ability to identify misinformation and disinformation by completing a practical exercise and achieving a success rate of at least 90%.
 
----
 
 ### Student Feedback Requirement
 
 Feedback is essential to effective learning. Schedule and provide feedback on the evaluation and any information to help answer class questions about the test. Provide remedial training as needed.
 
----
 
 ## APPENDIX A - Audio Visual Masters
 
@@ -593,7 +551,6 @@ Feedback is essential to effective learning. Schedule and provide feedback on th
 | -        | Handout - Practical Exercise: Counter Malign Information |                   | PDF        |
 | -        | Handout - Practical Exercise: Counter Malign Information (Answers) |                   | PDF        |
 | -        | Handout - Scenario 1 |                   | PPT        |
----
 
 ## APPENDIX B - Assessment Statement and Assessment Plan
 
@@ -605,7 +562,6 @@ Students will be assessed on their ability to identify and analyze misinformatio
 
 The assessment procedures will include practical exercises, performance checklists, and constructive feedback. Students will be required to demonstrate their proficiency in identifying misinformation and disinformation and report their findings accurately.
 
----
 
 ## APPENDIX C - Practical Exercises and Solutions
 
@@ -625,5 +581,3 @@ Develop a counter-strategy to expose and neutralize the disinformation campaign 
 
 ### NOTE: 
 This scenario is fictional and for educational purposes only. It does not reflect real-world events or entities. Researching or obtaining information about the event is not required. The focus is on developing a strategic response to the scenario presented - developing the HOW rather than the WHAT. Detailed steps that someone else from your unit could follow without needing further explanation is the goal.
-
----
