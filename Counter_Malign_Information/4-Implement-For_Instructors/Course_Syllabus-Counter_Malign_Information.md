@@ -4,100 +4,84 @@
 **Unclassified**
 
 ## Program of Instruction (POI)
-**NUMBER-POI_Title / Version 1.0**
+**Counter Malign Information / Version 1.0**
 
 ## Prerequisites
-[List any prerequisites required for the course, such as prior courses, skills, or knowledge.]
+Accounts with:
+- ChatGPT: https://chatgpt.com
+- Google Gemeni: https://gemini.google.com
 
 ## Instruction Hours
-[Total number of instruction hours.]
+17 hours
 
 ## Course Days
-[Total number of course days.]
+3 days
 
 ## Course Description
-- **Description**: [Provide a comprehensive description of the course, including its purpose, key topics covered, and any specific goals or outcomes expected by the end of the course.]
-- **Target Audience**: [Specify the target audience for the course, such as specific military personnel, civilians, or specific departments or units.]
+- **Description**: This course is designed to equip participants with the skills necessary to identify, analyze, and counteract malign information efforts. It covers the detection of AI-generated content, techniques for identifying misinformation and disinformation, and strategies for countering these threats effectively. The curriculum combines theoretical knowledge with practical exercises, enhancing the learners' ability to apply these skills in real-world scenarios.
+- **Target Audience**: This course is intended for military personnel, intelligence analysts, and government officials who operate in environments where information integrity is crucial. It is also suitable for civilians working in related fields of security, media, and information technology.
 
 ## Effective Date
-**YYYYMMDD-V#**
+**20240624-V1#**
 
 ---
 
 ## Instructor Information
-- **Point of Contact**: [First Last], [email@example.com]
-- **Office Hours**: [Specify days and times when the instructor is available for consultations.]
+- **Point of Contact**: John Doe, jdoe@example.com
+- **Office Hours**: Mondays and Wednesdays from 3 PM to 5 PM
 
 ---
 
 ## Course Objectives
-1. [Objective 1]
-2. [Objective 2]
-3. [Objective 3]
-4. [Objective 4]
+1. Understand the fundamentals of AI-generated content and its implications.
+2. Develop skills to recognize patterns indicative of misinformation and disinformation.
+3. Apply structured analytic techniques to evaluate the credibility of information.
+4. Execute effective strategies to counter malign information operations.
 
 ---
 
 ## Course Outline
 ### Week 1
-- **Day 1**: [Topics covered on Day 1]
-- **Day 2**: [Topics covered on Day 2]
-- **Day 3**: [Topics covered on Day 3]
-
-### Week 2
-- **Day 4**: [Topics covered on Day 4]
-- **Day 5**: [Topics covered on Day 5]
-- **Day 6**: [Topics covered on Day 6]
+- **Day 1**: Introduction to Information Integrity, Creating AI Content, Recognizing AI Generated Content
+- **Day 2**: Identifying Rival Influence (SCAME), Identifying Misinformation and Disinformation
+- **Day 3**: Countering Misinformation and Disinformation, Course Review, Q&A Session, Closing
 
 ---
 
 ## Course Materials
-- **Required Texts**: [List any required textbooks or reading materials.]
-- **Recommended Readings**: [List any recommended readings that will help students better understand the course content.]
-- **Other Materials**: [List any additional materials, such as software, tools, or equipment needed for the course.]
+- **Required Texts**: N/A
+- **Recommended Readings**: 
+	- Detect Fakes with Kellogg's online tool - https://detectfakes.kellogg.northwestern.edu/ 
+	- Beebe, S. M., & Pherson, R. H. (2015). *Cases in Intelligence Analysis: Structured Analytic Techniques in Action*.
+	- Pherson, R. H., & Heuer, R. J. (2021). *Structured Analytic Techniques for Intelligence Analysis*.
+- **Other Materials**: 	
+	- AI Master List Tool - https://doc.clickup.com/25598832/d/h/rd6vg-14247/0b79ca1dc0f7429/rd6vg-12207
 
 ---
 
 ## Grading and Evaluation
-- **Participation**: [Percentage of grade]
-- **Assignments**: [Percentage of grade]
-- **Exams/Quizzes**: [Percentage of grade]
-- **Final Project**: [Percentage of grade]
+- **Participation**: The course will emphasize participation and practical application. Formal grading may not apply.
 
 ---
 
 ## Policies
 ### Attendance Policy
-[Detail the attendance policy, including how many classes can be missed and the consequences of missing classes.]
-
-### Academic Integrity
-[Detail the expectations regarding academic honesty and integrity, including plagiarism and cheating policies.]
-
-### Late Work
-[Specify the policy for submitting late work, including any penalties that will be applied.]
+Participants are expected to attend all scheduled sessions due to the intensive nature of the course and the progression of content coverage. Absences must be justified and communicated to the instructor in advance.
 
 ### Accommodations
-[Provide information on how students can request accommodations for disabilities or other special needs.]
-
----
-
-## Schedule and Important Dates
-- **Course Start Date**: [YYYYMMDD]
-- **Course End Date**: [YYYYMMDD]
-- **Midterm Exam**: [YYYYMMDD]
-- **Final Exam**: [YYYYMMDD]
-- **Project Due Date**: [YYYYMMDD]
+Participants requiring special accommodations should contact the instructor at the beginning of the course to make necessary arrangements. Every effort will be made to ensure all course materials and activities are accessible.
 
 ---
 
 ## Additional Information
-[Any additional information that students need to know about the course, such as field trips, guest speakers, or special projects.]
+Guest speakers will be invited to share insights and real-world experiences during the course.
 
 ---
 
 ## Contact Information
 For any questions or additional information, please contact:
-- **Instructor Name**: [First Last]
-- **Email**: [email@example.com]
-- **Phone**: [Phone number]
-- **Office Location**: [Office location]
+- **Instructor Name**: John Doe
+- **Email**: jdoe@example.com
+- **Phone**: +1-234-567-8901
+- **Office Location**: Building 12, Room 101, National Defense University
+
