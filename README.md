@@ -169,8 +169,8 @@ find .. -type f -name 'Lesson_Plan*.md' -exec pandoc {} --pdf-engine=wkhtmltopdf
 find .. -type f -name 'Lesson_Plan*.pdf' -exec cp {} ./ \;
 find .. -type f -name 'Advanced_Organizer*.md' -exec pandoc {} --pdf-engine=wkhtmltopdf -o "{}.pdf" \;
 find .. -type f -name 'Advanced_Organizer*.md' -exec cp {} ./ \;
-cp /PATH/Counter_Malign_Information_Training/Counter_Malign_Information/3-Design/2-Counter_Malign_Information-Schedule.md ./
-cp /Counter_Malign_Information_Training/Counter_Malign_Information/4-Implement-For_Instructors/Course_Syllabus-Counter_Malign_Information.md ./
+cp ../../3-Design/2-Counter_Malign_Information-Schedule.md ./
+cp ../Course_Syllabus-Counter_Malign_Information.md ./
 cd ./
 # Use Pandoc to convert markdown files to PDF
 for file in *.md; do
@@ -178,5 +178,3 @@ for file in *.md; do
 done
 ```
 
-cp /Users/sac/Documents/Git/Counter_Malign_Information_Training/Counter_Malign_Information/3-Design/2-Counter_Malign_Information-Schedule.md ./
-cp /Users/sac/Documents/Git/Counter_Malign_Information_Training/Counter_Malign_Information/4-Implement-For_Instructors/Course_Syllabus-Counter_Malign_Information.md ./
