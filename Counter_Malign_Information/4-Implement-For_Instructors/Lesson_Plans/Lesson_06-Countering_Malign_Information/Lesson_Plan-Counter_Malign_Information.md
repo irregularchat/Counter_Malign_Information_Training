@@ -10,7 +10,6 @@
 
 **Developer Point of Contact**: first.last@email.tld
 
----
 
 ### IMPORTANT
 
@@ -28,7 +27,6 @@
 
 - FD1 - This training product has been reviewed by the training developer in coordination with the TRADOC foreign disclosure officer. This training product can be used to instruct international military students in all approved countries.
 
----
 
 ### SCOPE OF LESSON
 
@@ -42,7 +40,6 @@ This 180-minute lesson is an intermediate orientation to developing counter-narr
 > **Condition**: Triggered by the detection of misinformation or disinformation.
 > **Standard**: Create effective counter-narratives that address and refute misinformation with a success rate of 85% within 48 hours.
 
----
 
 #### Enabling Learning Objective (ELO) / Learning Step Activity (LSA):
  
@@ -54,14 +51,12 @@ This 180-minute lesson is an intermediate orientation to developing counter-narr
 > **Condition**: Given identified misinformation and disinformation examples.
 > **Standard**: Create effective counter-narratives that successfully refute misinformation in 85% of cases within 48 hours.
 
----
 
 ### References
 
 1. CWU Disinformation Case Studies - https://libguides.lib.cwu.edu/c.php?g=625394&p=4391900
 2. N/A for fictional scenarios. 
 
----
 
 ## SECTION 1: ADMINISTRATIVE DATA 
 
@@ -89,7 +84,6 @@ Students should be able to accurately identify misinformation and disinformation
 
 1. Conduct After-Action Reviews (AAR) after each major activity to capture lessons learned and reinforce key points.
 
----
 
 ### Lesson Requirements
 
@@ -121,7 +115,6 @@ N/A
 
 Assist with classroom setup, help facilitate group discussions, and provide one-on-one support to students as needed.
 
----
 
 ### Equipment and Material Required for Instruction
 
@@ -135,28 +128,24 @@ Assist with classroom setup, help facilitate group discussions, and provide one-
 | Handout - Scenario 2             | 1:3           |                  |          | yes        |
 | Handout - Practical Exercise: Counter Malign Information            | 1:1           |                  |          | yes        |
 
----
 
 ### Pre-Requisite Tasks
 
 1. Review basic concepts of AI and machine learning.
 2. Complete the lesson on identifying malign information.
 
----
 
 ### Knowledge Required
 
 1. Basic understanding of AI and machine learning principles.
 2. Familiarity with strategic communication tools and techniques.
 
----
 
 ### Skills Required
 
 1. Ability to use computer and analysis tools.
 2. Effective communication and teamwork skills.
 
----
 
 ## Supporting Tasks
 
@@ -173,7 +162,6 @@ Assist with classroom setup, help facilitate group discussions, and provide one-
 
 1. Critical analysis and attention to detail.
 
----
 
 ## Lesson Timeline
 
@@ -188,7 +176,6 @@ Assist with classroom setup, help facilitate group discussions, and provide one-
 | y              | Apply                   | 30           | Practical exercise             | 9, 10       |
 | y              | Check On Learning       | 10           | Summary and feedback           | 11, 12      |
 
----
 
 ## SECTION 2: LESSON INTRODUCTION
 NOTE: Go to Slide 1
@@ -197,7 +184,6 @@ NOTE: Tell an interesting anecdote based on your experience, or recall a recent 
 
 > Students selected report to your designated areas.
 
----
 
 NOTE: Go to Slide 2
 ### LESSON Phase: Publish and Process
@@ -207,7 +193,6 @@ NOTE: Go to Slide 2
 
 **Scope Statement:** During this 180-minute block of instruction, you will learn to counter misinformation and disinformation through scenario-based exercises. By the end of the lesson, you should have the skills to develop and implement effective counter-strategies.
 
----
 
 ## SECTION 3: LESSON PRESENTATION
 
@@ -227,7 +212,6 @@ NOTE: Go to Slide 4
 > 2. Identify your goals when countering this information.
 > 3. Discuss the importance of these goals in maintaining accurate information flow.
 
----
 
 NOTE: Go to Slide 5
 ### LESSON Phase: Developing TTPs
@@ -243,7 +227,6 @@ NOTE: Go to Slide 6
 > 1. Have students present their developed counter strategy to the class.
 > 2. Discuss the strengths and weaknesses of each strategy.
 
----
 
 NOTE: Go to Slide 7
 ### LESSON Phase: Refining Strategies
@@ -253,7 +236,6 @@ NOTE: Go to Slide 7
 > 1. Refine strategies based on feedback received.
 > 2. Make necessary adjustments and improvements.
 
----
 
 NOTE: Go to Slide 8
 ### LESSON Phase: Apply
@@ -266,7 +248,6 @@ NOTE: Go to Slide 8
 > 2. Follow the provided instructions for the exercise.
 
 NOTE: Pass out the Practical Exercise handouts to the students.
----
 
 NOTE: Go to Slide 9
 ### LESSON Phase: Review and Feedback
@@ -282,7 +263,6 @@ NOTE: Go to Slide 9
 >     - What would you do if your family was being targeted by the misinformation?
 >     - What would you do if the misinformation was being spread by a friend?
 
----
 
 NOTE: Go to Slide 10
 ## SECTION 4: SUMMARY
@@ -300,7 +280,6 @@ During this block of instruction, we covered how to develop counter-narratives t
 
 **Review/Summary:** During this block of instruction, we covered the techniques and strategies for countering misinformation and disinformation, and participated in practical exercises to apply these techniques.
 
----
 
 ## SECTION 5: STUDENT EVALUATION
 
@@ -312,7 +291,6 @@ NOTE: Describe how the student must demonstrate accomplishment of the TLO. Refer
 
 NOTE: Feedback is essential to effective learning. Schedule and provide feedback on the evaluation and any information to help answer class questions about the test. Provide remedial training as needed.
 
----
 
 ## APPENDIX A - Audio Visual Masters
 
@@ -329,19 +307,16 @@ NOTE: Feedback is essential to effective learning. Schedule and provide feedback
 | -     | Image - Case Study 2.2 - The Federalist |                   | PNG        |
 | -     | Image - Case Study 2.3 - CDC Tweet |                   | PNG        |
 
----
 
 ## APPENDIX B - Assessment Statement and Assessment Plan
 
 ### Assessment Statement: 
 An abbreviated statement that identifies how the lesson's TLO will be assessed as reflected in the Individual Student Assessment Plan (ISAP).
 
----
 
 ### Assessment Plan: 
 If not covered in Section V (Student Evaluation), you may do a detailed write-up of the assessment procedures for the lesson in this appendix. You can include or refer to Test Control SOPs, procedures for procuring and grading tests, or procedures for conducting performance assessments. It is OK to include performance checklists here, but DO NOT include written test items or their answers in this appendix.
 
----
 
 ## APPENDIX C - Practical Exercises and Solutions
 
@@ -349,7 +324,6 @@ If the lesson has a stand-alone PE requiring coordination and detailed explanati
 
 In TDCP, lessons using PE structure will have the PE included in this appendix. If your lesson has a learning step/activity that uses PE as the method of instruction, do not use this appendix.
 
----
 
 ## Handouts
 
@@ -372,7 +346,6 @@ Develop a counter-strategy to address and refute the misinformation being spread
 ### NOTE: 
 This scenario is fictional and for educational purposes only. It does not reflect real-world events or entities. Researching or obtaining information about the event is not required. The focus is on developing a strategic response to the scenario presented - developing the HOW rather than the WHAT. Detailed steps that someone else from your unit could follow without needing further explanation is the goal.
 
----
 
 ### Handout 2: Scenario 2 - Malign Information Campaign by CountryX
 
