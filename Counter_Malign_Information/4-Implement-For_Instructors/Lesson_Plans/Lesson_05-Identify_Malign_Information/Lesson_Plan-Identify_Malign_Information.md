@@ -1,3 +1,5 @@
+# Lesson Plan: Identifying Misinformation and Disinformation
+
 ## SECTION 0: LESSON OVERVIEW
 
 ### Lesson Information
