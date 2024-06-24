@@ -590,8 +590,9 @@ Feedback is essential to effective learning. Schedule and provide feedback on th
 | Sequence | Media Name                       | Attachment or URL | Media Type |
 | -------- | -------------------------------- | ----------------- | ---------- |
 | -        | Master Slide Deck - Deception Detection Framework |                   | ZIP        | 
-|          |                                  | https://url.com   | PPT        |
-
+| -        | Handout - Practical Exercise: Counter Malign Information |                   | PDF        |
+| -        | Handout - Practical Exercise: Counter Malign Information (Answers) |                   | PDF        |
+| -        | Handout - Scenario 1 |                   | PPT        |
 ---
 
 ## APPENDIX B - Assessment Statement and Assessment Plan
