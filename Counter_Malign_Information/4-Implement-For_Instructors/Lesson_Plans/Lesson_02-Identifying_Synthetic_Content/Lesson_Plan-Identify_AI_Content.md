@@ -10,7 +10,6 @@
 
 **Developer Point of Contact**: first.last@email.tld
 
----
 
 ### IMPORTANT
 
@@ -28,7 +27,6 @@
 
 - FD1 - This training product has been reviewed by the training developer in coordination with the TRADOC foreign disclosure officer. This training product can be used to instruct international military students in all approved countries.
 
----
 
 ### SCOPE OF LESSON
 
@@ -42,7 +40,6 @@ This 120-minute lesson is an intermediate orientation to recognizing AI-generate
 > **Condition**: Given an environment that allows the students to engage one another and the cadre openly, handouts, visual aids, research capabilities, and Synthetic Content detection tools.
 > **Standard**: Accurately identify AI-generated content by detecting inconsistencies and manipulation artifacts, ensuring that at least 90% of assessments are correct and report findings to the relevant authorities.
 
----
 
 #### Enabling Learning Objective (ELO) / Learning Step Activity (LSA):
 
@@ -58,7 +55,6 @@ This 120-minute lesson is an intermediate orientation to recognizing AI-generate
 > **Condition**: Given audio samples and analysis tools.
 > **Standard**: Correctly identify at least 90% of AI-generated audio samples.
 
----
 
 ### References
 
@@ -96,7 +92,6 @@ Students should be able to accurately detect AI-generated content and report the
 
 1. Conduct After-Action Reviews (AAR) after each major activity to capture lessons learned and reinforce key points.
 
----
 
 ### Lesson Requirements
 
@@ -129,7 +124,6 @@ N/A
 
 Assist with classroom setup, help facilitate group discussions, and provide one-on-one support to students as needed.
 
----
 
 ### Equipment and Material Required for Instruction
 
@@ -141,25 +135,21 @@ Assist with classroom setup, help facilitate group discussions, and provide one-
 | Synthetic Content detection tools| 1:1           | 1:2              |          | no         |
 | Example images, text, audio      |               |                  |          | no         |
 
----
 
 ### Pre-Requisite Tasks
 
 1. Review basic concepts of AI and machine learning.
 
----
 
 ### Knowledge Required
 
 1. Basic understanding of AI and machine learning principles.
 
----
 
 ### Skills Required
 
 1. Ability to use computer and analysis tools.
 
----
 
 ## Supporting Tasks
 
@@ -177,7 +167,6 @@ Assist with classroom setup, help facilitate group discussions, and provide one-
 
 1. Critical analysis and attention to detail.
 
----
 
 ## Lesson Timeline
 
@@ -192,7 +181,6 @@ Assist with classroom setup, help facilitate group discussions, and provide one-
 | y              | Apply                         | 30           | Practical Exercise             | 19-20       |
 | y              | Assessment / Check On Learning| 10           | Summary and Feedback           | 21-23       |
 
----
 
 ## SECTION 2: LESSON INTRODUCTION
 
@@ -235,7 +223,6 @@ NOTE: Instructor must say the following to the students as AI Generated is often
 1. Introduce the learning objectives.
 2. Explain the significance of being able to detect and analyze AI-generated content.
 
----
 
 ## SECTION 3: LESSON PRESENTATION
 
@@ -617,7 +604,6 @@ NOTE: Go to Slide 33
 2. Highlight the importance of detecting synthetic content.
 3. Encourage students to apply the techniques learned in their own work.
 
----
 
 ## SECTION 4: SUMMARY
 
@@ -632,7 +618,6 @@ During this block of instruction, we have learned how to detect and analyze AI-g
 
 **Review/Summary:** During this block of instruction, we covered the Synthetic Content detection techniques and their application in analyzing various media types, and participated in practical exercises to apply these techniques.
 
----
 
 ## SECTION 5: STUDENT EVALUATION
 
@@ -640,13 +625,11 @@ During this block of instruction, we have learned how to detect and analyze AI-g
 
 Students must demonstrate their ability to identify AI-generated content by completing a practical exercise and achieving a success rate of at least 90%.
 
----
 
 ### Student Feedback Requirement
 
 Feedback is essential to effective learning. Schedule and provide feedback on the evaluation and any information to help answer class questions about the test. Provide remedial training as needed.
 
----
 
 ## APPENDIX A - Audio Visual Masters
 
@@ -657,7 +640,6 @@ Feedback is essential to effective learning. Schedule and provide feedback on th
 | -        | Master Slide Deck - AI Detection Techniques |                   | ZIP        | 
 |          |                                  | https://url.com   | PPT        |
 
----
 
 ## APPENDIX B - Assessment Statement and Assessment Plan
 
@@ -667,10 +649,20 @@ Students will be assessed on their ability to identify and analyze AI-generated 
 ### Assessment Plan: 
 The assessment procedures will include practical exercises, performance checklists, and constructive feedback. Students will be required to demonstrate their proficiency in identifying AI-generated content and report their findings accurately.
 
----
 
 ## APPENDIX C - Practical Exercises and Solutions
 
 The practical exercises will involve analyzing various media types to identify AI-generated content using the detection techniques. Students will apply the techniques and tools learned during the lesson to complete these exercises. Detailed instructions and solutions will be provided to ensure thorough understanding and application of the skills.
 
----
+### AI Images used in the lesson
+![Image1-AI-Aligators.jpeg](Audio_Visual-Identifying_Synthetic_Content/Image1-AI-Aligators.jpeg)
+![Image2-AI-Car.webp](Audio_Visual-Identifying_Synthetic_Content/Image2-AI-Car.webp)
+![Image5-AI-Hunting_Bear.webp](Audio_Visual-Identifying_Synthetic_Content/Image5-AI-Hunting_Bear.webp)
+![Image6-AI-Pope.png](Audio_Visual-Identifying_Synthetic_Content/Image6-AI-Pope.png)
+![Image8-AI-Man_Carrying_Kids.jpeg](Audio_Visual-Identifying_Synthetic_Content/Image8-AI-Man_Carrying_Kids.jpeg)
+![Image9-AI-FACTHCHECK-Man_Carrying_Kids.jpeg](Audio_Visual-Identifying_Synthetic_Content/Image9-AI-FACTHCHECK-Man_Carrying_Kids.jpeg)
+
+### Real Images used in the lesson
+![Image3-Real-Bird.webp](Audio_Visual-Identifying_Synthetic_Content/Image3-Real-Bird.webp)
+![Image4-Real-Car.webp](Audio_Visual-Identifying_Synthetic_Content/Image4-Real-Car.webp)
+![Image7-Real-Mob_Journalist.jpeg](Audio_Visual-Identifying_Synthetic_Content/Image7-Real-Mob_Journalist)
