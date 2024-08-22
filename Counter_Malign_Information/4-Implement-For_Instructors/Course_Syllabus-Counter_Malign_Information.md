@@ -82,7 +82,8 @@ Accounts with:
 
 
 **Grading and Evaluation**
-- **Participation**: The Technical Exchange will emphasize participation and practical application. Formal grading may not apply.A validation exercise to solve questions and give hands on experience is aply it the last day.
+- **Participation**: The Technical Exchange will emphasize participation and practical application. Formal grading may not apply.
+- A validation exercise to solve questions and give hands on experience is aply it the last day.
 ---
 
 ## Policies
