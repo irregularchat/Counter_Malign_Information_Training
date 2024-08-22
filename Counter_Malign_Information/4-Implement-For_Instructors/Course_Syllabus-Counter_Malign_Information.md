@@ -60,9 +60,21 @@ Accounts with:
 - **Other Materials**: 	
 	- AI Master List Tool - https://doc.clickup.com/25598832/d/h/rd6vg-14247/0b79ca1dc0f7429/rd6vg-12207
 
----
+   
+Articles to use during the TE:
+-El aumento de las noticias falsas en los medios colombianos mina su credibilidad y destruye la confianza de las audiencias
+-Riesgos de la desinformación en Colombia
+-De tragedia a farsa: la derecha latinoamericana repite la historia con Venezuela - Opinión en RT
+-"Yo di la orden": Uribe admite responsabilidad en una operación que dejó 88 muertos en Colombia – RT
+-Noticias falsas durante el paro nacional
+-El aumento de las noticias falsas en los medios colombianos mina su credibilidad y destruye la confianza de las audiencias 
+-Según un estudio, el 73 % de los colombianos no reconoce las ‘Fake news’
+-Fake news: Siete de cada diez colombianos no identifican una.
 
-## Grading and Evaluation
+
+
+
+Grading and Evaluation
 - **Participation**: The Technical Exchange will emphasize participation and practical application. Formal grading may not apply.A validation exercise to solve questions and give hands on experience is aply it the last day.
 ---
 
