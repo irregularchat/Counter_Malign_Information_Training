@@ -12,10 +12,11 @@ Accounts with:
 - Google Gemeni: https://gemini.google.com
 
 ## Instruction Hours
-17 hours
+17 hours + Validation exercise.
+
 
 ## Technical Exchange Days
-3 days
+3-4 days
 
 ## Technical Exchange Description
 - **Description**: This Technical Exchange is designed to equip participants with the skills necessary to identify, analyze, and counteract malign information efforts. It covers the detection of AI-generated content, techniques for identifying misinformation and disinformation, and strategies for countering these threats effectively. The curriculum combines theoretical knowledge with practical exercises, enhancing the learners' ability to apply these skills in real-world scenarios.
@@ -54,6 +55,7 @@ Accounts with:
 	- Pherson, R. H., & Heuer, R. J. (2021). *Structured Analytic Techniques for Intelligence Analysis*.
 - Surveys:
     Technical Exchange Pre-Survey - ________________________________
+    Media sources survey ____________________________________
     Technical Exchange Post-Survey - ________________________________
 - **Other Materials**: 	
 	- AI Master List Tool - https://doc.clickup.com/25598832/d/h/rd6vg-14247/0b79ca1dc0f7429/rd6vg-12207
@@ -61,8 +63,7 @@ Accounts with:
 ---
 
 ## Grading and Evaluation
-- **Participation**: The Technical Exchange will emphasize participation and practical application. Formal grading may not apply.
-
+- **Participation**: The Technical Exchange will emphasize participation and practical application. Formal grading may not apply.A validation exercise to solve questions and give hands on experience is aply it the last day.
 ---
 
 ## Policies
