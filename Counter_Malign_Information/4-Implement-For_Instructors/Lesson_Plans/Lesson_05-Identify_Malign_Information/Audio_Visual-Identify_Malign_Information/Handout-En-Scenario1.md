@@ -1,6 +1,0 @@
-# Handout 1: China's disinformation campaign during the COVID-19 pandemic.
-
-The COVID-19 pandemic has had a significant impact on the world, including strained diplomatic ties and blurred perceptions of who or what is responsible for its origins. In response to allegations, China crafted an intricate social media campaign to clear its name. This campaign gained notoriety in June 2020 when Twitter removed 150,000 malicious Chinese accounts.1 The accretion of fictitious accounts suggests that China has emboldened its efforts to spread propaganda on Twitter in favor of Chinese Communist Party (CCP) objectives. Although previous Chinese propaganda campaigns had focused on demeaning the protests in Hong Kong, a massive wave of social media rhetoric promoting the Chinese government’s response to the coronavirus outbreak as a form of Great Power competition—initially downplaying the pandemic’s severity while seeking praise for the government’s draconian efforts to contain its spread—is a narrative that underscores the changing character of war.
-
-## References:
-Misleading a Pandemic: The Viral Effects of Chinese Propaganda and the Coronavirus - https://ndupress.ndu.edu/Media/News/News-Article-View/Article/2884217 misleading-a- pandemic-the-viral-effects-of-chinese-propaganda-and-the-coronavir/

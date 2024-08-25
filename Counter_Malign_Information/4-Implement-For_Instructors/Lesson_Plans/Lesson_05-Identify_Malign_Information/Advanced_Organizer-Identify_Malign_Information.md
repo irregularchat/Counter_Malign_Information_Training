@@ -16,7 +16,7 @@ Accurately identify misinformation and disinformation, ensuring that at least 95
 | Intended Audience           | Officials working in the information environment                                                                           |
 | Learning Domain             | Cognitive                                                                                                                  |
 | Training Resources Required | Computer, internet access, information databases, analytical software, reporting templates, deception detection checklists |
-| Total Duration              | 130 mins (70, break, 50, break, 10)                                                                                        |
+| Total Duration              | 145 mins (70, break, 50, break, 25)                                                                                        |
 
 ---
 
@@ -31,19 +31,19 @@ Accurately identify misinformation and disinformation, ensuring that at least 95
 
 ## Lesson ELM Steps
 
-| Time | ELM Phase            | Comment                       |
-| ---- | -------------------- | ----------------------------- |
-| 15   | Concrete Experience  | Identifying Misinformation    |
-|      |                      |                               |
+| Time | ELM Phase           | Comment                    |
+| ---- | ------------------- | -------------------------- |
+| 15   | Concrete Experience | Identifying Misinformation |
+|      |                     |                            |
 1. Write down two statements on the whiteboard, both of which are lies, but one is more egregious than the other.
     - Statement 1: "The Earth is flat." (Instructor may create a more egregious lie)
     - Statement 2: "The Earth is a cube." (Instructor may create a less egregious lie)
 2. Ask students to identify which statement they believe is true and explain why. Ask students, "What was challenging about determining if the statements on the whiteboard were true or false?" (5 minutes)
 
-| Time | ELM Phase           | Comment                           |
-| ---- | ------------------- | --------------------------------- |
-| 5    | Publish and Process | Discussion on Information Sources |
-|      |                     |                                   |
+| Time | ELM Phase                  | Comment                           |
+| ---- | -------------------------- | --------------------------------- |
+| 5    | Publish and Process        | Discussion on Information Sources |
+| 15   | Generalize New Information | Commonalities in Case Studies     |
 1. Transition from Concrete Experience to Publish and Process (1 minute)
 2. Introduce the learning objectives. (3 minutes)
 3. Plainly let the student know, "By the end of this lesson you will be able to identify misinformation and disinformation effectively." (1 minute)
