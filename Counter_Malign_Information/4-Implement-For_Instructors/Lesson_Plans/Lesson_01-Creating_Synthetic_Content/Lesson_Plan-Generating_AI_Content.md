@@ -96,7 +96,7 @@ An instructor must attend the following training:
 
 An instructor should:
 
-1. Have received this block of instruction as a participant
+1. Have received this learning experience as a participant
 2. Participated in this instruction as an assistant instructor for this learning experience
 3. Participated in the AAR for this learning experience
 
@@ -170,9 +170,31 @@ learning experience Material, Ammo, Expendable, etc.
 ## SECTION 2: learning experience INTRODUCTION
 
 **Concrete Experience / Motivator:** 
-NOTE: Tell an interesting anecdote based on your experience, or recall a recent current event pertaining to the learning experience unit topic to gain the participant's attention and motivate them to learn the learning experience material. The participant should be made aware of the Army's Contemporary Operational Environment factors such as the physical environment, military capabilities, technology, and information.
+Concrete Experience / Motivator (5 Minutes)
 
-> Example: "In a recent incident, AI-generated content was used to spread misinformation that led to significant operational disruptions. Being able to identify and create accurate AI-generated content is crucial for maintaining the integrity of our operations."
+Setup (1 Minute)
+	•	Have participants pair up. One will act as the User and the other as AI.
+	•	The User writes a short instruction (e.g., “Create a three-sentence summary about the importance of training” or “Draw a simple battlefield map”).
+	•	The AI follows the instructions exactly as written, without adding their own interpretation.
+
+Activity (2 Minutes)
+	•	The User passes their instruction to the AI, who executes the task literally.
+	•	Encourage them to stay in character—the AI only does what is explicitly stated and asks no clarifying questions.
+	•	If the instruction is unclear, the AI should respond in a way that an AI tool might (e.g., generating something random or producing an error-like response).
+
+Discussion (5 Minutes)
+	•	Bring the class back together and ask:
+	•	“How did that go? Did the AI person interpret things the way you expected?”
+	•	“What was implied but left unstated?”
+	•	“How did vague vs. clear instructions impact the result?”
+	•	“What strategies might you use to get better results from AI?”
+
+Bridge to the Task (1 Minute)
+	•	“Just like in this exercise, AI tools follow instructions exactly as given—no more, no less. Next, we’ll practice crafting inputs for real AI tools to generate content effectively.”
+
+NOTE: This activates prior knowledge about giving clear instructions, highlights AI’s limitations, and sets up the importance of prompt engineering before the hands-on task.
+
+## Publish and Process
 
 NOTE: Go to Slide 1
 
@@ -269,7 +291,7 @@ NOTE: Go to Slide 6
 
 ## SECTION 4: SUMMARY
 
-During this block of instruction, we covered the following:
+During this learning experience, we covered the following:
 
 1. Introduction to AI content generation tools.
 2. Detailed analysis of generating text, visual, and code content.
@@ -283,7 +305,7 @@ During this block of instruction, we covered the following:
 
 **Answer:** The best practices include being specific, iterating and refining, providing context, using multiple services, reminding AI of constraints, and creating templates.
 
-**Review/Summary:** During this block of instruction, we learned how to generate AI content effectively using various tools and best practices.
+**Review/Summary:** During this learning experience, we learned how to generate AI content effectively using various tools and best practices.
 
 
 ## SECTION 5: participant EVALUATION
