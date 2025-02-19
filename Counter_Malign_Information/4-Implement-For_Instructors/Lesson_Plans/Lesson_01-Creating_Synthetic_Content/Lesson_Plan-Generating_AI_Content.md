@@ -181,9 +181,8 @@ NOTE: Go to Slide 1
 
 NOTE: Go to Slide 2
 
-**Scope Statement:** During this 40-minute block of instruction, the participants will learn to generate and refine AI content using structured techniques. They will participate in practical exercises to apply these techniques and gain confidence in their ability to use AI tools effectively.
+**Scope Statement:** During this 40-minute learning experience, you will get hands on experience generating and refining AI content using multiple AI tools. You will learn to find and select the best AI tools for the task at hand, generate content, and create templates for future and collaborative content generation.
 
-## Publish and Process
 
 1. Introduce the learning objectives.
 2. Explain the significance of being able to generate and refine AI-generated content.
