@@ -1,35 +1,22 @@
 # learning experience Plan Template
 ## SECTION 0: learning experience OVERVIEW
 
-### learning experience Information
+### Learning Experience Information
 
-**learning experience Title**: Creating Synthetic Content
-
-**Program of Instruction (POI)**: Countering Malign Influence / Version 1.0
-
+**Learning Experience Title**: Creating Synthetic Content  
+**Program of Instruction (POI)**: Countering Malign Influence / Version 1.0  
 **Developer Point of Contact**: first.last@email.tld
-
 
 ### IMPORTANT
 
-#### Training Material Classification: UNCLASSIFIED
-
-### Distribution Restriction:
-
-- A. Approved for public release; distribution is unlimited.
-
-### Destruction Notice: 
-
-- N/A for the project: automatically rendered based on Distribution Restriction
-
-### Foreign Disclosure:
-
-- FD1 - This training product has been reviewed by the training developer in coordination with the \<INSERT_ORG\> foreign disclosure officer. This training product can be used to instruct international military participants in all approved countries.
-
+- **Training Material Classification**: UNCLASSIFIED  
+- **Distribution Restriction**: Approved for public release; distribution is unlimited.  
+- **Destruction Notice**: N/A for the Learning Experience  
+- **Foreign Disclosure**: FD1 - This training product has been reviewed in coordination with the \<INSERT_ORG\> foreign disclosure officer. This training product can be used to instruct international military participants in all approved countries.
 
 ### SCOPE OF learning experience
 
-This 40-minute learning experience is an introductory orientation to AI-generated content creation. The end state of this learning experience is for participants to be able to recall and apply the necessary steps to effectively generate AI content. The author's intent is that participants learn key principles and procedures through a series of scenario-based exercises. By the end of the learning experience, participants should have a solid grasp of the actions to take in the relevant scenarios. This learning experience is common to all applicable departments and links to other parts of the curriculum by reinforcing the character attributes of accountability and responsibility.
+This 40-minute learning experience is an introductory orientation to AI-generated content creation. Participants will learn, through a series of activities and scenario-based exercises, the key principles and procedures necessary to generate high-quality, synthetic AI content. The session reinforces accountability, responsibility, and effective communication techniques and uses existing knowledge repositories to identify and select the best AI tools for the task at hand.
 
 ### Learning Objectives
 
@@ -39,13 +26,9 @@ This 40-minute learning experience is an introductory orientation to AI-generate
 > **Condition**: Given access to AI tools and example prompts
 > **Standard**: Successfully create AI-generated content that meets specified quality standards and is relevant to the given prompts
 
-
-#### Enabling Learning Objective (ELO) / Learning Step Activity (LSA):
- 
-> **Action**: Select and configure AI tools
-> **Condition**: Given a set of AI tools and example data
-> **Standard**: Configure the tools and generate content with minimal errors
-
+#### Enabling Learning Objectives (ELO) / Learning Steps:
+> - **ELO 1**: Select and configure AI tools using effective prompts
+> - **ELO 2**: Apply best practices in creating, refining, and assessing AI content
 
 ### References
 
@@ -169,30 +152,23 @@ learning experience Material, Ammo, Expendable, etc.
 
 ## SECTION 2: learning experience INTRODUCTION
 
-**Concrete Experience / Motivator:** 
-Concrete Experience / Motivator (5 Minutes)
+### Concrete Experience / Motivator (Approximately 5 Minutes)
 
-Setup (1 Minute)
-	•	Have participants pair up. One will act as the User and the other as AI.
-	•	The User writes a short instruction (e.g., “Create a three-sentence summary about the importance of training” or “Draw a simple battlefield map”).
-	•	The AI follows the instructions exactly as written, without adding their own interpretation.
+- **Setup (1 Minute)**
+  - Have participants pair up: one person acts as the *User* and the other as the *AI*.  
+  - Instruct the User to write a short instruction (e.g., "Create a three-sentence summary about the importance of training").  
+  - The AI partner must follow the instruction exactly as written.
 
-Activity (2 Minutes)
-	•	The User passes their instruction to the AI, who executes the task literally.
-	•	Encourage them to stay in character—the AI only does what is explicitly stated and asks no clarifying questions.
-	•	If the instruction is unclear, the AI should respond in a way that an AI tool might (e.g., generating something random or producing an error-like response).
+- **Activity (2 Minutes)**
+  - The User passes the instruction to the AI partner, who performs the task literally.
+  - Emphasize that the AI should stick to the exact wording without interpreting unstated elements.
 
-Discussion (5 Minutes)
-	•	Bring the class back together and ask:
-	•	“How did that go? Did the AI person interpret things the way you expected?”
-	•	“What was implied but left unstated?”
-	•	“How did vague vs. clear instructions impact the result?”
-	•	“What strategies might you use to get better results from AI?”
+- **Discussion (2 Minutes)**
+  - Ask: "How did the AI's response match your expectations?"  
+  - Discuss the impact of clear versus vague instructions.
 
-Bridge to the Task (1 Minute)
-	•	“Just like in this exercise, AI tools follow instructions exactly as given—no more, no less. Next, we’ll practice crafting inputs for real AI tools to generate content effectively.”
-
-NOTE: This activates prior knowledge about giving clear instructions, highlights AI’s limitations, and sets up the importance of prompt engineering before the hands-on task.
+- **Bridge to Next Activity (1 Minute)**
+  - Explain that, similar to this exercise, AI tools require explicit and detailed inputs. Transition to the main activity on crafting effective prompts.
 
 ## Publish and Process
 
@@ -216,86 +192,107 @@ NOTE: Go to Slide 3
 
 ### Learning Step Activity (LSA) 1: Introduction to AI Content Generation
 
-#### SLIDE 1
+#### **SLIDE 1: Overview & Memorization of Prompting Strategies**
 
-**Learning Step Activity Text:**
+##### **Activity Structure and Timing**
 
-> 1. Overview of AI content generation tools.
-> 2. Components of AI content generation: Text, Visual, and Code.
-> 3. Memorization Activity: Have participants memorize the components of AI content generation.
+1. **Present an Overview of AI Content Generation Tools (5 minutes)**
+   - **Content & Demonstration**:
+     - Introduce a variety of tools that generate AI content (e.g., ChatGPT for text, DALL-E for visuals, Copilot for code).
+     - Briefly discuss key features, advantages, and limitations of each tool.
+     - Show real-time examples or screenshots that illustrate tool capabilities.
+   - **Instructor Tips**:
+     - Ask the class if anyone has prior experience with any AI tool.
+     - Highlight common applications and potential pitfalls.
+     
+2. **Present the Prompting Strategies for Memorization (5 minutes)**
+   - **Content & Explanation**:
+     - **Write Clear Instructions**: Explain the importance of clarity (e.g., "Analyze [topic] focusing on [data points]...").
+     - **Provide Reference Text**: Stress the value of background context with sample templates.
+     - **Split Complex Tasks**: Teach how to break a multi-part question into manageable steps.
+     - **Give the Model Time to "Think"**: Encourage allowing a pause for deeper processing.
+     - **Use External Tools**: Demonstrate integrating AI capabilities with external data sources.
+   - **Visuals/Handouts**:
+     - Display slides that list each strategy along with prompt templates.
+     - Hand out a one-page reference guide summarizing these strategies for later review.
 
-**Activity**
+3. **Interactive Memorization Quiz (2 minutes)**
+   - **Activity Details**:
+     - Divide participants into pairs.
+     - Have them quiz each other on the names and functions of each prompting strategy.
+     - Encourage the use of mini whiteboards or digital note-taking to jot down key points.
+   - **Facilitator Guidance**:
+     - Walk around to facilitate discussion and correct any misunderstandings.
+     - Optionally, call on a few pairs for a quick oral review with the class.
 
-1. Present an overview of AI content generation tools. (5 minutes)
-2. Explain each component in detail. (10 minutes)
-3. Have participants quiz each other to memorize the components. (5 minutes)
-
-NOTE: Go to Slide 2
+4. **Collaborative Application Challenge (5 minutes)**
+   - **Activity Details**:
+     - Organize participants into small groups (3–4 members per group).
+     - Assign the following prompts and ask groups to collaboratively apply the prompting strategies:
+       - **Prompt 1**: "Create a SITREP for what you did in class today."
+       - **Prompt 2**: "Create an Email to your boss about the importance of AI enabled tools for your organization."
+       - **Prompt 3**: "Create advanced search queries to find the latest Fishing Companies in the Pacific."
+     - **Group Work Process**:
+       - Have groups discuss and write down effective prompts that incorporate strategies like clarity, use of reference texts, and step-by-step breakdown.
+       - Encourage each group to assign roles (e.g., one person records, while others propose improvements).
+   - **Post-Activity Discussion**:
+     - Encourage a representative from each group to share one refined prompt and explain the strategy used.
+   - **Transition Note**:
+     - After the exercise, instruct participants: *"NOTE: Go to Slide 2"* for the next section of the lesson.
 
 ### Learning Step Activity (LSA) 2: Detailed Analysis of AI Content Generation Components
 
-#### SLIDE 2: Text Generation
+#### **SLIDE 2: Text Generation**
 
-**Learning Step Activity Text:**
+- **Key Focus**: Identify and discuss best practices for generating text.
+- **Activity**:
+  - Present examples of both good and poor prompts for text generation.
+  - Demonstrate content generation in real time using an AI tool.
+  - Discuss why a clear structure and context improve the quality of the output.
 
-> Identify best practices for generating text content using AI tools.
+#### **SLIDE 3: Visual Content Generation**
 
-**Activity**
+- **Key Focus**: Best practices for generating visual content.
+- **Activity**:
+  - Showcase examples with visual prompts.
+  - Explain how specificity in instructions influences the produced imagery.
+  - Discuss image-generation constraints and troubleshooting tips.
 
-1. Present examples of good vs. poor prompts for text generation.
-2. Discuss how to create effective prompts.
-3. Demonstrate generating text content using an AI tool.
+#### **SLIDE 4: Code Generation**
 
-NOTE: Go to Slide 3
-
-#### SLIDE 3: Visual Content Generation
-
-**Learning Step Activity Text:**
-
-> Identify best practices for generating visual content using AI tools.
-
-**Activity**
-
-1. Present examples of good vs. poor prompts for visual content.
-2. Discuss how to create effective visual content prompts.
-3. Demonstrate generating visual content using an AI tool.
-
-NOTE: Go to Slide 4
-
-#### SLIDE 4: Code Generation
-
-**Learning Step Activity Text:**
-
-> Identify best practices for generating code using AI tools.
-
-**Activity**
-
-1. Present examples of good vs. poor prompts for code generation.
-2. Discuss how to create effective code generation prompts.
-3. Demonstrate generating code using an AI tool.
-
-NOTE: Go to Slide 5
+- **Key Focus**: Best practices for generating code.
+- **Activity**:
+  - Present examples of effective code prompts versus ambiguous code prompts.
+  - Walk through a live demonstration of generating simple scripts.
+  - Highlight ways to refine code output through iterative prompt adjustments.
 
 ### Learning Step Activity (LSA) 3: Practical Application of AI Content Generation Techniques
 
-#### SLIDE 5: Practical Exercise
+#### **SLIDE 5: Practical Exercise**
 
-**Activity**
-
-1. Divide participants into groups and provide each group with various prompts to create content using AI tools. (10 minutes)
-2. Have each group present their generated content to the class. (10 minutes)
-3. Provide feedback and discuss the effectiveness of their prompts and generated content.
-
-NOTE: Go to Slide 6
+- **Activity**:
+  1. **Group Work and Creation (10 minutes)**:
+     - Divide participants into groups.
+     - Provide each group with various prompts covering text, visuals, and code.
+     - Allow groups to interact with their chosen AI tools to craft content.
+  2. **Presentation and Feedback (10 minutes)**:
+     - Each group presents their generated content to the class.
+     - Facilitate a feedback discussion focusing on:
+       - How well the prompts incorporated the best practices.
+       - What improvements could enhance the final output.
+  3. **Instructor Review**:
+     - Summarize key observations and highlight common successes or challenges encountered among groups.
 
 
 ## SECTION 4: SUMMARY
 
-During this learning experience, we covered the following:
-
-1. Introduction to AI content generation tools.
-2. Detailed analysis of generating text, visual, and code content.
-3. Practical application of AI content generation techniques.
+- **Review Key Takeaways**:
+  - The importance and characteristics of effective AI content generation.
+  - How to craft clear, comprehensive prompts by using memorized strategies.
+  - The practical differences in generating text, visual, and code outputs.
+- **Check on Learning**:
+  - Ask: "What are the best practices for generating AI content, and how can they be applied in different contexts?"  
+  - Encourage a short discussion or reflective writing exercise to consolidate learning.
 
 **MOI**: Discussion (small or large group)
 
@@ -325,24 +322,25 @@ NOTE: Feedback is essential to effective learning. Schedule and provide feedback
 
 ### Required Audio-Visual Material and Handouts
 
-| Sequence | Media Name              | Attachment or URL | Media Type |
-| -------- | ----------------------- | ----------------- | ---------- |
-| 1        | Master Slide Deck       |                   | PPTX       |
-| 2        | Slide Deck              |                   | PPTX       |
-| 3        | Handout - Topic 1       |                   | PDF        |
-| 4        | Handout - Topic 2       |                   | PDF        |
-| 5        | Video File - Topic 3    |                   | MP4        |
+| Sequence | Media Name              | Attachment/URL   | Media Type |
+| -------- | ----------------------- | ---------------- | ---------- |
+| 1        | Master Slide Deck       | (Provided)       | PPTX       |
+| 2        | Slide Deck              | (Provided)       | PPTX       |
+| 3        | Handout - Prompt Strategies | (Provided)  | PDF        |
+| 4        | Handout - Topic 2       | (Provided)       | PDF        |
+| 5        | Video File - Topic 3    | (Provided)       | MP4       |
 
 ## APPENDIX B - Assessment Statement and Assessment Plan
 
 ### Assessment Statement: 
 
-The learning experience's TLO will be assessed based on the participant's ability to generate AI content that meets specified quality standards and is relevant to the given prompts.
+The TLO will be evaluated by verifying that the participant's generated AI content is accurate, relevant, and of high quality.
 
 ### Assessment Plan: 
 
-Detailed assessment procedures include using performance checklists to evaluate the generated content's accuracy, relevance, and quality. 
+Detailed assessment will involve using performance checklists during practical exercises as well as individual evaluations based on a participant's ability to apply prompting and refinement strategies. 
 
 ## APPENDIX C - Practical Exercises and Solutions
 
 The learning experience includes practical exercises where participants create AI-generated content based on given prompts. The exercises are designed to reinforce the learning experience's objectives and provide hands-on experience with AI tools.
+
