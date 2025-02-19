@@ -7,16 +7,18 @@
 **Counter Malign Information / Version 1.0**
 
 ## Prerequisites
+Access to the Internet
 Accounts with:
 - ChatGPT: https://chatgpt.com
 - Google Gemeni: https://gemini.google.com
+
 
 ## Instruction Hours
 17 hours + Validation exercise.
 
 
 ## Technical Exchange Days
-3-4 days
+4 days
 
 ## Technical Exchange Description
 - **Description**: This Technical Exchange is designed to equip participants with the skills necessary to identify, analyze, and counteract malign information efforts. It covers the detection of AI-generated content, techniques for identifying misinformation and disinformation, and strategies for countering these threats effectively. The curriculum combines theoretical knowledge with practical exercises, enhancing the learners' ability to apply these skills in real-world scenarios.
@@ -37,13 +39,15 @@ Accounts with:
 2. Develop skills to recognize patterns indicative of misinformation and disinformation.
 3. Apply structured analytic techniques to evaluate the credibility of information.
 4. Execute effective strategies to counter malign information operations.
+5. Basic Digital Force Protection applied to Malign Information
 
 ---
 
 ## Technical Exchange Outline
 - **Day 1**: Introduction to Information Integrity, Creating AI Content, Recognizing AI Generated Content
 - **Day 2**: Identifying Rival Influence (SCAME), Identifying Misinformation and Disinformation
-- **Day 3**: Countering Misinformation and Disinformation, Technical Exchange Review, Q&A Session, Closing
+- **Day 3**: Countering Misinformation and Disinformation
+- **Day 4**: Culminating Exercise, Technical Exchange Review, Q&A Session, Closing
 
 ---
 
@@ -54,9 +58,9 @@ Accounts with:
 	- Beebe, S. M., & Pherson, R. H. (2015). *Cases in Intelligence Analysis: Structured Analytic Techniques in Action*.
 	- Pherson, R. H., & Heuer, R. J. (2021). *Structured Analytic Techniques for Intelligence Analysis*.
 - Surveys:
-    Technical Exchange Pre-Survey - ________________________________
-    Media sources survey ____________________________________
-    Technical Exchange Post-Survey - ________________________________
+    Technical Exchange Pre-Survey - https://forms.osi.apps.mil/r/1jUjjGQiWR
+    Media sources survey  - https://forms.osi.apps.mil/r/Q2NSt7U30E
+    Technical Exchange Post-Survey - https://forms.osi.apps.mil/r/eDHWur535W
 - **Other Materials**: 	
 	- AI Master List Tool - https://doc.clickup.com/25598832/d/h/rd6vg-14247/0b79ca1dc0f7429/rd6vg-12207
 
