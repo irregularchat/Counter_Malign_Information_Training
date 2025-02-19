@@ -1,84 +1,36 @@
-#  Generating Content Using AI
+# Generating Content Using AI
 
 ## Learning Objective
- **Action:** Generate Content Using AI.
-
- **Conditions:** 
-Given an environment that allows the students to engage one another and the cadre openly, handouts, research capabilities, and Synthetic Content generation tools.
-
- **Standards:** 
-Successfully create AI-generated content that meets specified quality standards and is relevant to the given prompts.
+**Action:** Generate Content Using AI  
+**Conditions:** Given access to a collaborative environment with handouts, research capabilities, & Synthetic Content generation tools  
+**Standards:** Successfully create AI-generated content that meets quality standards and is relevant to provided prompts
 
 ---
 
-## Quick Information
-| Title                       | Comment                                                                           |
-| --------------------------- | --------------------------------------------------------------------------------- |
-| Intended Audience           | Government employees                                                              |
-| Learning Domain             | Cognitive                                                                         |
-| Training Resources Required | Computer, internet access, Synthetic Content generation tools, example prompts, handouts |
-| Total Duration              | 40                                                                                |
-
+## Quick Overview
+- **Audience:** Government employees  
+- **Learning Domain:** Cognitive  
+- **Resources:** Computer, internet access, Synthetic Content generation tools, example prompts, handouts  
+- **Duration:** 40 minutes
 
 ---
 
 ## Performance Steps
-
-1. Select appropriate AI tools.
-2. Input data and configure settings.
-3. Generate and review content.
-4. Refine and edit the generated content.
+1. **Select & Configure Tools:** Choose appropriate AI tools and set up the environment  
+2. **Generate Content:** Input data and generate initial content using well-crafted prompts  
+3. **Review & Refine:** Evaluate outputs and refine prompts for improved clarity and quality  
+4. **Present & Feedback:** Share results and incorporate constructive feedback
 
 ---
 
 ## Lesson ELM Steps
+| Time  | ELM Phase               | Brief Activity Description                                                                                         |
+| ----- | ----------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| 4 min | **Concrete Experience** | **Attention Grabber & Pair Exercise:** Simulate using AI by pairing students for a brief exercise on explicit instructions. Follow with a discussion on the importance of clarity. |
+| 4 min | **Publish and Process** | **Introduction:** Present the learning objectives and key concepts of Synthetic Content generation.                |
+| 12 min| **Generalize New Information** | **Overview & Strategies:** <br>- Overview of AI content generation tools <br>- Introduce prompting strategies for clarity and memorization <br>- Engage with an interactive quiz and group challenge using prompts:<br>&nbsp;&nbsp;&nbsp;- "Create a SITREP for what you did in class today."<br>&nbsp;&nbsp;&nbsp;- "Create an Email to your boss about the importance of AI enabled tools."<br>&nbsp;&nbsp;&nbsp;- "Create advanced search queries to find the latest Fishing Companies in the Pacific." |
+| 6 min | **Develop**             | **Application of Best Practices:** Hands-on session where groups create and refine their prompts, discussing adjustments to achieve clearer AI outputs. |
+| 10 min| **Apply**               | **Practical Exercise:** Groups generate content (text, visual, and code examples) using AI tools, followed by brief presentations and discussion on improvements.  |
+| 4 min | **Check On Learning**   | **Summary & Reflection:** Recap key points, answer questions, and reflect on how specificity in prompts improves generated content.  |
 
-| Time  | ELM Phase           | Comment               |
-| ----- | ------------------- | --------------------- |
-| 4 min | Concrete Experience | Generating Synthetic Content |
-
-1. **Attention Grabber**. Start by introducing an exciting or intriguing idea related to Synthetic Content generation. The number of companies using AI for example or the amount of money in AI for marketing. 
-   
-   This attention grabber should make it clear how much marketing and business values the use of AI. 
-
-| Time  | ELM Phase           | Comment                             |
-| ----- | ------------------- | ----------------------------------- |
-| 4 min | Publish and Process | Discussion on Synthetic Content Generation |
-
-
-1. **Introduction**: Introduce the learning objectives.
-2. _Plainly let the student know "By the end of this lesson you will know where to keep up to date with the latest AI enabled content and be able to generate content using AI tools effectively."_
-
-
-| Time   | ELM Phase                  | Comment                                  |
-| ------ | -------------------------- | ---------------------------------------- |
-| 12 min | Generalize New Information | Best Practices for Synthetic Content Generation |
-
-1. **Visual Aid**: Go over a handout on best practices for generating Synthetic Content.
-2. **Comparison**: Discuss the characteristics of good vs. poor prompts.
-3. **Techniques**: Introduce techniques for refining AI prompts and configuring settings.
-4. **Demonstration**: Demonstrate how to use an AI tool to generate content with a specific, well-crafted prompt.
-
-| Time  | ELM Phase | Comment                 |
-| ----- | --------- | ----------------------- |
-| 6 min | Develop   | Applying Best Practices |
-
-1. **Application**: Ask students how they will apply these best practices in their roles.
-2. **Practice**: Have students create their own prompts and generate content using AI tools, focusing on clarity and specificity.
-
-| Time   | ELM Phase | Comment            |
-| ------ | --------- | ------------------ |
-| 10 min | Apply     | Practical Exercise |
-
-1. **Exercise**: Ask students to generate a piece of content using the AI tools and prompts they created.
-2. **Review**: Have students present their generated content and discuss the effectiveness of their prompts and any challenges faced.
-3. **Feedback**: Provide constructive feedback on their prompts and generated content.
-
-| Time  | ELM Phase         | Comment              |
-| ----- | ----------------- | -------------------- |
-| 4 min | Check On Learning | Summary and Feedback |
-
-1. **Summary**: Recap the key points of the lesson.
-2. **Q&A**: Answer any remaining questions from students.
-3. **Reflection**: Discuss how the activity demonstrated the importance of specificity in Synthetic Content generation.
-4. **Future Application**: Encourage students to apply these techniques in their professional tasks involving AI tools.
+---
