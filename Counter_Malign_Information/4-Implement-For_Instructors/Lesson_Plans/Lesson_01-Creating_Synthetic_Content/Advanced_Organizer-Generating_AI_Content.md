@@ -1,4 +1,4 @@
-# Generating Content Using AI
+# Generating Content Using AI Advanced Organizer
 
 ## Learning Objective
 **Action:** Generate Content Using AI  

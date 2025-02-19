@@ -1,5 +1,5 @@
-# learning experience Plan Template
-## SECTION 0: learning experience OVERVIEW
+# Learning Experience: Generating AI Content
+## SECTION 0: Learning Experience Overview
 
 ### Learning Experience Information
 
