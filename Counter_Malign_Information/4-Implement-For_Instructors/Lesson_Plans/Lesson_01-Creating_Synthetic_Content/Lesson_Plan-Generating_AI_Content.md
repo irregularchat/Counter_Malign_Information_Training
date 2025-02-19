@@ -1,9 +1,9 @@
-# Lesson Plan Template
-## SECTION 0: LESSON OVERVIEW
+# learning experience Plan Template
+## SECTION 0: learning experience OVERVIEW
 
-### Lesson Information
+### learning experience Information
 
-**Lesson Title**: Creating Synthetic Content
+**learning experience Title**: Creating Synthetic Content
 
 **Program of Instruction (POI)**: Countering Malign Influence / Version 1.0
 
@@ -24,12 +24,12 @@
 
 ### Foreign Disclosure:
 
-- FD1 - This training product has been reviewed by the training developer in coordination with the \<INSERT ORG\> foreign disclosure officer. This training product can be used to instruct international military students in all approved countries.
+- FD1 - This training product has been reviewed by the training developer in coordination with the \<INSERT_ORG\> foreign disclosure officer. This training product can be used to instruct international military participants in all approved countries.
 
 
-### SCOPE OF LESSON
+### SCOPE OF learning experience
 
-This 40-minute lesson is an introductory orientation to AI-generated content creation. The end state of this lesson is for students to be able to recall and apply the necessary steps to effectively generate AI content. The author's intent is that students learn key principles and procedures through a series of scenario-based exercises. By the end of the lesson, students should have a solid grasp of the actions to take in the relevant scenarios. This lesson is common to all applicable departments and links to other parts of the curriculum by reinforcing the character attributes of accountability and responsibility.
+This 40-minute learning experience is an introductory orientation to AI-generated content creation. The end state of this learning experience is for participants to be able to recall and apply the necessary steps to effectively generate AI content. The author's intent is that participants learn key principles and procedures through a series of scenario-based exercises. By the end of the learning experience, participants should have a solid grasp of the actions to take in the relevant scenarios. This learning experience is common to all applicable departments and links to other parts of the curriculum by reinforcing the character attributes of accountability and responsibility.
 
 ### Learning Objectives
 
@@ -56,65 +56,67 @@ This 40-minute lesson is an introductory orientation to AI-generated content cre
 
 ### Instructional Guidance
 
-**Conduct of Lesson** | **NOTE:** Before presenting this lesson, instructors must thoroughly prepare by studying this lesson and identifying reference material.
-- Watch the tutorial video until it bores you. This is important because, during the Concrete Experience, you should be observing the students.
-- Before the lesson, set up one easel in each corner of the classroom. Place a marker set with each easel, and affix one scenario sheet (face down) to each easel.
+**Conduct of learning experience** | **NOTE:** Before presenting this learning experience, instructors must thoroughly prepare by studying this learning experience and identifying reference material.
+- Watch the tutorial video until it bores you. This is important because, during the Concrete Experience, you should be observing the participants.
+- Before the learning experience, set up one easel in each corner of the classroom. Place a marker set with each easel, and affix one scenario sheet (face down) to each easel.
 - Before class, play the video completely through one time. This will reduce computer lag. 
 
-### 1. The importance of this lesson: (Why)
+### 1. The importance of this learning experience: (Why)
 
-This lesson is crucial as it equips students with the necessary skills to create AI-generated content, a valuable skill in countering malign influence by generating accurate and engaging content.
+This learning experience is crucial for understanding the importance of AI content generation, the common themes and flaws of AI content, methods for subverting prompt safeguards, and using AI tools to generate content, categorize and transform content, and to create synthetic content.
 
-### 2. What we want our students to Achieve: (Outcomes/Standard)
+### 2. What we want our participants to Achieve: (Outcomes/Standard)
 
-Students should be able to generate AI content that is accurate, engaging, and appropriate to the given scenario, aligning with the principles taught in the lesson.
-
+Participants will be able to find AI enabled tools, create effective prompts, manuver safeguards, generate content, categorize and transform content, and to create synthetic content.
 ### 3. A Possible Technique to Achieve the Outcome
 
 1. Use iterative prompts to refine the generated content, starting broad and narrowing down specifics.
+2. Use the provided handout to help participants create effective prompts.
+3. Use the referenced material to find AI enabled tools.
 
-### 4. AAR Guidance for this Lesson
+### 4. AAR Guidance for this learning experience
 
 1. Conduct an After Action Review (AAR) to discuss what went well and what could be improved.
 
 
-### Lesson Requirements
+### learning experience Requirements
 
 #### Instructor Requirements
 
 An instructor must:
-1. Review the entire lesson plan for each lesson they will cover.  
-2. Be able to obtain, access, and be familiar with the required material and equipment.
-3. Read and understand the referenced material.
+1. Review previous AARs for this learning experience.
+2. Review the entire lesson plan for this learning experience.   
+3. Review the referenced material.
+4. Read and understand the handout.
+5. Be able to obtain, access, and be familiar with the required material and equipment.
 
 An instructor must attend the following training:
 
-1. AI Content Creation Certification
-2. Countering Malign Influence Course
+1. Countering Malign Influence Workshop
 
 An instructor should:
 
-1. Have received this block of instruction as a student
-2. Participated in this instruction as an assistant instructor for this lesson
-3. Participated in the AAR for this lesson
+1. Have received this block of instruction as a participant
+2. Participated in this instruction as an assistant instructor for this learning experience
+3. Participated in the AAR for this learning experience
 
 #### Additional Support 
 
 ##### Required or Requested Support
 
-- Technical support for AI tools setup and configuration.
+- N/A
 
 ##### Guidance for Assistant Instructors
 
 - Assist in setting up and troubleshooting AI tools.
-- Monitor student progress and provide guidance during exercises.
+- Monitor participant progress and provide guidance during exercises.
 
 
 ### Equipment and Material Required for Instruction
 
-Lesson Material, Ammo, Expendable, etc.
+learning experience Material, Ammo, Expendable, etc.
 
-| Equipment                        | Student Ratio | Instructor Ratio | Quantity | Expendable |
+| Equipment                        | participant Ratio | Instructor Ratio | Quantity | Expendable |
 | -------------------------------- | ------------- | ---------------- | -------- | ---------- |
 | Computer, Keyboard, Touchpad     | 1:1           | 1:2              |          | no         |
 | Slides                           |               |                  | 1        | no         |
@@ -124,28 +126,23 @@ Lesson Material, Ammo, Expendable, etc.
 
 ### Pre-Requisite Tasks
 
-1. Complete basic training on AI content generation tools.
-
-
-### Knowledge Required
-
-1. Understanding of basic AI concepts.
-2. Familiarity with AI content generation tools.
-
+1. Create ChatGPT account
+2. Create GitHub account (to access this repo and submit issues and comments)
 
 ### Skills Required
-
-1. Ability to navigate and use AI tools.
-2. Basic data input and configuration skills.
+1. Basic Computer Skills
+2. Typing Skills
+3. Internet Browsing Skills
 
 
 ## Supporting Tasks
 
 ### Tasks Taught
 
-1. Selecting appropriate AI tools.
-2. Configuring AI tools.
-3. Generating and refining AI content.
+1. Select appropriate AI tools.
+2. Configure AI tools.
+3. Generate and refine AI content.
+4. Bypass AI content safeguards.
 
 ### Tasks Supported
 
@@ -156,7 +153,7 @@ Lesson Material, Ammo, Expendable, etc.
 1. Applying best practices in AI content generation.
 
 
-## Lesson Timeline
+## learning experience Timeline
 
 | Academic (y/n) | Broad Topic                   | EST TIME Min | Methods                        |
 | -------------- | ----------------------------- | ------------ | ------------------------------ |
@@ -170,10 +167,10 @@ Lesson Material, Ammo, Expendable, etc.
 | y              | Assessment / Check On Learning| 4            | Summary and Feedback           |
 
 
-## SECTION 2: LESSON INTRODUCTION
+## SECTION 2: learning experience INTRODUCTION
 
 **Concrete Experience / Motivator:** 
-NOTE: Tell an interesting anecdote based on your experience, or recall a recent current event pertaining to the lesson unit topic to gain the student's attention and motivate them to learn the lesson material. The student should be made aware of the Army's Contemporary Operational Environment factors such as the physical environment, military capabilities, technology, and information.
+NOTE: Tell an interesting anecdote based on your experience, or recall a recent current event pertaining to the learning experience unit topic to gain the participant's attention and motivate them to learn the learning experience material. The participant should be made aware of the Army's Contemporary Operational Environment factors such as the physical environment, military capabilities, technology, and information.
 
 > Example: "In a recent incident, AI-generated content was used to spread misinformation that led to significant operational disruptions. Being able to identify and create accurate AI-generated content is crucial for maintaining the integrity of our operations."
 
@@ -184,7 +181,7 @@ NOTE: Go to Slide 1
 
 NOTE: Go to Slide 2
 
-**Scope Statement:** During this 40-minute block of instruction, the students will learn to generate and refine AI content using structured techniques. They will participate in practical exercises to apply these techniques and gain confidence in their ability to use AI tools effectively.
+**Scope Statement:** During this 40-minute block of instruction, the participants will learn to generate and refine AI content using structured techniques. They will participate in practical exercises to apply these techniques and gain confidence in their ability to use AI tools effectively.
 
 ## Publish and Process
 
@@ -194,7 +191,7 @@ NOTE: Go to Slide 2
 NOTE: Go to Slide 3
 
 
-## SECTION 3: LESSON PRESENTATION
+## SECTION 3: learning experience PRESENTATION
 
 ### Learning Step Activity (LSA) 1: Introduction to AI Content Generation
 
@@ -204,13 +201,13 @@ NOTE: Go to Slide 3
 
 > 1. Overview of AI content generation tools.
 > 2. Components of AI content generation: Text, Visual, and Code.
-> 3. Memorization Activity: Have students memorize the components of AI content generation.
+> 3. Memorization Activity: Have participants memorize the components of AI content generation.
 
 **Activity**
 
 1. Present an overview of AI content generation tools. (5 minutes)
 2. Explain each component in detail. (10 minutes)
-3. Have students quiz each other to memorize the components. (5 minutes)
+3. Have participants quiz each other to memorize the components. (5 minutes)
 
 NOTE: Go to Slide 2
 
@@ -264,7 +261,7 @@ NOTE: Go to Slide 5
 
 **Activity**
 
-1. Divide students into groups and provide each group with various prompts to create content using AI tools. (10 minutes)
+1. Divide participants into groups and provide each group with various prompts to create content using AI tools. (10 minutes)
 2. Have each group present their generated content to the class. (10 minutes)
 3. Provide feedback and discuss the effectiveness of their prompts and generated content.
 
@@ -290,16 +287,16 @@ During this block of instruction, we covered the following:
 **Review/Summary:** During this block of instruction, we learned how to generate AI content effectively using various tools and best practices.
 
 
-## SECTION 5: STUDENT EVALUATION
+## SECTION 5: participant EVALUATION
 
 ### Testing Requirement
 
-NOTE: Describe how the student must demonstrate accomplishment of the TLO. Refer the class to the Individual Student Assessment Plan.
+NOTE: Describe how the participant must demonstrate accomplishment of the TLO. Refer the class to the Individual participant Assessment Plan.
 
-The student must demonstrate the ability to generate AI content that meets specified quality standards and is relevant to the given prompts.
+The participant must demonstrate the ability to generate AI content that meets specified quality standards and is relevant to the given prompts.
 
 
-### Student Feedback Requirement
+### participant Feedback Requirement
 
 NOTE: Feedback is essential to effective learning. Schedule and provide feedback on the evaluation and any information to help answer class questions about the test. Provide remedial training as needed.
 
@@ -319,7 +316,7 @@ NOTE: Feedback is essential to effective learning. Schedule and provide feedback
 
 ### Assessment Statement: 
 
-The lesson's TLO will be assessed based on the student's ability to generate AI content that meets specified quality standards and is relevant to the given prompts.
+The learning experience's TLO will be assessed based on the participant's ability to generate AI content that meets specified quality standards and is relevant to the given prompts.
 
 ### Assessment Plan: 
 
@@ -327,4 +324,4 @@ Detailed assessment procedures include using performance checklists to evaluate 
 
 ## APPENDIX C - Practical Exercises and Solutions
 
-The lesson includes practical exercises where students create AI-generated content based on given prompts. The exercises are designed to reinforce the lesson's objectives and provide hands-on experience with AI tools.
+The learning experience includes practical exercises where participants create AI-generated content based on given prompts. The exercises are designed to reinforce the learning experience's objectives and provide hands-on experience with AI tools.
