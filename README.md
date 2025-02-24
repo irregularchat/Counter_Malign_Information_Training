@@ -70,7 +70,7 @@ Training is designed primarily based on the Experiential Learning Model (ELM), t
 If you have not been to the SWCS Course Faculty Course yet, study the following content:
 - [Gagne's Nine Events of Instruction](https://youtu.be/-31fCUQ2htU)
 ### Academic Hour
-50 minutes is an “hour” to allow students to take a 10-minute break or two 5-minute breaks. 
+50 minutes is an "hour" to allow students to take a 10-minute break or two 5-minute breaks. 
 ### Templates
 Templates can be notes or entire folders. Duplicate templates as needed. 
 ### Comments
@@ -158,25 +158,58 @@ To expand or collapse sections/headers in a note Top Menu > Insert > {"Fold" or 
 This assumes you have the following installed:
 - LibreOffice
 - pandoc
-- wkhtmltopdf may also be needed for some conversions
-
-Location to execute this is: `/Counter_Malign_Information_Training/Counter_Malign_Information/4-Implement-For_Instructors/Lesson_Plans/Instructor_Copy/`
+- MacTex which installs xelatex may also be needed for some conversions
+  - You'll need to add the path to the xelatex executable to your PATH environment variable.
 
 ```BASH
-find .. -type f -name 'Instructor-*.pptx' -exec /Applications/LibreOffice.app/Contents/MacOS/soffice --headless --convert-to pdf {} \;
-find .. -type f -name 'Instructor-*.pdf' -exec mv {} ./ \;
-find .. -type f -name 'Lesson_Plan*.md' -exec pandoc {} --pdf-engine=wkhtmltopdf -o "{}.pdf" \;
-find .. -type f -name 'Lesson_Plan*.pdf' -exec mv {} ./ \;
-find .. -type f -name 'Advanced_Organizer*.md' -exec pandoc {} --pdf-engine=wkhtmltopdf -o "{}.pdf" \;
-find .. -type f -name 'Advanced_Organizer*.pdf' -exec mv {} ./ \;
-find .. -type f -iname 'Handout*.md' -exec pandoc {} --pdf-engine=wkhtmltopdf -o "{}.pdf" \;
-find .. -type f -iname 'Handout*.pdf' -exec mv {} ./ \;
-cp ../../3-Design/2-Counter_Malign_Information-Schedule.md ./
-cp ../Course_Syllabus-Counter_Malign_Information.md ./
-cd ./
-# Use Pandoc to convert markdown files to PDF
-for file in *.md; do
-    pandoc "$file" --pdf-engine=wkhtmltopdf -o "${file%.md}.pdf"
-done
+brew install --cask LibreOffice
+# check that LibreOffice is installed
+which soffice
+# install pandoc and mactex
+brew install pandoc mactex
+# add the path to the xelatex executable to your PATH environment variable.
+export PATH=/Library/TeX/texbin:$PATH
+# check that xelatex is in your path
+which xelatex
 ```
 
+Location to execute this is: `/Counter_Malign_Information_Training/Counter_Malign_Information/4-Implement-For_Instructors/Lesson_Plans/Instructor_Copy/`
+```BASH
+# Convert all PowerPoint files with 'Instructor-' prefix to PDF using LibreOffice
+find .. -type f -name 'Instructor-*.pptx' -exec /Applications/LibreOffice.app/Contents/MacOS/soffice --headless --convert-to pdf {} \;
+
+# Move all converted PDF files with 'Instructor-' prefix to the current directory
+find .. -type f -name 'Instructor-*.pdf' -exec mv {} ./ \;
+
+# Convert all markdown files with 'Lesson_Plan' prefix to PDF using Pandoc
+find .. -type f -name 'Lesson_Plan*.md' -exec pandoc {} --pdf-engine=xelatex -o "{}.pdf" \;
+
+# Move all converted PDF files with 'Lesson_Plan' prefix to the current directory
+find .. -type f -name 'Lesson_Plan*.pdf' -exec mv {} ./ \;
+
+# Convert all markdown files with 'Advanced_Organizer' prefix to PDF using Pandoc
+find .. -type f -name 'Advanced_Organizer*.md' -exec pandoc {} --pdf-engine=xelatex -o "{}.pdf" \;
+
+# Move all converted PDF files with 'Advanced_Organizer' prefix to the current directory
+find .. -type f -name 'Advanced_Organizer*.pdf' -exec mv {} ./ \;
+
+# Convert all markdown files with 'Handout' prefix to PDF using Pandoc
+find .. -type f -iname 'Handout*.md' -exec pandoc {} --pdf-engine=xelatex -o "{}.pdf" \;
+
+# Move all converted PDF files with 'Handout' prefix to the current directory
+find .. -type f -iname 'Handout*.pdf' -exec mv {} ./ \;
+
+# Copy the course schedule markdown file to the current directory
+cp ../../3-Design/2-Counter_Malign_Information-Schedule.md ./
+
+# Copy the course syllabus markdown file to the current directory
+cp ../Course_Syllabus-Counter_Malign_Information.md ./
+
+# Change to the current directory (no operation needed, already in current directory)
+cd ./
+
+# Convert all markdown files in the current directory to PDF using Pandoc
+for file in *.md; do
+    pandoc "$file" --pdf-engine=xelatex -o "${file%.md}.pdf"
+done
+```
