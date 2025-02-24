@@ -1,10 +1,10 @@
 # Identifying Synthetic Content 
 
-## SECTION 0: LESSON OVERVIEW
+## SECTION 0: LEARNING EXPERIENCE OVERVIEW
 
-### Lesson Information
+### Learning experience Information
 
-**Lesson Title**: Identify Synthetic Media Content
+**Learning experience Title**: Identify Synthetic Media Content
 
 **Program of Instruction (POI)**: Counter Malign Influence / Version 1.0
 
@@ -28,9 +28,9 @@
 - FD1 - This training product has been reviewed by the training developer in coordination with the TRADOC foreign disclosure officer. This training product can be used to instruct international military students in all approved countries.
 
 
-### SCOPE OF LESSON
+### SCOPE OF LEARNING EXPERIENCE
 
-This 120-minute lesson is an intermediate orientation to recognizing AI-generated content. The end state of this lesson is for students to be able to recall and apply the necessary steps to effectively identify synthetic media content. The author's intent is that students learn key principles and procedures through a series of scenario-based exercises. By the end of the lesson, students should have a solid grasp of the actions to take in the relevant scenarios. This lesson is common to all government employees and links to other parts of the curriculum by reinforcing the character attributes of accountability and responsibility.
+This 120-minute learning experience is an intermediate orientation to recognizing AI-generated content. The end state of this learning experience is for students to be able to recall and apply the necessary steps to effectively identify synthetic media content. The author's intent is that students learn key principles and procedures through a series of scenario-based exercises. By the end of the learning experience, students should have a solid grasp of the actions to take in the relevant scenarios. This learning experience is common to all government employees and links to other parts of the curriculum by reinforcing the character attributes of accountability and responsibility.
 
 ### Learning Objectives
 
@@ -68,15 +68,15 @@ This 120-minute lesson is an intermediate orientation to recognizing AI-generate
 
 ### Instructional Guidance
 
-**Conduct of Lesson**: 
+**Conduct of Learning experience**: 
 
-**NOTE:** Before presenting this lesson, instructors must thoroughly prepare by studying this lesson and identifying reference material.
+**NOTE:** Before presenting this learning experience, instructors must thoroughly prepare by studying this learning experience and identifying reference material.
 
-- Review the lesson plan and all related materials.
+- Review the learning experience plan and all related materials.
 - Set up the classroom with the necessary equipment and materials.
 - Familiarize yourself with the detection tools and example media content.
 
-### 1. The importance of this lesson:
+### 1. The importance of this learning experience:
 
 Understanding and identifying synthetic media content is critical to maintaining operational security and countering misinformation.
 
@@ -88,18 +88,18 @@ Students should be able to accurately detect AI-generated content and report the
 
 1. Use a combination of visual, textual, and audio analysis tools to detect inconsistencies.
 
-### 4. AAR Guidance for this Lesson
+### 4. AAR Guidance for this Learning experience
 
-1. Conduct After-Action Reviews (AAR) after each major activity to capture lessons learned and reinforce key points.
+1. Conduct After-Action Reviews (AAR) after each major activity to capture learning experiences learned and reinforce key points.
 
 
-### Lesson Requirements
+### Learning experience Requirements
 
 #### Instructor Requirements
 
 An instructor must:
 
-1. Review the entire lesson plan for each lesson they will cover.
+1. Review the entire learning experience plan for each learning experience they will cover.
 2. Be able to obtain, access, and be familiar with the required material and equipment.
 3. Read and understand the referenced material.
 
@@ -111,8 +111,8 @@ An instructor must attend the following training:
 An instructor should:
 
 1. Have received this block of instruction as a student.
-2. Participated in this instruction as an assistant instructor for this lesson.
-3. Participated in the AAR for this lesson.
+2. Participated in this instruction as an assistant instructor for this learning experience.
+3. Participated in the AAR for this learning experience.
 
 #### Additional Support
 
@@ -168,7 +168,7 @@ Assist with classroom setup, help facilitate group discussions, and provide one-
 1. Critical analysis and attention to detail.
 
 
-## Lesson Timeline
+## Learning experience Timeline
 
 | Academic (y/n) | Broad Topic                   | EST TIME Min | Methods                        | Slide Range |
 | -------------- | ----------------------------- | ------------ | ------------------------------ | ----------- |
@@ -182,11 +182,11 @@ Assist with classroom setup, help facilitate group discussions, and provide one-
 | y              | Assessment / Check On Learning| 10           | Summary and Feedback           | 21-23       |
 
 
-## SECTION 2: LESSON INTRODUCTION
+## SECTION 2: LEARNING EXPERIENCE INTRODUCTION
 
 **Concrete Experience / Motivator:** 
 NOTE: This concrete experience is designed to engage students and introduce the topic of Synthetic Content detection.
-NOTE: In this lesson, Synthetic content means AI-generated content.
+NOTE: In this learning experience, Synthetic content means AI-generated content.
 NOTE: Go to Slide 1
 
 Students write down any differences they notice:
@@ -205,11 +205,11 @@ NOTE: Go to Slide 3
 
 NOTE: Go to Slide 4
 
-#### SLIDE 4: Lesson Title
-NOTE: Instructor transition while they have students' attention to the lesson title which is the answer to the challenge presented in the concrete experience.
+#### SLIDE 4: Learning experience Title
+NOTE: Instructor transition while they have students' attention to the learning experience title which is the answer to the challenge presented in the concrete experience.
 NOTE: Go to Slide 5
 
-#### SLIDE 5: Lesson Objectives
+#### SLIDE 5: Learning experience Objectives
 **Instructional Lead-in:** 
 "The learning objectives for this block are to recognize AI-generated content effectively using specific detection techniques for images, text, and video."
 
@@ -224,7 +224,7 @@ NOTE: Instructor must say the following to the students as AI Generated is often
 2. Explain the significance of being able to detect and analyze AI-generated content.
 
 
-## SECTION 3: LESSON PRESENTATION
+## SECTION 3: LEARNING EXPERIENCE PRESENTATION
 
 ### Learning Step Activity (LSA) 1: Introduction to Synthetic Content Detection
 
@@ -432,7 +432,7 @@ Notice how long the boys shoulder would need to be
 Notice the toes
 Notice the dark figure in the background
 
-## SECTION 3: LESSON PRESENTATION
+## SECTION 3: LEARNING EXPERIENCE PRESENTATION
 
 ### Learning Step Activity (LSA) 3: Analyzing Structural Consistency
 
@@ -596,11 +596,11 @@ NOTE: Go to Slide 33
 
 **Learning Step Activity Text:**
 
-> Summarize the key points and takeaways from the lesson.
+> Summarize the key points and takeaways from the learning experience.
 
 **Activity**
 
-1. Recap the main points discussed in the lesson.
+1. Recap the main points discussed in the learning experience.
 2. Highlight the importance of detecting synthetic content.
 3. Encourage students to apply the techniques learned in their own work.
 
@@ -652,9 +652,9 @@ The assessment procedures will include practical exercises, performance checklis
 
 ## APPENDIX C - Practical Exercises and Solutions
 
-The practical exercises will involve analyzing various media types to identify AI-generated content using the detection techniques. Students will apply the techniques and tools learned during the lesson to complete these exercises. Detailed instructions and solutions will be provided to ensure thorough understanding and application of the skills.
+The practical exercises will involve analyzing various media types to identify AI-generated content using the detection techniques. Students will apply the techniques and tools learned during the learning experience to complete these exercises. Detailed instructions and solutions will be provided to ensure thorough understanding and application of the skills.
 
-### AI Images used in the lesson
+### AI Images used in the learning experience
 ![Image1-AI-Aligators.jpeg](Audio_Visual-Identifying_Synthetic_Content/Image1-AI-Aligators.jpeg)
 ![Image2-AI-Car.jpg](Audio_Visual-Identifying_Synthetic_Content/Image2-AI-Car.jpg)
 ![Image5-AI-Hunting_Bear.jpg](Audio_Visual-Identifying_Synthetic_Content/Image5-AI-Hunting_Bear.jpg)
@@ -662,7 +662,7 @@ The practical exercises will involve analyzing various media types to identify A
 ![Image8-AI-Man_Carrying_Kids.jpeg](Audio_Visual-Identifying_Synthetic_Content/Image8-AI-Man_Carrying_Kids.jpeg)
 ![Image9-AI-FACTHCHECK-Man_Carrying_Kids.jpeg](Audio_Visual-Identifying_Synthetic_Content/Image9-AI-FACTHCHECK-Man_Carrying_Kids.jpeg)
 
-### Real Images used in the lesson
+### Real Images used in the learning experience
 
 ![Image3-Real-Bird.jpg](Audio_Visual-Identifying_Synthetic_Content/Image3-Real-Bird.jpg)
 ![Image4-Real-Car.jpg](Audio_Visual-Identifying_Synthetic_Content/Image4-Real-Car.jpg)

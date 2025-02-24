@@ -1,10 +1,10 @@
-# Lesson Plan: Countering Misinformation and Disinformation
+# Learning experience Plan: Countering Misinformation and Disinformation
 
-## SECTION 0: LESSON OVERVIEW
+## SECTION 0: LEARNING EXPERIENCE OVERVIEW
 
-### Lesson Information
+### Learning experience Information
 
-**Lesson Title**: Countering Misinformation and Disinformation
+**Learning experience Title**: Countering Misinformation and Disinformation
 
 **Program of Instruction (POI)**: Countering Malign Information / Version 1.0
 
@@ -28,9 +28,9 @@
 - FD1 - This training product has been reviewed by the training developer in coordination with the TRADOC foreign disclosure officer. This training product can be used to instruct international military students in all approved countries.
 
 
-### SCOPE OF LESSON
+### SCOPE OF LEARNING EXPERIENCE
 
-This 180-minute lesson is an intermediate orientation to developing counter-narratives to misinformation and disinformation. The end state of this lesson is for students to be able to recall and apply the necessary steps to effectively handle scenarios involving misinformation and disinformation. The author's intent is that students learn key principles and procedures through a series of scenario-based exercises. By the end of the lesson, students should have a solid grasp of the actions to take in the relevant scenarios. This lesson is common to all government officials working in the information environment and links to other parts of the curriculum by reinforcing the character attributes of accountability and responsibility.
+This 180-minute learning experience is an intermediate orientation to developing counter-narratives to misinformation and disinformation. The end state of this learning experience is for students to be able to recall and apply the necessary steps to effectively handle scenarios involving misinformation and disinformation. The author's intent is that students learn key principles and procedures through a series of scenario-based exercises. By the end of the learning experience, students should have a solid grasp of the actions to take in the relevant scenarios. This learning experience is common to all government officials working in the information environment and links to other parts of the curriculum by reinforcing the character attributes of accountability and responsibility.
 
 ### Learning Objectives
 
@@ -62,15 +62,15 @@ This 180-minute lesson is an intermediate orientation to developing counter-narr
 
 ### Instructional Guidance
 
-**Conduct of Lesson** | **NOTE:** Before presenting this lesson, instructors must thoroughly prepare by studying this lesson and identifying reference material.
+**Conduct of Learning experience** | **NOTE:** Before presenting this learning experience, instructors must thoroughly prepare by studying this learning experience and identifying reference material.
 
-- Review the lesson plan and all related materials.
+- Review the learning experience plan and all related materials.
 - Set up the classroom with the necessary equipment and materials.
 - Familiarize yourself with the detection tools and example media content.
 
-### 1. The importance of this lesson: (Why)
+### 1. The importance of this learning experience: (Why)
 
-Understanding and identifying misinformation and disinformation is critical to maintaining operational security and countering adversarial influence. This lesson ties directly to the students' goals of protecting the integrity of information within their operations.
+Understanding and identifying misinformation and disinformation is critical to maintaining operational security and countering adversarial influence. This learning experience ties directly to the students' goals of protecting the integrity of information within their operations.
 
 ### 2. What we want our students to Achieve: (Outcomes/Standard)
 
@@ -80,17 +80,17 @@ Students should be able to accurately identify misinformation and disinformation
 
 1. Use a combination of visual, textual, and audio analysis tools to detect inconsistencies and develop counter-narratives.
 
-### 4. AAR Guidance for this Lesson
+### 4. AAR Guidance for this Learning experience
 
-1. Conduct After-Action Reviews (AAR) after each major activity to capture lessons learned and reinforce key points.
+1. Conduct After-Action Reviews (AAR) after each major activity to capture learning experiences learned and reinforce key points.
 
 
-### Lesson Requirements
+### Learning experience Requirements
 
 #### Instructor Requirements
 
 An instructor must:
-1. Review the entire lesson plan for each lesson they will cover.  
+1. Review the entire learning experience plan for each learning experience they will cover.  
 2. Be able to obtain, access, and be familiar with the required material and equipment.
 3. Read and understand the referenced material.
 
@@ -102,8 +102,8 @@ An instructor must attend the following training:
 An instructor should:
 
 1. Have received this block of instruction as a student.
-2. Participated in this instruction as an assistant instructor for this lesson.
-3. Participated in the AAR for this lesson.
+2. Participated in this instruction as an assistant instructor for this learning experience.
+3. Participated in the AAR for this learning experience.
 
 #### Additional Support 
 
@@ -132,7 +132,7 @@ Assist with classroom setup, help facilitate group discussions, and provide one-
 ### Pre-Requisite Tasks
 
 1. Review basic concepts of AI and machine learning.
-2. Complete the lesson on identifying malign information.
+2. Complete the learning experience on identifying malign information.
 
 
 ### Knowledge Required
@@ -163,7 +163,7 @@ Assist with classroom setup, help facilitate group discussions, and provide one-
 1. Critical analysis and attention to detail.
 
 
-## Lesson Timeline
+## Learning experience Timeline
 
 | Academic (y/n) | Broad Topic             | EST TIME Min | Methods                        | Slide Range |
 | -------------- | ----------------------- | ------------ | ------------------------------ | ----------- |
@@ -177,27 +177,27 @@ Assist with classroom setup, help facilitate group discussions, and provide one-
 | y              | Check On Learning       | 10           | Summary and feedback           | 11, 12      |
 
 
-## SECTION 2: LESSON INTRODUCTION
+## SECTION 2: LEARNING EXPERIENCE INTRODUCTION
 NOTE: Go to Slide 1
-### LESSON Phase: Concrete Experience / Motivator:
-NOTE: Tell an interesting anecdote based on your experience, or recall a recent current event pertaining to the lesson unit topic to gain the student's attention and motivate them to learn the lesson material. The student should be made aware of the Army's Contemporary Operational Environment factors such as the physical environment, military capabilities, technology, and information.
+### LEARNING EXPERIENCE Phase: Concrete Experience / Motivator:
+NOTE: Tell an interesting anecdote based on your experience, or recall a recent current event pertaining to the learning experience unit topic to gain the student's attention and motivate them to learn the learning experience material. The student should be made aware of the Army's Contemporary Operational Environment factors such as the physical environment, military capabilities, technology, and information.
 
 > Students selected report to your designated areas.
 
 
 NOTE: Go to Slide 2
-### LESSON Phase: Publish and Process
+### LEARNING EXPERIENCE Phase: Publish and Process
 
 **Instructional Lead-in:** 
 "The learning objectives for this block are to develop counter-narratives to misinformation and disinformation by leveraging your experiences and expertise."
 
-**Scope Statement:** During this 180-minute block of instruction, you will learn to counter misinformation and disinformation through scenario-based exercises. By the end of the lesson, you should have the skills to develop and implement effective counter-strategies.
+**Scope Statement:** During this 180-minute block of instruction, you will learn to counter misinformation and disinformation through scenario-based exercises. By the end of the learning experience, you should have the skills to develop and implement effective counter-strategies.
 
 
-## SECTION 3: LESSON PRESENTATION
+## SECTION 3: LEARNING EXPERIENCE PRESENTATION
 
 NOTE: Go to Slide 3
-### LESSON Phase: Generalize New Information
+### LEARNING EXPERIENCE Phase: Generalize New Information
 
 ### Learning Step Activity (LSA) 1: Developing Counter Strategies
 
@@ -214,7 +214,7 @@ NOTE: Go to Slide 4
 
 
 NOTE: Go to Slide 5
-### LESSON Phase: Developing TTPs
+### LEARNING EXPERIENCE Phase: Developing TTPs
 
 ### Learning Step Activity (LSA) 3: Creating Tactics, Techniques, and Procedures (TTPs)
 
@@ -229,7 +229,7 @@ NOTE: Go to Slide 6
 
 
 NOTE: Go to Slide 7
-### LESSON Phase: Refining Strategies
+### LEARNING EXPERIENCE Phase: Refining Strategies
 
 ### Learning Step Activity (LSA) 5: Refining Counter Strategies
 
@@ -238,7 +238,7 @@ NOTE: Go to Slide 7
 
 
 NOTE: Go to Slide 8
-### LESSON Phase: Apply
+### LEARNING EXPERIENCE Phase: Apply
 
 ### Learning Step
 
@@ -250,7 +250,7 @@ NOTE: Go to Slide 8
 NOTE: Pass out the Practical Exercise handouts to the students.
 
 NOTE: Go to Slide 9
-### LESSON Phase: Review and Feedback
+### LEARNING EXPERIENCE Phase: Review and Feedback
 
 ### Learning Step Activity (LSA) 7: Review and Feedback
 
@@ -311,18 +311,18 @@ NOTE: Feedback is essential to effective learning. Schedule and provide feedback
 ## APPENDIX B - Assessment Statement and Assessment Plan
 
 ### Assessment Statement: 
-An abbreviated statement that identifies how the lesson's TLO will be assessed as reflected in the Individual Student Assessment Plan (ISAP).
+An abbreviated statement that identifies how the learning experience's TLO will be assessed as reflected in the Individual Student Assessment Plan (ISAP).
 
 
 ### Assessment Plan: 
-If not covered in Section V (Student Evaluation), you may do a detailed write-up of the assessment procedures for the lesson in this appendix. You can include or refer to Test Control SOPs, procedures for procuring and grading tests, or procedures for conducting performance assessments. It is OK to include performance checklists here, but DO NOT include written test items or their answers in this appendix.
+If not covered in Section V (Student Evaluation), you may do a detailed write-up of the assessment procedures for the learning experience in this appendix. You can include or refer to Test Control SOPs, procedures for procuring and grading tests, or procedures for conducting performance assessments. It is OK to include performance checklists here, but DO NOT include written test items or their answers in this appendix.
 
 
 ## APPENDIX C - Practical Exercises and Solutions
 
-If the lesson has a stand-alone PE requiring coordination and detailed explanations, it can be written here. The write-up should include basic lesson plan elements, including the PE objective(s), resources, the time required, safety and risk information, and general procedures.
+If the learning experience has a stand-alone PE requiring coordination and detailed explanations, it can be written here. The write-up should include basic learning experience plan elements, including the PE objective(s), resources, the time required, safety and risk information, and general procedures.
 
-In TDCP, lessons using PE structure will have the PE included in this appendix. If your lesson has a learning step/activity that uses PE as the method of instruction, do not use this appendix.
+In TDCP, learning experiences using PE structure will have the PE included in this appendix. If your learning experience has a learning step/activity that uses PE as the method of instruction, do not use this appendix.
 
 
 ## Handouts

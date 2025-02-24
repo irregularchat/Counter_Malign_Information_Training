@@ -1,10 +1,10 @@
-# Lesson Plan: Identifying Misinformation and Disinformation
+# Learning experience Plan: Identifying Misinformation and Disinformation
 
-## SECTION 0: LESSON OVERVIEW
+## SECTION 0: LEARNING EXPERIENCE OVERVIEW
 
-### Lesson Information
+### Learning experience Information
 
-**Lesson Title**: Identifying Misinformation and Disinformation
+**Learning experience Title**: Identifying Misinformation and Disinformation
 
 **Program of Instruction (POI)**: Countering Malign Influence / Version 1.0
 
@@ -28,9 +28,9 @@
 - FD1 - This training product has been reviewed by the training developer in coordination with the U.S. Army Training and Doctrine Command foreign disclosure officer. This training product can be used to instruct international military students in all approved countries.
 
 
-### SCOPE OF LESSON
+### SCOPE OF LEARNING EXPERIENCE
 
-This 2-hour lesson is an advanced level orientation to identifying misinformation and disinformation. The end state of this lesson is for students to accurately identify misinformation and disinformation with a success rate of 90% within 24 hours of detection. The author's intent is that students learn to apply structured analytic techniques to detect potential deception and validate information sources. By the end of the lesson, students should have a solid grasp of the methods used to discern true information from falsehoods. This lesson is critical for operational effectiveness in information operations and links to other parts of the curriculum by reinforcing information analysis and validation skills.
+This 2-hour learning experience is an advanced level orientation to identifying misinformation and disinformation. The end state of this learning experience is for students to accurately identify misinformation and disinformation with a success rate of 90% within 24 hours of detection. The author's intent is that students learn to apply structured analytic techniques to detect potential deception and validate information sources. By the end of the learning experience, students should have a solid grasp of the methods used to discern true information from falsehoods. This learning experience is critical for operational effectiveness in information operations and links to other parts of the curriculum by reinforcing information analysis and validation skills.
 
 ### Learning Objectives
 
@@ -64,19 +64,19 @@ This 2-hour lesson is an advanced level orientation to identifying misinformatio
 
 ### Instructional Guidance
 
-**Conduct of Lesson:**  
-**NOTE:** Before presenting this lesson, instructors must thoroughly prepare by studying this lesson and identifying reference material.
+**Conduct of Learning experience:**  
+**NOTE:** Before presenting this learning experience, instructors must thoroughly prepare by studying this learning experience and identifying reference material.
 - Review the Deception Detection techniques and examples. Familiarize yourself with the verification tools and scenarios provided.
 - Set up computer and projection equipment. Ensure all required materials and equipment are available and functional.
 - Print handouts and visual aids for distribution to students.
 
-### 1. The importance of this lesson: (Why)
+### 1. The importance of this learning experience: (Why)
 
 Understanding how to identify and analyze misinformation and disinformation is essential for maintaining the integrity of information operations. This skill is crucial for detecting and countering false information, which is vital for effective decision-making and maintaining operational security.
 
 ### 2. What we want our students to Achieve: (Outcomes/Standard)
 
-Students will be able to accurately identify misinformation and disinformation using structured analytic techniques. Their assessments must align with the principles and techniques taught in the lesson, achieving a success rate of at least 90%.
+Students will be able to accurately identify misinformation and disinformation using structured analytic techniques. Their assessments must align with the principles and techniques taught in the learning experience, achieving a success rate of at least 90%.
 
 ### 3. A Possible Technique to Achieve the Outcome
 
@@ -84,18 +84,18 @@ Students will be able to accurately identify misinformation and disinformation u
 2. Group discussions and reviews to reinforce learning and share analytical strategies.
 3. Hands-on practice with verification tools to build confidence and proficiency.
 
-### 4. AAR Guidance for this Lesson
+### 4. AAR Guidance for this Learning experience
 
-1. Conduct an After Action Review (AAR) immediately following the lesson to discuss what went well, what could be improved, and how the techniques learned can be applied in real-world scenarios.
-2. Encourage students to provide feedback on the lesson and the effectiveness of the analytical tools used.
+1. Conduct an After Action Review (AAR) immediately following the learning experience to discuss what went well, what could be improved, and how the techniques learned can be applied in real-world scenarios.
+2. Encourage students to provide feedback on the learning experience and the effectiveness of the analytical tools used.
 
 
-### Lesson Requirements
+### Learning experience Requirements
 
 #### Instructor Requirements
 
 An instructor must:
-1. Review the entire lesson plan for each lesson they will cover.
+1. Review the entire learning experience plan for each learning experience they will cover.
 2. Be able to obtain, access, and be familiar with the required material and equipment.
 3. Read and understand the referenced material.
 
@@ -106,8 +106,8 @@ An instructor must attend the following training:
 An instructor should:
 
 1. Have received this block of instruction as a student
-2. Participated in this instruction as an assistant instructor for this lesson
-3. Participated in the AAR for this lesson
+2. Participated in this instruction as an assistant instructor for this learning experience
+3. Participated in the AAR for this learning experience
 
 #### Additional Support
 
@@ -125,7 +125,7 @@ An instructor should:
 
 ### Equipment and Material Required for Instruction
 
-Lesson Material, Ammo, Expendable, etc.
+Learning experience Material, Ammo, Expendable, etc.
 
 | Equipment                        | Student Ratio | Instructor Ratio | Quantity | Expendable |
 | -------------------------------- | ------------- | ---------------- | -------- | ---------- |
@@ -170,7 +170,7 @@ Lesson Material, Ammo, Expendable, etc.
 1. Recognition and analysis of misinformation and disinformation.
 2. Reporting and documenting findings accurately.
 
-## Lesson Timeline
+## Learning experience Timeline
 
 | Academic (y/n) | Broad Topic                   | EST TIME Min | Methods                        | Slide Range |
 | -------------- | ----------------------------- | ------------ | ------------------------------ | ----------- |
@@ -186,10 +186,10 @@ Lesson Material, Ammo, Expendable, etc.
 | y              | Break                         | 5            | Break                          | 26          |
 
 
-## SECTION 2: LESSON INTRODUCTION
+## SECTION 2: LEARNING EXPERIENCE INTRODUCTION
 
 **Concrete Experience / Motivator:**  
-NOTE: Concrete experience will get buy-in from students by presenting a challenge which does not have a clear answer but is generally covered by the lesson. 
+NOTE: Concrete experience will get buy-in from students by presenting a challenge which does not have a clear answer but is generally covered by the learning experience. 
 
 1. Write down two statements on the whiteboard, both of which are lies, but one is more egregious than the other.
     - Statement 1: "The Earth is flat." (Instructor may create a more egregious lie)
@@ -208,13 +208,13 @@ NOTE: Go to Slide 1
 # Slide 2: Title
 
 
-# Slide 3: Lesson Objectives
+# Slide 3: Learning experience Objectives
 ## Instructional Lead-in
 - Identify misinformation and disinformation effectively using the Deception Detection Framework and Structured Analytic Techniques (SATs).
 
 
 # Slide 4: Scope Statement
-## Scope of Lesson
+## Scope of Learning experience
 - During this 130-minute block of instruction, the students will learn to identify misinformation and disinformation using the skills and frameworks previously covered.
 
 
@@ -483,7 +483,7 @@ References:
 Ask students to reflect on the importance of identifying misinformation and disinformation in their professional and personal lives.
 
 
-# Slide 24: Lesson Summary
+# Slide 24: Learning experience Summary
 ## Review and Summary
 - During this block of instruction, we covered:
   - Key learning step activity 1: MOM framework.
@@ -497,7 +497,7 @@ Ask students to reflect on the importance of identifying misinformation and disi
 ## Closing Remarks and References
 - Recap the importance of identifying misinformation and disinformation.
 - Encourage students to apply these skills in their professional and personal lives.
-- End of the lesson.
+- End of the learning experience.
 
 1. Beebe, S. M., & Pherson, R. H. (2015). *Cases in Intelligence Analysis: Structured Analytic Techniques in Action*.
 2. Pherson, R. H., & Heuer, R. J. (2021). *Structured Analytic Techniques for Intelligence Analysis*.

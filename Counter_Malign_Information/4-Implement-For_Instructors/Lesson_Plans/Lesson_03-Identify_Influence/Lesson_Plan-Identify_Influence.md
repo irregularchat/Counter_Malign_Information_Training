@@ -1,8 +1,8 @@
-## SECTION 0: LESSON OVERVIEW
+## SECTION 0: LEARNING EXPERIENCE OVERVIEW
 
-### Lesson Information
+### Learning experience Information
 
-**Lesson Title**: Identifying and Analyzing Rival Influence Operations
+**Learning experience Title**: Identifying and Analyzing Rival Influence Operations
 
 **Program of Instruction (POI)**: Countering Malign Influence / Version 1.0
 
@@ -26,9 +26,9 @@
  - FD1 - This training product has been reviewed by the training developer in coordination with the U.S. Army Training and Doctrine Command foreign disclosure officer. This training product can be used to instruct international military students in all approved countries.
 
 
-### SCOPE OF LESSON
+### SCOPE OF LEARNING EXPERIENCE
 
-This 2-hour lesson is an advanced level training module on identifying and analyzing rival influence operations using the SCAME framework. The **end state** of this lesson **is for students to accurately identify and analyze rival influence activities, ensuring that at least 90% of assessments are correct and report findings to the relevant authorities. The** author's intent **is that students learn influence detection principles and techniques, apply them during practical exercises, and develop a critical understanding of how to counteract such activities effectively. By the end of the lesson, students should have a solid grasp of the SCAME framework and its application in real-world scenarios. This lesson is critical for maintaining the integrity of operations and** links to other parts of the curriculum** by reinforcing analytical and operational skills.
+This 2-hour learning experience is an advanced level training module on identifying and analyzing rival influence operations using the SCAME framework. The **end state** of this learning experience **is for students to accurately identify and analyze rival influence activities, ensuring that at least 90% of assessments are correct and report findings to the relevant authorities. The** author's intent **is that students learn influence detection principles and techniques, apply them during practical exercises, and develop a critical understanding of how to counteract such activities effectively. By the end of the learning experience, students should have a solid grasp of the SCAME framework and its application in real-world scenarios. This learning experience is critical for maintaining the integrity of operations and** links to other parts of the curriculum** by reinforcing analytical and operational skills.
 
 ### Learning Objectives
 
@@ -56,18 +56,18 @@ This 2-hour lesson is an advanced level training module on identifying and analy
 
 ### Instructional Guidance
 
-**Conduct of Lesson** | **NOTE:** Before presenting this lesson, instructors must thoroughly prepare by studying this lesson and identifying reference material.
+**Conduct of Learning experience** | **NOTE:** Before presenting this learning experience, instructors must thoroughly prepare by studying this learning experience and identifying reference material.
 - Review the SCAME framework and its components. Familiarize yourself with the examples and scenarios provided.
 - Set up computer and projection equipment. Ensure analytical tools are installed and functional.
 - Print handouts and visual aids for distribution to students.
 
-### 1. The importance of this lesson: (Why)
+### 1. The importance of this learning experience: (Why)
 
 Understanding how to identify and analyze rival influence operations is essential for maintaining the integrity of information and operational security. This skill is critical for identifying and mitigating the impact of misinformation and propaganda, which is vital for effective decision-making and countering malign influence.
 
 ### 2. What we want our students to Achieve: (Outcomes/Standard)
 
-Students will be able to accurately identify and analyze rival influence operations using the SCAME framework. Their assessments must align with the principles and techniques taught in the lesson, achieving a success rate of at least 90%.
+Students will be able to accurately identify and analyze rival influence operations using the SCAME framework. Their assessments must align with the principles and techniques taught in the learning experience, achieving a success rate of at least 90%.
 
 ### 3. A Possible Technique to Achieve the Outcome
 
@@ -75,19 +75,19 @@ Students will be able to accurately identify and analyze rival influence operati
 2. Group discussions and reviews to reinforce learning and share analytical strategies.
 3. Hands-on practice with analytical tools to build confidence and proficiency.
 
-### 4. AAR Guidance for this Lesson
+### 4. AAR Guidance for this Learning experience
 
-1. Conduct an After Action Review (AAR) immediately following the lesson to discuss what went well, what could be improved, and how the techniques learned can be applied in real-world scenarios.
-2. Encourage students to provide feedback on the lesson and the effectiveness of the analytical tools used.
+1. Conduct an After Action Review (AAR) immediately following the learning experience to discuss what went well, what could be improved, and how the techniques learned can be applied in real-world scenarios.
+2. Encourage students to provide feedback on the learning experience and the effectiveness of the analytical tools used.
 
 
-### Lesson Requirements
+### Learning experience Requirements
 
 #### Instructor Requirements
 
 An instructor must:
 
-1. Review the entire lesson plan thoroughly.
+1. Review the entire learning experience plan thoroughly.
 2. Be familiar with the SCAME framework and analytical tools.
 
 An instructor must attend the following training:
@@ -97,7 +97,7 @@ An instructor must attend the following training:
 An instructor should:
 
 1. Have experience with influence operations analysis.
-2. Have previously taught or assisted with this lesson.
+2. Have previously taught or assisted with this learning experience.
 3. Have experience as an instructor in a military or academic setting.
 
 #### Additional Support 
@@ -116,7 +116,7 @@ An instructor should:
 
 ### Equipment and Material Required for Instruction
 
-Lesson Material, Ammo, Expendable, etc.
+Learning experience Material, Ammo, Expendable, etc.
 
 | Equipment                        | Student Ratio | Instructor Ratio | Quantity | Expendable |
 | -------------------------------- | ------------- | ---------------- | -------- | ---------- |
@@ -163,7 +163,7 @@ Lesson Material, Ammo, Expendable, etc.
 2. Reporting and documenting findings accurately.
 
 
-## Lesson Timeline
+## Learning experience Timeline
 
 | Academic (y/n) | Broad Topic | EST TIME Min | Methods                        |
 | -------------- | ----------- | ------------ | ------------------------------ |
@@ -177,7 +177,7 @@ Lesson Material, Ammo, Expendable, etc.
 | y              |             | 15           | Assessment / Check On Learning |
 
 
-## SECTION 2: LESSON INTRODUCTION
+## SECTION 2: LEARNING EXPERIENCE INTRODUCTION
 
 **Concrete Experience / Motivator:** 
 Share an anecdote about a recent case of influence operations impacting a mission. Highlight the importance of being able to detect and analyze such activities to maintain operational security.
@@ -185,7 +185,7 @@ Share an anecdote about a recent case of influence operations impacting a missio
 > Example: "In a recent incident, misinformation spread by rival forces led to confusion and disrupted our operations. Being able to identify and analyze such influence activities is crucial for countering them effectively."
 
 **Instructional Lead-in:** 
-"The learning objectives for this block are to recognize and analyze rival influence operations using the SCAME framework. By the end of this lesson, you will be able to accurately identify influence activities and report your findings."
+"The learning objectives for this block are to recognize and analyze rival influence operations using the SCAME framework. By the end of this learning experience, you will be able to accurately identify influence activities and report your findings."
 
 **Scope Statement:** During this 2-hour block of instruction, the students will learn to detect and analyze influence operations using the SCAME framework. They will participate in practical exercises to apply these techniques and gain confidence in their ability to counteract rival influence activities.
 
@@ -195,7 +195,7 @@ Share an anecdote about a recent case of influence operations impacting a missio
 2. Explain the significance of being able to detect and analyze influence operations.
 
 
-## SECTION 3: LESSON PRESENTATION
+## SECTION 3: LEARNING EXPERIENCE PRESENTATION
 
 ### Learning Step Activity (LSA) 1: Introduction to SCAME Framework
 
@@ -360,5 +360,5 @@ The assessment procedures will include practical exercises, performance checklis
 
 ## APPENDIX C - Practical Exercises and Solutions
 
-The practical exercises will involve analyzing various scenarios to identify rival influence operations using the SCAME framework. Students will apply the techniques and tools learned during the lesson to complete these exercises. Detailed instructions and solutions will be provided to ensure thorough understanding and application of the skills.
+The practical exercises will involve analyzing various scenarios to identify rival influence operations using the SCAME framework. Students will apply the techniques and tools learned during the learning experience to complete these exercises. Detailed instructions and solutions will be provided to ensure thorough understanding and application of the skills.
 
