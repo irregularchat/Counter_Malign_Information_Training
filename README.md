@@ -132,7 +132,7 @@ This structure was developed after over a year of course development and instruc
 ### Obsidian 
 This markdown structure is best when used with [Obsidian](https://obsidian.md/) 
 
-To expand or collapse sections/headers in a note Top Menu > Insert > {"Fold" or “Unfold”}  or configure a keyboard shortcut using the app preferences
+To expand or collapse sections/headers in a note Top Menu > Insert > {"Fold" or "Unfold"}  or configure a keyboard shortcut using the app preferences
 
 ## Troubleshooting
 ### sed on MacOS
@@ -185,7 +185,7 @@ process_instructor_pptx() {
 
 process_lesson_plan_md() {
     # Convert all markdown files with 'Lesson_Plan' prefix to PDF using Pandoc
-    find .. -type f -name 'Lesson_Plan*.md' -exec pandoc {} --pdf-engine=xelatex -o "{}.pdf" \;
+    find .. -type f -name 'Lesson_Plan*.md' -exec sh -c 'pandoc "$0" --pdf-engine=xelatex -o "${0%.md}.pdf"' {} \;
     # Move all converted PDF files with 'Lesson_Plan' prefix to the current directory
     find .. -type f -name 'Lesson_Plan*.pdf' -exec mv {} ./ \;
 }
@@ -214,6 +214,7 @@ copy_course_files() {
 convert_all_md_to_pdf() {
     # Convert all markdown files in the current directory to PDF using Pandoc
     for file in *.md; do
+        # Remove the .md extension before adding .pdf
         pandoc "$file" --pdf-engine=xelatex -o "${file%.md}.pdf"
     done
 }
