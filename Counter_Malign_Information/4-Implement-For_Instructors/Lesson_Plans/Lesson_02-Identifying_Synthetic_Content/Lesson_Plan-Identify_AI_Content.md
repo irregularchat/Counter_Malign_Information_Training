@@ -702,5 +702,5 @@ The practical exercises will involve analyzing various media types to identify A
 ![Image3-Real-Bird.jpg](Audio_Visual-Identifying_Synthetic_Content/Image3-Real-Bird.jpg)
 ![Image4-Real-Car.jpg](Audio_Visual-Identifying_Synthetic_Content/Image4-Real-Car.jpg)
 ![Image7-Real-Mob_Journalist.jpeg](Audio_Visual-Identifying_Synthetic_Content/Image7-Real-Mob_Journalist.jpeg)
-![Image11-Real_Shy_Bird.jpeg](Audio_Visual-Identifying_Synthetic_Content/Image11-Real_Shy_Bird.jpeg)
+![Image11-Real-Shy_Bird.jpeg](Audio_Visual-Identifying_Synthetic_Content/Image11-Real-Shy_Bird.jpeg)
 ![Image14-Real-Hospital_Group.jpeg](Audio_Visual-Identifying_Synthetic_Content/Image14-Real-Hospital_Group.jpeg)
