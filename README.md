@@ -173,7 +173,8 @@ export PATH=/Library/TeX/texbin:$PATH
 which xelatex
 ```
 
-Location to execute this is: `/Counter_Malign_Information_Training/Counter_Malign_Information/4-Implement-For_Instructors/Lesson_Plans/Instructor_Copy/`
+Location to execute this is [Instructor_Copy](./Counter_Malign_Information/4-Implement-For_Instructors/Lesson_Plans/Instructor_Copy/). Move there with `cd ./Counter_Malign_Information/4-Implement-For_Instructors/Lesson_Plans/Instructor_Copy/`
+
 ```BASH
 # Convert all PowerPoint files with 'Instructor-' prefix to PDF using LibreOffice
 find .. -type f -name 'Instructor-*.pptx' -exec /Applications/LibreOffice.app/Contents/MacOS/soffice --headless --convert-to pdf {} \;
