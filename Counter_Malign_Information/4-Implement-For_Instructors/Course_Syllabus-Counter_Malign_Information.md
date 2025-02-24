@@ -1,4 +1,4 @@
-# Technical Exchange Syllabus
+# Learning Experience Syllabus
 
 ## Classification Level
 **Unclassified**
@@ -7,7 +7,7 @@
 **Counter Malign Information / Version 1.0**
 
 ## Prerequisites
-Access to the Internet
+Computer with access to the Internet
 Accounts with:
 - ChatGPT: https://chatgpt.com
 - Google Gemeni: https://gemini.google.com
@@ -16,16 +16,15 @@ Accounts with:
 ## Instruction Hours
 17 hours + Validation exercise.
 
-
-## Technical Exchange Days
+## Learning Experience Duration
 4 days
 
-## Technical Exchange Description
-- **Description**: This Technical Exchange is designed to equip participants with the skills necessary to identify, analyze, and counteract malign information efforts. It covers the detection of AI-generated content, techniques for identifying misinformation and disinformation, and strategies for countering these threats effectively. The curriculum combines theoretical knowledge with practical exercises, enhancing the learners' ability to apply these skills in real-world scenarios.
-- **Target Audience**: This Technical Exchange is intended for military personnel, intelligence analysts, and government officials who operate in environments where information integrity is crucial. It is also suitable for civilians working in related fields of security, media, and information technology.
+## Learning Experience Description
+- **Description**: This Learning Experience is designed to equip participants with the skills necessary to identify, analyze, and counteract malign information efforts. It covers the detection of AI-generated content, techniques for identifying misinformation and disinformation, and strategies for countering these threats effectively. The curriculum combines theoretical knowledge with practical exercises, enhancing the learners' ability to apply these skills in real-world scenarios.
+- **Target Audience**: This Learning Experience is intended for military personnel, intelligence analysts, and government officials who operate in environments where information integrity is crucial. It is also suitable for civilians working in related fields of security, media, and information technology.
 
 ## Effective Date
-**20240624-V1#**
+**YYYY-MM-DD-V2#**
 
 ---
 
@@ -34,7 +33,7 @@ Accounts with:
 
 ---
 
-## Technical Exchange Objectives
+## Learning Experience Objectives
 1. Understand the fundamentals of AI-generated content and its implications.
 2. Develop skills to recognize patterns indicative of misinformation and disinformation.
 3. Apply structured analytic techniques to evaluate the credibility of information.
@@ -43,26 +42,26 @@ Accounts with:
 
 ---
 
-## Technical Exchange Outline
+## Learning Experience Outline
 - **Day 1**: Introduction to Information Integrity, Creating AI Content, Recognizing AI Generated Content
 - **Day 2**: Identifying Rival Influence (SCAME), Identifying Misinformation and Disinformation
 - **Day 3**: Countering Misinformation and Disinformation
-- **Day 4**: Culminating Exercise, Technical Exchange Review, Q&A Session, Closing
+- **Day 4**: Culminating Exercise, Learning Experience Review, Q&A Session, Closing
 
 ---
 
-## Technical Exchange Materials
+## Learning Experience Materials
 - **Required Texts**: N/A
 - **Recommended Readings**: 
-	- Detect Fakes with Kellogg's online tool - https://detectfakes.kellogg.northwestern.edu/ 
+	- AI Master List Tool - https://doc.clickup.com/25598832/d/h/rd6vg-14247/0b79ca1dc0f7429/rd6vg-12207
 	- Beebe, S. M., & Pherson, R. H. (2015). *Cases in Intelligence Analysis: Structured Analytic Techniques in Action*.
 	- Pherson, R. H., & Heuer, R. J. (2021). *Structured Analytic Techniques for Intelligence Analysis*.
 - Surveys:
-    Technical Exchange Pre-Survey - https://forms.osi.apps.mil/r/1jUjjGQiWR
-    Media sources survey  - https://forms.osi.apps.mil/r/Q2NSt7U30E
-    Technical Exchange Post-Survey - https://forms.osi.apps.mil/r/eDHWur535W
+    Learning Experience Pre-Survey - SURVEY_LINK_HERE
+    Media sources survey  - SURVEY_LINK_HERE
+    Learning Experience Post-Survey - SURVEY_LINK_HERE
 - **Other Materials**: 	
-	- AI Master List Tool - https://doc.clickup.com/25598832/d/h/rd6vg-14247/0b79ca1dc0f7429/rd6vg-12207
+	- Detect Fakes with Kellogg's online tool - https://detectfakes.kellogg.northwestern.edu/ (Practice Detecting AI Generated Content)
 
    
 **Articles to use during the TE**
@@ -86,21 +85,21 @@ Accounts with:
 
 
 **Grading and Evaluation**
-- **Participation**: The Technical Exchange will emphasize participation and practical application. Formal grading may not apply.
+- **Participation**: The Learning Experience will emphasize participation and practical application. Formal grading may not apply.
 - A validation exercise to solve questions and give hands on experience is aply it the last day.
 ---
 
 ## Policies
 ### Attendance Policy
-Participants are expected to attend all scheduled sessions due to the intensive nature of the Technical Exchange and the progression of content coverage. Absences must be justified and communicated to the instructor in advance.
+Participants are expected to attend all scheduled sessions due to the intensive nature of the Learning Experience and the progression of content coverage. Absences must be justified and communicated to the instructor in advance.
 
 ### Accommodations
-Participants requiring special accommodations should contact the instructor at the beginning of the Technical Exchange to make necessary arrangements. Every effort will be made to ensure all Technical Exchange materials and activities are accessible.
+Participants requiring special accommodations should contact the instructor at the beginning of the Learning Experience to make necessary arrangements. Every effort will be made to ensure all Learning Experience materials and activities are accessible.
 
 ---
 
 ## Additional Information
-Guest speakers will be invited to share insights and real-world experiences during the Technical Exchange.
+Guest speakers will be invited to share insights and real-world experiences during the Learning Experience.
 
 ---
 

@@ -23,7 +23,7 @@ Cuentas en:
 - **Público Objetivo**: Este Intercambio Técnico está dirigido a personal militar, analistas de inteligencia y funcionarios gubernamentales que operan en entornos donde la integridad de la información es crucial. También es adecuado para civiles que trabajan en campos relacionados con la seguridad, los medios de comunicación y la tecnología de la información.
 
 ## Fecha de Vigencia
-**20240624-V1#**
+**YYYY-MM-DD-V2#**
 
 ---
 
@@ -52,15 +52,15 @@ Cuentas en:
 ## Materiales del Intercambio Técnico
 - **Textos Requeridos**: N/A
 - **Lecturas Recomendadas**: 
-	- Detecta Falsificaciones con la herramienta en línea de Kellogg - https://detectfakes.kellogg.northwestern.edu/ 
+	- Herramienta AI Master List - https://doc.clickup.com/25598832/d/h/rd6vg-14247/0b79ca1dc0f7429/rd6vg-12207
 	- Beebe, S. M., & Pherson, R. H. (2015). *Casos en Análisis de Inteligencia: Técnicas Analíticas Estructuradas en Acción*.
 	- Pherson, R. H., & Heuer, R. J. (2021). *Técnicas Analíticas Estructuradas para el Análisis de Inteligencia*.
 - Encuestas:
-    Encuesta Previa al Intercambio Técnico - https://forms.osi.apps.mil/r/1jUjjGQiWR
-    Encuesta de fuentes de medios  - https://forms.osi.apps.mil/r/Q2NSt7U30E
-    Encuesta Posterior al Intercambio Técnico - https://forms.osi.apps.mil/r/eDHWur535W
+    Encuesta Previa al Intercambio Técnico - SURVEY_LINK_HERE
+    Encuesta de fuentes de medios  - SURVEY_LINK_HERE
+    Encuesta Posterior al Intercambio Técnico - SURVEY_LINK_HERE
 - **Otros Materiales**: 	
-	- Herramienta AI Master List - https://doc.clickup.com/25598832/d/h/rd6vg-14247/0b79ca1dc0f7429/rd6vg-12207
+	- Detecta Falsificaciones con la herramienta en línea de Kellogg - https://detectfakes.kellogg.northwestern.edu/ (Practice Detecting AI Generated Content)
 
    
 **Artículos a usar durante el TE**
