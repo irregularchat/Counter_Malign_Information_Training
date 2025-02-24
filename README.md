@@ -176,41 +176,54 @@ which xelatex
 Location to execute this is [Instructor_Copy](./Counter_Malign_Information/4-Implement-For_Instructors/Lesson_Plans/Instructor_Copy/). Move there with `cd ./Counter_Malign_Information/4-Implement-For_Instructors/Lesson_Plans/Instructor_Copy/`
 
 ```BASH
-# Convert all PowerPoint files with 'Instructor-' prefix to PDF using LibreOffice
-find .. -type f -name 'Instructor-*.pptx' -exec /Applications/LibreOffice.app/Contents/MacOS/soffice --headless --convert-to pdf {} \;
+process_instructor_pptx() {
+    # Convert all PowerPoint files with 'Instructor-' prefix to PDF using LibreOffice
+    find .. -type f -name 'Instructor-*.pptx' -exec /Applications/LibreOffice.app/Contents/MacOS/soffice --headless --convert-to pdf {} \;
+    # Move all converted PDF files with 'Instructor-' prefix to the current directory
+    find .. -type f -name 'Instructor-*.pdf' -exec mv {} ./ \;
+}
 
-# Move all converted PDF files with 'Instructor-' prefix to the current directory
-find .. -type f -name 'Instructor-*.pdf' -exec mv {} ./ \;
+process_lesson_plan_md() {
+    # Convert all markdown files with 'Lesson_Plan' prefix to PDF using Pandoc
+    find .. -type f -name 'Lesson_Plan*.md' -exec pandoc {} --pdf-engine=xelatex -o "{}.pdf" \;
+    # Move all converted PDF files with 'Lesson_Plan' prefix to the current directory
+    find .. -type f -name 'Lesson_Plan*.pdf' -exec mv {} ./ \;
+}
 
-# Convert all markdown files with 'Lesson_Plan' prefix to PDF using Pandoc
-find .. -type f -name 'Lesson_Plan*.md' -exec pandoc {} --pdf-engine=xelatex -o "{}.pdf" \;
+process_advanced_organizer_md() {
+    # Convert all markdown files with 'Advanced_Organizer' prefix to PDF using Pandoc
+    find .. -type f -name 'Advanced_Organizer*.md' -exec pandoc {} --pdf-engine=xelatex -o "{}.pdf" \;
+    # Move all converted PDF files with 'Advanced_Organizer' prefix to the current directory
+    find .. -type f -name 'Advanced_Organizer*.pdf' -exec mv {} ./ \;
+}
 
-# Move all converted PDF files with 'Lesson_Plan' prefix to the current directory
-find .. -type f -name 'Lesson_Plan*.pdf' -exec mv {} ./ \;
+process_handout_md() {
+    # Convert all markdown files with 'Handout' prefix to PDF using Pandoc
+    find .. -type f -iname 'Handout*.md' -exec pandoc {} --pdf-engine=xelatex -o "{}.pdf" \;
+    # Move all converted PDF files with 'Handout' prefix to the current directory
+    find .. -type f -iname 'Handout*.pdf' -exec mv {} ./ \;
+}
 
-# Convert all markdown files with 'Advanced_Organizer' prefix to PDF using Pandoc
-find .. -type f -name 'Advanced_Organizer*.md' -exec pandoc {} --pdf-engine=xelatex -o "{}.pdf" \;
+copy_course_files() {
+    # Copy the course schedule markdown file to the current directory in the language of the course
+    cp ../../3-Design/2-*-Counter_Malign_Information-Schedule.md ./
+    # Copy the course syllabus markdown file to the current directory in the language of the course
+    cp ../*-LE-Syllabus-Counter_Malign_Information.md ./
+}
 
-# Move all converted PDF files with 'Advanced_Organizer' prefix to the current directory
-find .. -type f -name 'Advanced_Organizer*.pdf' -exec mv {} ./ \;
+convert_all_md_to_pdf() {
+    # Convert all markdown files in the current directory to PDF using Pandoc
+    for file in *.md; do
+        pandoc "$file" --pdf-engine=xelatex -o "${file%.md}.pdf"
+    done
+}
 
-# Convert all markdown files with 'Handout' prefix to PDF using Pandoc
-find .. -type f -iname 'Handout*.md' -exec pandoc {} --pdf-engine=xelatex -o "{}.pdf" \;
-
-# Move all converted PDF files with 'Handout' prefix to the current directory
-find .. -type f -iname 'Handout*.pdf' -exec mv {} ./ \;
-
-# Copy the course schedule markdown file to the current directory in the language of the course
-cp ../../3-Design/2-*-Counter_Malign_Information-Schedule.md ./
-
-# Copy the course syllabus markdown file to the current directory in the language of the course
-cp ../*-LE-Syllabus-Counter_Malign_Information.md ./
-
-# Change to the current directory (no operation needed, already in current directory)
-cd ./
-
-# Convert all markdown files in the current directory to PDF using Pandoc
-for file in *.md; do
-    pandoc "$file" --pdf-engine=xelatex -o "${file%.md}.pdf"
-done
+# Main script execution
+# comment out the functions you don't want to run
+process_instructor_pptx
+process_lesson_plan_md
+process_advanced_organizer_md
+process_handout_md
+copy_course_files
+convert_all_md_to_pdf
 ```
