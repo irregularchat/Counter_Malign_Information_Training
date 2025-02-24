@@ -687,20 +687,20 @@ The assessment procedures will include practical exercises, performance checklis
 The practical exercises will involve analyzing various media types to identify AI-generated content using the detection techniques. Students will apply the techniques and tools learned during the learning experience to complete these exercises. Detailed instructions and solutions will be provided to ensure thorough understanding and application of the skills.
 
 ### AI Images used in the learning experience
-![Image1-AI-Aligators.jpeg](Audio_Visual-Identifying_Synthetic_Content/Image1-AI-Aligators.jpeg)
-![Image2-AI-Car.jpg](Audio_Visual-Identifying_Synthetic_Content/Image2-AI-Car.jpg)
-![Image5-AI-Hunting_Bear.jpg](Audio_Visual-Identifying_Synthetic_Content/Image5-AI-Hunting_Bear.jpg)
-![Image6-AI-Pope.png](Audio_Visual-Identifying_Synthetic_Content/Image6-AI-Pope.png)
-![Image8-AI-Man_Carrying_Kids.jpeg](Audio_Visual-Identifying_Synthetic_Content/Image8-AI-Man_Carrying_Kids.jpeg)
-![Image9-AI-FACTHCHECK-Man_Carrying_Kids.jpeg](Audio_Visual-Identifying_Synthetic_Content/Image9-AI-FACTHCHECK-Man_Carrying_Kids.jpeg)
-![Image10-AI-Family.png](Audio_Visual-Identifying_Synthetic_Content/Image10-AI-Family.png)
-![Image12-AI-MLK.png](Audio_Visual-Identifying_Synthetic_Content/Image12-AI-MLK.png)
-![Image13-AI-Hospital.jpeg](Audio_Visual-Identifying_Synthetic_Content/Image13-AI-Hospital.jpeg)
+![Image1-AI-Aligators.jpeg](./Audio_Visual-Identifying_Synthetic_Content/Image1-AI-Aligators.jpeg)
+![Image2-AI-Car.jpg](./Audio_Visual-Identifying_Synthetic_Content/Image2-AI-Car.jpg)
+![Image5-AI-Hunting_Bear.jpg](./Audio_Visual-Identifying_Synthetic_Content/Image5-AI-Hunting_Bear.jpg)
+![Image6-AI-Pope.png](./Audio_Visual-Identifying_Synthetic_Content/Image6-AI-Pope.png)
+![Image8-AI-Man_Carrying_Kids.jpeg](./Audio_Visual-Identifying_Synthetic_Content/Image8-AI-Man_Carrying_Kids.jpeg)
+![Image9-AI-FACTHCHECK-Man_Carrying_Kids.jpeg](./Audio_Visual-Identifying_Synthetic_Content/Image9-AI-FACTHCHECK-Man_Carrying_Kids.jpeg)
+![Image10-AI-Family.png](./Audio_Visual-Identifying_Synthetic_Content/Image10-AI-Family.png)
+![Image12-AI-MLK.png](./Audio_Visual-Identifying_Synthetic_Content/Image12-AI-MLK.png)
+![Image13-AI-Hospital.jpeg](./Audio_Visual-Identifying_Synthetic_Content/Image13-AI-Hospital.jpeg)
 
 ### Real Images used in the learning experience
 
-![Image3-Real-Bird.jpg](Audio_Visual-Identifying_Synthetic_Content/Image3-Real-Bird.jpg)
-![Image4-Real-Car.jpg](Audio_Visual-Identifying_Synthetic_Content/Image4-Real-Car.jpg)
-![Image7-Real-Mob_Journalist.jpeg](Audio_Visual-Identifying_Synthetic_Content/Image7-Real-Mob_Journalist.jpeg)
-![Image11-Real-Shy_Bird.jpeg](Audio_Visual-Identifying_Synthetic_Content/Image11-Real-Shy_Bird.jpeg)
-![Image14-Real-Hospital_Group.jpeg](Audio_Visual-Identifying_Synthetic_Content/Image14-Real-Hospital_Group.jpeg)
+![Image3-Real-Bird.jpg](./Audio_Visual-Identifying_Synthetic_Content/Image3-Real-Bird.jpg)
+![Image4-Real-Car.jpg](./Audio_Visual-Identifying_Synthetic_Content/Image4-Real-Car.jpg)
+![Image7-Real-Mob_Journalist.jpeg](./Audio_Visual-Identifying_Synthetic_Content/Image7-Real-Mob_Journalist.jpeg)
+![Image11-Real-Shy_Bird.jpeg](./Audio_Visual-Identifying_Synthetic_Content/Image11-Real-Shy_Bird.jpeg)
+![Image14-Real-Hospital_Group.jpeg](./Audio_Visual-Identifying_Synthetic_Content/Image14-Real-Hospital_Group.jpeg)
