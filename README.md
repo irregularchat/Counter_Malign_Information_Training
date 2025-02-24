@@ -206,9 +206,11 @@ process_handout_md() {
 
 copy_course_files() {
     # Copy the course schedule markdown file to the current directory in the language of the course
-    cp ../../3-Design/2-*-Counter_Malign_Information-Schedule.md ./
+    cp ../../3-Design/2-EN-Counter_Malign_Information-Schedule.md ./
+    cp ../../3-Design/2-ES-Counter_Malign_Information-Schedule.md ./
     # Copy the course syllabus markdown file to the current directory in the language of the course
-    cp ../*-LE-Syllabus-Counter_Malign_Information.md ./
+    cp ../EN-LE-Syllabus-Counter_Malign_Information.md ./
+    cp ../ES-LE-Syllabus-Counter_Malign_Information.md ./
 }
 
 convert_all_md_to_pdf() {
