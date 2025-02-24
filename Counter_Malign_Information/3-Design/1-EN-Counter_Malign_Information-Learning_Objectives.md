@@ -1,5 +1,4 @@
-Understood, let's revise the schedule while maintaining the total duration of 1020 minutes, and reallocate the extra 230 minutes freed up from removing certain sections. Here's the adjusted training schedule with redistributed time:
-
+# Training Schedule
 | Ordered | Objective Title                               | EST Total Min | Mode of Delivery       | Day |
 | ------- | --------------------------------------------- | ------------- | ---------------------- | --- |
 | 0       | Event Start                                   | 50            | Instruction (Resident) | 1   |

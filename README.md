@@ -200,11 +200,11 @@ find .. -type f -iname 'Handout*.md' -exec pandoc {} --pdf-engine=xelatex -o "{}
 # Move all converted PDF files with 'Handout' prefix to the current directory
 find .. -type f -iname 'Handout*.pdf' -exec mv {} ./ \;
 
-# Copy the course schedule markdown file to the current directory
-cp ../../3-Design/2-Counter_Malign_Information-Schedule.md ./
+# Copy the course schedule markdown file to the current directory in the language of the course
+cp ../../3-Design/2-*-Counter_Malign_Information-Schedule.md ./
 
-# Copy the course syllabus markdown file to the current directory
-cp ../Course_Syllabus-Counter_Malign_Information.md ./
+# Copy the course syllabus markdown file to the current directory in the language of the course
+cp ../*-LE-Syllabus-Counter_Malign_Information.md ./
 
 # Change to the current directory (no operation needed, already in current directory)
 cd ./
