@@ -158,8 +158,8 @@ To expand or collapse sections/headers in a note Top Menu > Insert > {"Fold" or 
 This assumes you have the following installed:
 - LibreOffice
 - pandoc
-- MacTex which installs xelatex may also be needed for some conversions
-  - You'll need to add the path to the xelatex executable to your PATH environment variable.
+- Lualatex which installs lualatex may also be needed for some conversions
+  - You'll need to add the path to the lualatex executable to your PATH environment variable.
 
 ```BASH
 brew install --cask LibreOffice
@@ -167,10 +167,10 @@ brew install --cask LibreOffice
 which soffice
 # install pandoc and mactex
 brew install pandoc mactex
-# add the path to the xelatex executable to your PATH environment variable.
+# add the path to the mactex executable to your PATH environment variable.
 export PATH=/Library/TeX/texbin:$PATH
-# check that xelatex is in your path
-which xelatex
+# check that mactex is in your path
+which mactex
 ```
 
 Location to execute this is [Instructor_Copy](./Counter_Malign_Information/4-Implement-For_Instructors/Lesson_Plans/Instructor_Copy/). Move there with `cd ./Counter_Malign_Information/4-Implement-For_Instructors/Lesson_Plans/Instructor_Copy/`
@@ -185,21 +185,21 @@ process_instructor_pptx() {
 
 process_lesson_plan_md() {
     # Convert all markdown files with 'Lesson_Plan' prefix to PDF using Pandoc
-    find .. -type f -name 'Lesson_Plan*.md' -exec sh -c 'pandoc "$0" --pdf-engine=xelatex -o "${0%.md}.pdf"' {} \;
+    find .. -type f -name 'Lesson_Plan*.md' -exec sh -c 'pandoc "$0" --pdf-engine=lualatex -o "${0%.md}.pdf"' {} \;
     # Move all converted PDF files with 'Lesson_Plan' prefix to the current directory
     find .. -type f -name 'Lesson_Plan*.pdf' -exec mv {} ./ \;
 }
 
 process_advanced_organizer_md() {
     # Convert all markdown files with 'Advanced_Organizer' prefix to PDF using Pandoc
-    find .. -type f -name 'Advanced_Organizer*.md' -exec pandoc {} --pdf-engine=xelatex -o "{}.pdf" \;
+    find .. -type f -name 'Advanced_Organizer*.md' -exec pandoc {} --pdf-engine=lualatex -o "{}.pdf" \;
     # Move all converted PDF files with 'Advanced_Organizer' prefix to the current directory
     find .. -type f -name 'Advanced_Organizer*.pdf' -exec mv {} ./ \;
 }
 
 process_handout_md() {
     # Convert all markdown files with 'Handout' prefix to PDF using Pandoc
-    find .. -type f -iname 'Handout*.md' -exec pandoc {} --pdf-engine=xelatex -o "{}.pdf" \;
+    find .. -type f -iname 'Handout*.md' -exec pandoc {} --pdf-engine=lualatex -o "{}.pdf" \;
     # Move all converted PDF files with 'Handout' prefix to the current directory
     find .. -type f -iname 'Handout*.pdf' -exec mv {} ./ \;
 }
@@ -217,7 +217,7 @@ convert_all_md_to_pdf() {
     # Convert all markdown files in the current directory to PDF using Pandoc
     for file in *.md; do
         # Remove the .md extension before adding .pdf
-        pandoc "$file" --pdf-engine=xelatex -o "${file%.md}.pdf"
+        pandoc "$file" --pdf-engine=lualatex -o "${file%.md}.pdf"
     done
 }
 
